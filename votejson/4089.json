@@ -1,0 +1,558 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Robert",
+                "last_name": "Simms",
+                "person": {
+                    "id": 10842
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100848
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 1,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5572",
+            "id": 812,
+            "official_id": "r5572",
+            "title": "Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015"
+        }
+    ],
+    "summary": "Gavin Marshall\n\nThe question is that the bill stand as printed.\n\nNick McKim\n\nWhen we were debating the Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015 yesterday we had just had confirmation from the minister who yesterday had carriage of this legislation that in fact a court, even if it formed the view that it was in the interests of justice to stay Proceeds of Crime Act proceedings on one of the grounds that are proposed to be inserted into the legislation in proposed new section 319(2), it was not able to do that solely on those grounds. So let us be very clear about this. The Australian Greens absolutely share concerns raised by the Victorian Bar and Criminal Bar Association, by the Law Council of Australia and by the Australian Human Rights Commission about these provisions. We do not support this parliament seeking to intervene in judicial processes in this country to the extent that, even if a court believes that it is in the interests of justice to stay Proceeds of Crime Act proceedings, it will not be able to do that if the grounds on which it forms that belief are contained in the proposed new section 319(2) of the Proceeds of Crime Act. On that basis the Greens oppose schedule 1 in the following terms:\n\n(1) Schedule 1, item 4, page 4 (lines 1 to 31), subsections 319(2), (3), (4) and (5) to be opposed.\n\nIn support of this proposition I will very briefly read into the record the view of various organisations about proposed new section 319. Before I do that I want to be clear that I have a further amendment. If it were taken together, proposed section 319 not forming part of this legislation\u2014\n\nJacinta Collins\n\nMove them together.\n\nNick McKim\n\nI will not move it now\u2014thank you, Senator Collins\u2014because amendment (2) is consequential on the first proposition being accepted by the chamber. I make the point that if this proposition is not supported then I will not move amendment (2). It is our very firm policy position that proposed section 319 be deleted from this bill. In support of that I will very briefly read into the _Hansard_ the view of, firstly, the Victorian Bar and Criminal Bar Association. They said in a submission to a parliamentary committee dated 20 January this year in paragraph 43:\n\n\u2026 the Criminal Bar Association opposes the introduction of s 319(2)-(6).\n\nI will also read in the view of the Law Council of Australia. In a submission to a parliamentary committee dated 7 January this year they said:\n\nThe Proceeds of Crime Act 2002 (Cth) amendments in Schedule 1 should not be enacted.\n\nAlso the Australian Human Rights Commission made a submission to the Senate Legal and Constitutional Affairs Legislation Committee, the same committee to which the previous two submissions were made. Their submission dated 6 January 2016 has as recommendation 1:\n\nThe Commission recommends that Schedule 1 of the Bill not be passed.\n\nEven though the three organisations have expressed their opinion in slightly and technically different ways, the effect of all of those submissions is to at the very least delete proposed new section 319(2), which establishes the grounds on which a court must not stay Proceeds of Crime Act proceedings.\n\nIn summary, we have concerns about this because we believe, as do various submitters to Senate committees, that passing these provisions is highly likely to prejudice the right to a fair trial in this country in certain circumstances. We think this is a step too far. We believe that, in its haste to get its hands on financial or other resources through Proceeds of Crime Act proceedings, the government is compromising the potential for a right to a fair trial in this country in certain circumstances, specifically where there are already criminal proceedings underway that deal with the same matters that are being dealt with in the Proceeds of Crime Act proceedings. We believe that, unfortunately, the passage of this legislation is highly likely to mean that Australians who are facing criminal charges but have not yet been found guilty and therefore, under our justice system, are innocent will have their right to a fair criminal trial prejudiced because a court hearing Proceeds of Crime Act matters is not able to stay Proceeds of Crime Act proceedings even if the court forms the view that it is in the interests of justice to do so.\n\nWe have seen time after time the erosion of fundamental principles in our community\u2014human rights, civil rights and citizens' rights\u2014that many Australians have fought and died to protect and enhance during the history of our country. They are being eroded now in the name of the fight against crime and terrorism, with no evidence being placed before the Australian people or the Commonwealth parliament that what we are doing will make us as citizens of this country any safer as a result. We have seen it around Citizenship Act amendments in recent times, we have seen it around legislation that gives increased powers to security agencies in this country over a number of years now, and we are now seeing it in relation to matters associated with the delivery of justice in this country.\n\nIt is fundamental in this country that, in the interests of justice, there should be a separation of powers. Make no mistake: this is the parliament seeking to reach its hands into judicial matters that ought to be left to the courts in the context of deciding what the interests of justice are in particular circumstances and, in fact, how the courts should act to deliver justice. So this offends the separation of powers principle, it potentially falls foul of our constitutionally guaranteed right to a fair trial in this country, and it potentially interferes with the constitutional right of courts to determine how best to deliver justice in our country.\n\nSo we have strong concerns. These concerns are mirrored by the stakeholders that I have just referred to, and on that basis we commend our amendment to the Senate.\n\nJacinta Collins\n\nI will deal at this stage\u2014given the discussion that we had last night on these matters\u2014specifically with Labor's position on these amendments. By that I mean amendments (1) and (2) on sheet 7839. But firstly I would like to welcome Senator Canavan to his new position. He was not here last night when we were having this discussion, but it might assist the committee stage consideration if the government's position is outlined now that the amendment has actually been moved.\n\nLet me say that from the Labor Party's position, sadly, if we wait for a commission to be secured in a court, the experience of our law enforcement agencies is that the proceeds of crime have been long transferred into new structures and asset classes and the task of confiscating them has become more difficult, if not impossible altogether. This is the mischief that these provisions seek to remedy. The point of seizing the proceeds of crime at the juncture supported by this bill is precisely so as to seize them before a criminal, or an alleged criminal, has the time and opportunity to hide them. As the Attorney-General's Department stated during the committee inquiry into this bill:\n\nNon-conviction based forfeiture is a vital tool in the fight against serious and organised crime, countering the techniques that senior members of organised crime syndicates use to insulate themselves from criminal prosecution, and disrupting and dismantling serious and organised crime groups.\n\nWhile we take the concerns raised regarding the fundamental rights and constitutional principles that may be impacted by the proposed amendments in the bill seriously, we are cognisant of the importance of an effective proceeds of crime regime in combating serious crime and those who profit from that crime. We note that the government and the Attorney-General's Department developed the proposed amendments in consultation with key stakeholders and with a view to striking an appropriate balance between effectively combating crime and respecting the fundamental rights and principles underlying Australia's criminal justice system.\n\nLet me go briefly to the committee report. Senator McKim was quite right last night when he indicated that the fact that the Greens did not contribute any additional remarks or a dissenting report to this committee does not bind them in their position in the committee stage. However, during this discussion I would like to go to the areas that deal with this issue and some of the concerns that Senator McKim has raised. In particular, I take the committee to paragraph 1.16, which is on page 3 of the report, where the committee indicates that the explanatory memorandum:\n\n\u2026 states that the grounds set out in subsection 319(2) are 'designed to prevent a respondent from claiming merely a generalised \"risk\" of prejudice to support a stay of proceedings', which would 'have flow-on effects on the availability of evidence, would impede the operation of the non-conviction based scheme and would frustrate the objects of the PoC Act'.\n\nBut let me go further, given some of Senator McKim's comments and some of the assurances that came out of the committee's consideration. For instance, at paragraph 1.19, the report indicates that the explanatory memorandum:\n\n\u2026 states that the list of matters in subsection 319(6) 'is not a closed list \u2026\n\nas we discussed last night. It goes on to say:\n\n\u2026 and does not prevent the court from considering other issues in its determination of the interests of justice'.\n\nIt might assist Senator McKim if a minister were prepared to highlight this issue in the second reading contribution, because that would have an interpretive effect in relation to how this is subsequently read in court.\n\nLet me go on further to paragraph 1.20, which says:\n\nA note is inserted after new subsection 319(6) to give examples of orders the court could make to address any potential prejudice resulting from not staying PoC Act proceedings ...\n\nAgain, this is highlighting alternative remedies to the issues that Senator McKim is raising. It goes on to say:\n\nThese include appropriate orders for the non-disclosure of evidence, or hearing the proceedings in closed court under new section 319A proposed in the bill, which provides that a court may order PoC Act proceedings to be heard in whole or part in closed court, if the court considers that necessary to prevent interference with the administration of criminal justice.\n\nMy response to Senator McKim is that some of the issues he has quite rightly raised were, as he mentioned, also raised by the Law Council and the Human Rights Commission. Labor have weighed them up, and we have determined that, from our point of view, the balance is appropriate to deal with the need of our law enforcement agencies to challenge this mischief. On that basis, Labor will be supporting the bill as drafted and do not support the amendments proposed in sheet 7839 as circulated by the Greens.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 30,
+    "date": "2016-02-23",
+    "possible_turnout": 77,
+    "clock_time": "1:26 PM",
+    "id": 4089,
+    "no_votes": 11
+}

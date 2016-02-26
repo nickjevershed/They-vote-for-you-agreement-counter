@@ -1,0 +1,863 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wong",
+                "person": {
+                    "id": 10678
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100241
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Faulkner",
+                "person": {
+                    "id": 10214
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100077
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Palmer United Party",
+                "id": 100831
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Palmer United Party",
+                "id": 100830
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Brett",
+                "last_name": "Mason",
+                "person": {
+                    "id": 10423
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100140
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Regulations and Determinations \u2014 Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014; Disallowance",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 3,
+    "bills": [],
+    "summary": "Sam Dastyari\n\nI, and also on behalf of Senator Whish-Wilson, move:\n\nThat the Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014, as contained in Select Legislative Instrument 2014 No. 102 and made under the Corporations Act 2001, be disallowed [F2014L00891].\n\nI rise today to speak about the values that are at the heart of the Australian Labor Party and at the heart of this society. They are very simple values but they are values that we will defend in this chamber and outside this chamber. We are the party of hardworking Australians who are saving for their first home, saving to put their kids into a good school, maybe even if possible to a great Australian university, and putting some money aside for their retirement. We are and have always been the party of the Australian worker and we stand proudly in both the Senate and the House to ensure that, as best we can, the deck is not stacked against our people. We, in the Labor Party, will always give our voice to preserve the values of fairness and integrity. Today, I rise to put my voice on the record opposing the government's changes to Future of Financial Advice laws.\n\nHow did we get here today? We all know that the Abbott government wanted to make some changes to the FoFA legislation. We, in the Labor Party, have been very clear that we will negotiate with the government and with our friends on the crossbenches, that we will consult with the financial services and advice industry, that we will consult with consumer groups and that we will consult with legal experts in order to improve, where necessary, FoFA legislation. But we will not allow this government to abuse parliamentary process, which is exactly what they have done in this instance. We will not allow this government to introduce changes by stealth, changes that are widely roundly opposed by consumer and advocacy groups like Choice, National Seniors, Council on the Ageing\n\nWe will not allow this government to introduce changes at the 11th hour\u2014a move that has been widely criticised by financial journalists and legal academics, and even surprised officers of the Senate.\n\nAs we have heard in this chamber over the past 5 \u00bd sitting days, Senator Cormann's regulations made with the Governor-General's signature on 26 June\u2014that we do not support and that weaken consumer protections\u2014came into effect on 1 July before anyone outside the government had the opportunity to see them, let alone consult or consider them. As I stand before you today, Senator Cormann's changes are allowing unscrupulous advisers and banks pushing their own products, hustlers running their get-rich schemes and seminars, and all of those con artists preying on working Australians to now bypass the best interest duty and to make their income by putting their own financial gain above the interests of consumers.\n\nWe will not allow this government to erode basic consumer protections. We reiterate\u2014and this was echoed this morning by Choice, by National Seniors, by COTA and by my friend, Acting Deputy President, Senator Whish-Wilson\u2014that we will not allow the government to make changes to the FoFA legislation: without consulting widely with the financial advice industry, many of whom are concerned about a return to the dark days before FoFA; without consulting with consumer groups, all of whom are concerned about a return to the horrific losses that happened before FoFA was introduced; without consulting with legal experts, many of whom are concerned about eroding basic consumer protections; and without ensuring that the voices of people who have been the victims of the regime that existed before FoFA\u2014people like my friend, Naomi Halpern, who joined us in the parliament today\u2014who have shared their experiences and stories here in this place.\n\nThat is why we, in the Australian Labor Party, are in the Senate. That is why we are in this place. I ask the government: who they are here to represent? Who are they lending their voice to? Who are they standing up for in this chamber? Are they people like Naomi Halpern, who are putting away money for their retirement? Are they people like those represented by National Seniors and COTA, or people trying to ensure that their kids can have better opportunities? Or are they simply standing up for the banks and the financial service industry, trying to take money off the very people who rely on us to make laws, legislation and regulations that are in their best interests?\n\nI know who I will stand up for. I know who I will fight for. The people I represent do not wield power and influence within the Liberal Party. They probably will not be donating to Senator Cormann's re-election campaign. We, in the Labor Party, respect those who do, and we will consult with everybody in good faith if we have an opportunity to have a proper debate about reforming FoFA laws. We will work in good faith with all parties to improve FoFA legislation. I say to Senator Cormann that we will even consider the concerns of some of the interests that he has been protecting. But we will not allow this government to ram through changes by stealth, to deliberately restrict this parliament's ability to scrutinise changes. We will not be bullied into accepting the will of the powerful and we will not back down from standing up for Australian consumers. I urge the Senate to disallow these regulations.\n\nPeter Whish-Wilson\n\nThe Greens will also be supporting this disallowance motion. This is as much about process as it is about policy. Just yesterday my colleague Senator Penny Wright asked me how she could find an independent financial planner because Penny and her husband want to get some financial advice. It is actually a really good question. What became really obvious during the Senate inquiry is that independent financial advisers, in the true sense of the word, are a small minority in this country. The majority of financial advisers and financial planners\u2014and many of them are small\u2014are actually still tied in many ways, shapes and forms to large financial services companies who have the product platforms and who manufacture the products.\n\nThe clear message that we got in the Senate inquiry from people such as CPA Australia and even independent financial planners was that in a generational or two\u2014and it is going to take that long\u2014they want to see a country where most of the advice provided on financial products is provided by independent financial planners who charge a fee for service and who are not remunerated on a sales basis. They want to see the industry transform into that industry. They want to see confidence and trust come back into the industry and these FoFA laws were designed to do that.\n\nAs I made it clear at question time today, it became obvious during the Senate inquiry when the lobby groups representing the big end of town\u2014the big banks\u2014said that they had had an agreement with the previous government and the current government to get changes made by 1 July. And in exact words that I quoted in question time today, technical amendments would be 'sorted out' by 1 July.\n\nIt is our job here to legislate for public interest, not for special interests. It is very clear by the reaction that Senator Dastyari has eloquently spoken to, consumer groups and advocacy groups across the country\u2014really important advocacy groups like Seniors Australia\u2014are not convinced that we have the balance right. They are not convinced that we have enough trust or confidence yet in the financial planning industry.\n\nI started by saying that this is as much about process as it is about policy\u2014good process and good policy. This was being rushed by the government before 1 July, and it was brought through in the form of regulation. At some point in time it would come back to legislation in front of the house. The clear message sent was that the government knew it would not get its regulations through the Senate, because they were not only contested by the Labor Party, the Greens and other crossbenchers in this chamber, such as Senator Xenophon, but also contested in the public sphere and in the financial media.\n\nYesterday I talked about the collapse of Barings Bank. For those who have seen the movie _Rogue Trader_it really was a bad apple that brought down one of the oldest and most prestigious banks in financial history. But it was not just a rogue trader that brought down that bank; the culture in that bank allowed that type of behaviour to go on and on and on\u2014undetected. It was no different from what we saw at the Commonwealth Bank. That culture is really simple; it is a culture of making profits; that is what banks do. Let's not kid ourselves, banks make profits for shareholders and they try to make increasing profits every year. That is their culture plain and simple. Selling financial products, be it general advice or personal advice, to their customers\u2014and they have enormous customer bases\u2014is how they have made their money for nearly a decade now and it is how they plan to make their money in the next decade. This is serious dollars.\n\nBut what is good for banks and their profits and their shareholders is not necessarily good for consumers of financial products in this country. That sales based culture is still allowed under this government's FoFA amendments. The 'balanced scorecard approach', or whatever you want to call it, is still an incentive for an employee at the front of the office to sell products to people walking in the door. That is what the banks wanted clarified, and those are the technical amendments they said the government had guaranteed it would get through by 1 July. But it does not change the culture. Speak to the independent financial planners\u2014the industry they want to see in 10 or 20 years time of small independent advisers in this country. I have met a lot of them in this inquiry. They are good people and they do a good job. But we are never going to transform this industry if we do not have a tough set of regulations that lay down the law. Sometimes the regulations have to be simple to be noticed.\n\nThis is about restoring confidence and trust in the financial planning industry, which wants more Australians to seek financial advice. Rather than rushing through regulations to support the banks, we need to bring this legislation to parliament and properly scrutinise and debate it. Whatever the final result of that is, at least it will have gone through due process and we will have looked after the interests of the public in this regard, not just the interests of financial planners and the large end of the financial services industry. We need to strike the right balance. The clear and obvious signal from groups in Parliament House today is that that balance has not been struck. It is our job to do that here in the Senate.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 31,
+    "date": "2014-07-15",
+    "possible_turnout": 76,
+    "clock_time": "4:59 PM",
+    "id": 3341,
+    "no_votes": 34
+}

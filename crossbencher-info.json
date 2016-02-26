@@ -1,0 +1,58 @@
+{"nick_xenophon":{
+                "party": "Independent",
+                "state": "SA",
+                "cleanName": "nick_xenophon",
+                "agreement": 74.0,
+                "name": "Nick Xenophon"
+	},
+"jacqui_lambie": {
+                "party": "Independent",
+                "state": "Tasmania",
+                "cleanName": "jacqui_lambie",
+                "agreement": 72.0,
+                "name": "Jacqui Lambie"
+  		},
+"ricky_muir": {
+                "party": "Australian Motoring Enthusiast Party",
+                "state": "Victoria",
+                "cleanName": "ricky_muir",
+                "agreement": 67.0,
+                "name": "Ricky Muir"
+            },
+"dio_wang":{ 
+                "party": "Palmer United Party",
+                "state": "WA",
+                "cleanName": "dio_wang",
+                "agreement": 60.0,
+                "name": "Dio Wang"
+            },
+"david_leyonhjelm":{
+                "party": "Liberal Democratic Party",
+                "state": "NSW",
+                "cleanName": "david_leyonhjelm",
+                "agreement": 49.0,
+                "name": "David Leyonhjelm"
+            },
+"bob_day":{
+                "party": "Family First Party",
+                "state": "SA",
+                "cleanName": "bob_day",
+                "agreement": 41.0,
+                "name": "Bob Day"
+         },
+"john_madigan":{
+                "party": "Independent",
+                "state": "Victoria",
+                "cleanName": "john_madigan",
+                "agreement": 76.0,
+                "name": "John Madigan"
+            },                                 
+"glenn_lazarus": {
+                "party": "Independent",
+                "state": "Queensland",
+                "cleanName": "glenn_lazarus",
+                "agreement": 67.0,
+                "name": "Glenn Lazarus"
+            }
+}
+

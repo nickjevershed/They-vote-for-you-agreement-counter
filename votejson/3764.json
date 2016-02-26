@@ -1,0 +1,610 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "George",
+                "last_name": "Brandis",
+                "person": {
+                    "id": 10067
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100025
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 9,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5375",
+            "id": 750,
+            "official_id": "r5375",
+            "title": "Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015"
+        }
+    ],
+    "summary": "Gavin Marshall\n\nThe question is that Senator Xenophon's amendments (4), (5), (6), (8) and (9) on sheet 7672 be agreed to.\n\nNick Xenophon\n\nI reiterate and indicate that the amendments I have moved would require the Public Interest Advocate, in addition to having broader powers, to be a contradictor\u2014in other words, to be a genuine devil's advocate in relation to a journalist's information warrant being obtained. A key element of it, which has similarities and parallels with the American system or the American approach to this, is that, as a general rule, there will be consultation with media outlets. The Americans\u2014our closest allies\u2014do not have a problem when seeking journalists' metadata to consult, as a general principle\u2014\n\nCory Bernardi\n\nThey believe in free speech.\n\nNick Xenophon\n\nThey believe in free speech, Senator Bernardi.\n\nCory Bernardi\n\nAnd they wouldn't agree to section 18C.\n\nNick Xenophon\n\nI am not going to get into a debate about section 18C. I am pleased that Senator Bernardi\u2014without verballing him\u2014is enamoured with the American approach to freedom of speech, which would be consistent with protecting journalists' sources in order that\u2014\n\nSenator Bernardi interjecting\u2014\n\nDeborah O'Neill\n\nSenator Xenophon, I urge you to ignore the interjections of Senator Bernardi.\n\nNick Xenophon\n\nMadam Temporary Chair, can I say that your urging is very wise. It is easy to be distracted by my colleague from South Australia. Consideration must be given to this amendment, because our public interest advocates will be flying blind. They will not have access to journalists. They will not be able to speak to journalists or to media organisations to ask, 'What is this about?' as they do in the US, as a general principle, unless it is a matter of an emergency in terms of security and the like, in terms of an imminent risk. They will not be able to do that. There ought to be that level of scrutiny; otherwise, my fear is contained in the words of Philip Dorling, a great investigative journalist, in a piece on 17 March headed 'Security laws bring us closer to the day when journalists will be jailed for reporting'. May I add to that that it will also bring us closer to the day where it will be much easier for sources to be exposed as a result of metadata surveillance. This is not about making us safer; this is about sections 70 and 79 of the Crimes Act in terms of whistleblowers who release, in an unauthorised fashion\u2014which is extremely broad under sections 70 and 79\u2014information which governments may find embarrassing.\n\nThe classic case is that of a person I have enormous respect for, Allan Kessing, who, to this day\u2014and I absolutely believe him\u2014was not responsible for leaking the reports he prepared as a Customs officer in the early 2000s in relation to security breaches and terrorist threats at Australian airports. Those reports found their way into _The Australian_ newspaper in 2005, as memory serves me correctly. He was dragged through the courts and was convicted, notwithstanding maintaining his innocence. The material which I have not seen contained in those reports, I understand, was mirrored in the report of the Rt Hon. Sir John Wheeler, who prepared a report for the Howard government. As a result of the triggering of the exposure in _The Australian_ newspaper of material written by Mr Kessing, there was a massive $200-plus million upgrade of airport security in this country. It was clearly embarrassing to the government of the day.\n\nThis metadata law will make it much easier for those that have gone to journalists with information to be tracked down. You can triangulate the information: you can find out the time of call, where it was made, who contacted whom and at what time. Metadata allows you to do that. You do not actually need to look at the content; you will have enough information there to have a successful prosecution under sections 70 and 79. I agree with Mr Dorling's recent piece in _The Canberra Times_ that, in respect of section 70 of the Crimes Act, it makes it an offence for Commonwealth official to disclose any government information without proper authorisation. He makes the point:\n\nThis is the basic law that makes it a crime to leak any government information \u2013 from the highest cabinet secrets or the number of paperclips used in a local Centrelink office.\n\nThat is why it can be abused. What I am proposing would strengthen protection for journalists; it would be a much stronger and much more robust regime of public interest advocates. I commend the amendments. I indicate that, in respect of these amendments, I feel so strongly about them that I will be seeking to divide on this issue.\n\nGeorge Brandis\n\nI am sorry, Senator Xenophon, that I did not hear your contribution. I have just been out announcing more good news from the Abbott government. So I am sorry that I was a little late in coming back into the chamber.\n\nNick Xenophon\n\nIt is a tough job, but somebody has to do it, Attorney! Just to recap: I maintain my position in respect of these amendments. I believe that public interest advocates will have one hand tied behind their backs and will be blindfolded in the absence of having access to journalists' information or access to be able to speak to journalists about the issuing of these warrants. That is my position; I will not go over it ad nauseam. I will be seeking to divide, because this is one particular issue that I think ought to be divided on. I feel very strongly about it. I will not take it any further.\n\nGeorge Brandis\n\nSenator Xenophon, I note your position and I do not agree with it, for the reasons I explained before. In speaking to your amendment, if I may, I wanted to deal with a remark that Senator Collins made before the debate adjourned earlier in the day. Senator Collins said that the purpose of the public interest monitor was to protect journalists. That is not correct. The purpose of the public interest monitor\u2014\n\nJacinta Collins\n\nAdvocate.\n\nGeorge Brandis\n\nis to protect the public interest, as is made clear from proposed section 180X. The public interest is defined by proposed section 180L(2)(b) of the bill, and there are various elements of the public interest, all of which the public interest monitor is there to protect.\n\nScott Ludlam\n\nAdvocate.\n\nGeorge Brandis\n\nI am sorry\u2014the public interest advocate; I was thinking of the states. The elements of the public interest, which are anatomised in proposed subparagraph (b) of subsection (2) put first and foremost the interest in the protection of privacy. That is appropriate. And that will protect journalists and their sources. That is an indication, a direction, to the public interest advocate to have that in mind. But also, the public interest is defined in terms of the gravity of the matter in relation to which the warrant is sought, the extent to which the information or the documents would be likely to assist in the performance of ASIO's functions, and other matters as well. So the public interest advocate certainly is there to protect journalists, but that is an incorrectly narrow conception of the public interest advocate's role. The public interest advocate's role is to protect the public interest. The 'public interest' is defined by the bill. The rights of journalists and the protection of privacy are one of those public interests, but they are not the only one.\n\nJacinta Collins\n\nI do not want to occupy too much of the committee's consideration time, but I would not want to be verballed by the minister on this occasion. My notes of what I said earlier are in front of me. I disagreed with his analogy of the amicus curiae role.\n\nGeorge Brandis\n\nCuriae.\n\nJacinta Collins\n\nWell, thank you for the pronunciation, Senator Brandis. I, unlike you, did not actually study Latin, or law, so you will excuse me that small error, I am sure. What I did say was that the role was clearly to protect journalists and to advocate the public interest.\n\nDeborah O'Neill\n\nThe question is that amendments (4) to (6) and (8) and (9) on sheet 7672 moved by Senator Xenophon be agreed to.\n\n",
+    "aye_votes": 15,
+    "date": "2015-03-26",
+    "possible_turnout": 75,
+    "clock_time": "1:49 PM",
+    "id": 3764,
+    "no_votes": 30
+}

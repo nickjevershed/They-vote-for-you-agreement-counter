@@ -1,0 +1,597 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Robert",
+                "last_name": "Simms",
+                "person": {
+                    "id": 10842
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100848
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Fair Work Amendment Bill 2014; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 2,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5174",
+            "id": 709,
+            "official_id": "r5174",
+            "title": "Fair Work Amendment Bill 2014"
+        }
+    ],
+    "summary": "Bob Day\n\nby leave\u2014I move amendments (1) and (2) on sheet 7577:\n\n(1) Schedule 1, item 33, page 14 (lines 23 and 24), omit \u201cthe prevailing pay and conditions within the relevant industry for equivalent work\u201d, substitute \u201cthe pay and conditions for work performed in similar circumstances, but takes into account the particular circumstances and needs of the employees and the employers who will be covered by the agreement and the enterprise to which the agreement relates\u201d.\n\n(2) Schedule 1, item 33, page 14 (lines 25 to 27), omit the note.\n\nI am moving to replace the words 'consistent with the prevailing pay and conditions within the relevant industry' with 'for work performed in similar circumstances, but takes into account the particular circumstances and needs of the employees and the employers' and the enterprise. My amendments allow enterprise agreements to take into account local conditions, local labour force conditions and local economic conditions\u2014in other words a new site, a new EBA. I commend the amendments.\n\nMichaelia Cash\n\nI thank Senator Day for his constructive contribution to this debate, and in particular for his engagement with the government on the important reforms in the Fair Work Amendment Bill. As canvassed in the debate yesterday, the purpose of the new prevailing pay and conditions criteria in the bill is to build an extra employee protection for greenfields agreements approved by the Fair Work Commission under the new optional six-month process. The new prevailing standards requirement is in addition to the existing agreement approval tests, including that the employees must be better off overall than they would have been under the award.\n\nThe test start will be applied by the independent Fair Work Commission and will assist in assuring the expeditious resolution of greenfields agreements that provide new employment opportunities. We believe that clause 33 is drafted to meet these objectives. It requires the Fair Work Commission to be satisfied that the agreement, considered on an overall basis, provides the pay and conditions that are consistent with the prevailing pay and conditions within the relevant industry for equivalent work. There is also a note that the Fair Work Commission may have regard to the relevant geographical area. This makes clear that the Fair Work Commission has flexibility to exercise its expert judgement and discretion in considering the relevant pay and conditions standard.\n\nThe government has carefully considered Senator Day's proposed amendments to this test and, while we believe that the sentiment behind the proposed amendment is meritorious, the government at this point has made the decision not to support the proposed amendments.\n\nDoug Cameron\n\nI do not think it would come as a surprise to Senator Day that Labor opposes these amendments. On the record, can I thank Senator Day for his indulgence last night\u2014we had a long night and I know he gave way to me late in the evening; I sort of got carried away and left Senator Day without an opportunity to speak. I acknowledge that. Senator Day, I must say that the proposition you put up is not acceptable to Labor. The proposition that the government puts up is not quite as bad but it is every bit as bad in relation to the impediment it places before unions to negotiate better pay and conditions than those that apply in particular areas. If you simply had the situation that the government is proposing in this bill, if you only looked at the prevailing pay and conditions, then you would never be in a position to improve wages and conditions anywhere in the country\u2014they would basically be frozen at the existing position. Your position is worse than that. It says that you have to take into account the particular circumstances and needs of the employees, employers and enterprises to which the agreement relates as well as the pay and conditions for work performed in similar circumstances. In our view, this is a recipe for pushing wages and conditions backwards. It is not consistent with allowing proper bargaining under the act. On that basis, we oppose the amendments.\n\nBob Day\n\nFirstly, I thank you for your acknowledgement from last night, Senator. I believe that these amendments are very important for Australia's competitiveness. They correct an error in the government's bill, which would lock in a one-size-fits-all enterprise arrangement regardless of whether the new enterprise or project is in Berri, in Burnie, in Broome or anywhere else.\n\nPeter Whish-Wilson\n\nOr Bunbury or Busselton?\n\nBob Day\n\nOr Bunbury. We have already had a B in WA!\n\nWhy are these amendments to the provisions of the bill concerning greenfields projects so important? In my discussions with my colleagues, many acknowledged that there is a major problem in job creation regarding greenfields sites around Australia. Here are some data proving that Senator Cameron is wrong and that Australia does have a problem with the conditions for greenfields projects. First, the data shows that the costs of greenfields exploration are now six times higher than they are for brownfields exploration. In 2014-15, exploration expenditure per metre drilled on new greenfield deposits was nearly $700 per metre compared with just one $110 per metre on existing brownfields deposits. The cost differential between greenfields and brownfields exploration has never been higher. The differential or the gap between greenfields projects and brownfields projects is getting higher and higher. In 2014, greenfield exploration accounted for just one-quarter of total metres drilled.\n\nWhat is all this saying? It is saying that we have a problem with greenfields projects, where, suddenly, you will have to adopt an EBA from somewhere else across Australia. That EBA will not take into account local circumstances. Like I say, whether it is Busselton, Bunbury or Broome in WA; Berri in South Australia; Bendigo in Victoria\u2014\n\nPeter Whish-Wilson\n\nOr Ballarat?\n\nBob Day\n\nOr Ballarat in Victoria. We can keep alliterating all afternoon, if we like, but I think that I have made my point.\n\nI think that this is really, really important. I think that the government have missed the boat on this. I do not think that they quite realise just how important it is. When you set up a new enterprise or a new project on a new greenfields site, the unique circumstances of a particular geographical region are so important, whether it is a canning factory or a petrochemical plant in Shepparton\u2014and I will start with the S names, if you like! My home state of South Australia does not have the cost of living and cost base of a project in, say, Western Sydney. New projects will be locked out of my home state of South Australia. New greenfields projects will not be able to compete and they will not be able to set up, because they will be locked into an industry-wide EBA, which they will have to pick off the shelf from somewhere else. Yes, you can make submissions to the Fair Work Commission and start hacking away at an existing enterprise bargaining agreement from somewhere else, but we all know what happens there. My proposal is that, for a new site, you will start with a new EBA. I thank the minister and the shadow minister for their contributions. I commend my amendment to the Senate.\n\nThe CHAIRMAN: The question is that amendments (1) and (2) on sheet 7577 be agreed to.\n\n",
+    "aye_votes": 3,
+    "date": "2015-10-13",
+    "possible_turnout": 77,
+    "clock_time": "12:53 PM",
+    "id": 3943,
+    "no_votes": 41
+}

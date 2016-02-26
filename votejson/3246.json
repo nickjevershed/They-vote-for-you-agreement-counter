@@ -1,0 +1,623 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mehmet",
+                "last_name": "Tillem",
+                "person": {
+                    "id": 10821
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100310
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alan",
+                "last_name": "Eggleston",
+                "person": {
+                    "id": 10193
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100071
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Boyce",
+                "person": {
+                    "id": 10062
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100024
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mark",
+                "last_name": "Bishop",
+                "person": {
+                    "id": 10048
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100016
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mark",
+                "last_name": "Furner",
+                "person": {
+                    "id": 10710
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100255
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Don",
+                "last_name": "Farrell",
+                "person": {
+                    "id": 10708
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100253
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ursula",
+                "last_name": "Stephens",
+                "person": {
+                    "id": 10609
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100212
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Infrastructure Australia Amendment Bill 2013; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 6,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5152",
+            "id": 634,
+            "official_id": "r5152",
+            "title": "Infrastructure Australia Amendment Bill 2013"
+        }
+    ],
+    "summary": "Scott Ludlam\n\nI move Greens amendment (10):\n\n(10) Schedule 1, item 8, page 6 (after line 22), after paragraph 5C(b), insert:\n\n\u00a0\u00a0(ba) climate change, as it relates to infrastructure, including the following:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) the economic, social and environmental impacts of climate change;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) prioritising infrastructure that would assist with adapting to, or mitigating, climate change;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(iii) the role of infrastructure in decarbonising the economy;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(iv) the impact of infrastructure decisions on the achievement of national and international targets to limit global warming;\n\nAs I acknowledged before, the opposition amendment that the Greens just supported in part reinserts the language that the government had in its infinite wisdom around climate-related matters chosen to delete. We have put that back in. It is the Australian Greens view that the legislation does not go nearly far enough, and that climate change has to be front and centre in all relevant aspects of government policy, including, crucially, infrastructure provision, which has a life span if you are considering road-rail projects, water infrastructure projects or power projects well into the 2030s, 2040s or 2050s. We are basically living in a different kind of world and potentially in a different geological age. That is the reason we propose much stronger language in this bill around the way that Infrastructure Australia evaluates the advice that it gets on climate change and that it then in turn provides to the government.\n\nThe amendment we have proposed goes further than where for some reason the Labor Party has seen fit to land by saying, first, that climate change as it relates to infrastructure includes the economic, social and environmental impacts of climate change; and, second, prioritising infrastructure that would assist with adapting to or mitigating climate change\u2014in other words, moving it up the merit order because it is going to be so important in protecting communities and protecting the economy and protecting the environment as it attempts to adapt. Third, there is the role of infrastructure in decarbonising the economy. I am probably as guilty in this respect as anybody. We have spoken at length about public transport but infrastructure is, among other things, the electricity grid that keeps everything moving. As I said in my second reading contribution, the role of infrastructure in urgently decarbonising the economy is a massive principle\u2014you could say it is primary. That has to be front of mind for those assessors in Infrastructure Australia when they are considering which projects should be granted billions of dollars of funding and which should not. Finally, there is the impact of infrastructure decisions on the achievement of national and international targets to limit global warming. As everybody in this chamber is aware, except those who have chosen to simply blindfold themselves to what is going on, the infrastructure decisions that we make are locked into very long lead times. For example, if you build a coal-fired power plant today its investors will be assuming it will still be operating in the 2040s or 2050s, long after this technology will need to have been phased out if we are to have any chance at all of coming to grips with what is occurring all around us.\n\nIf on the one hand we have climate negotiators at international conferences arguing that Australia is doing its bit, as the rest of the world is now starting to do, and adopting very stringent targets around carbon reduction, eliminating the sources of emissions that are doing so much damage, we cannot at the same time have an industry portfolio and an infrastructure portfolio making long lead time capital investment decisions over 40 or 50 or more years that make it completely impossible to meet those targets. That is something that Infrastructure Australia needs to be very aware of when it is prioritising and choosing what to recommend and put forward. I hope Senator Conroy will have had a profound change of heart. I know he has been concentrating intently on my contribution, as I am sure Senator Johnston has. This amendment should be passed into law tonight.\n\nStephen Conroy\n\nWe support the general argument Senator Ludlam is making but we feel that the last amendment retaining climate change advice did cover it and we think this one is a little too prescriptive in the context of a bill for an advisory body of experts. We think we have covered the general thrust so we will be opposing this amendment.\n\nDavid Johnston\n\nI am in agreement with my learned friend Senator Conroy.\n\nChristine Milne\n\nAt the time the first infrastructure bill was put through the parliament the Australian Greens were part of the consultation and the original language about addressing climate change was part of what was determined at the time. Many years have gone by since then, and the Australian experience has demonstrated that the failure to take climate change into account in infrastructure proposals that are either coming forward or in Infrastructure Australia's assessment suggests we need to go to something much more significant. Let me go to the first point in the amendment\u2014the economic, social and environmental impacts of climate change. Let me take Roma as an example. We have had the shocking flooding in Queensland and we have had terrible storm damage as well. If the levee issue had been addressed in Roma in 2005, the estimated cost at the time would have been $20 million. Subsequent to that, since 2008, $100 million has been paid out in insurance claims in Roma and since 2005 over $500 million has been paid out by the public and the private sector for the repair bill. That is just one example where, if we had taken the climate predictions and scenarios seriously and moved in and built the infrastructure we needed to build when it was needed, we would have saved not only incredible distress in that community caused by the flooding; we would have saved an enormous amount in terms of infrastructure costs and replacement.\n\nOver that period of time, we have seen: in January 2009, the Far North Queensland floods; February 2009, Victoria's Black Saturday; April 2009, Northern New South Wales flooding; May 2009, the Queensland storm damage; December 2009, bushfires in WA; March 2010, Western Queensland floods; March 2010, storm event in Melbourne; March 2010, storm event in Perth; December 2010, Queensland floods; January 2011, Victoria floods; February 2011, Cyclone Yasi in Queensland; February 2011, storm event in Melbourne; February 2011, Perth bushfires; November 2011, Margaret River bushfires; December 2011, storm event Melbourne; January 2012, floods in South-West Queensland; February 2012, floods in New South Wales and Victoria; January 2013, Tasmanian bushfires; January 2013, New South Wales bushfires; January 2013, storm event in Queensland; January 2013, storm event in Northern New South Wales; October 2013, New South Wales bushfires; January 2014, Perth bushfires; April 2014, Queensland cyclone.\n\nThat is what we are now seeing with extreme weather events, and with their intensity and cost. That cost goes to billions in terms of the infrastructure repairs, not to mention the insurance costs and the fact that several people in those communities have subsequently not been able to get insurance for their homes and businesses. When this goes to further infrastructure, we have had railway lines buckle in extreme heat; we have had roads wash away; we have had energy systems brought down and real risks of mega-blackouts and brownouts because of loss of energy infrastructure in the course of those extreme weather events.\n\nThe question has to be asked: at what point is Australia going to recognise that for Infrastructure Australia, assessment of projects has to include the worst-case scenarios for climate adaptation? A moment ago my colleague Senator Ludlam spoke about decarbonising the economy, which is essential. Let me give you the example of the bushfires in Victoria\u2014sparking from overhead powerlines was one of the main causes of huge loss of life. Significant recommendations have come from the royal commission that in order to remove those risks, powerlines need to be undergrounded or, alternatively in some places, to cease and to not have the infrastructure going out there. Instead have renewable energy systems that are decentralised, so you are actually protecting the communities but stopping the potential for sparking in between. That is the kind of anticipatory action that the Victorian government, together with the power companies\u2014the distribution and transmission companies\u2014should have been bringing forward to Infrastructure Australia to look at reducing fire risk and cost in the longer term in Victoria. Those actions give you competitiveness in terms of power supply, more safety in terms of fire, and less in infrastructure costs. They are the sorts of things you need to be considering.\n\nThe other point with infrastructure was made very strongly by CEDA in a recent report: that there is a very real risk that Australia will be bypassed for the foreign capital that is necessary to fund infrastructure in this country, because the international capital flow is going to go to countries that are dealing with the real risks associated with climate change, that are decarbonising the economy, and that are building the kinds of infrastructure that will serve a decarbonised economy into the future. By going in the wrong direction and not putting these climate considerations at front and centre, Australia stands to be effectively bypassed by international capital, because that capital will assess climate risk in any project. It is not just the climate risk in terms of the loss of that infrastructure; it is climate risk in terms of whether that infrastructure becomes a stranded asset\u2014sunk and dead capital into the future. There is no doubt in my mind that there are plenty of ports up for proposal in Queensland that will end up as stranded assets if they are built, not to mention the coal railway lines and the mines that are being considered.\n\nIn recent times there have been several cancellations with regard to major infrastructure projects in Queensland\u2014not least of which is a big port\u2014because international capital has been withdrawn from the projects on the basis that it is likely to be a stranded asset. Given that the Chinese are going to cap their climate emissions and their use of coal, anyone who invests in a coal port in Queensland is sinking their money into a dead hole and an asset divested from major pension funds and other funds around the world. If there is one thing Infrastructure Australia really needs to be looking at, it is those two essential elements\u2014the costs to infrastructure into the future of a changing climate and the frequency and intensity of weather events; and, secondly, how Australia is going to fund the infrastructure that will lead to the decarbonisation of the economy and to attracting foreign capital into that infrastructure assessment. That is where I feel Australia is going to get further and further behind unless we actually deal with this. That is why I argued at the time that the one-off flood levy was a bad mistake\u2014we should have a permanent fund which looks at doing preventive investment in infrastructure so we can minimise risks to people and property, minimise costs into the future and bring down and control insurance premiums.\n\nOur failure to have done so has left us exposed very badly. I know the coalition does not care about this and is prepared to keep on seeing people end up with their houses devalued\u2014there are places on the New South Wales coast now where if you are on the flat and subject to storm surge, your insurance premiums are so high that the value of your property is now really diminished compared with properties on the same street that are much higher up. It is becoming pretty obvious to people everywhere that failure to take this seriously is something that every Australian is going to be confronted with. The government could move to get some futuristic scenario planning and serious risk assessment done, rather than to pretend it is not happening, to pretend it is a one-off and to pretend that every time it happens we will somehow find the money to deal with it.\n\nI strongly recommend this amendment to the Senate. It makes absolute sense to protect this country as best we can from damage, and to anticipate where we need to spend money and how we need to spend money (a) to create more jobs and investment; and (b) to protect communities from the ravages that are coming.\n\nThe CHAIRMAN: The question is that amendment (10) on sheet 7482 be agreed to.\n\nQuestion negatived.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 10,
+    "date": "2014-06-23",
+    "possible_turnout": 76,
+    "clock_time": "9:38 PM",
+    "id": 3246,
+    "no_votes": 36
+}

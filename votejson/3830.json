@@ -1,0 +1,714 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 National Health Amendment (Pharmaceutical Benefits) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 1,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5462",
+            "id": 769,
+            "official_id": "r5462",
+            "title": "National Health Amendment (Pharmaceutical Benefits) Bill 2015"
+        }
+    ],
+    "summary": "David Leyonhjelm\n\nby leave\u2014I move amendments (1) to (3) on sheet 7734:\n\n(1) Schedule 1, page 4 (after line 31), after item 4, insert:\n\n4A Subsection 90(3B)\n\n\u00a0\u00a0Repeal the subsection.\n\n4B Subsection 90(3C )\n\n\u00a0\u00a0Omit \", (3AF) and (3B)\", substitute \"and (3AF)\".\n\n(2) Schedule 1, page 5 (after line 2), after item 5, insert:\n\n5A Subsection 90A(1)\n\n\u00a0\u00a0Repeal the subsection, substitute:\n\n(1) This section applies in relation to a decision of the Secretary under section 90 rejecting an application by a pharmacist for approval to supply pharmaceutical benefits at particular premises, if the application was made on or after 1 July 2006.\n\n(3) Schedule 1, page 13 (after line 4), after item 31, insert:\n\n31A Subsection 99K(2)\n\n\u00a0\u00a0Repeal the subsection.\n\n31B Section 99L\n\n\u00a0\u00a0Repeal the section.\n\nThese amendments, of necessity, work as a whole and are intended to achieve the following. They remove the location rules under which the Australian Community Pharmacy Authority makes its recommendations regarding applications for new pharmacies. They remove the requirement for the secretary to comply with recommendations of the Australian Community Pharmacy Authority regarding applications for new pharmacies. They allow the minister to override a rejection by the secretary of an application for a new pharmacy. The intention here is to remove the possibility that the Australian Community Pharmacy Authority, making recommendations on a whim rather than on the basis of location rules, would continue to prevent new pharmacy approvals.\n\nThe net effect of my amendments to this bill would be twofold: first, it would allow people to open a pharmacy wherever they like, including in a supermarket; second, it would turn a mixed bill into a good bill. As I mentioned in my speech on the second reading, there are many good things in this bill: price disclosure, reducing the cost of single brand drugs and the closing of the price disclosure loophole with respect to combination medicines\u2014a notorious rort ably identified by Philip Clarke, Melbourne University Professor of Health Economics. These are all good and to be commended. But, as the bill currently stands, it leaves untouched the worst rort of all\u2014the Community Pharmacy Authority's location rules.\n\nIn March this year, Senator Di Natale, in response to a string of damning reports about the Fifth Community Pharmacy Agreement, made clear his astonishment that 'an agreement worth more than $15 billion could be negotiated with seemingly no transparency, accountability or appropriate process'. I concur with Senator Di Natale's view. There are many things wrong with the community pharmacy agreement. All I can hope to put right is the anti-competitive nonsense of the location rules.\n\nTo recap, the rules mean that a new pharmacy cannot be opened within a certain distance of an existing pharmacy, usually either 1.5 kilometres or 10 kilometres, depending on the area. They also ban pharmacies being placed either within, or in a position directly accessible to, a supermarket. They mandate a complex application process to allow would-be pharmacists to go into business. It is this last point to which I want to draw your attention now. In what universe is it legitimate to tell people that they may not go into business? That kind of injustice is worthy of the old Soviet bloc: 'Dear Mr General Secretary of the Communist Party, please may I open a shop?' And not just any shop\u2014a perfectly legal, well-regarded sort of shop\u2014a pharmacy, for crying out loud.\n\nRepealing the pharmacy location rules will lead to more competition, cheaper medicines, better services. All of that is true and, as I and many others have said repeatedly, it is to be encouraged. However, beyond all that, repealing these rules will allow qualified pharmacists to do one of the most basic things available to free people in a free society\u2014to go into business, to open a shop. If this government is to have any pretensions to being a government for small business then the least it can do is let people go into business. I commend my amendments.\n\nJan McLucas\n\nFor the record, I should indicate that the Labor Party will not be supporting Senator Leyonhjelm's amendments, which would in fact remove all of the longstanding arrangements we have had about pharmacy location rules in this country. I acknowledge Senator Leyonhjelm's motivation is based on the liberal approach to the market. But can I suggest that there is another consideration that we need to take into account. This is not a simple shopfront; this is a service that is provided by a service provider, a very well trained person who has an understanding of how medicines work.\n\nAs I said in my speech on the second reading, most pharmaceuticals are dispensed to elderly people, to chronically ill people. When pharmaceuticals are dispensed to that cohort of patients, we understand\u2014and I have seen it with my own eyes\u2014that pharmacists speak with the patient to ensure that any contraindications, any mismatch of drugs, is well understood by the patient. Pharmacists do take that responsibility seriously. Sure, if you are healthy man like Senator Leyonhjelm and you turn up and get a drug over the counter you probably do not need to have that conversation but we should think of those people who are prescribed a number of pharmaceuticals. Certainly a doctor is having a good look at that, but having that second set of eyes look over that list of medicines is a good thing. I suggest that we should not be making decisions about the location of pharmacies based simply on market economics. We have to include in that consideration another value, and that is the value of medical advice\u2014and that is what pharmacists bring to this equation. For those reasons we cannot support Senator Leyonhjelm's amendments.\n\nFiona Nash\n\nIt is important that we remember that location rules are used to determine where a pharmacist can provide access to PBS-subsidised medicines. The ownership of a pharmacy is still a matter for state and territory government legislation. I certainly thank Senator Leyonhjelm for his proposed amendments and clearly for the amount of thought and consideration he has given to this matter.\n\nThe Pharmacy Location Rules have been important in the supply of medicines to all Australians, in particular in rural and remote regions. Under the current rules we have had growth in pharmacy numbers from 5,100 to 5,450. As someone who lives in a rural area, I am particularly pleased to note that this includes an increase of 119 in rural locations alone. The location rules represent a balance between access for consumers, competition for the sector and viability for individual businesses. The proposed amendments would not only cease the location rules as of 30 June 2015; they would preclude any government from determining any rules that the Australian Community Pharmacy Authority could take into account when determining whether or not a pharmacist should be approved to dispense PBS medicines. This government has continued to make known its public support for location rules, and it is joined in this regard by Labor.\n\nHowever, this government does recognise that the concerns raised in relation to location rules by the National Commission of Audit, the ANAO, the Productivity Commission and other stakeholders need to be addressed. That is why, as part of the Sixth Community Pharmacy Agreement, an independent, public and comprehensive review of remuneration and location rules will be undertaken within the first two years of the agreement. The review will commence in September 2015 and will invite input and submissions from across the sector and across the community. I am sure Senator Leyonhjelm would welcome that. Its findings will be made public by March 2017. The government is committed to evidence-based decision making and transparency, and this approach will ensure this occurs while also ensuring continued access to PBS medicines for all Australians. Again, I thank Senator Leyonhjelm for his proposed amendments but indicate that the government will not be supporting them.\n\nThe CHAIRMAN: The question is that amendments (1) to (3) on sheet 7734, moved by Senator Leyonhjelm, be agreed to.\n\n",
+    "aye_votes": 2,
+    "date": "2015-06-23",
+    "possible_turnout": 76,
+    "clock_time": "1:52 PM",
+    "id": 3830,
+    "no_votes": 51
+}

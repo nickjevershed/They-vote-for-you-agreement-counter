@@ -1,0 +1,668 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Democratic Labor Party",
+                "id": 100292
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "DPRES",
+                "id": 100840
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mehmet",
+                "last_name": "Tillem",
+                "person": {
+                    "id": 10821
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100310
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lin",
+                "last_name": "Thorp",
+                "person": {
+                    "id": 10769
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100304
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Faulkner",
+                "person": {
+                    "id": 10214
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100077
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Boyce",
+                "person": {
+                    "id": 10062
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100024
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mark",
+                "last_name": "Bishop",
+                "person": {
+                    "id": 10048
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100016
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kate",
+                "last_name": "Lundy",
+                "person": {
+                    "id": 10398
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100129
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100138
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Louise",
+                "last_name": "Pratt",
+                "person": {
+                    "id": 10714
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100259
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Kroger",
+                "person": {
+                    "id": 10712
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100257
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mark",
+                "last_name": "Furner",
+                "person": {
+                    "id": 10710
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100255
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Don",
+                "last_name": "Farrell",
+                "person": {
+                    "id": 10708
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100253
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ursula",
+                "last_name": "Stephens",
+                "person": {
+                    "id": 10609
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100212
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Motions \u2014 Iraq",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 4,
+    "bills": [],
+    "summary": "Sarah Hanson-Young\n\nI ask that general business notice of motion No. 285 standing in my name for today relating to a moratorium on the return of Iraqi asylum seekers, given Iraq is now a war zone, be taken as formal.\n\nStephen Parry\n\nIs there any objection to this motion being taken as formal?\n\nClaire Moore\n\nYes.\n\nStephen Parry\n\nFormality has been denied, Senator Hanson-Young.\n\nSarah Hanson-Young\n\nPursuant to contingent notice, and at the request of the Leader of the Australian Greens, I move:\n\nThat so much of standing orders be suspended as would prevent me from moving a motion relating to the conduct of the Senate, namely motion No. 285, which is in relation to a very serious matter of the deportation of Iraqi asylum seekers back to Iraq.\n\nI am appalled, to be honest, that I have been denied formality in relation to this matter, by the Labor Party. This is a situation where individuals as recently as last week were being forcibly returned to Iraq. We know the situation there is extremely dangerous. We have heard for days, over the last week, from our own Prime Minister about how atrocious the situation there is, how the brutality and the terror is being inflicted not just on members of the official Iraqi military but on the citizens themselves. Of course it is the citizens who end up suffering the most in these circumstances. We know that already over half a million people have been displaced from Iraq in the last couple of weeks. We know that there are over 500 Iraqi asylum seekers detained in Australian detention centres today. There are several thousand more who are living in the community waiting for their claims to be processed as asylum seekers and to be given refugee status.\n\nIt is incredibly galling to see the political play in this place by those on the government's side about how we need to crack down and do things in order to help what is going on in Iraq. Yet the very same people are forcibly removing Iraqi asylum seekers back to Iraq. Even as recently as today I have been told that we are now paying $6,500 to people who have been treated so appallingly, who have been told that they have no rights and, that they have got no prospects of ever becoming refugees in Australia. So we are paying them $6,500 to jump on a plane to go back to a war zone.\n\nOur country used to stand up for what is right. Our country used to say, when people were in need of help and protection, that we would give them a helping hand and we would support them. When Bob Hawke announced after the Tiananmen Square massacre that the Chinese students who were in Australia could stay because of their need for safety and protection, that was the right thing to do. Today we have people who are already here, living in fear of being returned home to face the brutalities of what is being drawn out in Iraq, in their home communities, and we cannot even give those people a helping hand and the protection that they deserve. A moratorium on sending people back to Iraq is common sense.\n\nThere is a terrible situation unfolding in Iraq. The very least that this government and this parliament could do is to stand up for the basic human rights of those individuals and say, 'You know what? We're not going to send you back into the pit of terror. We will not send you home to your death.' I think it is appalling that we now see the Labor Party not only not being able to support what is a common sense motion calling on the government for a moratorium but not even wanting to debate this motion properly. That is cowardice\u2014absolute cowardice. There are times in our nation's history where you have to stand up for what is right, where you have to stand up for things regardless of the political expediency of the day. Sending Iraqi asylum seekers back to the pits of terror where they will be killed is not the right thing to do. Calling on the government of the day to issue a moratorium and halt the deportation of these people is the right thing to do. The government are not just forcibly returning individuals; they are paying people; they are bribing people. They are pushing people to choose between the two evils: the hellhole of Manus Island versus being shot in a war zone in Iraq. That is the depth that this government is going to, and it is appalling that the Labor Party is standing by and letting it happen.\n\nMichaelia Cash\n\nThe government will not be supporting this motion to suspend standing orders. I do not believe Senator Hanson-Young, in her speech, put forward any reasons as to why the motion should be supported.\n\nSenators will be aware that it is the longstanding position of consecutive governments that complex or contested matters of foreign policy should not be dealt with in this fashion on the floor of the chamber. If Senator Hanson-Young is unaware after six years in this place of the practice of consecutive governments, I would suggest the senator may wish to avail herself as to the practices and procedures of this place. In the event that Senator Hanson-Young is aware of the practice and procedures of former consecutive governments, I would say that clearly indicates that the motion before the Senate is nothing more and nothing less than a political stunt on behalf of the Greens, which is obviously disappointing given the gravity of the situation currently in Iraq.\n\nFurther to the statement given by Senator Fifield last week in response to this matter, I will confirm with the Senate that the Minister for Foreign Affairs has announced that Australia will provide $5 million in humanitarian assistance to support the hundreds of thousands of people fleeing violence in Iraq. Australia's assistance will be provided through the United Nations High Commissioner for Refugees and the World Food Programme. This assistance will provide food, medical assistance, tents, access to clean water and hygiene kits. And the government is continuing to monitor what is a dynamic and evolving situation in Iraq to take into account any emerging risks. I confirm that the government will not be supporting this motion to suspend standing orders.\n\nJohn Faulkner\n\nI do appreciate an opportunity to speak on this motion to suspend standing orders. To commence my contribution, I would like to commend to the Senate a statement that I made on 27 May 1998. At the time, I was the Leader of the Opposition in the Senate. That statement did outline a position that the opposition of the day would take on foreign policy matters that were addressed by general business notices of motion, not every general notice of motion but contentious and controversial general business notices of motion on foreign policy matters\u2014in other words, on those questions where there was not agreement around the chamber.\n\nWhat Senator Cash said is true but only in part, because the opposition of the day took the view that such complex matters could not be adequately determined through seeking formality and then passing whatever notice appeared on the _Notice Paper_. Why? Because it is such a blunt instrument. You only have two choices: to treat the matter as formal or to deny formality and then to either vote for the motion or against it. Amendment is not possible. It is a very blunt instrument.\n\nI have consistently spoken on this matter, not only in 1998, but I would also commend to you the contributions I made more substantively on this matter on 27 March 2003 then 11 May 2004. I have been concerned for literally a decade and a half, if not two decades, about the fact that the nuances and subtleties of foreign policy issues can be lost when there is no opportunity to adequately address them through that mechanism. I do not think it is true to say\u2014as Senator Cash says\u2014that it is longstanding policy. The government of the day, the coalition government, did not support these proposals and the mechanism that I recommended back in 1998. It has not been applied consistency and it should be. I wish I could say today that the federal parliamentary Labor Party has always applied this principle consistently. It has not, but, I can assure you, I have. I am still arguing, as you would be able to confirm, Mr Deputy President Parry, that the chamber needs to address this so we do not have these types of debates. I hope the Procedure Committee will give this renewed consideration and impetus to try and fix a problem that we have had before us for literally decades.\n\nThe issue that Senator Hanson-Young raises is a critically important one. Much of what she said is so true about these matters. The issue is: how do you debate it? What is the proper and fair process? Is it to declare formality and vote through or not vote through a motion? Of course not. We need a better mechanism. It is about time\u2014in fact, it is long overdue\u2014for the Senate to establish that better mechanism so we do not have these sorts of debates. I at least can say on this I have been consistent for a long period of time. And I ask senators from all parties to come to grips with this critical issue of Senate procedure.\n\nRachel Siewert\n\nSometimes I do agree with Senator Faulkner about procedure in the Senate. On this particular motion, I do not. This motion calls on the government to issue a moratorium on the return of any asylum seekers back to Iraq and offer a reprieve to those detained in immigration detention on Manus Island, Nauru and Christmas Island to allow them to apply for protection in Australia.\n\nQuite frankly, this is an urgent situation. This is the type of situation I would expect these sorts of motions to apply to. This is urgent. Motions deal with this sort of urgency. It is a blunt instrument because this is a very desperate urgent situation where people are being moved back to a war zone. This is a war zone. Their lives are at risk. As late as the Sunday before last, less than 10 days ago, an Iraqi man was taken back to Iraq, to a war zone. This is urgent.\n\nWhat we are seeing in this chamber is, 'Actually, we don't want to talk about it.' No approach was made to us to try and amend this motion or to send it to a debate. It was just, 'No, we are not going to grant you formality for a situation that is desperate.' It is the very sort of situation that these motions should be able to deal with. What this chamber would apparently prefer to do is to send this off to a debate. That is because when you block formality here, it gets put on the end of the _Notice Paper_ and it never comes back. That is not appropriate for a situation that is desperate. People are being sent back to a situation where they are highly likely to lose their lives. That is how Australia thinks it is appropriate to treat refugees, people who have fled terror and who have fled prosecution.\n\nWhat is happening now in Iraq are situations arising where there is terror, where there is persecution happening and where you are seeing armed conflict. That is not appropriate. I would have thought this was a fairly obvious motion to enable us to actually send a message to the government that we want a moratorium on sending refugees back to Iraq\u2014remembering that we are talking about refugees, who are people who have already fled for their lives\u2014to say, 'Don't send them back to that situation now.'\n\nGlobally, they are trying to deal with this issue. One of the things that we can do is make sure that people who are already terrorised, who have already fled for their lives and who have already fled this sort of conflict, are not sent back to a situation that everybody globally is saying is outrageous and is trying to rectify. It is not appropriate. We do not believe that you should say, 'No, we are not even going to think about it in this chamber. Let's put it off to a debate somewhere much further down the track.' They could at least come to us and say, 'Actually, can we amend this?' No, there was nothing like that. I understand from Senator Hanson-Young that no approach was made about amending this or, in fact, trying to work out a time to debate this issue.\n\nIn the Greens, we believe that it is totally unacceptable to be forcing people back to Iraq, which is a war zone. We do not support that sort of approach by the government of this country in our name. This motion calls on the government to issue a moratorium to say that it is basically not appropriate to send asylum seekers back to a war zone. We will never support asylum seekers being sent back to a war zone\u2014not now and not in the future.\n\nStephen Parry\n\nThe question is that the motion to suspend standing orders moved by Senator Hanson-Young be agreed to.\n\n",
+    "aye_votes": 11,
+    "date": "2014-06-23",
+    "possible_turnout": 76,
+    "clock_time": "4:07 PM",
+    "id": 3244,
+    "no_votes": 39
+}

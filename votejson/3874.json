@@ -1,0 +1,876 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "George",
+                "last_name": "Brandis",
+                "person": {
+                    "id": 10067
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100025
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Medical Research Future Fund Bill 2015, Medical Research Future Fund (Consequential Amendments) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 3,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5397",
+            "id": 764,
+            "official_id": "r5397",
+            "title": "Medical Research Future Fund Bill 2015"
+        },
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5398",
+            "id": 765,
+            "official_id": "r5398",
+            "title": "Medical Research Future Fund (Consequential Amendments) Bill 2015"
+        }
+    ],
+    "summary": "Jan McLucas\n\nWithout going to specific amendments, I want to speak in generalities to start with. At the outset, I want to restate Labor's strong and absolute support for health and medical research in our country and for the establishment of a Medical Research Future Fund. But there are a number of issues in the bills that I outlined in my contribution on the second reading, when I outlined the concerns that Labor has had with these bills. I indicated in my speech on the second reading that Labor will be moving amendments. Those amendments were circulated a long time ago. At the first opportunity we had to circulate those amendments, we did, because Labor is interested in transparency. During Senator Di Natale's speech, he said that the Greens will vote for good ideas. I invite the Greens to have a look at the substance of our amendments and I invite them to be good to their word.\n\nIn my speech on the second reading, I used the word 'messy' and said that this had been a messy process, that the gestation of these bills had been long and that the birth was going to be short and sharp. Well, it just got messier. We turn up today and we have another supplementary explanatory memorandum\u2014tabled today\n\nWe have 21 more amendments that were tabled at 9.30 this morning. They are complex amendments. We will go through the substance of those amendments.\n\nI talked about chaos and dysfunction in my second reading speech. Well, it has a 'C' and a 'D' as of this morning. As we know, the first bill had 20 amendments in the House of Representatives. They were passed in that place and we then got the bill and the consequential amendments bill. We had an inquiry just last Thursday. Who is running the show here? Just last Thursday we had an inquiry and then we had the bill appearing on the _Notice Paper_ on Monday morning. The report of that inquiry said:\n\nThe committee recommends the bills be passed.\n\nIt did not recommend that we need 21 more amendments, that we need another explanatory memorandum. It said that the bill be passed. This committee report here is the vehicle by which a government will review and rethink their policy position. They did not use it. Who is running this show?\n\nGovernment members in their second reading contributions talked about urgency. They warned that delay in the Senate would affect the potential for medical research somewhere down the track. Well, can I say that the only delay that is happening with these bills is happening because of the government. We are very happy to deal with this legislation\u2014we have been happy for quite some time. We are very happy to actually negotiate with the government. But they have done a little deal with the Greens. The alternative government have ideas and opportunities to contribute to improve these bills, but, from the minister's comments, it would seem now that they are not going to be considered. They have the numbers from the Greens, that will do\u2014'We are not going to think about the way we can improve this bill.'\n\nSenator Sinodinos is a person for whom I have a lot of regard. He said that this was a historic bill, that this was monumental, that this would become the largest medical research fund in the world. If we are doing something that is so important, if we are doing something that is going to be so significant, why couldn't they get the drafting organised and not bring in amendments at 9.30 this morning on something that is their signature policy?\n\nMathias Cormann\n\nYou have never done that!\n\nJan McLucas\n\nAt 9.30 this morning for something that is so significant, that is so important, that is your signature policy that you only told the Department of Health about two weeks before the budget, by the way\u2014but that is another matter; why is this such a mess?\n\nYou would think that for something that is so significant and so important that someone would have done the work needed. Well, Minister Cormann, it has not happened. Whether it is the Department of Finance, whether it is the Department of Health, someone has not done the proper consultation work that has been needed to be done. It is obvious now to everyone that that work has not been completed.\n\nThe Labor Party, in good faith, have drafted a number of amendments and the purpose of those amendments is to strengthen the role of the advisory board so that decisions cannot simply be made on the whim of the minister of the day, potentially based on whoever has had his or her ear at the time or to fund pet projects that are potentially of a political nature. Medical research dollars are hard to find; they are hotly contested.\n\nAs many have described, and I did in my own speech, we can be extremely proud of Australia's contribution to medical research in the world. We can be, but let us use those dollars very wisely. That is why most of the submitters\u2014I think all\u2014talked to our committee about some sort of peer review. We have to make sure we apply our funds in the most efficient and the most effective way. That does not discount the comment that Senator Xenophon made. There are good cases and they can be made for providing funds to diseases or medical events that relate to small cohorts of the population. You can make that argument. It has been done in the past and it should be done.\n\nWe need to make sure that the money that is applied to medical research in our country is given to the right projects so that we will get the best outcomes. In fact, it was Senator O'Sullivan's contribution this morning that actually makes my case right. Senator O'Sullivan talked about the value of\u2014I am not sure how to pronounce the word; it is the cannabis oils.\n\nPeter Whish-Wilson\n\nCannabinoids.\n\nJan McLucas\n\nThank you very much. He talked about how valuable they are, and that is a good thing. We should have that discussion; we should have that argument. He then made the point that the MRFF would give certainty to the research into the use of cannabinoids. We now have a politician standing up in this place saying that we have to have this fund, that it is going to give us a billion a year and that research into cannabis related products will have certainty. A politician has made that point. That is my point: we have to remove the political process from decisions about where health and medical research funds are applied. We cannot leave it to politicians. We cannot leave it to a public campaign about a terrible, horrible, difficult circumstance that affects a group of people and the research program being elevated because of the political or media attention rather than the veracity of the application. That is why Labor will be moving these amendments.\n\nOur amendments also go to preserving the health and hospital fund as an independent fund. Labor established the Health and Hospitals Fund. It has delivered marvellous facilities around the country, and I will go to those issues when I get to move those amendments. Labor's amendments also unmanned the bill so that the health minister will make decisions about the financial assistance that is provided from the medical research Future Fund special account following recommendations by the Australian medical research advisory board and taking into account the Australian medical research and innovation priorities rather than the minister simply taking into account the advisory boards recommendations in making any funding decision. That is the substance of the amendments that we have made. I look forward to hearing the argument against them.\n\nLet me also go to Senator Lambie's question that Minister Cormann has answered\u2014you have, Senator Cormann, answered it technically, but I would like you to list for Senator Lambie so that she is very clear about what the measures are that have passed and not passed; and also those measures that do not need to come before the parliament and that the moneys have been identified as going to the Medical Research Future Fund. Because, Senator Cormann, not all of the measures that have been identified to fund the MRFF do have to pass the parliament. I will ask you in detail for the list of those at some stage.\n\nTo conclude, I remind the chamber that Labor absolutely supports and has shown by our deed the investment in medical and health research in our country, but this mechanism has been messy. This process has been untidy at worst, and we are trying to do our bit to improve it. I encourage the minister to reconsider his lack of support for our amendments.\n\nRichard Di Natale\n\nJust very briefly: we certainly acknowledge the concerns expressed by Senator McLucas. We understand that the issue of the independence of the fund is paramount and we have in our negotiations\u2014both through the Senate committee process and subsequently\u2014sought to ensure that the appointment process was an independent process. We have been given some comfort in the fact that the NHMRC CEO is represented on the advisory panel.\n\nWe also believe that the nature of the panel is such that, when it comes to selecting pre-eminent medical researchers from organisations across the nation, the professional reputation of those individuals is in itself something that will guarantee a degree of independence. Of course, within that, there needs to be some flexibility for the government of the day to be able to, if necessary, in urgent situations direct the fund's research priorities. Obviously, one of the things where that may be an issue is in the case of something like an infectious diseases outbreak where having the capacity to be able to direct research efforts quickly in a particular direction is important.\n\nWhile we acknowledge the concerns from Senator McLucas, and I think they are valid concerns, the measures that have been put in place through the amendments developed with the government will satisfy us that decisions will be made independently and in the best interests of what the fund is intended to do\u2014that is effectively administer public funds to medical research priorities in a way that is different from the NHMRC\u2014a very different focus; the NHMRC does much foundational research. However, the big gap that exists is within the translational pathway, and that is one of the reasons that this fund has been established.\n\nThe Greens are and always have been very, very strong supporters of medical research. We were disappointed that the genesis of this fund appeared to be a very unpopular budget measure: the establishment of the Medicare co-payment. But, what has been salvaged from that mess is, I think, a fund that will ensure that the huge gap that exists in the translational pathway when it comes to the medical research pipeline is addressed. It is for those reasons that we will support this legislation.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 22,
+    "date": "2015-08-12",
+    "possible_turnout": 75,
+    "clock_time": "12:14 PM",
+    "id": 3874,
+    "no_votes": 43
+}

@@ -1,0 +1,824 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Robert",
+                "last_name": "Simms",
+                "person": {
+                    "id": 10842
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100848
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Communications Legislation Amendment (Deregulation and Other Measures) Bill 2015, Telecommunications (Numbering Charges) Amendment Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 3,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5574",
+            "id": 810,
+            "official_id": "r5574",
+            "title": "Communications Legislation Amendment (Deregulation and Other Measures) Bill 2015"
+        },
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5573",
+            "id": 811,
+            "official_id": "r5573",
+            "title": "Telecommunications (Numbering Charges) Amendment Bill 2015"
+        }
+    ],
+    "summary": "Stephen Conroy\n\nI move opposition amendment (1) to the Communications Legislation Amendment (Deregulation and Other Measures) Bill 2015 on sheet 7844:\n\n(1) Page 5 (after line 25), after Schedule 1, insert:\n\nSchedule 1A\u2014NBN Co Reporting\n\n_National Broadband Network Companies Act 2011_\n\n1 After section 98A\n\n\u00a0\u00a0Insert:\n\n98AA Financial and deployment forecasts report\n\n(1) The Board must prepare a report setting out NBN Co's financial and deployment forecasts for the period beginning on 1 July 2015 and ending on 30 June 2022.\n\n(2) The report must include:\n\n\u00a0\u00a0(a) forecasts for each financial year during the period of the following:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) number of premises ready for service for each access technology;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) number of premises activated for each access technology;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(iii) total revenue;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(iv) total operating expenditure;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(v) earnings before interest, taxes, depreciation and amortisation;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(vi) earnings before interest, taxes, depreciation and amortisation margin;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(vii) operating profit before deduction of interest and income taxes;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(viii) net cash interest (funding costs);\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ix) earnings before taxes;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(x) total capital expenditure;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(xi) movement in working capital;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(xii) cash tax;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(xiii) levered free cash flow;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(xiv) government funding;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(xv) debt funding;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(xvi) total funding; and\n\n(b) totals for the whole of the period for each forecast mentioned in paragraph (a).\n\n(3) The Board must, within 60 days of the day on which this item commences:\n\n\u00a0\u00a0(a) give the Minister the report; and\n\n\u00a0\u00a0(b) publish the report on NBN Co's website.\n\n(4) The Minister must cause a copy of the report to be tabled in each House of the Parliament within 5 sitting days of receiving it.\n\nI am always grateful to listen to contributions from Senator Smith, as someone who worked in the telecommunications sector. As someone who campaigned for the deregulation and structural separation of Telstra, for him to make a contribution is always valuable. He took the time to read out a whole list\u2014a litany\u2014of failures of the National Broadband Network previously, in his words.\n\nThere is a reason he has been able to do that. It is because the previous Labor government made available to everybody in Australia all the information that Senator Smith drew upon. All of the claims of failure to meet targets, of failure to do this or that, arose because the Labor government provided the information that the Australian public were able to assess.\n\nThis government, however, after claiming that the NBN was more secretive than the Kremlin\u2014I know Senator Ludlam will remember that\u2014has actually put the Kremlin to shame. This is a government that treats the Senate with contempt. It treats the Senate committees with contempt. It treats Senate estimates with contempt. In fact, officials from nbn co were so bad in their evidence to the recent Senate committee that even the Liberal chair of the committee chided the CEO because they had been so unable to answer any of the questions. He actually asked the CEO to bring to the Senate the officers that the senators had requested, rather than taking the arrogant view that they could answer all the questions. After the first couple of hours of questions endlessly being taken on notice and described as commercial in confidence, even the Liberal chair of the committee said, 'Enough is enough\u2014Mr Morrow, please bring officers to the Senate estimates so they can ask questions and get answers.'\n\nThen we have the issue around commercial in confidence. Let me tell you what a farce this government is in its paranoid desire to hide the true state of the National Broadband Network's rollout and costings. I actually asked a question whether or not a following press release from a company hired by nbn co to do its construction was true. I read out the announcement and the size of the contract that the company had won from the National Broadband Network. The chief executive, Mr Morrow, said, 'I can't confirm that that press release by the company who we have just hired is true,' even though they were required by law to declare it to the Stock Exchange in this country, because it is a material amount. Mr Morrow, in treating this chamber\u2014senators from all parties\u2014with contempt, said, 'I can't confirm that the size and the value of that contract is as has been announced by the company, because it is commercial-in-confidence.' I ask the question: how on earth can something be commercial in confidence if the company is required by the Stock Exchange to announce it?\n\nThis farce has now reached a level where the minister is complicit in hiding from the Australian public every single piece of key information on the National Broadband Network. You would have thought at the beginning that there might have been a reason. But what has actually happened is a $15 billion blow-out in the costs of the National Broadband Network, entirely in the hands of the minister and the current Prime Minister. Mr Morrow has confessed publicly that the $15 billion of cost blow-outs is entirely because of changes that they have made to the National Broadband Network. When asked to explain what those cost breakdowns were, we were told it is all commercial-in-confidence. There is no other government business enterprise in this country that gets away with refusing to reveal information like, 'What is the value of a contract that you have entered into with another company?' They hide it all because they are afraid that the truth of the debacle that is unfolding behind the scenes will come to light.\n\nThe fact is that the HFC network is way behind schedule and they have no idea how they are going to meet the promised targets, so they hide the truth. They will not come and discuss it with the parliament of Australia, with the people of Australia. But no-one should be under any illusions that that is why we are moving this amendment again today, and, if we have the opportunity to move amendments to relevant legislation again, we will do so, because this government is covering up its failures, it is covering up its cost blow-outs and it is covering up its rollout debacle, which has not met the targets that the company set for it when it did its strategic review. In fact, it is millions of homes behind where the strategic review said it would be. That is no great surprise, given the man personally installed by the minister, Mr Rousselot, a business partner and a joint yacht-owning mate with Mr Turnbull, is getting paid over $1 million. He got a performance bonus when he missed the financial target of the company, in terms of its costs, by $15 billion. He wrote a report that missed the target by $15 billion and he got a performance bonus\u2014seriously! But I do not even mind that scandal.\n\nThe fact that this government continues to hide basic cost information is why we are here having this debate. I am sure we will hear a lot of other points made, but no-one should misunderstand that the NBN, behind the scenes, is a debacle. No amount of tweets by 60 people in the media unit at nbn co and no amount of fluffy pieces saying Mr Morrow is the most transformational leader in the history of the universe can hide the fact that Mr Malcolm Turnbull and Mr Tony Abbott promised to have the NBN in every Australians' home by the end of 2016. The date it is due for completion has been extended to 2019 and now to 2020. The costs\u2014$29 billion\u2014are now $56 billion and growing. The deceit in the accounting procedures at nbn co go on and on. The sleight of hand, of shifting costs\u2014not used by any other company in the world\u2014onto fibre to the home, is simply so they can pretend there has been a blow-out in costs. In fact, this company have promised the Australian public that, after rolling out a couple of million homes worth of fibre-to-the-home technology, they will not have found a single cost saving in five years. What legendary management! They should be paid more bonuses\u2014but don't worry, they have been. They actually have sat in front of a Senate committee and said, 'Over a 10-year build we will not make a single productivity gain, a cost saving, in this technology.' Put aside that everywhere else in the world is actually making savings, put aside that there is architecture available at the moment, today, as was forecast by previous management, that would dramatically reduce the costs. nbn co cannot afford to admit to the lie of their costing of fibre to the premises. They can tweet and tweet and tweet, and they can do their fluffy interviews, but the lie has to be maintained at all costs, and there will be an accounting for this lie.\n\nThere will be an accounting for telling lies to the Australian public about the costs your company is incurring when you know that they are not true. You can keep hiding your figures as long as you want\n\nYou can keep burying the truth and hope that no-one inside the company will ever confess. You can keep refusing to let officials come to the table, because you know they might tell the truth. You can sack officials who do actually prove that you can get cost savings. This is a company that sacked a team which delivered substantial cost savings and rollout reductions, and their reward inside the company was to be sacked. The message went out: 'Don't you dare find cost savings.' Ultimately, you will not be able to hide from the truth, Minister.\n\nThis amendment would end the farce. This amendment would ensure that the truth about the real costs of the debacle of the change to the multi-technology mix would be revealed, and that is why you will oppose this. You will oppose this because the truth would expose the Prime Minister of Australia to be a complete and utter fraud when it comes to the project\u2014the cost that were forecast, the costs that are currently being incurred and future costs. You would have to front up to this chamber every day in question time and answer questions about what is really going on. For as long as you hide this information, we will keep asking, we will keep going to committees and we will keep seeking amendments until we get the truth about the real costs of Mr Turnbull's broadband network will be.\n\nPut aside the exciting new developments in 5G, which have been talked about over the weekend. I do not necessarily believe everything I have read, particularly from vendors who are trying to sell product into the future, but the 5G network\u2014the mobile network\u2014will make obsolete fibre-to-the-node technology before 2020. Three to four million homes are going to be faced with being locked into a technology which you will have put in place that will be bypassed. 5G was always coming and the substitution effect was known. Those opposite had to admit that they made bloated claims before the last election of how many homes would switch off and go mobile. Tragically, if you look at the statistics, after nearly a million rollouts and take-up rates, that was exactly what was forecast\u201472 per cent. Then you have to take into account housing stock and places that are not open\u2014there are many reasons that it is not the whole 100 per cent; there was a lot of confusion about that\u2014but the forecast was 72 or 73 per cent. Guess what the take-up rate has been? It is exactly as was forecast.\n\nLet's be very clear: in the future homes locked into fibre to the node will actually be slower than the mooted speeds of mobile technologies. As I said, I do not always believe every claim by a vendor or every claim out of a lab, because the real world is a very different place. Always, at the end of the day, mobile technologies\u2014whether they be HFC or mobile phones or broadband\u2014are shared. When they talk about speeds of gig and more than a gig, always remember it is a shared technology and everybody's individual\u2014_(Time expired)_\n\nLong debate text truncated.\n\n",
+    "aye_votes": 33,
+    "date": "2016-02-22",
+    "possible_turnout": 77,
+    "clock_time": "12:38 PM",
+    "id": 4081,
+    "no_votes": 28
+}

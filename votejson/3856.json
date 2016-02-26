@@ -1,0 +1,733 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Business \u2014 Consideration of Legislation",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 2,
+    "bills": [],
+    "summary": "Mitch Fifield\n\nby leave\u2014I move:\n\nThat, on Thursday, 25 June 2015:\n\n(a) the hours of meeting shall be 9.30 am to adjournment;\n\n(b) consideration of general business private senators\u2019 bills under temporary order 57(1)(d)(ia) shall not be proceeded with and that government business shall have precedence for 2 hours and 20 minutes;\n\n(c) consideration of general business and consideration of committee reports, government responses and Auditor General\u2019s reports under standing order 62(1) and (2) shall not be proceeded with;\n\n(d) the routine of business from 12.45 pm till not later than 2 pm, and from not later than 4.30 pm shall be government business only;\n\n(e) divisions may take place after 4.30 pm;\n\n(f) the question for the adjournment of the Senate shall be proposed after it has finally considered the Migration Amendment (Regional Processing Arrangements) Bill 2015, or a motion for the adjournment is moved by a minister, whichever is the earlier; and\n\n(g) debate on the question for the adjournment shall not exceed 40 minutes, and a senator shall not speak to that question for more than 10 minutes\n\nStephen Parry\n\nThe question is that that motion be agreed to. Those of that opinion say aye; those against\u2014Senator Hanson-Young?\n\nSarah Hanson-Young\n\nI would like to ask the minister: what is the urgency for this motion to be passed today, and why on earth is it being put forward?\n\nStephen Parry\n\nJust a moment, Senator Hanson-Young. You are seeking leave to ask a question of the minister?\n\nSarah Hanson-Young\n\nI am seeking leave to make a statement in relation to the motion as moved by the minister.\n\nStephen Parry\n\nWell, you have two choices. The motion has been moved. You can actually speak to the motion, if you wish to; you have that right.\n\nSarah Hanson-Young\n\nYes, I would like to speak to the motion.\n\nStephen Parry\n\nWell, you are entitled now to speak to the motion.\n\nSarah Hanson-Young\n\nThank you, Mr President. This motion of course has been put forward by the government to change the order of business to rush through legislation that was only introduced into the House at four o'clock yesterday. There has been no explanation given by the government as to why this is urgent. There has been no explanation given at all as to why it has to be rammed through both chambers in a matter of 24 hours.\n\nWe know that the government is in a flux because there is a case before the High Court that suggests that the detention and the spending of billions and billions of Australian taxpayers' dollars is illegal in terms of offshore processing in Nauru and Manus Island. But the minister responsible, the immigration minister, has known about this case since February and the case has been before the court since May. What is the explanation for this having to be rammed through now, even when the High Court itself will not be hearing the arguments of the case until September? There has been no explanation given by the government as to why the entire Senate agenda has to be thrown out the window today to bring on this piece of legislation. It makes you wonder what is going on that they desperately want to hide.\n\nWe know this government is in absolute denial about the human rights abuses that are going on inside the immigration detention camps on Nauru and Manus Island. We know that they are desperate to keep secret how they run these concentration camps. We know that they are desperate to keep the public eye out of what is going on in these places. Now we find out that locking up children for the last three years in the hellholes in Nauru may indeed have been illegal all along\u2014not just the spending of money but the detention of those children as well. It staggers me that the minister wants to come in here today and throw out the normal Senate agenda to push through a piece of legislation that was only introduced to the House at 4 pm yesterday\u2014less than 24 hours ago. Why on earth the Labor Party have given the government a nod and a wink to allow this to happen is beyond me.\n\nThis court case is one about a number of families who are here in Australia\u2014a newborn baby, a number of young children, people who are currently listed for deportation to Nauru. That is why this case has been put forward. This government want to send to Nauru a baby who was born here, an Australian born baby, and lock that child up indefinitely. That child currently has a case before the High Court to ask whether it is legal to be locked up, jailed and detained indefinitely in Nauru. Rather than allowing that child and her family to have their day in court, the government wants to scuttle the court case, push through legislation and ensure that that child will remain in indefinite detention in the hellholes in the Nauru camp. That is what this piece of legislation is about. That is what this hours motion is about.\n\nIt is unconscionable that the government and the Labor Party are willing to throw all rules out the window, throw out all normal Senate procedure, in order to push this through. You have to wonder why the government are so afraid of a newborn baby's right to have a court consider whether it is legal that they be jailed or not? What is so worrying to the government that that child has a right to have its day in court and that the family have a right to have a judge consider whether their indefinite detention is indeed legal for the government to do?\n\nThere are almost 80 children here in Australia at the moment whose livelihoods depend on whether this High Court case wins or not. These 80 children are all here in Australia and the government want to deport them to Nauru. We know the awful conditions inside that camp. There is the Moss review and the Human Rights Commission report, and of course the Senate's own inquiry, which is currently underway, has seen mounting evidence of child abuse, sexual assault and harassment\u2014conditions that the UN describe as amounting to torture. That is how this place is being run in Nauru.\n\nRather than allowing a court to make a decision on whether that child\u2014a newborn baby born here in Australia\u2014should be deported, locked up in that place indefinitely, the cabinet want to rush through emergency legislation in less than 24 hours, throw all the Senate procedure out the window and ram legislation through to say, 'Yes, okay, the Australian parliament believes that this child deserves to be indefinitely detained.' Well, they do not deserve to be indefinitely detained; they do not deserve to be detained in these horrendous conditions. If indeed there is a need to respond legislatively to whatever the High Court decides, well wait until the High Court has made a decision; wait until the High Court has heard the case and made a determination. At least consider the legislation before ramming it through\u2014it was only tabled in the House at 4 pm yesterday. I must point out that Senator Brandis misled this chamber yesterday in question time when I asked him about this matter. He said that the legislation had been tabled\u2014\n\nStephen Parry\n\nSenator Hanson-Young, I do not think you can make that inference about Senator Brandis.\n\nSarah Hanson-Young\n\nI will explain why. Senator Brandis, in answering my question during question time yesterday, said the legislation had been tabled in the House that morning. It had not. It did not come into the house until 4 pm yesterday. We were given notice in this place that it had passed at 6 pm. We have less than 24 hours to deal with this piece of legislation, to consider (a) if it is needed and (b) what the consequences might be. I have had a look at this very short bill, and it gives unfettered power to the Abbott government to keep children in detention indefinitely in Nauru. That is what it does. It says that Australian taxpayers will be footing the bill. It also retrospectively amends the legislation to say that for the last three years the billions and billions of dollars that have been spent by Australian taxpayers on these illegal detention centres will now be accepted because the government has found out that all along this was the wrong thing to do\u2014spending billions and billions of Australian dollars locking up children indefinitely. That is why the government is rushing this through\u2014not because it is a good process, not because it is good legislation but because they were about to face the music in the High Court.\n\nThis hours motion and the rushing through of this legislation is an abuse of power and an abuse of the use of parliament. If this government were confident that they were acting lawfully they would not be rushing this legislation through the parliament. They would give the Senate time to consider it. Why is it not going to an inquiry like every other piece of legislation? I notice today that the citizenship bill, despite being debated for weeks, despite the fact that there are divisions in the government's own ranks about that bill, has been introduced into the House and has now gone off to a committee inquiry. Yet when it comes to the issue of refugee children, oh no, they could not possibly inquire into the legislation; they could not possibly look at what the consequences will be.\n\nThe fact is that this government has been running the Nauru and Manus Island detention centres appallingly, illegally. They are rife with abuse. It is a waste of taxpayers money. Children are suffering. Rather than dealing with the consequences, rather than working out how to fix the problem, they want to confirm the situation, cover it up, rush legislation in and ram it through the Senate and no-one will be any the wiser. No, the Senate should not be allowing this to happen. The government does not have a mandate to abuse the Senate processes. They do not have a mandate to rush through pieces of legislation at their whim designed just to spend taxpayer money locking up kids. The parliament has a responsibility to ensure that the government is held to account. The government does not have a mandate for this and the Senate should stand up to this abuse. The Senate should stand up and say, 'Give us the reasons. Why is this urgent?'\u2014there are not any reasons. 'Give us the reasons these changes are needed'\u2014because, possibly, what you have been doing for the last three years has been illegal.\n\nThis is an opportunity to fix the horrors of what is going on on Manus Island and Nauru. I do not agree with offshore processing; that is no secret. The Greens do not believe that we should be locking refugees up in these hell-holes, punishing them simply because they have had to flee war and persecution. We will never agree to that. But we accept that they exist. And what we are always about is trying to improve the lives of people. Here is an opportunity: if you want to get good outcomes\u2014and this is straight to the Labor Party\u2014if you want to try and improve the conditions in these places, this is the place to do it. This is the opportunity.\n\nDo not give unfettered power to Tony Abbott to keep children locked up indefinitely. Tony Abbott has no care. He has been proven to have absolute disregard for the lives of those kids. Do not let him get away with it. Put some restrictions on how that power of detention can be used. Do not keep kids locked up forever. Put some time limits in. Let the Human Rights Commission visit and inspect the conditions.\n\nHave some oversight. Make it mandatory that staff who see children being abused have to report it. Do this, because we know what has happened for the last two years under this government; it has been covered up, and children who have been abused in the Nauru detention centre have had to stay there, unable to escape the hands of their abusers. And here we have the Senate rushing through legislation to make sure those children stay there forever. It is appalling. It is absolutely sickening. And we want to change the hours in this place, throw out Senate procedure, so those kids have to stay put at the hands of their abusers? It is disgusting.\n\nThe Greens will not be supporting this change of sitting hours motion. This is an abuse of Senate procedure. The government thinks they have a mandate to do whatever they want; they do not. It may be the Prime Minister's attitude that he 'will do whatever it takes', but it has to be within the law. It has to be within the processes. It has to be under the checks and balances of this place. If the Senate allows them to ram through a bill in 24 hours, that is the Senate not doing its job. That is not what we are elected to do. We are elected to keep a check on the executive. Stand up and make a difference.\n\nMitch Fifield\n\nI think it is important to recognise this is a procedural motion that we are debating here at the moment. The purpose of the procedural motion is actually to allow additional time for the consideration of the legislation that we are seeking to introduce here. The terms of the motion that I have moved is that the Senate will sit for so long as the Senate feels it needs to in order to debate and examine the legislation. So there is nothing in the motion that I am moving that seeks in any way, shape or form to preclude the Senate from executing its duties and obligations. The Senate will sit for so long as the Senate feels that it needs to examine these matters.\n\nMr President, just to respond to Senator Hanson-Young's question in relation to the necessity for this legislation: I think colleagues would be well aware that offshore processing is a central part of our efforts to protect our borders, and it is important to ensure that there is certainty and a robust legislative basis for offshore processing.\n\n",
+    "aye_votes": 43,
+    "date": "2015-06-25",
+    "possible_turnout": 76,
+    "clock_time": "10:18 AM",
+    "id": 3856,
+    "no_votes": 12
+}

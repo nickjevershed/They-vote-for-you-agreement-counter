@@ -1,0 +1,629 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Democratic Labor Party",
+                "id": 100292
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mehmet",
+                "last_name": "Tillem",
+                "person": {
+                    "id": 10821
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100310
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lin",
+                "last_name": "Thorp",
+                "person": {
+                    "id": 10769
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100304
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alan",
+                "last_name": "Eggleston",
+                "person": {
+                    "id": 10193
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100071
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mark",
+                "last_name": "Bishop",
+                "person": {
+                    "id": 10048
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100016
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kate",
+                "last_name": "Lundy",
+                "person": {
+                    "id": 10398
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100129
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Louise",
+                "last_name": "Pratt",
+                "person": {
+                    "id": 10714
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100259
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Kroger",
+                "person": {
+                    "id": 10712
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100257
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mark",
+                "last_name": "Furner",
+                "person": {
+                    "id": 10710
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100255
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Don",
+                "last_name": "Farrell",
+                "person": {
+                    "id": 10708
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100253
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ursula",
+                "last_name": "Stephens",
+                "person": {
+                    "id": 10609
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100212
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Eric",
+                "last_name": "Abetz",
+                "person": {
+                    "id": 10003
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100001
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Regulations and Determinations \u2014 Export Market Development Grants (Extended Lodgement and Consultant Quality Incentive) Determination 2012; Disallowance",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 4,
+    "bills": [],
+    "summary": "Nick Xenophon\n\nI move:\n\nThat the Export Market Development Grants (Extended Lodgement and Consultant Quality Incentive) Determination 2012, made under subsection 70(4) of the Export Market Development Grants Act 1997, be disallowed [F2013L00258].\n\nThe Export Market Development Grants program was originally established in 1974 to help transition Australian industry from its previously protectionist policies. The Australian economy was opened up\u2014first, by the Whitlam government\u2014and George Megalogenis's book _The Australian Moment_ has an excellent discussion of this period and how it influenced the shape of the Australian economy today. Unambiguously, there were some benefits in relation to opening up a small open economy such as Australia's. But I think it is fair to say that we have gone too far; they way we have literally applied WTO obligations and anti-dumping rules has been to the detriment of the national interest, and other countries do not do what we do. Notwithstanding that, the Export Market Development Grants program was there to help Australian industry. It has evolved into a program specifically targeted at supporting small to medium-sized enterprises in export markets and activities.\n\nIn our current economic environment this program is more important than ever. Australian exporters are the lifeblood of our economy, and encouraging and supporting small and medium enterprises into export markets is a goal for all sides of politics. With a high Australian dollar, its more important than ever to find new and niche markets for Australian products and services. This sector is both the hope and the future of Australia's long-term economic wellbeing. Currently, small and medium enterprises make up nearly 90 per cent of exporters in Australia, exporting over $12 billion of goods each year, not counting services. In 2012-13, $120.4 million in grants were approved under the Export Market Development Grants program to support over 3,000 of these businesses.\n\nThis determination informs part of the framework for the Export Market Developments Grant program, and includes new provisions for extended lodgement periods that aim to act as an incentive to improve quality among grant applications. However, it is important to note that the determination could allow Austrade to determine how 'accuracy' is defined by choosing to audit applications in a certain way. There is no specific benchmark to determine accuracy, and too much leeway is given to Austrade in determining whether an application is considered accurate or not. The real fear is that this could be used capriciously, and the way it has been framed is fundamentally unfair. That is what the concern is.\n\nIt is interesting to note that Austrade, in its own documents\u2014in its guide to export grants\u2014is effectively saying that you should include everything in an application, and I will refer to that shortly. The document, 'Export Market Development Grants in Brief: For Expenditure Incurred in 2013-14 (2013-14 Grant Year)', makes reference to what the grants program is. It also states specifically in this document that, in terms of overseas representatives, a maximum of $200,000 per application is claimable under this category. It states specifically:\n\nHowever, you should include all eligible expenses that you wish to claim in your application to ensure your grant is maximised.\n\nHowever, what is being proposed in this regulation\u2014in a broad-axe kind of way\u2014is that it actually includes significant penalties if you get it wrong. You cannot simply flag, as you used to be able to do with the department, what could be made in a grant and what could be allowed for in a grant. There was some leeway there so that you could get advice from the department as to whether a grant would be allowed or not.\n\nThe concerns regarding this regulation also relate to the fit-and-proper-person test for consultants. As with most grants programs under the EMDG, businesses can choose to employ consultants to help maximise their opportunities and financial return. That is fair enough. If you are busy producing a product that can be exported, you appropriately go to experts who can help you facilitate the grant. As the EMDG uses government\u2014and therefore taxpayer\u2014funds to support export activities, it is completely reasonable that there be safeguards in place to ensure that the grants process is robust and that moneys are used appropriately. I have no issue with that, and neither do the export consultants that I have spoken to.\n\nThe supposed aim of the fit-and-proper-person test is to ensure that consultants act in the interests of the business they are representing and not for any nefarious motive. In principle, I support this aim completely\u2014there should be no issue with that. However, in practice, both the act and the determination have provided the CEO of Austrade with too much discretion when applying the test, which I believe is inherently unsafe and dangerous because it gives too much unfettered power to the CEO without requisite safeguards. I do not have an issue with the CEO of Austrade per se\u2014that is not the issue. The issue is giving one person such enormous power, and that to me is a real concern.\n\nIn particular, section 3.4(8) of the determination states:\n\nThe CEO of Austrade may also have regard to any matter not mentioned in subsections (2) to (7) that is relevant to the personal, commercial, financial or professional character of:\n\n(a) the applicant for approval; or\n\n(b) a relative of the applicant for approval; or\n\n(c) another person or body that manages or conducts the applicant for approval's interests as a consultant; or\n\n(d) another person who is in a position to direct or influence the preparation or making of applications for which the person acts as a consultant; or\n\n(e) another person who has a commercial relationship with the applicant for approval relating to the preparation of applications for grant.\n\nThese are very broad discretions that I do not believe are reasonable. These criteria are unreasonably broad. I also ask whether the CEO of Austrade is appropriately qualified to make a decision not just in relation to a consultant but in relation to individuals associated with the consultant.\n\nFurther, once the CEO has made a decision, options for appeal by consultants are limited. A consultant may make an application in writing to be reviewed by an individual within Austrade\u2014the so-called reviewer, according to the determination. The only requirement the reviewer must meet under the determination is that they perform duties in Austrade and did not make the original decision. I am concerned that there do not appear to be any requirements in relation to knowledge, experience or seniority for the reviewer. As such, consultants seeking to have a decision reviewed may not have access to a fair review. That itself makes these regulations fundamentally flawed. This is not fair. You are simply giving too much power; it is ill defined; it is too vague; and it will have a very detrimental effect on people who are trying to do their business honestly as consultants to support our exporters and the critical role they play in our economy.\n\nThere is also no avenue of appeal after the review has been concluded. Presumably a consultant could take their case to the AAT on judicial review, but legal battles are incredibly costly and, in all reality, prohibitive, and the options for judicial remedy are extremely limited, as I understand it. As such, we have a situation where a person's entire livelihood can be put at risk while they have little or no recourse.\n\nWhat has been put to me by those who work in the industry is that this is quite different from other areas where a fit-and-proper-person test is appropriately required. If you are a customs agent, for instance, you have a certain amount of trust placed in you for the clearance of material goods coming into this country, and it is important that you pass a fit-and-proper-person test so that you are not allowing narcotics or other prohibited substances or goods into the country. If you are a tax agent, you get certain privileges from the tax office with respect to the late lodgement of returns and the like. There is an element of trust placed in you by the tax office by virtue of your being a tax agent, so I can understand the need for a fit-and-proper-person test with respect to that. But, in relation to an exports grants scheme where these people act as agents, prepare applications and submit the applications, there do not seem to be any privileges attached as there are for a tax agent or a customs agent.\n\nIt is also important to note that it is not just consultants who are affected by the test. If a consultant is deemed to be not fit and proper under these very vague criteria\u2014vague criteria that are not subject to reasonable review or reasonable scrutiny\u2014there is also a negative impact on any applications they have submitted. As such, businesses with limited resources may find themselves without their grants due to no fault of their own.\n\nIn my view, the structure of the fit-and-proper-person test will\u2014and, to some extent, has\u2014put consultants at odds with Austrade. Instead of continuing to foster a collaborative relationship with consultants, Austrade has introduced a test that many consultants feel is an attempt to catch them out, and I fear that, if a consultant wishes to raise policy issues or be critical of the way that Austrade administers the grants program, that could put them at odds with it, and there is this unduly broad power that could be used against them.\n\nMuch of this feeling amongst consultants has been prompted by the already high standards consultants meet. They already have high hurdles to jump. There does not appear to have been broad, constructive discussion with the industry about the impact of this new test, and Austrade does not appear to have taken the concerns of consultants on board to any material extent. In particular, and significantly, I note that the board of the Export Consultants Group have indicated their support for this disallowance. It reflects the views of the overwhelming number of the membership. Indeed, information I have received this evening is that this is a unanimous view of what is effectively the peak body, the Export Consultants Group. It is a significant group. It is made up of approximately 90 members, who represent all types of consultants, from large consulting firms to small, one-person operations. These members assist over 2,000 EMDGS applicants and have worked with over 4,000 exporters. The Export Consultants Group time and time again have rejected these regulations as being unreasonable, too complex, too onerous and simply counterproductive in terms of the work that must be done. They do not provide the protection to taxpayers they purport to. They do not provide the protection to exporters. They appear to be completely counterproductive.\n\nI note that the Australian Labor Party are unlikely to support this disallowance. These are effectively regulations that were formulated during their time in office. To them, I say: you first introduced this determination in good faith, but the concerns raised by industry, by the consultants, were not and have not been addressed to date. Now is the opportunity to correct any oversights and to improve the legal framework. We need to go back to the drawing board in relation to this.\n\nTo the government, I say: these regulations are not just red tape; they are red tape with barbed wire wrapped around it. If you want to reduce the regulatory burden on small to medium enterprises, if you want to support exporters into new and niche markets, take note of the concerns raised by the consultants. These are the people at the front line who have to deal with these applications. These regulations will create an increased amount of red tape for exporters and consultants, as well as setting up an unlevel playing field. It is my view that this determination needs to be reconsidered after greater consultation with the industry, with the consultants. Austrade also need to take into consideration matters of procedural fairness and unnecessary red tape and the impact on businesses that have acted in good faith. This determination is far too broad for a matter that deals with people's livelihoods. It is not good enough to leave these matters up to subjective judgement. There must be safeguards in place.\n\nI hope that, even if my motion is not supported, the government will urgently reconsider the form of the fit-and-proper-person test and the accuracy test, an accuracy test that, to me, defies the previous rulings by the department where it encourages people to claim all reasonable expenses. There was a mechanism previously to deal with those, so that they could be queried by the department and they could be given a preliminary ruling, in a sense. I say that by way of shorthand. That is being lost now, and it is a sort of sudden-death-type application where, if you exceed a certain percentage\u2014and that percentage reduces over the years; it is nine per cent for this year in terms of the accuracy test, reducing to a significantly lower amount\u2014then you can lose your status as an approved consultant, and, effectively, your ability to be a consultant will be significantly harmed.\n\nI hope the government will reconsider this if it does not support this disallowance. My genuine fear is that this determination, this set of regulations, will not improve the quality of export consultants and the applications they lodge; instead, it will drive people out of this industry and leave small to medium exporters either high and dry or, alternatively, having to pay a lot more for consultants\u2014and this is a sector that, more than ever, Australians need to encourage. I believe the impact of these revelations will be deleterious for our exporters, without adding any value to the robustness and the probity of the way that these grants are administered. That is why I strongly support the disallowance.\n\nLisa Singh\n\nLabor will not be supporting Senator Xenophon's disallowance motion.\n\nNick Xenophon\n\nDo I get a chance to sum up?\n\nUrsula Stephens\n\nYes, you may, Senator Xenophon.\n\nDon Farrell\n\nNot much to sum up about!\n\nLong debate text truncated.\n\n",
+    "aye_votes": 10,
+    "date": "2014-06-16",
+    "possible_turnout": 76,
+    "clock_time": "9:26 PM",
+    "id": 3223,
+    "no_votes": 37
+}

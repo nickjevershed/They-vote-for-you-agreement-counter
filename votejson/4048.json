@@ -1,0 +1,675 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Robert",
+                "last_name": "Simms",
+                "person": {
+                    "id": 10842
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100848
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Maritime Transport and Offshore Facilities Security Amendment (Inter-State Voyages) Bill 2015; Second Reading",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 1,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5511",
+            "id": 803,
+            "official_id": "r5511",
+            "title": "Maritime Transport and Offshore Facilities Security Amendment (Inter-State Voyages) Bill 2015"
+        }
+    ],
+    "summary": "Jacinta Collins\n\n(\n\nIt is a real balancing act. On one hand, we need to make sure that we protect ourselves from those who would seek to harm us. On the other hand, we need to make sure our security arrangements do not curtail our normal activities or place unnecessary burdens on the commercial activities that drive economic growth.It is that balancing act that sits at the heart of the Maritime Transport and Offshore Facilities Security Amendment (Inter-State Voyages) Bill 2015, thepiece of legislation before us today.It seeks to exclude Australian flagged vessels involved in interstate trade from the regulatory regime with regard to security.\n\nUnder current circumstances, all Australian vessels of 500 gross tonnes or more, or those carrying 13 or more passengers on international and interstate vessels, must have a ship security plan.That plan must include a security assessment of the vessel's operations that provides information on the security measures that the ship will put in place to prevent unlawful interference.It must also include details of actions that would be taken in the event of a security incident.These provisions do not apply to vessels that move goods within an Australian state\u2014say, on a voyage from Brisbane to Townsville.\n\nThe government argues that there is no increased security risk simply because a vessel crosses state borders. It also advises that removing the security obligations from vessels engaged in interstate trade will save the shipping industry up to $1 million a year.\n\nThe opposition will support this bill.We agree that, while it is critical that we take all steps we can to keep our nation safe, this provision can be dispensed with without any substantial effect on security.We also agree with the government's intention to continue to require that vessels that carry passengers or vehicles interstate should continue to be subject to the existing security regime. That makes sense.\n\nI note that the minister has said in the other place that the government proposed to amend the Maritime Transport and Offshore Facilities Securities Regulations to this end. This legislation relates, in particular, to Australian flagged vessels, not those from overseas. As much as I am happy to support the changes to exclude Australian flagged vessels from the securities regulations, I note the government still appears intent on removing Australian flagged vessels from our own coastline. While legislation to this effect was defeated in the Senate late last year with the support of the majority of crossbench senators, there has been to date no sign of any changes in that plan by the government. In fact, the minister has granted new temporary licences to foreign registered ships in the full knowledge that Australian seafarers will be sacked and replaced with a ship with foreign crew, paid well below Australian standards. Not only is this unconscionable for any Australian government; it is also contrary to the spirit of the legislation that is the minister's responsibility to properly administer.\n\nI specifically refer to the MV _Portland_ in this respect. The government's legislation would have destroyed Australia's domestic shipping industry. No other G20 nation has this type of arrangement for coastal trade. No other G20 nation! This is why the opposition has characterised that failed legislation as 'unilateral economic disarmament'. For example, the United States, the bastion of the free market, requires that all coastal trade be undertaken by US flagged vessels crewed by Americans. Further, the ships used must have been built in the United States. Yet here in Australia our government, this Turnbull government, wanted to purposely destroy its maritime industry by deliberately putting it at a competitive disadvantage. The intent of the bill was clearly laid out in its supporting documents which explicitly stated that the expectation was that it would cause Australian flagged vessels to reflag overseas. The government's official modelling, for example, said:\n\nMany of the operators currently operating under the Australian General Register would likely re-flag their vessels in order to compete with the foreign operators who enjoy the benefit of comparatively lower wage rates. Australian seafarer jobs would be adversely affected as Australian operators re-flag from the Australian General Register.\n\nShip operators are likely to replace Australian seafarers (paid under EA rates) with foreign seafarers (paid under ITF rates).\n\nThe regulatory impact statement explained that:\n\n\u2026 Australian reliance on foreign shipping services is likely to grow in the coming years as ships continue to leave the Australian fleet due to retirement or reflagging overseas to pursue more favourable taxation and employment environments.\n\n\u2026 \u00a0\u00a0\u00a0\u2026 \u00a0\u00a0\u00a0\u2026\n\nShould a less regulated coastal shipping regulatory system be implemented, it is likely that some operators of Australian ships will seek to move to the lower cost model and flag their ships overseas. This would allow operators to pay all workers on the now foreign flagged ships internationally competitive wages and conditions.\n\nIn a section of the regulatory impact statement discussing non-bulk trade across Bass Strait, the advice could not have been clearer:\n\n\u2026 we assume 4 vessels will register under a foreign register to reduce operating costs.\n\nThe statement also obliterated the government's claim that this shipping reform is about abolishing red tape. It said that while the changes will produce economic benefits for businesses, 88 per cent of these claimed benefits come from savings in labour costs. This was not about eliminating red tape. It was about eliminating people's jobs\u2014Australian people, people rely on those jobs to put food on the table. Strangely, during last year's parliamentary debate, the minister for transport tried to deny that his ideologically driven legislation would destroy Australian jobs. He must not have read his own legislation, the survey or the regulatory impact statement that I just referred to. And it is not what his advisers said. In the course of the Senate committee hearing into the legislation, it emerged that the senior officials of the Department of Infrastructure and Regional Development gave West Australian businessman, Bill Milby, clear advice about what he should do if he wanted his cruise ship business to remain competitive under the planned changes. Mr Milby was told that he should sack his Australian crew, register his vessel overseas, and hire cheap foreign labour. Despite the minister's attempts to claim this did not happen, the bureaucrats themselves confirmed it had happened, in sworn testimony to the Senate committee. But it is not their fault. They were simply telling the truth about the intent of this now-failed legislation. Why do I raise this failed legislation at this stage? To highlight that it is the aim of those opposite to reduce shipping costs\u2014but to do so, they want thousands of Australians in the shipping industry to lose their jobs. They are quite happy to have that effect.\n\nLabor is also in favour of reducing costs for businesses, but we will always balance that aim against the broader national interest. And I say it is absolutely in our national interest to have a domestic shipping industry. It is in our economic interest, because it provide jobs for Australians and helps meet our security interests. These jobs allow people to raise their families and drive economic activity in their communities as consumers. It is also in our environmental interest, because we know Australian crews are familiar with our coastlines, and that all major shipping accidents off our coast in recent years have involved foreign flagged vessels. And it is in our national security interest to have a strong Australian presence on our coasts to keep an eye out for suspicious activities that might not be recognised by overseas crews.\n\nLabor worked hard with the Senate crossbench to defeat last year's proposed legislation\u2014this failed bill; the most outrageous attack on the livelihoods of average Australians since Work Choices. Alongside other senators, particularly Senators Rice, Madigan, Lambie, Muir, Lazarus and Wang, Labor has worked with the industry to develop sensible adjustments to policy that could give the industry certainty and efficiency. In this context, I would like to acknowledge the work of Teresa Lloyd of Maritime Industry Australia Ltd, and the Maritime Union of Australia, led by its national secretary, Paddy Crumlin.\n\nThere have been two workshops in Melbourne attended by a broad cross-section of the industry, including shippers and unions. The most recent was last month, on 21 January. The government has sent no members of parliament, favouring a modest attendance by a departmental official. And in the meantime, the government has granted temporary licences to ships that replace Australian crews, with apparent indifference to the economic, environmental and national security implications of this approach. We would urge the government to improve its engagement with the sector to further our national interests. Efficiency must be part of that discussion. However, the ideological approach of removing domestic shipping must stop.\n\nIt is against that background that we contemplate the legislation before us today, which seeks to reduce red tape across Australian flagged vessels. Labor will support this legislation because it makes sense. But if those opposite continue to have their heads in the sand, the whole exercise will be completely academic; there will not be any Australian flagged major trading vessels. With that warning, Labor commends this bill to the Senate.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 38,
+    "date": "2016-02-03",
+    "possible_turnout": 77,
+    "clock_time": "10:10 AM",
+    "id": 4048,
+    "no_votes": 12
+}

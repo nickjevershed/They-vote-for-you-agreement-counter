@@ -1,0 +1,623 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "George",
+                "last_name": "Brandis",
+                "person": {
+                    "id": 10067
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100025
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 12,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5375",
+            "id": 750,
+            "official_id": "r5375",
+            "title": "Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015"
+        }
+    ],
+    "summary": "Scott Ludlam\n\nI believe the amendment should be agreed to, so I commend it to the chamber. For the benefit of senators, when the debate was interrupted before question time we were discussing the issue of whether it should be a two-year mandatory data retention period, if it is mandatory at all, or, in conflicting proposals, three months or six months. We had spoken of diminishing returns and the fact that most data is nowhere near two years old in the jurisdictions for which we have information and that we do not have information in Australia; and thus, like so much of the rest of this policy, we are proceeding on the basis of anecdote rather than evidence. I do not propose to repeat myself because we still have a long way to go, so I commend Australian Greens amendment (5) on sheet 7669 to the chamber.\n\nQuestion negatived.\n\nDavid Leyonhjelm\n\nI withdraw LDP amendments (5) and (6) on sheet 7661. I move amendment (7) on sheet 7661:\n\n(7) Schedule 1, item 1, page 11 (after line 5), after section 187C, insert:\n\n187CA Information or documents must be kept in Australia\n\n\u00a0\u00a0\u00a0\u00a0\u00a0A service provider must take all reasonable steps to ensure that information or a document that the provider must keep under section 187A is:\n\n\u00a0\u00a0(a) kept in Australia; and\n\n\u00a0\u00a0(b) kept by a body incorporated, owned and operated in Australia.\n\nThe rationale for this amendment is widespread industry disquiet that sensitive, personal information will be stored offshore in jurisdictions with more flexible approaches to privacy and security. My party, the Liberal Democrats, dislikes protectionism of any sort, and it is a sign of how bad this bill is that I have even considered an amendment of this kind. But it probably is in the national interest not to have all our personal data bundled up and stored somewhere else overseas, very likely in China because that is where it is cheaper. It would be a honeypot for not just our own intrusive snoops and bullies but everyone else's as well.\n\nOf course, I recognise that corporate ownership can be quite complicated and very difficult to ascertain, and companies will often subcontract out. That is why I have included a requirement that the service provider 'take all reasonable steps'. This will go some way towards mitigating some of these issues. For example, it would ensure that, if a service provider's contracted data storage provider were to subcontract to a provider outside of Australia without the service provider's consent or knowledge, the service provider could not be penalised for it.\n\nScott Ludlam\n\nI will speak briefly to this because it does traverse an area that we addressed earlier, to a degree. It does require a bit of careful drafting, and I will just also foreshadow that the Australian Greens have an amendment to similar effect, worded slightly differently from the way that Senator Leyonhjelm has tried to handle it\u2014and it is difficult.\n\nWe heard, I think, a variety of views on this matter when Senator Xenophon, Senator Leyonhjelm and I convened a forum of interested parties from across the political spectrum and from industry, digital rights organisations and advocates late last year. One of the guests we had was the then iiNet Chief Regulatory Officer Steve Dalby, and he put forward quite forcefully the fact that ISPs were trying to find the lowest cost option for storing the required data which, in his words, 'at the moment is in China'.\n\nI recognise that not all the costs of the data retention scheme are in storage; in fact, storage gets cheaper by the year. But of course data volume is increasing, and it is a bit difficult to tell whether in the future these things are going to keep pace, because, as fast as technologists work out cleverer ways of storing ever-larger quantities of material in smaller and cheaper spaces, we generate more of the staff. So storage is only part of the cost. I suspect Senator Brandis, if I asked him, could not provide us with a break-up of the roughly $390 million\u2014how much of that estimated cost is storage, how much is retrieval systems, how much of it is compliance administration. I suspect, if those numbers exist, they may well be beyond the reach of the Senate, although I would be delighted to be proven wrong.\n\nThe point Mr Dalby was making was not so much that iiNet would take up that option of the lowest cost hosting provider but that perhaps others, with fewer resources than an entity the size of iiNet, might have to do just that. We heard estimates from industry earlier this year that, potentially, half of the smaller end of the spectrum of service providers might go to the wall as a result of this. I think it is spectacular reversal of policies of regulation that, just for a change, you have actually been supported by all sides of politics, and the disaggregation of Telstra from NBN was a part of that\u2014taking the wholesale business out of private hands and bringing that back into public hands, and then letting the private sector let it rip at the retail end. That has actually created what I would argue is a wonderful fragmentation in the RSP end of the market, but it is those smaller and newer players that we will potentially put to the wall. They are going to be seeking the lowest costs. They will not have the legal clout and they may not have the technical clout to embed the kind of security provisions that are going to be required. They do not necessarily have high-powered legal counsel and they are not necessarily going to be able to run sophisticated demands of this government to recover their costs. That end of industry, in particular, who already operate on pretty fine margins, are going to be looking to cut costs wherever they can. Some of that obviously is going to be in storage.\n\nA former ASIO chief whose name has popped up a couple of times, Mr Irvine, who Senator Brandis quite correctly pointed is pro data retention\u2014nothing that I quote of his words is intended to dispute that\u2014was at a defence and national security roundtable jointly held by _The Australian Financial Review_ and KPMG not that long ago, and he said that while the cloud was a 'wonderfully efficient thing' and it was where everyone was going, 'I would rather the cloud hovered over Sydney or Melbourne rather than Shanghai or Bangalore, where it was governed by someone else's sovereign legislative system.' He said he would feel much more comfortable with the data governed by Australian law than by law in some other country. He said:\n\nThese days every bit of data is sensitive and I know Telstra stores its data in 13 different places\n\nThat is not necessarily 13 different countries or jurisdictions, but Telstra, as a result of its very long history and the huge variety of services that it offers, hosts material on quite different kinds of platforms and systems, and obviously the cloud, almost by definition, is transnational.\n\nThis is the speech in which I believe Mr Irvine declared himself a 'cyber nationalist', which is an interesting concept to fold into a medium as borderless as the internet. The reason he put that view is that, although Senator Brandis was at some pains to inform us earlier that Australian material hosted in other countries is still obliged to treated under Australian privacy law, it is difficult in advance to establish whether the protection from data breaches is as robust as we would find here in Australia, and is it is going to be easier to establish, I would argue, that the protections are up to scratch? This is people's personal private material. It is not the personal private material of just criminals and terrorists but necessarily, by the breadth of this bill, of everybody else\u2014people who are not suspected of anything.\n\nThere was a remarkable report produced by Mandiant about two years ago, and it is very rare that documents such as this would get put into the public domain. They spent months and months tracking an entity that they referred to as APT1\u2014advanced persistent threat 1\u2014operating out of an office block in Shanghai that they argued was a unit of the Chinese military, and it appeared that its entire sole purpose of existence was industrial espionage on a massive scale. This entity appeared to be entering corporate data systems and government databases around the world using a mix of technical and social engineering techniques to gain access to systems to set up small encampments inside people's databases and then systematically loop and withdraw material, some of it quite sensitive, for purposes that I suppose we can only guess at. This kind of stuff happens on an extraordinary scale, and it is obviously not just the records of ordinary Australians that are going to be stored but everybody all the way up to CEOs of blue-chip corporations and their families will be caught up in this legislation\u2014personal records; private and confidential communications of a presumably very sensitive nature from a business perspective. We are proposing that all that material be hosted and preserved for the first time in a really systematic way, and we are also forcing the providers to make it much easier to access and withdraw and bring it out. I suspect that is where Mr Irvine was heading with his cyber nationalism. It is his view that telcos should be forced to create this data, and obviously that is where we part ways. His view is that, if it is going to be created, we had better make sure we look after it as well as we can and a server somewhere else in the world, goodness knows where, subject to goodness knows what kind of technical protection measures, may not be the best place for it.\n\nThe Australian Greens will be supporting Senator Leyonhjelm's amendment. Senator Brandis acknowledged before that the government does not have a closed mind on this issue and that it may be something that is revisited in the course of the review that you alluded to before. In supporting this amendment, and that of the Australian Greens that is to follow, I would also acknowledge that it is likely to increase costs. It is likely to be more expensive; that is precisely the reason that some of the ISPs may well want to outsource this elsewhere. They would be doing that because of cost. That means that if we require them to host this material in Australia that may well have a material financial impact on the bill. I would like to hear from Senator Brandis how costs are being factored in and how he can proclaim confidence about material hosted elsewhere that may well be subject to Australian privacy law but is subject to a much lower standard of technical protection, and whether this would be dealt with in that six-month period where ISPs and telcos are going to be required to submit their implementation plans, whether data security of where they are proposing to host these new categories of material will be a material fact and whether the government is aware that this may indeed increase costs if it is held locally.\n\nJacinta Collins\n\nI am not sure why Senator Ludlam was necessarily waiting for the opposition to contribute at this stage, but I will put our position on the record and correct some of his misunderstandings about how some matters are to proceed. I am sure Senator Brandis will follow with respect to the remainder of his questions. As I said in my speech on the second reading, Labor holds concerns about offshore storage of data retained under this scheme. However, the appropriate avenue for resolving these concerns is, as the joint committee noted, through the broader telecommunications sector security reform process\u2014a process that Labor established and that the government has agreed is the appropriate avenue to address these concerns. There is sufficient time within the implementation period for this to occur, and that is where Labor will be focusing our efforts.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 13,
+    "date": "2015-03-25",
+    "possible_turnout": 74,
+    "clock_time": "8:34 PM",
+    "id": 3749,
+    "no_votes": 33
+}

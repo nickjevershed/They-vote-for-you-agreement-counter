@@ -1,0 +1,935 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Eric",
+                "last_name": "Abetz",
+                "person": {
+                    "id": 10003
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100001
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Omnibus Repeal Day (Spring 2014) Bill 2014; Consideration of House of Representatives Message",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 2,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5360",
+            "id": 735,
+            "official_id": "r5360",
+            "title": "Omnibus Repeal Day (Spring 2014) Bill 2014"
+        }
+    ],
+    "summary": "Stephen Conroy\n\nI move the following amendment in place of amendment (7):\n\n(1) Page 25 (after line 29), after Schedule 3, insert:\n\nSchedule 3A\u2014Finance\n\n_Public Governance, Performance and Accountability Act 2013_\n\n1 At the end of Division 2 of Part 4 -1A\n\n\u00a0\u00a0Add:\n\n105BA Future submarine project tender process\n\n(1) This section applies if the Commonwealth (including a Minister on behalf of the Commonwealth) proposes to enter into a contract (a _submarine design and building contract_) for the design and building of a submarine, or a substantial part of a submarine, as part of the future submarine project.\n\nNote 1: The future submarine project is designated SEA 1000 in the Defence Capability Plan as in force on 1 December 2014.\n\nNote 2: This section does not apply to contracts for research, concept or preliminary design, planning or other preparatory work that does not involve the building of a submarine or a substantial part of a submarine.\n\n(2) The submarine design and building contract must not be entered into other than as the result of a limited tender process conducted in accordance with the Defence Procurement Policy Manual as in force on 1 December 2014, subject to this section.\n\n_Tender process_\n\n(3) The future submarine project is taken not to be an exempt procurement for the purposes of the Defence Procurement Policy Manual.\n\n(4) A person or body is not eligible to bid for the tender unless the person or body gives the Commonwealth an undertaking that the submarine building, maintenance and sustainment will take place in Australia.\n\n(5) The Commonwealth must not enter into a submarine design and building contract in relation to the future submarine project unless the Commonwealth is satisfied that the contract includes guarantees that:\n\n\u00a0\u00a0(a) the majority of work on the submarine build will be undertaken by Australian labour; and\n\n\u00a0\u00a0(b) the majority of the materials used in the submarine build will be sourced from Australian suppliers.\n\n(6) This section ceases to have effect at the end of 30 June 2020.\n\nThis amendment is necessary, because much has changed in respect of the future submarine project since the Senate first passed amendment (7).\n\nThis revised amendment removes several of the procedural stipulations contained in the original, and replaces them with two simple requirements: (1) that our future submarines are built, maintained and sustained here in Australia; and (2) that both the majority of work and materials for the submarines are Australian-sourced.\n\nIt is unfortunate that it is necessary to move such an amendment to ensure that the Australian government does the right thing by Australia, that it does the right thing by Australian taxpayers, that it does the right thing by the Australian Defence Force, and that it does the right thing by Australian companies and Australian workers. It is unfortunate, but it is necessary.\n\nIt is necessary because much has changed since the Senate passed the original amendment. But one thing remains the same: Mr Abbott's unwavering desire to send our future submarines offshore; Mr Abbott's desire to keep his promise to the Japanese Prime Minister and to break his solemn election promise to the people of South Australia.\n\nWe have witnessed a litany of outrageous decisions and statements by the government and the Prime Minister that have put at risk our vital naval shipbuilding capacity, decisions that have resulted in over 1,000\u2014let me repeat that: over 1,000\u2014Australian jobs lost at shipwrights around the country, all on Mr Abbott's watch.\n\nWho could forget Mr Abbott's decision to walk away from his government's pre-election promise to build 12 submarines in South Australia? Or Mr Abbott's decision to make a secret deal with Japanese Prime Minister Abe to send our submarine construction offshore to Japan, where the Japanese will have to build an entire new shipyard. But even then, that was not enough! Mr Abbott decided to exclude\u2014to actually, specifically and legally exclude\u2014Australia's shipyards and Australian workers from tendering for Navy's new supply ships.\n\nAs if that were not enough, Mr Abbott had a another surprise up his sleeve for Australian shipbuilders\u2014another insult to add to the injuries that he and his government had already inflicted on this industry and its highly-skilled workers. In February of this year, during the height of the Liberal leadership tensions, Mr Abbott invented a sham competitive evaluation process for the future submarines. He did this for one, simple reason. It was not because it was a result in better, more capable submarines for our defence forces. It was not because it would result in a cheaper, more cost-effective submarine force for Australian taxpayers. And it was certainly not because he gave a damn about the future of this strategically-vital industry and its workers. No, he did it for one simple, selfish and shameful reason: to save his own job. He needed Senator Edwards' vote to save his prime ministership, so he concocted a sham process. It was a sham process to appease Senator Edwards and to win his support in a leadership ballot. It was a sham process that his own defence minister could not explain at a public press conference.\n\nIt was a sham process devised without any formal written advice from the defence department. Let me repeat that: it was a process for a procurement of a $50 billion overall contract without a single note, word of advice or submission from the Department of Defence\u2014not a word. And it was a sham process that will not\u2014and I want to stress this; it will not\u2014deliver three comparable bids with fixed prices and fixed schedules. It was a sham process where, as Senator Xenophon discovered, even if you win the process your bid can still be declined due to so-called 'broader strategic considerations'.\n\nIt was a sham process that meant that Mr Abbott can still fulfil his promise to Japanese Prime Minister Abe and ensure his captain's pick of sending our submarines overseas. These 'captain's picks' are now becoming a familiar albatross around the Prime Minister's neck. We have seen what happens when the Prime Minister makes one of his dud captain's picks. He promised a gold-plated, Rolls-Royce, paid parental leave scheme that made no sense and which almost his entire party opposed\u2014but he said it was a captain's pick. He brought back knights and dames in a bizarre throwback to a previous era that most Australians cannot remember and do not relate to. He chose Ms Bronwyn Bishop as Speaker.\n\nEric Abetz\n\nTell us about Peter Slipper!\n\nStephen Conroy\n\nYes, exactly. And he knighted Prince Philip. All of these were captain's picks. But they are not the worst. That litany of captain's picks is not the worst of his captain's picks. Senator Bernardi from South Australia, stop sneaking out of the room to go and use your new NBN connection! Come back in here and vote for South Australian jobs!\n\nSo, here we are today with a sham process and the worst captain's pick of them all. This is a project valued at up to $50 billion that is crucial to the defence of our nation for decades to come, and upon which the livelihoods of thousands of hardworking Australians depend. And while Mr Abbott seems content to just throw billions of dollars and thousands of Australian jobs away, in this place we cannot allow this to happen. We know, based on testimony from Australian officials, that the Department of Defence did not provide advice on this process. We know that it was concocted by the Prime Minister and his staff, not our defence procurement experts. We know, thanks to the honesty of Australian officials, that Japan's involvement in this process is 'based on political considerations, not merit'. That is because Mr Abbott needed a way to ensure that Japan was included in this sham process. We know from Australian officials that this process\u2014it is quite extraordinary for a process for a $50 billion project!\u2014will not result in comparable bids with fixed prices and fixed time lines. That is because this process is a political fix designed in a panic by the Prime Minister, the Minister for Defence and their staff to solve Mr Abbott's political problem. We know, based on testimony from officials at Senate estimates in June, that the recommendations at the end of this sham process will be reconciled with 'broader strategic considerations'. That is because Tony Abbott needed a way to keep his word to Prime Minister Abe\u2014\n\nEric Abetz\n\nMr Abbott, to you.\n\nStephen Conroy\n\nI am sorry\u2014Mr Abbott\u2014even if Japan's bid is not the strongest of the three. We also found out recently that the Australian government has assigned, full time, a staff member in our embassy in Japan to hold the Japanese government's hand to help them submit a compliant bid. That is an extraordinary situation to be in. The French do not need that help, the Germans do not need that help, but the Australian government, to help out Mr Abbott's captain's pick, have got a full-time person assigned in our embassy in Japan to help the Japanese put in a complying bid. What a shambles!\n\nMatthew Canavan\n\nWhat have you got against the Japanese?\n\nStephen Conroy\n\nNothing at all. If they win\u2014if their bid to build in Australia wins\u2014I will celebrate! I will celebrate!\n\nLet no-one make a mistake on this: the leading industry experts have said that it is cheaper to build, maintain and sustain our future submarines here in Australia. This is what Australia's leading industry expert, Dr John White\u2014and I would remind you, Senators, that Dr White is now heading up the German consortium's bid as part of Mr Abbott's sham process\u2014told the Senate Economics References Committee hearing on 22 July:\n\nI am sure that if we truly analyse all aspects of the project we will have a lower cost to the government from an all-build in Australia \u2026\n\nIt does not come more devastating than that statement from one of the bidders. Build, maintain and sustain in Australia and it will be cheaper than sending it overseas to Germany, France or Japan. A bidder says it will be cheaper\u2014not a Prime Minister, trying to concoct a reason to save his job and to deliver on his promise to the Prime Minister of Japan. We know that the sham process is not about saving Australian taxpayers' dollars. We know from the same experts that the only way to ensure that we have a viable naval shipbuilding capability is to build both the future frigates and the future submarines here in Australia. This is what Dr White also said:\n\n\u2026 if Australia wants to have a long-term, sustainable, competitive, world-class naval industry, we need to plan to build both future frigates and future submarines in this country.\n\nThe road map is there. It is cheaper. If we want a world-class submarine and naval shipbuilding industry, we need to build it all here.\n\nJust two weeks ago we saw the Prime Minister and a coterie of ministers making a range of naval shipbuilding announcements in South Australia. While the government's decision to build the future frigates in Australia is welcome, Mr Abbott laid bare the hypocrisy at the heart of his sham submarine process. When asked why the future frigates should be built in Australia\u2014and this government has mandated that they be built in Australia\u2014Mr Abbott finally admitted what Labor has said all along. This is what he said:\n\n\u2026 there are significant benefits that flow from a domestic build.\n\nLet me repeat that: there are significant benefits from building naval vessels in Australia. That is what Mr Abbott says, to which we applaud! But the hypocrisy is breathtaking. What is good for our future frigates is apparently not good for our future submarines\u2014despite the fact that the expert advice is that we also need to build the future submarines here to enable a viable local industry and despite the fact that the experts tell us that it is cheaper to build, maintain and sustain our future subs in Australia. The explanation for this hypocrisy is simple: Tony Abbott's sham submarine process was never based on facts or merit. It was designed purely to save Mr Abbott's job during the height of Liberal leadership tensions and to fulfil his worst captain's pick\u2014a very high bar to get over\u2014of sending our future submarines to Japan. We cannot allow Tony Abbott to get away with another disastrous captain's pick. It is not in the interests of our nation, it is not in the interests of our defence forces, it is not in the interests of Australian taxpayers and it is anything but in the interests of Australia's strategically vital shipbuilding industry and its highly skilled workers.\n\nI implore senators in this place not to leave this decision to Mr Abbott; it is simply too important. I implore all senators to join with Labor and support this amendment. Supporting this amendment will ensure that our future submarines are built, maintained and sustained here in Australia. We cannot afford a final captain's pick.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 34,
+    "date": "2015-08-19",
+    "possible_turnout": 76,
+    "clock_time": "11:08 AM",
+    "id": 3881,
+    "no_votes": 36
+}

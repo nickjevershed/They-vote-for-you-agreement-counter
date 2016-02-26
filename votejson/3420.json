@@ -1,0 +1,688 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Palmer United Party",
+                "id": 100831
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Palmer United Party",
+                "id": 100830
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kate",
+                "last_name": "Lundy",
+                "person": {
+                    "id": 10398
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100129
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Migration Legislation Amendment Bill (No. 1) 2014; Second Reading",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 2,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5212",
+            "id": 713,
+            "official_id": "r5212",
+            "title": "Migration Legislation Amendment Bill (No. 1) 2014"
+        }
+    ],
+    "summary": "Kim Carr\n\nAustralia's migration framework underpins our economic growth and social diversity. It is a complex web of legislative provisions, judicial interpretation and policy intentions. Where confusion exists or the intention is unclear, a change is required. This is the reason for this bill, which is intended to end inconsistencies in the application of the Migration Act 1958.\n\nRecently, at a Senate tactics committee meeting, I was quizzed on the provisions of this bill, so I will need to go to some detail of the provisions of this bill. I trust Senator Faulkner will be taking particular notice. This bill seeks, under schedule 1, to clarify restrictions on applying for further visas by amending sections 48, 48A and 501E of the act.\n\nOn the current interpretation of section 48, anyone who has had a visa or a visa application cancelled at any time cannot apply for a further visa.\n\nSarah Hanson-Young\n\nI rise on a point of order. Could you ask people to leave the chamber, perhaps?\n\nSue Lines\n\nYes, thank you.\n\nSarah Hanson-Young\n\nSorry, Senator Carr. I want to hear you.\n\nKim Carr\n\nYou did! On the current interpretation of section 48, anyone who has had a visa or a visa application cancelled at any time cannot apply for a further visa. This is contrary to the policy intention, which is to prevent people who have done something wrong from playing the system to stay in the country.\n\nThe amendment proposed in this legislation will ensure that each application is considered on its merits, so that if a person has a violation dating from a previous visit to Australia and is now back in the country, the prior history will not prevent further applications.\n\nAmendments to sections 48A and 501E seek to extend the operation of section 48 to people who may have had a valid application lodged on their behalf\u2014for example, family members, or persons who are mentally impaired. This is a result of a recent Federal Court decision challenging the application of section 48 to a minor on whose behalf an application had been made. \u00a0\u00a0\u00a0In Kim v Minister for Immigration [2013] FCCA 1526, it was argued that section 48 would not limit further applications by minors who did not know about, or understand, the nature of visa applications that were made on their behalf and subsequently refused.\n\nThis could result in families being separated due to inconsistent decision-making. For example, the family may be subject to the bar under section 48 but the children who were part of that refusal would not be prevented from making further visa applications. \u00a0\u00a0\u00a0This amendment makes clear that the bar will apply even if the applicant was unaware an application had been made.\n\nDifficulties may arise where there is a child involved who was old enough to understand what was happening but is still under 18, and so considered as part of the family unit. But the fundamental point is that the system will assume a parent is acting in the best interests of a child for whom a visa application has been made. This legislation makes that point.\n\nSchedule 2 proposes that the department must remove a detainee who was entitled to apply for a substantive visa or revocation of the cancellation of a substantive visa, but did not do so. The obligation to remove in such circumstances will apply irrespective of whether the detainee has a made a valid application for a bridging visa. And, despite the power of removal in subsection 198(5) of the act, the department must not remove a non-citizen whose valid application for a protection visa has not been refused or finally determined, even if the application was made outside the time limit.\n\nUnder the current subsection, detainees may be held in indefinite detention while applications for bridging visas are pending, as the department does not have the power to remove a person who has applied for a bridging visa. There is also no limit to the number of bridging visa applications that a person can submit. A bridging visa application also takes away the removal powers of the department, which can result in detainees continuing to apply for bridging visas after all avenues have been exhausted.\n\nIt is important to note that this amendment legislation does not impinge on an individual's right to apply for a substantive visa. To address potential concerns regarding Australia's human rights obligations, a provision has been added to the legislation after subsection 198(5) that ensures, despite the powers set out in the legislation, that protection-visa applicants will not be considered for removal until either the visa application has been refused or the application has been 'finally determined'.\n\nSchedule 3 proposes amendments to section 262 to allow debt recovery from people who have been detained for people-smuggling and illegal foreign fishing. \u00a0\u00a0\u00a0Under the current provisions of the act, a person is not liable for costs arising from their detention and removal when they are no longer detained because of section 250, or because they were granted a visa, or because they were not in immigration detention at the time of their conviction.\n\nThe amendments empower the Australian government to recover detention debts from people smugglers and illegal foreign fishers but not asylum seekers. These amendments are consistent with Labor's policy of providing financial disincentives to engage in people-smuggling and illegal foreign fishing.\n\nSchedule 4 amends section 379G of the act to clarify that the role of an authorised recipient is to receive documents from the minister or tribunals on behalf of a visa applicant, but not to act on the applicant's behalf. This amendment clarifies the decision of the Federal Court in MZZDJ v Minister for Immigration and Border Protection [2013] FCAFFC 156, which suggested an authorised recipient was effectively an agent of the applicant and therefore able to act on the applicant's behalf. People engage authorised recipients for several reasons, such as ease of communication where language barriers exist or where applicants have no fixed address, but it is important to note the difference between an authorised recipient and a migration agent. A migration agent will act on someone's behalf and may also act as an authorised recipient.\n\nThese amendments also address the finding of the Full Federal Court in SZJDS v Minister for Immigration and Citizenship [2012], known as FCAFC 27, that the term 'applies for review' in subsection 279G(1) of the act means that an application must have been properly made under section 347 for a tribunal to be obliged to give documents to an authorised recipient. The amendments make clear that technicalities will not make an application to have an authorised recipient invalid\u2014that is, as long as the person has expressed a desire to have an authorised recipient, it will not matter if the application itself is valid.\n\nI turn to schedule 5. This provision inserts a new section, 51A, in the Australian Citizenship Act 2007 which will provide administrative access to, and use of, material and information obtained under a search warrant issued under the Crimes Act 1914 for certain purposes of the Migration Act and the Citizenship Act. These include making or assisting to make a decision to grant, cancel, revoke or refuse a visa or Australian citizenship; or to cancel approval of citizenship; or concerning the detention, removal or deportation of noncitizens from Australia. These provisions also insert a new section, 488AA, in the act, which provides administrative access to, and use of, material and information obtained under a search warrant issued under the Crimes Act 1914 for certain purposes, including making or assisting to make a decision regarding a grant or revocation; cancellation of revocation of a visa; or the detention, removal or deportation of a noncitizen from Australia.\n\nIn several cases the department, operating with the Australian Federal Police, has uncovered sophisticated criminal networks engaged in fraudulent migration applications. However, at present the information cannot be shared with the department's administrative officers, so the information cannot be used to question applicants. At present, only the department's law enforcement officers have access to information obtained under search warrants. The Crimes Act 1914 allows for information sharing with other agencies, but it must be enabled through the Migration Act 1958 to be legal. If the information is to be shared, it will not have any effect upon an applicant's right to review or explain the anomaly. It is important that the minister, the secretary of the department and administrative decision makers should have access to the full range of information when deciding on citizenship applications, visa applications or other circumstances relating to detention, removal or deportation.\n\nWith these matters, Labor is satisfied that the amendments will not adversely affect an applicant's ability to have decisions reviewed, and that procedural fairness and natural justice will continue to apply when Crimes Act warrants are used in administrative decision making.\n\nFinally, on schedule 6, the amendment will bring all visa applications under the code of procedure\u2014section 57 of the act, a statutory embodiment of the common-law hearing rule. At present, section 57 applies only to visa applications made onshore, and common-law procedural fairness applies to applications made offshore. The definition of procedural fairness should be consistent for all visa applications, whether they are made onshore or offshore. A higher standard of procedural fairness should not be applied to offshore applications. The amendment will significantly reduce the risk of jurisdictional error arising from the failure to apply the common-law test appropriately. For these reasons, Labor supports this proposed legislation.\n\nUpon the advice that I have received, following departmental briefings, the Labor Party is satisfied that these are non-controversial changes to the immigration law and that they regulate administrative procedures and provide a more consistent application of the law. As a consequence, we see nothing particularly exceptional in these provisions. I have had to go to some detail to explain the technical provisions, which I am sure was immensely interesting to all those listening to these proceedings. However, it is important to explain that these are not controversial matters and are consistent with a proper and fair application of the law.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 42,
+    "date": "2014-09-03",
+    "possible_turnout": 76,
+    "clock_time": "12:45 PM",
+    "id": 3420,
+    "no_votes": 9
+}

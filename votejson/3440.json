@@ -1,0 +1,863 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Democratic Labor Party",
+                "id": 100292
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Faulkner",
+                "person": {
+                    "id": 10214
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100077
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Palmer United Party",
+                "id": 100830
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Palmer United Party",
+                "id": 100831
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Eric",
+                "last_name": "Abetz",
+                "person": {
+                    "id": 10003
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100001
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Brett",
+                "last_name": "Mason",
+                "person": {
+                    "id": 10423
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100140
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Regulations and Determinations \u2014 Fair Work Amendment (Protected Industrial Action) Regulation 2014; Disallowance",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 3,
+    "bills": [],
+    "summary": "Janet Rice\n\nI move:\n\nThat the Fair Work Amendment (Protected Industrial Action) Regulation 2014, as contained in Select Legislative Instrument 2014 No. 95 and made under the _Fair Work Act 2009_, be disallowed.\n\nIn June this year the minister made a new regulation, the Fair Work Amendment (Protected Industrial Action) Regulation 2014. This regulation is part of the Abbott government's agenda to bring back Work Choices by stealth. It is part of its undeclared crusade, or very poorly disguised crusade, to destroy both the union movement and people's ability to have their rights at work protected by working together using the power of their union. The Greens will always stand up for the rights of working people, and that is why we are seeking to disallow this motion.\n\nThe regulation that we are seeking to disallow today amends the Fair Work Regulations 2009, which were made under the Fair Work Act. This amending regulation drastically changes the arrangements by which protected industrial action under the Fair Work Act can be terminated. Currently, only parties to an industrial dispute or the relevant state government can apply to have action terminated that is covered by the Fair Work Act. This regulation will allow third parties to apply for protected industrial action to be terminated and will allow state governments such as Western Australia to intervene in disputes under the Fair Work Act, even though their workers are not subject to the other rights, responsibilities and protections in the act.\n\nThe relevant section of the act reads that the people who can apply for an order to suspend or terminate protected industrial action are:\n\n(a) if the industrial action is being engaged in, or is threatened, impending or probable, in a State that is not a referring State \u2026 [then] the Minister of the State who has responsibility for workplace relations matters in the State;\n\n(b) an organisation or other person directly affected, or who would be directly affected, by the industrial action other than an employee who will be covered by the agreement.\n\nThe effect of subsection (a) will mean that even those state governments that have not referred their industrial relations powers to the Commonwealth will be able to intervene in disputes and will be able to do this even if the industrial action is only deemed to be impending or probable. The effect of subsection (b) of this change will see a ballooning of litigation before the court by third parties to an industrial dispute\u2014third parties whose main aim is to undermine workers' rights to collectively bargain. It is going to be a lawyer's picnic and will undermine the important balance between employers and employees when enterprise bargaining. And it is clearly aimed at strengthening the arm of employer groups who want to undermine union led bargaining.\n\nThe government would like to tell you that the Fair Work Act strongly favours workers and needs reform, that the existing Fair Work Act is essentially a return, after Work Choices, to the worker friendly regime that existed under John Howard and Peter Reith. The reality is the existing Fair Work Act already tips the balance in favour of employers. In fact, this attack on workers comes at a time when industrial disputation is at a record low in this country. Last year had the second lowest average level of days lost to industrial disputes since the Bureau of Statistics began collecting data. But for this government those facts do not matter. What matters is ideological warfare against working people led by Senator Abetz. The Greens are not going to stand idly by while this attack on the rights of workers proceeds, which is why we have moved this disallowance motion and why we urge senators to support it.\n\nDoug Cameron\n\nLabor supports this disallowance motion for many of the reasons that have been advanced by my colleague. The regulation is designed to provide the Western Australian Liberal government standing in the Fair Work Commission, despite the fact that the Western Australian Liberal government did not concede its powers when every other state government did. We take the view that to provide the standing for the coalition government in Western Australia to deal with aspects of this act in the way that is proposed would certainly not be in the interests of workers in Western Australia.\n\nI am cognisant of the time that is available for this debate. I would adopt many of the arguments that have been put up by Senator Rice. I would say that this is part of a suite of legislation that is before this parliament that diminishes the rights of workers, diminishes the rights of their trade unions and, as has been identified on many occasions now by both the scrutiny of bills committee and the Joint Committee on Human Rights, are in breach of international conventions, in breach of all of our commitments to international conventions and in breach of human rights. I will leave my comments at that given the time that is available.\n\nEric Abetz\n\nThe government of course fully supports the regulation and therefore will be opposing the disallowance motion. This regulation allows the state government of Western Australia\u2014not the coalition government, as asserted so falsely by Senator Cameron; this is irrespective of its complexion; it might be Labor in the future; it might be Green in the future; no matter what its complexion, it will be entitled\u2014to simply stand before the Fair Work Commission and say something. That is all that we are asking for, in circumstances where 70 per cent of the workers in Western Australia are in fact covered by the Fair Work Act. All we are saying is that this state government, and some other businesses, should be entitled to be able to advocate their position.\n\nLet us be very clear: the state government of Western Australia may well have an interest in seeking to avoid industrial action in circumstances where, as has been suggested\u2014and, indeed, threatened\u2014there might be industrial action by about five dozen highly-paid workers at Port Hedland. By striking for just one day, they would deny revenue of royalties from the minerals to be exported of $7 million. Does anybody believe that a state government facing such a loss should not be entitled simply to argue their case in front of the Fair Work Commission as established\u2014as stacked and packed\u2014by the previous federal Labor government?\n\nLet us be perfectly clear as to what we are talking about here, because the sort of money that is involved is in fact, for just one day, about what the Western Australian government spends in certain very important social areas in a whole year. That money could be gone just in one day\u2014$7 million; $100 million worth of exports per day going out of Western Australia.\n\nKeep in mind also that, in that circumstance, there are other companies involved that, regrettably, have no say in the matter because the head agreement is with another company, in relation to these tugs of which I speak. That is just one of numerous examples that come to mind of where a company's whole existence could be prejudiced, and another company might not be all that concerned about it. As a result, thousands of workers in Western Australia could lose their jobs.\n\nWhat does this regulation do? Labor's own legislation said: 'These are the parties that can appear before the Fair Work Commission, plus any others deemed appropriate by regulation from time to time.' So Labor itself acknowledged in its legislation that the regulatory framework was an appropriate mechanism to allow other parties to appear before the Fair Work Commission. Does it change the law? No. Does it change the rules? No. Does it diminish workers' rights? No. All it does is to allow other parties that were, in the past, denied, to actually present their case before the Fair Work commissioners. In a country that believes in free speech, with parties that allegedly believe in transparency and accountability, why would you not allow parties with a genuine and real interest to put their case to the independent umpire to ensure that all the facts are put before the Fair Work commissioner, before he or she needs or they need to make a determination on this very, very important issue\u2014whatever it might be\u2014from time to time?\n\nSo let us be very clear: will it change the test in relation to the right of workers to go on strike? No, it will not. Yet Senator Cameron, as is his wont, and others in Labor and the Greens say, 'This is all about diminishing workers' rights.' No, it is not. The rules and laws remain exactly the same. The only thing that changes is that more parties will be allowed to advocate their cause before the Fair Work Commission. Why would you be scared of a democratically elected state government being allowed to go before the Fair Work Commission to advocate the cause of the taxpayers of that state\u2014to say, 'This potential strike could in fact cost us $7 million a day in royalties, which would then impact on our budget and our capacity to secure funding for our schools, for our hospitals, for our police forces, for the disability sector et cetera'? Why shouldn't they be allowed to put that case so that the Fair Work Commission has a full understanding of all the consequences of the proposed industrial action?\n\nKeep in mind, as I said before, that that state government would be representative of the workers in Western Australia, at least 70 per cent of whom are in fact covered by the provisions of the Fair Work Act. And why wouldn't you allow other businesses and other voices that might be adversely impacted to say, 'We might be a victim of this action as well, and you, Fair Work Commission, should be aware of the consequences not only for the two parties involved in the dispute\u2014namely, the union and the one company\u2014but also for others'? There might be a lot of other victims that have not been allowed to put their case before the Fair Work Commission. We are saying: allow the Fair Work Commission to hear all the possible arguments and be made fully aware of all the possible victims\u2014which includes the taxpayers of the state of Western Australia. This attitude of Senator Cameron's is very, very vindictive, and it exposes an ugly part of the Australian Labor Party. If you are a coalition government, you should not be allowed to go to the Fair Work Commission. If you have not signed up to the referral of powers, you should not be allowed to put an argument no matter how strong, no matter how sound. I urge the Senate to support the regulations which will protect the interests of Western Australians in particular and other businesses.\n\nStephen Parry\n\nThe question is that the disallowance motion moved by Senator Rice be agreed to.\n\n",
+    "aye_votes": 32,
+    "date": "2014-09-24",
+    "possible_turnout": 76,
+    "clock_time": "6:34 PM",
+    "id": 3440,
+    "no_votes": 33
+}

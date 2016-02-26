@@ -1,0 +1,759 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kate",
+                "last_name": "Lundy",
+                "person": {
+                    "id": 10398
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100129
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Palmer United Party",
+                "id": 100831
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Palmer United Party",
+                "id": 100830
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Faulkner",
+                "person": {
+                    "id": 10214
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100077
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Motions \u2014 Suspension of Standing Orders",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 3,
+    "bills": [],
+    "summary": "Peter Whish-Wilson\n\nAt the request of Senator Milne and pursuant to contingent notice, I move:\n\nThat so much of the standing orders be suspended as would prevent Senator Milne moving a motion relating to the conduct of the business of the Senate, namely a motion to give precedence to general business notice of motion no. 313.\n\nThis is about transparency. This is about parliament and parliamentarians making a very clear statement on an issue that is not only important to many Australians; it has gained international attention. While I understand Labor have a longstanding policy of not discussing these issues, it is my belief that the people out there want to see transparency. They want to see their leaders standing up in a place like this, in parliament, making very clear statements relating to very serious issues. This motion does that today.\n\nI put similar concerns to the Department of Foreign Affairs and Trade at estimates recently relating to the Trans-Pacific Partnership Agreement negotiations and what has been happening in Brunei. While I got acknowledgement from the DFAT officials that they knew this was an issue in the US, it had not crossed their brief at all and they would not comment at all about what was happening in the Trans-Pacific Partnership Agreement trade negotiations.\n\nThis is a secret trade deal that is being negotiated behind closed doors by negotiators. We do not know whose interests they are representing and we have no detail. I cannot help but say to the Labor Party that I am disappointed that you have not supported this motion today. I have had a very productive nine months working with Labor to try and expose details of the Trans-Pacific Partnership Agreement, including via an order for the production of documents from the Senate in both a Green-driven motion and a Labor-driven motion for the Korean free trade deal. We are trying to get information, at least a draft transcript, on what is in these negotiations and what is being traded in our name. It is the Greens' firm belief that trade is good. Trade opens up opportunities, but it needs to be fair trade. We need to use trade as a vehicle to incorporate issues that are important to us\u2014important social, ethical and environmental issues.\n\nI would like to read a letter that was written to the honourable John Kerry in the US House of Representatives from over 100 congressmen in the US.\n\nWe write to express our concern over the Government of Brunei Darussalam\u2019s recently adopted penal code, which threatens the human rights of minority groups including women, religious minorities, and lesbian, gay, bisexual, and transgender (LGBT) individuals, and urge you to insist that Brunei address these human rights violations as a condition of the United States participating with them in any further Trans-Pacific Partnership (TPP) trade negotiations.\n\n\u2026\u00a0\u00a0\u00a0\u2026\u00a0\u00a0\u00a0\u2026\n\nBrunei's adoption of the revised penal code legalizes violence against its citizens, constituting torture or other cruel, inhumane or degrading treatment.\n\nThe most important issue there was:\n\nAs Members of Congress, we believe that protecting fundamental human rights is a cornerstone of American values and must always be a priority in our relations, both diplomatic and economic, with foreign countries.\n\nThat is exactly what we wrote in our motion, which should have been supported by the chamber here today. It was a very clear statement from US congress men and women that America has a leadership role to play in these negotiations in social, ethical and environmental issues.\n\nOur government is very happy to go overseas to Korea, China and Japan\u2014or, as we will see tomorrow, to have the Prime Minister of Japan come to Australia\u2014and get a lot of headlines around trade deals. But these are not just trade deals; these are bilateral negotiations focusing on bilateral relations. That is not just trade; that is a whole range of factors that bring our countries closer together. With the Japanese Prime Minister's visit tomorrow, I certainly hope that the government will raise Japan's seeming insistence on going back to the Southern Ocean to hunt whales next summer. This is an issue that concerns most Australians and is something we should be raising with the Japanese at the highest level.\n\nThe secret Trans-Pacific Partnership Agreement is no different. We need to use these trade deals as an opportunity to change the way we approach the relationships with our neighbours. We need to come together and incorporate such factors. We need to make sure that the Department of Foreign Affairs and Trade is well aware of the parliament's position on obvious human rights abuses in Brunei for the next time I, Senator Wong or any other senator asks it a question on this matter and takes these factors into consideration in our trade negotiations. We will show leadership in the Asia-Pacific region to make sure that Brunei gets the very clear message that this is not acceptable to us and we will not be doing business with people who violate the human rights of their citizens.\n\nJohn Faulkner\n\nI will speak briefly on this motion moved by Senator Whish-Wilson to suspend the standing orders only because there is a new Senate in place since the Senate last canvassed the issue of formality of foreign affairs motions, so there are a number of senators in the chamber who have not had the benefit of debates around the appropriateness of foreign affairs motions being dealt with as formal motions. For the benefit of those senators, I commend a statement I made to the Senate a very long time ago\u2014in fact, on 27 May 1998\u2014as the then Leader of the Opposition in the Senate. This statement arose out of the concerns that the opposition had at the time that treating general business notices of motion on foreign affairs matters as formal notices was an inappropriate and extremely blunt way to deal with very complex and often contentious matters. The then opposition proposed that such matters be declared not formal and any subsequent proposal to amend standing orders not be supported, if such a proposal was moved.\n\nIt was never suggested that such matters were not important. The motion standing in the name of Senator Whish-Wilson is on an important matter. I have no problem with that matter being debated at the appropriate time. I am sure the opposition\u2014and I would hope the government and other senators\u2014would have no problem with this important matter being debated in the Senate, but there is an issue with using such a blunt instrument. If a motion is declared formal the only option for senators is to vote for such a motion or against it; no senator in the chamber has the opportunity to debate the motion and no senator in the chamber has an opportunity to move an amendment to the motion. It is an unsatisfactory way to deal with controversial matters, particularly relating to international and foreign policy.\n\nThere are motions where there is no controversy and it is proper to deal with them as formal notices of motion. Regardless of the nature of the motion, even though they may be supported by a clear majority in the chamber, we have to be consistent. We should be consistent with the process that we adopt. We should ensure that our procedures are properly used in the chamber. I have commended for a long time the Procedure Committee dealing with this issue so everyone is clear. It is, frankly, not possible to suggest that such a blunt instrument is appropriate to deal with these matters of complexity and controversy. So I commend the statement I made back in 1998 and subsequent statements I have made and Senator Wong has made since then in relation to dealing with these matters, but I stress again: no-one should be under any illusions that this does not mean the matter is important and serious and warrants debate in this chamber. Let us do it in a way that works.\n\nChristine Milne\n\nI wonder if Australians realise that the Australian government\u2014in talking about participating in and signing up to the Trans-Pacific Partnership Agreement\u2014understands that in Brunei, with its new criminal law regime, punishments include limb amputation for theft and stoning to death for adultery or homosexuality. Why would we want to be involved in a trade partnership with a country involved in human rights abuses like that? While I hear what Senator Faulkner is saying about complex foreign affairs matters, the Australian community has been absolutely in the dark about the extent of the negotiations on the Trans-Pacific Partnership and on exactly what is going to be sold out if Australia signs up to it. The sooner we shine a light on what Australia is signing up to, the better.\n\nThe Greens have always opposed the Trans-Pacific Partnership. It is a bad agreement. It has less to do with trade and a lot more to do with the geopolitics of the Americans pivoting back into the region; that is what it is about. It is also about big pharmaceuticals coming back to get what they did not get from the Australia-United States Free Trade Agreement.\n\nThis is a disaster for Australia in a range of matters, but giving the nod to\u2014or ignoring the extent of\u2014human rights abuses in Brunei is inexcusable. I am glad Senator Whish-Wilson has brought this before the Senate.\n\nScott Ludlam\n\nI will just make some brief additional comments. I congratulate Senator Whish-Wilson for bringing this forward.\n\nAs Senator Whish-Wilson and Senator Milne have identified, going into trade agreements\u2014or investors' rights agreements, as the TPP should more properly be understood\u2014and pretending that trade issues are entirely separate to environmental or human rights issues is a recipe for utterly amoral foreign and trade policy. That is what the government appears to be plunging us into.\n\nAs much as those on the other side of the chamber love to deride the work of the WikiLeaks publishing organisation and its beleaguered publisher and staff, we would know nothing about the progress of the Trans-Pacific Partnership agreement if it were not for whistleblowers from inside the trade agreement posting two of the chapters\u2014the IP and environment draft chapters\u2014on the WikiLeaks website. We would be operating completely in the dark.\n\nAre we seriously proposing that we would put ourselves up to be sued by foreign corporations or foreign investors on unelected international tribunals from industry sectors in countries like Brunei? This agreement needs to come to an immediate halt, and the draft text should be made public by the Australian trade negotiators. We need to know exactly who is pulling the strings\u2014whether, as it appears from the mark-up in the draft IP chapter, we are simply doing as the US trade negotiators are demanding and traipsing along behind them, or whether we can detect even faint traces of an independent foreign and trade policy inside the Trans-Pacific Partnership negotiations. We will not know, and we do not know, because the government is sitting on that text and refuses to make it public. I understand and acknowledge that other governments are doing exactly the same thing; that does not make it all right. We are blinding domestic politics and domestic populations to the consequences of deals that are not being done in our name\u2014deals that are being done in the name of particular industry sectors and then given a kind of veneer of respectability through agreements such as this.\n\nThe idea that we would team up and allow elected Australian chambers and parliaments to be dictated to by unelected foreign tribunals, such as one the Trans-Pacific Partnership would set up, is unthinkable. These negotiations were started under the ALP, although they did, at least, have the grace to support our motion\u2014which, I think, was introduced in joint names\u2014to make the text of that document public. But how the Liberal and National coalition, which voted against that motion, can sleep at night is absolutely beyond me.\n\nI am very interested to hear Senator Cory Bernardi's view on this. He is the one who is obsessed about creeping sharia law coming into Australia and wants all sorts of things done domestically as a result, but he does not seem to mind hopping into bed with a country that would be bringing\u2014\n\nSenator Wright interjecting\u2014\n\nThat is right, Senator Wright: as long as it is about other people. But you do not legitimise a country that appears to be bringing that about for its own domestic population; you do not legitimise obscenities like that by signing up to trade agreements, or investors' rights agreements, with them.\n\nWe can no longer pretend that trade agreements, or investors' rights agreements, are divorced from their human consequences. That is what the TPP effectively does. That is what this amoral foreign policy and trade policy does\u2014it delinks trade and investors' rights agreements from their environmental, human and community consequences. On the day the Australian government is sued by foreign tobacco multinationals, the gas fracking industry, the atomic energy industry or forestry corporations from overseas for daring to pass laws to protect environmental values or public health and safety, it is going to be absolutely no pleasure whatsoever to stand up here and say, 'We told you so.'\n\nThe time for disclosure and transparency on this agreement is now. If you are not seeing the red flag put up about the kinds of countries we are proposing to get into bed with as a result of the motion Senator Whish-Wilson has brought forward today, then I have no idea what it would actually take.\n\nWith regard to Senator Faulkner's brief comments, I do not understand the distinction the Labor Party has started to draw between complex foreign policy matters and complex domestic policy matters. I do not understand it at all. We still bring motions forward in here that have life or death consequences for\u2014\n\nSenator Faulkner interjecting\u2014\n\nI will go back to the original speech, Senator Faulkner. I suspect it will be worth the read. Nonetheless, we deal with complex and sensitive\u2014\n\nJohn Faulkner\n\nThat's very generous of you!\n\nScott Ludlam\n\nI am only half joking, Senator Faulkner. I suspect it is quite a valuable contribution.\n\nJohn Faulkner\n\nI have heard similar things said of you.\n\nGavin Marshall\n\nOrder!\n\nLong debate text truncated.\n\n",
+    "aye_votes": 10,
+    "date": "2014-07-07",
+    "possible_turnout": 76,
+    "clock_time": "4:26 PM",
+    "id": 3295,
+    "no_votes": 47
+}

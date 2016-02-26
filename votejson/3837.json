@@ -1,0 +1,727 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Renewable Energy (Electricity) Amendment Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 8,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5463",
+            "id": 761,
+            "official_id": "r5463",
+            "title": "Renewable Energy (Electricity) Amendment Bill 2015"
+        }
+    ],
+    "summary": "Dio Wang\n\nI move Palmer United Party amendment (1) on sheet 7719 revised:\n\n(1) Schedule 1, page 15 (after line 2), at the end of the Schedule, add:\n\nPart 5\u2014Self -generation\n\n_Renewable Energy (Electricity) Act 2000_\n\n53 Subparagraph 31(2)(b)(ii)\n\n\u00a0\u00a0Omit \"used solely\", substitute \"used predominantly\".\n\n54 After subsection 31(2)\n\n\u00a0\u00a0Insert:\n\n\u00a0\u00a0(2A) For the purposes of subparagraph (2)(b)(ii), electricity that is transmitted or distributed is used predominantly for the transmission or distribution of electricity if:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(a) the primary purpose of generating the electricity is for the use of the end user who generated the electricity; and\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(b) an amount of that electricity, no greater than the threshold amount determined under subsection (2B), is made available for use in relation to one or more services in the public interest.\n\n\u00a0\u00a0(2B) For the purposes of paragraph (2A)(b), the Minister must, by legislative instrument, determine a threshold amount of electricity which can be made available for use in relation to one or more services in the public interest.\n\n\u00a0\u00a0(2C) The Minister must:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(a) make a determination under subsection (2B) within 3 months of the commencement of this subsection; and\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(b) as far as is practicable, ensure that a determination under that subsection is in force at all times after that determination comes into force.\n\nI am concerned that the Renewable Energy (Electricity) Amendment Bill 2015 does not include provisions to overcome a potentially serious flaw in the RET legislation. The problem arises due to the consequences of incidental uses of electricity under the existing legislation, and has potentially serious impacts in my home state of Western Australia. And I note that comments made by shadow minister Gray in the House debate also asked the government to address this matter.\n\nThe issue arises because the concessions available to self-generators of electricity from RET liability only apply where such self-generated electricity is used solely by that person. That said, the law must make provisions for the situation where a small amount of electricity is used by third parties to provide vital community services. The Alcoa facilities in Western Australia provide this incidental power for police communication services, telephone services and for the local government. It is ludicrous that Alcoa should face a substantial penalty for making the electricity available to enable these public services.\n\nThe Warburton review also recommended that the issue be addressed. It said:\n\n\u2026 the Panel recommends that self-generators should be permitted to supply incidental amounts of electricity to third parties for community services on an otherwise dedicated line while still being eligible for the exemption.\n\nMy amendment simply asks the minister that within three months, by a legislative instrument, he must determine a threshold amount of electricity that can be made available for use in relation to one or more services in the public interest.\n\nSimon Birmingham\n\nI thank Senator Wang. The government appreciate the intent of Senator Wang's amendment, but we do not agree with the amendment. We believe that implementing full exemptions for emissions-intensive trade-exposed entities addresses, through alternative means, most of the concerns raised about the self-generator provisions and that there is a risk the amendment could lead to some unintended consequences for some businesses. It is the government's view that the entities that generate and use their own electricity can seek exemption from RET liability under strict eligibility conditions to target genuine self-generation. To be exempted, electricity must currently be used within one kilometre of the point of generation or supplied via a dedicated line. The proposed amendment seeks to extend these exemptions by diluting the dedicated line test to allow third parties to be supplied under certain circumstances without voiding the self-generation exemption.\n\nThe issue this amendment attempts to deal with tends to be confined to large development projects on remote grids where the self-generator is undertaking an ET activity. Increasing the partial exemptions under the scheme for ET activities to a 100 per cent exemption, as proposed in the government's bill, will provide significant additional relief to these ET businesses. Expanding the self-generator exemption provides little additional benefit to the businesses.\n\nLisa Singh\n\nI thank Senator Wang for his contribution and for putting forward his amendment on the concept of reviewing obligations under the current self-generator exemption arrangements of the RET scheme. While it does have some merit to it, this is really neither the time nor the place to throw new and undebated changes into the RET as it currently has been negotiated and agreed upon. I do take on board the contribution he has made with his amendment, specifically in relation to the self-generator exemption arrangements, but at this point in time, with what we are debating right now, the opposition will not be supporting the amendment.\n\nLarissa Waters\n\nI am just rising to note that the Australian Greens will not be supporting this amendment either. We do not support further exemptions from the renewable energy target and, as the minister has just explained, most of these operators are being exempted by the government expanding the emissions-intensive trade-exposed exemptions anyway because, hey, they love fossil fuels.\n\nQuestion negatived.\n\nNick Xenophon\n\nI move amendment (1) standing in my name on sheet 7728:\n\n(1) Schedule 1, page 15 (after line 2), at the end of the Schedule, add:\n\nPart 5\u2014Injunctions\n\n_Renewable Energy (Electricity) Act 2000_\n\n53 Subsections 154S(1), (2) and (3)\n\n\u00a0\u00a0Repeal the subsections, substitute:\n\n(1) If a person (the _first person_) has engaged, is engaging, or is about to engage in any conduct that is or would be:\n\n\u00a0\u00a0(a) an offence against this Act or the regulations; or\n\n\u00a0\u00a0(b) a contravention of a civil penalty provision;\n\nthe Federal Court may, on the application of the Regulator or any other person, grant an injunction restraining the first person from engaging in the conduct.\n\n(2) If:\n\n\u00a0\u00a0(a) a person (the _first person_) has refused or failed, is refusing or failing, or is about to refuse or fail, to do a thing; and\n\n\u00a0\u00a0(b) the refusal or failure is, or would be:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) an offence against this Act or the regulations; or\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) a contravention of a civil penalty provision;\n\nthe Federal Court may, on the application of the Regulator or any other person, grant an injunction requiring the first person to do the thing.\n\n(3) The power of the Federal Court to grant an injunction may be exercised:\n\n\u00a0\u00a0(a) whether or not it appears to the Court that the first person intends to engage, or to continue to engage, in conduct of that kind; and\n\n\u00a0\u00a0(b) whether or not the first person has previously engaged in conduct of that kind.\n\nThe aim of this amendment is to allow the Clean Energy Regulator or any other person to seek an injunction in certain circumstances\u2014that is, if the person, and that includes the Clean Energy Regulator, believes that someone is about to engage in or is engaging in any conduct that would be an offence against this act or the regulations or a contravention of the civil penalty provisions. It allows an application to be made to the Federal Court, on the application of the regulator or any other person, to grant an injunction restraining the first person from engaging in the conduct.\n\nThe purpose of this is to ensure that the regulator has that injunctive power to seek an injunction, and, indeed, any other persons, in the event that it appears that a breach is about to be committed. In order to seek an injunction, you need to be able to give an undertaking as to damages. This is not something that will be used lightly. Giving an undertaking as to damages is a very serious undertaking in order to obtain an injunction. Significant damages can flow if you get it wrong, if the injunction is subsequently lifted and there is economic loss to the party that had the injunction lifted against them. But if there is a strong case, if the regulator thinks it is appropriate\u2014or, indeed, any other person who may have an interest in this or who has a concern about an activity that appears, on the face of it, to be a strong prima facie case that there is going to be an offence against the act or the regulations\u2014then there can be action taken. These circumstances also apply where a person has refused or failed or is refusing or failing to do a thing and that thing would be a breach of the act or regulations or a contravention of the civil penalty provision.\n\nIn essence, this amendment allows the regulator or a third party to take action where a civil penalty provision has been contravened or there has been a breach of regulations of the act. If we look at other regulatory regimes such as the ACCC with our competition consumer law, the ACCC does have the power to seek an injunction. As I understand it, ASIC has the power to seek an injunction. Why shouldn't the Clean Energy Regulator, at the very least, have the power to seek an injunction? This is not whether you agree or disagree with what is being proposed on biomass. Under the rules that are being proposed that are likely to pass tonight, if there is a likely breach of those rules, what is wrong with giving the Clean Energy Regulator, or indeed any other person, the right to pursue an injunction, to pursue a remedy? To me, this is a fundamental issue of the rule of law. To emasculate the Clean Energy Regulator, to prevent community groups, individuals or indeed any person to seek an injunction is, to me, quite inadequate.\n\nIf all the Clean Energy Regulator can do after the event, when it appears as though there could well have been a serious breach, under the rules proposed by the government if there has been a serious breach the only remedy is to suspend the issuing of the renewable energy certificates. I do not think that is an appropriate remedy and I think this is a fundamental issue in respect of ensuring that the legislation will be enforced. It is another layer of protection if a state regulator\u2014if a state EPA, for instance\u2014does not do so. That is why I would urge my colleagues to seriously consider this amendment.\n\nSimon Birmingham\n\nAs with Senator Wong before, I thank Senator Xenophon for the amendment. The government appreciates the intent behind the amendment but does not agree with it. The RET already has a robust enforcement framework with a very wide range of tools for the Clean Energy Regulator to bring entities into compliance with the act and regulations. There are robust market entry criteria, including the fit-and-proper person test. There are powers to suspend registration of participants. There are powers to have enforceable undertakings made. There are civil and criminal penalties.\n\nThe framework already includes an injunction power in the form proposed both for the Clean Energy Regulator and another person aggrieved by conduct in breach of the act to enable the Federal Court to grant injunctions, either restraining a person from committing an offence against the RET act or contravening a civil penalty provision, and requiring a person who refuses or fails to do something required by a civil or criminal offence provision of the act or regulations to do whatever they were required to do.\n\nThis amendment would expand the range of persons who can seek these injunctions under section 154S to include any person not just aggrieved persons. The term 'aggrieved persons' is not defined by the act. It is used in a range of contexts in legislation. Its purpose is to provide a filter. It is meant to require that someone who brings an action has a grievance beyond that experienced by an ordinary member of the public. I am advised that it is also interpreted rather broadly by the courts.\n\nGenerally speaking, this standing requirement is designed to ensure that people seeking injunctions have some connection with the conduct complained of. For example, in relation to administrative law, it concerns people affected by a decision. In the context of the RET, it would include people affected by the conduct alleged to be or likely to be in contravention of the renewable energy act.\n\nThe amendment's purpose would be to enable anyone to take action. It would require the courts to consider the standing of people bringing actions. The obligations currently in the renewable energy act and regulations have not been designed with the idea of enforcement by unrelated third parties in mind. It would also mean that people with no connection with the conduct could take action. It could encourage speculative, strategic or mischievous litigation by people with no connection with or who are not affected by a renewable energy project. This change could add regulatory risk to renewable energy projects and ultimately increase the cost of the RET to consumers.\n\nI would also point out to Senator Xenophon that obviously we have had some discussion tonight in relation to the undertakings that Minister Hunt has made with some of the crossbench colleagues. These include establishing a wind farm commissioner, who would be able to help communities to resolve complaints and deal with certain issues and work with relevant state authorities where complaints need to be addressed, which I suspect would provide further assistance in relation to all the existing protections with regard to some of the issues or incidences that you are probably seeking to target through this amendment.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 15,
+    "date": "2015-06-23",
+    "possible_turnout": 76,
+    "clock_time": "10:58 PM",
+    "id": 3837,
+    "no_votes": 39
+}

@@ -1,0 +1,870 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Palmer United Party",
+                "id": 100831
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Brett",
+                "last_name": "Mason",
+                "person": {
+                    "id": 10423
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100140
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Tax Laws Amendment (Research and Development) Bill 2013; Second Reading",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 3,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5121",
+            "id": 741,
+            "official_id": "r5121",
+            "title": "Tax Laws Amendment (Research and Development) Bill 2013"
+        }
+    ],
+    "summary": "Kim Carr\n\nAt the start of the second reading debate on the Tax Laws Amendment (Research and Development) Bill 2013 I explained that Labor oppose this bill because it is not in the nation's interests. Senator Wang has circulated an amendment on behalf of the Palmer United Party, which will be debated if we actually reach the committee stage. I commend Senator Wang for seeking to alleviate some of the concerns that the Palmer United Party has identified about this bill. For instance, he and his colleagues felt that the government measure unfairly disadvantaged Australian firms over multinationals.\n\nIn respect of Senator Wang's concerns I, in fact, have even more serious concerns about the implications of what is being proposed in the Palmer United amendment. The Palmer United amendment would see the removal of the R&D tax incentive for all firms with expenditure over $100 million. In practice this means that, for companies thinking of investing in R&D in Australia, any expenditure above $100 million would not attract an incentive.\n\nIn a private briefing before the economics committee, Treasury officials admitted that there was no modelling available to show how many businesses would be affected by this $100 million cap. I repeat: no modelling for this measure has been undertaken. We have got no understanding of what impact this measure would have on whether firms would actually invest hundreds of millions of dollars in an R&D capacity in this country. We have no modelling, either, to indicate the longer term impacts on our economy or on jobs. In the same briefing Treasury estimated that the measure could affect up to 25 consolidated groupings of companies. The term 'consolidated grouping' means that diverse companies held by a common investment company will be treated as one single business entity. As such, when compared to their peers, smaller companies held within the larger group would be disadvantaged by the proposals. Quite frankly, that is not the only concern about this proposed amendment. Capping a firm's ability to claim spending of over $100 million will encourage companies to keep their R&D spending within this amount. Corporate behaviour will change and Australian companies will take the excess of their R&D offshore. This is a recipe for the exporting of job\n\nCompanies that particularly trade overseas will ensure that amounts over $100 million will be done in their facilities overseas.\n\nThere are also serious technical concerns with the bill, especially with regard to feedstock adjustments and clawback provisions. Taxation experts have told me that manufacturing businesses will potentially get a much lower benefit as a result of the amendment as it is currently drafted.\n\nThere is also the issue of retrospectivity. These measures are highly retrospective. That is why I will be moving an amendment, should we get into a committee stage, to limit the effect. When it comes to this issue, I urge my Senate colleagues to consider the implications of what is being proposed. The R&D cuts under this government will affect and reduce R&D spending in this country. _(Time expired)_\n\n_(Quorum formed)_\n\nChristine Milne\n\nI rise tonight to speak on the Tax Laws Amendment (Research and Development) Bill 2013. The issue of research and development is one that for quite some time has been fraught in Australia. Under the previous government I made it very clear that the Greens were very supportive of maximising research and development in Australia. We are concerned that there had been a number of rorts in the system, so it was not carefully enough targeted.\n\nIn the previous government I conducted a round table and managed to get a number of businesses and research organisations in the room and it led to a good outcome. One of the issues that was raised, particularly for small and medium sized businesses, was the fact of cash flow\u2014that they would like to be involved in more research and development and like to spend more on it but were unable to do so because they had to expend the money up-front and then wait for a year before they could claim it back. The issue for them was whether there was a mechanism that enabled them to claim it quarterly. That way it would not impact on their cash flow so adversely. That was the biggest issue for those engaged in accessing funding for research and development. As a result of that round table I put forward the proposition that there be quarterly payments. I indicate to the Senate that that is the amendment the Greens have to this bill. It is to enable businesses to maintain a reasonable cash flow by being able to anticipate what their likely rebate was going to be for research and development expenditure, and then be able to claim that on a quarterly basis.\n\nMy original strong opposition had been to large corporations being able to claim vast amounts of money for research and development when only one small aspect of a mine or of a particular construction or whatever might have been for research and development. They were able to virtually claim the whole lot back, which was grossly unfair. When talking to businesses, universities and other research institutions at the round table it was interesting to see the extent to which they were saying that with governments cutting back funding for research and development they now relied on some of the bigger corporations for access to research and development dollars so that they could then partner with the universities and other research institutions to develop a research hub. So you found that the dollars were actually being used in a way that you would like to actually support, in the sense that universities and their researchers, such as PhDs, are able to get funding for and be involved in research work.\n\nResearch and development in Australia is a lot more complicated than it might appear at first glance. It is something that I feel very strongly about. If we are going to move from a country with a 'dig it up and cut it down' economy to a country with an economy that is based on innovation, new technologies and a shift from that 'dig it up, cut it down and ship it away' attitude that Australia has been known for, we have to invest in education and we have to invest in research and development. It is absolutely critical.\n\nThat is why the Greens went to the election in 2013 with a plan to increase Australia's spending on R&D to three per cent of our GDP, both public and private. It was a fully costed policy. Since then, we have seen the government absolutely slash the funding for research and development across the board. The attack on science has been unprecedented. When you travel outside Australia, people find it extraordinary to see the attack on science funding and research funding. People cannot believe that the government turned on the CSIRO in the way that it did last year. It slashed over $100 million out of the CSIRO budget.\n\nWhat we are seeing is a government which fails to recognise that, at the end of the mining boom\u2014and let's recognise that that is what is happening\u2014you have to have spent money in building up education and building up innovation, being able to not only sell product but also develop capacity here in Australia and also overseas. That has really been a major problem. My concern here is that the whole motivation for this change is not to improve R&D funding but to free up R&D funding to go back to the consolidated fund. That is clearly what is going on here. If this money was all targeted towards R&D then I would be much more positively predisposed. But, tragically, what I am seeing is yet another attempt by this government to slash research and development funding from Australian innovation. I would like to see that money kept in research and innovation in Australia. That is why I do not support what is, at first blush, an attempt to focus R&D funding. I do not like that an estimated $1.1 billion will go back into the government coffers. That is not something I want to see happen. I want to see that money spent on research and development.\n\nIf you have a look at the _Global Innovation Index_, you will see that Australia is slipping well behind. It is published by the World Intellectual Property Organization. It shows that we moved from 18th in 2010 to 21st in 2011 to 23rd in 2012. I do not know where we are up to now, but I can imagine we are slipping further and further behind. That is an absolute tragedy for the country.\n\nI look around the world and see the challenges there are, particularly in converting from old energy sources to renewable energy sources and looking at new forms of sustainability, particularly in agriculture and the management of water systems. I know that Australia has fantastic research and a great capacity. We should be looking at exporting some of that intellectual property and capacity to be used elsewhere in the world and not keep focusing on propping up the coal industry and propping up BHP and its uranium mine in South Australia. Let's face it: this royal commission is no more than an attempt to prop up BHP's failing copper and uranium model at Olympic Dam.\n\nWe need to be making sure that we see the future in terms of the intellectual capacity we have in Australia. I cannot stand the idea that the government would attack research and development funding in order to bleed it back into the consolidated fund at exactly the same time as it is allowing a lot of these companies off the hook through tax evasion. I would much rather see the government\u2014and I would work with any government on this\u2014work to close these loopholes of tax evasion. We have seen a fair bit of that, with the latest example just today. There is a report out of Switzerland with leaked bank details. At least 300 Australian individuals and corporations are involved in fairly dubious tax arrangements through Swiss banking. I would rather see the government go after them and get that tax from people who should be paying it on their assessable income rather than bleeding funding out of research and development in order to put it back into the consolidated fund.\n\nLet's maintain research and development funding. If the government would get up and say that they are going to maintain the funding then we would be open to talking about how better to direct it. But if they are going to bleed the funding out of research and development then I am not going to support this legislation, because this is something that the Greens feel very strongly about. I would urge that, when we get to the committee stage, if people are going to support this bill that they support the capacity for small- and medium-sized enterprises to be able to reclaim their expenditure in quarterly payments so that we can see those who would benefit most\u2014those smaller enterprises\u2014not have their cash flow really squeezed.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 34,
+    "date": "2015-02-09",
+    "possible_turnout": 75,
+    "clock_time": "8:59 PM",
+    "id": 3669,
+    "no_votes": 31
+}

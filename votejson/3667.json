@@ -1,0 +1,662 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Palmer United Party",
+                "id": 100831
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Brett",
+                "last_name": "Mason",
+                "person": {
+                    "id": 10423
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100140
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kate",
+                "last_name": "Lundy",
+                "person": {
+                    "id": 10398
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100129
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "George",
+                "last_name": "Brandis",
+                "person": {
+                    "id": 10067
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100025
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 1,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5178",
+            "id": 739,
+            "official_id": "r5178",
+            "title": "Crimes Legislation Amendment (Unexplained Wealth and Other Measures) Bill 2014"
+        }
+    ],
+    "summary": "Penny Wright\n\nChair, I seek your guidance. I seek to move some amendments, but I have some questions to ask before that occurs.\n\nThe TEMPORARY CHAIRMAN: Proceed with your questions and then we will determine the amendments.\n\nThe Greens are seeking to move two amendments together. It is important to understand that these amendments are merely to oppose the schedules in the bill which would remove the judicial discretion as to whether a person who is subject to unexplained wealth proceedings can use their assets to defend themselves, to seek legal advice and to defend the application to seize those assets from them. We have heard some discussion from the minister about the problems that are posed in some cases where a person who is subject to unexplained wealth proceedings may wish to dissipate their assets by having protracted legal proceedings. These Greens amendments would not prevent a court apprised of all the information and evidence that is relevant to making a decision not to allow a person subject to the proceedings to use their assets; they merely seek to oppose the complete removal of any judicial discretion as to that. So it does not mean that the court could not order that a restrained person could not use their restrained assets for a legal defence; it merely means that it will remain a possibility for a judicial officer before the court to decide whether or not a person can use their assets.\n\nThe issue at the nub of the government's defence of these far-reaching amendments is clear from the statement that was made by the minister earlier today. He said to the effect that this legislation is designed to turn the tables on criminals to force them to prove that their wealth has been lawfully acquired. Therein lies the assumption. The assumption is that these proceedings will only ever be brought against criminals who have unlawfully acquired wealth and it is therefore in everyone's interest for the government to be able to bring that proceeding. The difficulty starts when you actually allow yourself to consider the possibility that governments do not always get these matters right, that the person against whom the proceedings are being brought may not be a criminal and that, in fact, the wealth was legitimately acquired. And then you can see the justification for potentially allowing the person to use their assets\u2014which, in the case I am posing, have been lawfully acquired\u2014to defend themselves from this government action. Minister, what is the evidence\u2014there is no evidence in the explanatory memorandum\u2014that the existence of this judicial discretion has been misused or has jeopardised the outcome of unexplained wealth proceedings in the past?\n\nMathias Cormann\n\nThe government does not support this amendment. The Parliamentary Joint Committee on Law Enforcement has recommended that the unexplained wealth laws be changed to prevent people from using restrained property to meet their legal expenses. That is recommendation 10. The Parliamentary Joint Committee on Law Enforcement considered submissions from a range of community, law enforcement and other government bodies in making this recommendation. Unexplained wealth proceedings are the only type of proceeds of crime proceedings in which people are allowed to use restrained assets in this way. The Proceeds of Crime Act generally prohibits restrained assets being used in this way to prevent the practice of dissipating wealth on legal expenses to frustrate potential proceeds of crime orders. To ensure that people are not deprived of legal representation, the Proceeds of Crime Act provides a scheme to reimburse legal aid commissions for costs incurred in representing people who are subject to a restraining order. Under the bill, people who are subject to unexplained wealth proceedings may seek legal representation through legal aid if their unrestrained assets are not sufficient to meet legal costs to ensure that they are appropriately represented and are not disadvantaged. People are still able to use any of their unrestrained assets to pay for legal counsel of their choosing. Courts also have a wide discretion to refuse or revoke orders such as where it is in the interest of justice to do so.\n\nPenny Wright\n\nI am glad that the minister has referred to the legal aid implications of this\u2014and I will come back to those questions. But that did not actually answer the question I had, which is: what evidence is there that the existence of the judicial discretion, which is what we are discussing here, has actually caused a jeopardisation of the outcome of unexplained wealth proceedings in the past? What I would like to do is be really clear and ask the government to get their story straight on the rationale behind this particular aspect of the legislation. We are told that one of the bases of unexplained wealth legislation is to take the profit gain out of organised crime. And certainly the Greens are supportive of the view that that is an effective thing to be doing. I was involved in the Parliamentary Joint Committee on Law Enforcement when it was first considering the first manifestation of this legislation\u2014or the issue anyway\u2014and one of the issues was that it is indeed quite effective to have criminals who have been used to having a lot of money to flash around, to drive flash cars and so on, to have that money not available to them. So I understand that rationale. But then we have the argument that we cannot allow judicial discretion in some cases to allow persons who are subject to these proceedings to use their restrained assets to get legal defence because they may dissipate the assets, which then would not be available to the government. But in that case, if the story is that it is in fact about separating criminals from their money, why is it such a problem if they are effectively removed from the benefit of the assets because they have had to use them on legal defence proceedings? Is that the issue, or is it in fact that the government is concerned that, if the money is being used on legal defence, it will not be available as revenue for the government? I am not clear on that. It is one or the other. But you cannot argue that the use of restrained assets for legal defence proceedings does not remove the money availability from the persons who are allegedly the criminals. In the end, if that is where the money is gone, they are not going to have that money available to live the high life, which is what we are wanting to prevent.\n\nMathias Cormann\n\nThe ability of a person to dispose of restrained property to meet their legal costs weakens the effectiveness of the unexplained wealth provisions by allowing the wealth suspected to have been unlawfully acquired to be used to contest proceedings. This may lead to fewer assets being available for confiscation if an unexplained wealth order is successful, and is likely to cause more protracted litigation. This amendment\u2014the government's amendment, not the Greens amendment\u2014will harmonise provisions relating to the payment of legal expenses for unexplained wealth cases with those for other proceedings under the Proceeds of Crime Act.\n\nPenny Wright\n\nAs I said, it would be interesting to have the story straight then. The issue is really to make sure that those restrained assets are available as revenue for the government so they are not dissipated? Is that the case, or is it to actually prevent criminals from benefiting from their restrained assets to have at their disposal and to be able to use to live the high life? I am not clear on what the rationale for the legislation is.\n\nNick Xenophon\n\nCan I indicate that I did not have an opportunity to make a second reading contribution, but I will just say in the briefest possible terms that I am broadly supportive of the legislation. I believe that this is the way to strike at the heart of organised crime. We have a very real issue with drug dealers in this country. We have a scourge, particularly in respect of crystal methamphetamine. There are reports that there could be a glut of heroin on the market, given what is happening in countries overseas.\n\nHowever, in the context of being supportive of this legislation, I do want to ask the minister, in broad terms, how much money has been obtained through unexplained wealth legislation in the past? What does the government say will be the increase in funds being obtained as a result of the measures in this bill? Also, given the way that organised crime figures are always trying to find a way to circumvent legislation such as this, has the government anticipated that? It seems that organised criminals are always trying to find a way to get ahead of that.\n\nIn other words, does the legislation in its current form carry with it enough scope to look at associates of organised crime figures who are subject to these orders?\n\nI do have some other questions, but perhaps I will now put those to the minister. Given that the Attorney has just entered the chamber, perhaps I could repeat them for his benefit. I can indicate my broad support for this legislation; this is the way to tackle organised crime. My questions are\u2014and if some of these have to be taken on notice, to an extent, I would accept that, as long as I have an undertaking to get those details: through our current legislative regime, how much unexplained wealth has been seized over the past few years? What does the government say this legislation will do in terms of an increased seizure of assets in respect of that? Given this approach, which, in broad principle, I am very supportive of in this bill, has the government anticipated that organised criminal groups and individuals will find ways to get around this by perhaps siphoning money to associates so it is harder to trace? Will there be enough resources to anticipate these new changes by which criminal gangs will try to get ahead? I have some other questions, but I thought I would put those to the minister.\n\nJacinta Collins\n\nI suggested that if I take this moment to indicate Labor's position, then that might give the government a moment to consider Senator Xenophon's questions. The opposition will not support the Australian Greens amendments. The bill harmonises legal expense and legal aid provisions for the unexplained wealth cases with those of the other Proceeds of Crime Act 2002 proceedings to prevent restrained assets being used to meet legal expenses. The Parliamentary Joint Committee on Law Enforcement into Commonwealth unexplained wealth legislation and arrangements recommended in its report, in recommendation 10, that this occur. In making this recommendation the committee noted that the Proceeds of Crime Act was amended in 2002 to prevent defendants from accessing restrained assets to fund their legal representation. This amendment was prompted by a recommendation of the Australian Law Reform Commission that allowed defendants to access restrained assets to pay their legal costs that was contrary to a key principle of the Proceeds of Crime Act that property liable to forfeiture should be preserved for that purpose.\n\nThe Australian Federal Police also gave evidence that the ability to access restrained assets for legal costs was open to abuse by criminals. As Commander Ian McCartney, of the AFP, said:\n\nWhen the proceeds of crime legislation was brought in in 1987 there was an ability for suspects to access assets that had been restrained, for legal costs. We believe that that system was abused. It was used by suspects to frustrate the system and, basically, siphon off the assets that had been restrained.\n\nThe opposition supports the objectives of the Proceeds of Crime Act and accepts the advice of the Australian Federal Police. We therefore support preventing defendants from accessing restrained assets for expenditure on legal costs. This principle should be reflected in other unexplained wealth legislation as it is in the Proceeds of Crime Act. It is not necessary to revisit the importance of this uniformity. Therefore, the opposition will not be supporting the Greens amendments.\n\nGeorge Brandis\n\nCan I perhaps deal with Senator Xenophon's questions. Senator Xenophon, in relation to the quantum of the assets seized under the legislation which this bill amends, I am advised that because of limitations in the existing act, which this legislation seeks to correct, there have been no assets seized. The legislation, as I am advised, as currently written, has been ineffective and that is why this bill is being brought forward by the government, to make it more effective through the various measures that the chamber has been discussing.\n\nSecondly, Senator, you asked whether the government has given any consideration to whether or not organised criminal gangs or organised criminal syndicates will seek to, as it were, siphon or launder assets through associated entities. Of course, the government has considered that. That is always an issue in legislation of this kind and the legislation does, as I understand it, contain associated entity provisions and the capacity to trace through associated entities, trusts, third-party structures so that the purpose of the legislation cannot be thwarted by channelling or funnelling money through devices of that character.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 38,
+    "date": "2015-02-09",
+    "possible_turnout": 75,
+    "clock_time": "12:54 PM",
+    "id": 3667,
+    "no_votes": 11
+}

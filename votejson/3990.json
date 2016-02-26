@@ -1,0 +1,818 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Robert",
+                "last_name": "Simms",
+                "person": {
+                    "id": 10842
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100848
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Eric",
+                "last_name": "Abetz",
+                "person": {
+                    "id": 10003
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100001
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Migration Amendment (Charging for a Migration Outcome) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 6,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5533",
+            "id": 796,
+            "official_id": "r5533",
+            "title": "Migration Amendment (Charging for a Migration Outcome) Bill 2015"
+        }
+    ],
+    "summary": "Kim Carr\n\nI would like to indicate to the committee that it is my intention to seek leave to move six separate blocks of amendments relating to the nature of visas, increased penalties, business numbers, whistleblower protections, reporting obligations, coercion and criminal offences and civil penalties in relation to visa holders. So I indicate that these are separate measures and I believe that we can vote on these as blocks. I seek leave, firstly, to move amendments (5) to (8), (10) to (18), (22), (23), (25), (27) to (30), (32) to (37), (39) to (44) and (47) to (55).\n\nNigel Scullion\n\nWould it be possible for Senator Carr to give us an update on the amendments he intends to deal with?\n\nKim Carr\n\nYes, I will repeat that. They are amendments (5) to (8), (10) to (18), (22), (23), (25), (27) to (30), (32) to (37), (39) to (44) and (47) to (55).\n\nLeave granted.\n\nby leave\u2014I move opposition amendments (5) to (8), (10) to (18), (22), (23), (25), (27) to (30), (32) to (37), (39) to (44) and (47) to (55):\n\n(5) Schedule 1, item 1, page 3 (line 11), omit \"sponsorship-related event\", substitute \"migration outcome-related event\".\n\n(6) Schedule 1, item 1 page 3 (lines 14 and 15), omit \"sponsorship-related event\", substitute \"migration outcome-related event\".\n\n(7) Schedule 1, item 1, page 3 (line 20), omit \"sponsorship-related event\", substitute \"migration outcome-related event\".\n\n(8) Schedule 1, item 1, page 3 (line 23), omit \"sponsorship-related event\", substitute \"migration outcome-related event\".\n\n(10) Schedule 1, item 3, page 3 (after line 29), after the definition of _benefit_ in subsection (4), insert:\n\n_\u00a0\u00a0migration outcome_ _-related event_ has the meaning given by section 245AQ.\n\n(11) Schedule 1, item 3, page 3 (lines 30 and 31), omit the definition of sponsorship-related event in subsection (4).\n\n(12) Schedule 1, item 6, page 4 (line 8), omit \"sponsored visas\", substitute \"work visas\".\n\n(13) Schedule 1, item 6, page 4 (after line 24), after the definition of _executive officer_ in section 245AQ, insert:\n\n_\u00a0\u00a0migration outcome_ _-related event_ means any of the following events:\n\n\u00a0\u00a0(a) a person applying for approval as a sponsor under section 140E in relation to a sponsor class;\n\n\u00a0\u00a0(b) a person applying for a variation of a term of an approval as a sponsor under section 140E in relation to a sponsor class;\n\n(c) a person becoming, or not ceasing to be, a party to a work agreement;\n\n\u00a0\u00a0(d) a person agreeing to be, or not withdrawing his or her agreement to be, an approved sponsor in relation to an applicant or proposed applicant for a sponsored visa;\n\n(e) a person making a nomination under section 140GB in relation to a holder of, or an applicant or proposed applicant for, a sponsored visa, or including another person in such a nomination;\n\n\u00a0\u00a0(f) a person not withdrawing a nomination made under section 140GB in relation to a holder of, or an applicant or proposed applicant for, a sponsored visa;\n\n(g) a person applying under the regulations for approval of the nomination of a position in relation to the holder of, or an applicant or proposed applicant for, a sponsored visa, or including another person in such a nomination;\n\n\u00a0\u00a0(h) a person not withdrawing the nomination under the regulations of a position in relation to the holder of, or an applicant or proposed applicant for, a sponsored visa;\n\n(i) a person employing or engaging, or not terminating the employment or engagement of, a person to work in an occupation or position in relation to which a work visa has been granted, has been applied for or is to be applied for;\n\n\u00a0\u00a0(j) a person engaging, or not terminating the engagement of, a person to undertake a program, or carry out an activity, in relation to which a sponsored visa has been granted, has been applied for or is to be applied for;\n\n(k) the grant of a work visa;\n\n\u00a0\u00a0(l) a prescribed event.\n\n(14) Schedule 1, item 6, page 4 (after line 27), after the definition of _sponsored visa _in section 245AQ, insert:\n\n_\u00a0\u00a0work visa_ means:\n\n\u00a0\u00a0(a) a sponsored visa; or\n\n\u00a0\u00a0(b) any other visa (other than a visa of a prescribed kind, however described) in accordance with which the holder may perform work:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) without restriction; or\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) subject to one or more work-related conditions.\n\n(15) Schedule 1, item 6, page 4 (line 28) to page 5 (line 31), omit the definition of _sponsorship__-related event_ in section 245AQ.\n\n(16) Schedule 1, item 6, page 5 (line 33), omit \"sponsorship-related event\", substitute \"migration outcome-related event\".\n\n(17) Schedule 1, item 6, page 5 (line 38), omit \"sponsorship-related event\", substitute \"migration outcome-related event\".\n\n(18) Schedule 1, item 6, page 6 (line 2), omit \"sponsorship-related event\", substitute \"migration outcome-related event\".\n\n(22) Schedule 1, item 6, page 6 (line 23), omit \"sponsorship-related event\", substitute \"migration outcome-related event\".\n\n(23) Schedule 1, item 6, page 6 (line 28), omit \"sponsorship-related event\", substitute \"migration outcome-related event\".\n\n(25) Schedule 1, item 6, page 6 (line 31), omit \"sponsorship-related event\", substitute \"migration outcome-related event\".\n\n(27) Schedule 1, item 6, page 7 (lines 12 and 13), omit \"_sponsorship __-related offence_\", substitute \"_migration outcome__ -related offence_\".\n\n(28) Schedule 1, item 6, page 7 (line 15), omit \"sponsorship-related offence\", substitute \"migration outcome-related offence\".\n\n(29) Schedule 1, item 6, page 7 (line 18), omit \"sponsorship-related offence\", substitute \"migration outcome-related offence\".\n\n(30) Schedule 1, item 6, page 7 (line 20), omit \"sponsorship-related offence\", substitute \"migration outcome-related offence\".\n\n(32) Schedule 1, item 6, page 7 (line 24), omit \"sponsorship-related offence\", substitute \"migration outcome-related offence\".\n\n(33) Schedule 1, item 6, page 7 (lines 32 and 33), omit \"sponsorship-related offence\", substitute \"migration outcome-related offence\".\n\n(34) Schedule 1, item 6, page 8 (lines 4 and 5), omit \"_sponsorship __-related contravention_\", substitute \"_migration outcome__ -related contravention_\".\n\n(35) Schedule 1, item 6, page 8 (line 8), omit \"sponsorship-related contravention\", substitute \"migration outcome-related contravention\".\n\n(36) Schedule 1, item 6, page 8 (line 11), omit \"sponsorship-related contravention\", substitute \"migration outcome-related contravention\".\n\n(37) Schedule 1, item 6, page 8 (line 13), omit \"sponsorship-related contravention\", substitute \"migration outcome-related contravention\".\n\n(39) Schedule 1, item 6, page 8 (line 24), omit \"sponsorship-related contravention\", substitute \"migration outcome-related contravention\".\n\n(40) Schedule 1, item 6, page 8 (lines 32 and 33), omit \"sponsorship-related contravention\", substitute \"migration outcome-related contravention\".\n\n(41) Schedule 1, item 6, page 9 (line 4), omit \"sponsorship-related contravention\", substitute \"migration outcome-related contravention\".\n\n(42) Schedule 1, item 6, page 9 (line 8), omit \"sponsorship-related contravention\", substitute \"migration outcome-related contravention\".\n\n(43) Schedule 1, item 6, page 9 (line 12), omit \"sponsorship-related contravention\", substitute \"migration outcome-related contravention\".\n\n(44) Schedule 1, item 6, page 9 (line 14), omit \"sponsorship-related contravention\", substitute \"migration outcome-related contravention\".\n\n(47) Schedule 1, item 9, page 14 (line 22), omit \"sponsorship-related offence\", substitute \"migration outcome-related offence\".\n\n(48) Schedule 1, item 10, page 14 (line 26), omit \"sponsorship-related provision\", substitute \"migration outcome-related provision\".\n\n(49) Schedule 1, page 14 (after line 27), after item 10, insert:\n\n10A Section 487A\n\n\u00a0\u00a0Insert:\n\n_\u00a0\u00a0migration outcome_ _-related offence_ means:\n\n\u00a0\u00a0(a) an offence against Subdivision D of Division 12 of Part 2; or\n\n\u00a0\u00a0(b) an offence against section 6 of the _Crimes Act 1914_ that relates to an offence against that Subdivision; or\n\n(c) an ancillary offence (within the meaning of the _Criminal Code_) that is, or relates to, an offence against that Subdivision.\n\n_\u00a0\u00a0migration outcome_ _-related provision _means a civil penalty provision in Subdivision D of Division 12 of Part 2.\n\n(50) Schedule 1, item 11, page 14 (line 31) to page 15 (line 1), omit paragraphs (a) and (b) of the definition of related provision, substitute:\n\n\u00a0\u00a0(a) a migration outcome-related offence; or\n\n\u00a0\u00a0(b) a migration outcome-related provision; or\n\n(51) Schedule 1, item 12, page 15 (lines 4 to 14), to be opposed.\n\n(52) Schedule 1, item 13, page 15 (lines 17 to 19), omit paragraphs (a) and (b), substitute:\n\n\u00a0\u00a0(a) a possible migration outcome-related offence; or\n\n\u00a0\u00a0(b) a possible contravention of a migration outcome-related provision; or\n\n(53) Schedule 1, item 15, page 15 (line 25), omit \"sponsorship-related provision\", substitute \"migration outcome-related provision\".\n\n(54) Schedule 1, item 16, page 15 (lines 29 to 31), omit subparagraphs (i) and (ii), substitute:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) a migration outcome-related offence has been committed; or\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) a migration outcome-related provision has been contravened; or\n\n(55) Schedule 1, item 17, page 16 (lines 5 and 6), omit subparagraphs (a)(i) and (ii), substitute:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) the migration outcome-related offence or offences; or\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) the migration outcome-related provision or provisions; or\n\nAs I noted during the second reading debate, in our judgement this bill is defective in that the bill does not apply to all work related visas, including student visas and working holiday visas. It is limited to employer sponsored visas, but the kinds of exploitation that the bill seeks to prevent have arisen with regard to other visas as well. As we have seen with the 7-Eleven examples, these amendments extend protection to all holders of temporary work visas and subject their employers to the same penalty regime. A consequential amendment substitutes the term 'migration outcome related event' for the term used in the bill: 'sponsorship event'. The thrust of these matters is to provide proper protections, not taking away rights but actually enhancing the rights of visa holders when, as we have seen, there have been so many examples of people being ripped off.\n\nNigel Scullion\n\nWe will not be supporting these amendments. Whilst the principles of the mischief that you wish to ameliorate are sound, this is specifically about particular coercion for a particular group. Government would say that it is not appropriate within this legislation to spread the mischief from actually coercive behaviour, in the purchasing or receiving of benefits from either the party of the person who receives the visa or in fact the sponsor who is assisting in providing the visa, to some issues around how much you actually get paid. They are significantly separate issues, and we would say that the matter that you are referring to should be dealt with by Fair Work Australia.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 28,
+    "date": "2015-11-24",
+    "possible_turnout": 77,
+    "clock_time": "6:03 PM",
+    "id": 3990,
+    "no_votes": 33
+}

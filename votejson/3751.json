@@ -1,0 +1,662 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "George",
+                "last_name": "Brandis",
+                "person": {
+                    "id": 10067
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100025
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 14,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5375",
+            "id": 750,
+            "official_id": "r5375",
+            "title": "Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015"
+        }
+    ],
+    "summary": "David Leyonhjelm\n\nI move LDP amendment (9) on sheet 7661:\n\n(9) Schedule 1, page 22 (after line 15), after Part 1, insert:\n\nPart 1A\u2014Amendments relating to authorisations\n\n_Telecommunications (Interception and Access) Act 1979_\n\n1AA Section 178 (heading)\n\n\u00a0\u00a0Repeal the heading, substitute:\n\n178 Authorisations for access to existing information or documents\n\n1AB Subsection 178(3)\n\n\u00a0\u00a0Repeal the subsection, substitute:\n\n(3) The authorised officer must not make the authorisation unless he or she is satisfied that the disclosure is reasonably necessary for the enforcement of a serious contravention.\n\n1AC Section 179\n\n\u00a0\u00a0Repeal the section.\n\n1AD Paragraph 186(1)(b)\n\n\u00a0\u00a0Repeal the paragraph.\n\nThis amendment is designed to ensure that access to privacy-intrusive telecommunications data is permitted only for serious crimes. The bill was clearly intended with a national security remit: serious crimes. Any extension beyond terrorism and national security should only be to crimes that are in the upper range of seriousness in all Australian jurisdictions, such as child pornography offences. I do not wish to see metadata used to pursue trivialities. That is what happened in the UK, with the RIPA law. The thought of spying on people for their unpaid rates or the heinous crime of comparing petrol prices is ridiculous. That is very likely the main use to which this metadata will be put, unless this amendment is passed.\n\nGeorge Brandis\n\nWe had this debate last night in the early committee stages, and I fundamentally disagree with what Senator Leyonhjelm has said. Senator Leyonhjelm is fearful that the authorities will devote their resources to pursuing relatively trivial or inconsequential offences or regulatory breaches. It is not conceivable, as a matter of common sense, that they would do so.\n\nThe purpose of this legislation is to enable the capacity of the law enforcement, the national security agencies and, in addition, the principal economic regulators\u2014the ACCC and ASIC\u2014to investigate and apprehend serious crime. That is what they are going to do. You say, Senator Leyonhjelm, 'What if they pursue a trivial matter?' As a matter of common sense, that is unlikely. But, equally, it is bad legislative practice to prescribe in legislation thresholds above or below which law enforcement agencies should exercise their investigative powers. That is just bad practice.\n\nThe issue was looked at by the second PJCIS report, the one that reported on 27 March. Let me read into the record the conclusions of the committee at paragraph 6.187 and the following two:\n\nThe Committee has considered very carefully the views expressed that telecommunications access should be limited to sufficiently serious matters, such as serious contraventions of the law or serious national security issues.\n\n\u2026 The Committee notes that the level of intrusion into privacy incurred by accessing telecommunications data will vary depending on the particular circumstances, including the nature and volume of the telecommunications data accessed. The Committee also notes the complexities in balancing the competing public interests of individual privacy with enforcement of the law and protection of national security.\n\n\u2026 On balance, the Committee considers that the requirement in section 180F should be replaced with a more stringent requirement for the authorising officer to be satisfied on reasonable grounds that the particular disclosure or use of telecommunications data being proposed is proportionate to the intrusion into privacy.\n\nThat amendment has been made. That is the one in which the issue has been dealt with, Senator Leyonhjelm. The government opposes your amendment.\n\nJacinta Collins\n\nFollowing on from Senator Brandis's comments, let me add that the amendment would standardise the threshold for access to retain data with the threshold under the Telecommunications (Interception and Access) Act for access to stored communications under warrant. As Senator Brandis highlighted, the Parliamentary Joint Committee on Intelligence and Security did consider this issue but did not come to a conclusion that the threshold for access should be altered in the way proposed here. But it did recommend, as it recommended in 2013, that there be a further examination of whether and how the various thresholds in the T(IA) Act might be standardised.\n\nThis goes to the point that I made in my second reading contribution\u2014that in some respects we have the cart before the horse. Had the government proceeded with the recommendations around the T(IA) Act, our considerations here might have been facilitated. So, unfortunately, this amendment is premature without that consideration by the parliamentary joint committee. For that reason, Labor will not be supporting it.\n\nPenny Wright\n\nI ask whether the Attorney-General is aware of the 20th report of the Parliamentary Joint Committee on Human Rights, another of the parliament's joint committees which are of high standing. The report says:\n\n\u2026 the committee's major concern was that there appear to be no significant limits on the type of investigation to which a valid disclosure authorisation for existing data may apply.\n\nThat is at paragraph 1.196 of its 20th report, in this parliament. It goes on:\n\nThe committee notes that the government has not accepted the committee's recommendation that, to ensure a proportionate limitation on the right to privacy\u2014\n\nunder human rights law\u2014\n\nan appropriate threshold should be established to restrict access to retained data to investigations of specified threatened or actual crimes that are serious, or to categories of serious crimes such as major indictable offences.\n\nWere you aware of that, Attorney-General; and what is your response?\n\nGeorge Brandis\n\nYes I am, and I do not agree with it.\n\nPenny Wright\n\nPerhaps I could clarify why the Human Rights Committee is so concerned and then perhaps ask the Attorney to expand on why he does not agree with it. The committee's recommendation that retained data be accessed only for the purposes of investigating complex or serious offences is not reasonably characterised as imposing an arbitrary threshold on access to retained data; rather, such a requirement would ensure that the scheme in fact did not represent an arbitrary and disproportionate limitation on the right to privacy. The concern that I have and that the committee has, as expressed in its report, is that while the Attorney-General seeks to reassure us that, although there are very wide and potential broad uses of the retained data under this bill, we are not to worry about it because the agencies would not waste their time accessing that data for trivial reasons, the trouble is that there is nothing to prevent that in the act, as far as my understanding goes. If I am wrong on that then I would like to know.\n\nDavid Leyonhjelm\n\nAttorney, I am somewhat bewildered. You have told us that the metadata retention regime is only to be used for investigation or enforcement of serious offences. The PJCIS says that is what it is intended to be used for. My amendment says nothing more than a disclosure is reasonably necessary for the enforcement\u2014not even the investigation, but the enforcement\u2014of a serious contravention, and I understand 'serious contravention' is understood, of the law. What exactly is the problem?\n\nGeorge Brandis\n\nI am sorry, what exactly is the question?\n\nDavid Leyonhjelm\n\nYou want to ensure the retained metadata is only used for the investigation or enforcement of serious offences. The PJCIS says the same thing. The bill as it is written does not say that is what must occur. My amendment will say that is what must occur. Why are you opposed to the amendment?\n\nGeorge Brandis\n\nI think I dealt with that, if I may say so, when I tried to answer your question the first time. It is a question of proportionality, you are right. The purpose of these amendments is to deal with serious crime, that is true. The principle of proportionality is enshrined in the bill. This was looked at by the PJCIS and I read to you the PJCIS's considerations that led them to conclude that the way in which the matter had been dealt with by the bill was appropriate. I agree with the process of reasoning of the PJCIS. I do not think your amendment is necessary, and I do not really think I can take it any further.\n\nPenny Wright\n\nAttorney-General, you refer frequently and understandably to the recommendations of the PJCIS. Did the PJCIS assess the bill in the context of the conventions under international law to which Australia has signed up?\n\nGeorge Brandis\n\nSenator, as you know, the conventions to which Australia has acceded are not, without specific enactment, part of Australian domestic law. That being said, Australia is observant of its international human rights obligations. There is nothing in the International Covenant on Civil and Political Rights, which is the instrument with which I am familiar and which would seem to bear most directly on issues of privacy, that comes readily to my mind that is inconsistent with a scheme of mandatory metadata retention. Indeed, there has been some loose talk about a decision of the European Court of Justice in April of last year concerning the European Data Protection Directive, where the European Data Protection Directive was struck down. But people who marshal that event as some kind of rhetorical proof of the validity of their argument that a data retention scheme violates human rights standards always omit to mention that the European Court of Human Rights held, in striking down the European data directive, that it did so on the ground of proportionality. It held that if the data retention schemes of member nations of the EU were crafted conformably to the matters set out in its reasons for judgement then it would not have struck them down.\n\nIn other words, what the European Human Rights Court held was that it was possible to have a mandatory data retention scheme that was compliant with human rights standards, including European human rights laws. Most member states\u2014not all, but most\u2014including the United Kingdom, I might say, with whose Attorney-General I have discussed this matter, have subsequently enacted complying data retention schemes. The point I make is that the issue is one of proportionality, as the European Court of Human Rights recognised, and an appropriately crafted mandatory metadata retention scheme can be, and in the European case is, human rights compliant. Proportionality is one of the values that underlie this bill and the way in which the bill will be given effect to by the agencies, and I am quite satisfied, by parody of reasoning with the European Human Rights Court in the case of the European data directive, that this bill is also compliant.\n\nPenny Wright\n\nI am actually really intrigued by the way in which you say, Attorney, that the principle of proportionality is enshrined in this bill. We know that metadata can reveal very significant information about a person's life, associations, habits and preferences and therefore significantly limits the right to privacy. But this proposed scheme would allow access to metadata for two years for the investigation of minor offences, including offences attracting only monetary penalties. Am I right, or is that wrong?\n\nGeorge Brandis\n\nWhen you say only monetary penalties, there are some very, very serious breaches of the law that attract only monetary penalties. In my own field of professional experience in trade practices law, until very recently, there were only monetary civil penalties available under the Trade Practices Act, as it then was, for the most egregious market fixing and cartelisation conduct. I think in anyone's language conduct like that is a very, very serious breach of the law, but the penalties were only monetary. So the fact that the penalties may only be monetary does not indicate at all that the conduct being investigated is not grave.\n\nPenny Wright\n\nAttorney-General, as it is currently drafted, if the amendment that is being put by Senator Leyonhjelm\u2014and a similar amendment being put by Senator Ludlam\u2014is not agreed to, am I right in thinking that there is nothing in this bill to prevent the proposed scheme allowing access to a person's metadata for up to two years for the investigation of minor offences, including minor traffic offences or copyright infringements?\n\nGeorge Brandis\n\nFor a start, we are not concerned with civil liabilities so, as you should know, Senator, copyright infringement is a civil wrong. This scheme only gives the criminal law enforcement agencies and the principal economic regulators the power to access metadata. So that is the first point.\n\nThe second point: you really trivialise the argument, with all due respect, Senator Wright, when you imagine that people like the Australian Federal Police, the Australian Crime Commission, the state and state and territory police forces and anticorruption authorities are going to use this very complex investigative tool to chase traffic fines. Honestly and truly, Senator Wright, please bring a bit of common sense to this debate.\n\nPenny Wright\n\nThat is not the question that I asked; I asked: is there anything in this bill to prevent that from occurring? It is you who referred to the principle of proportionality. What we have here is actually a bill which allows far greater powers and possibilities, irrespective of how agencies choose to utilise it, than is arguably necessary for the objective for which the bill is ostensibly designed to achieve.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 16,
+    "date": "2015-03-25",
+    "possible_turnout": 74,
+    "clock_time": "9:44 PM",
+    "id": 3751,
+    "no_votes": 33
+}

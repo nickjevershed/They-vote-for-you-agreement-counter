@@ -1,0 +1,623 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Renewable Energy (Electricity) Amendment Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 4,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5463",
+            "id": 761,
+            "official_id": "r5463",
+            "title": "Renewable Energy (Electricity) Amendment Bill 2015"
+        }
+    ],
+    "summary": "Glenn Lazarus\n\n) ( ): I move amendments (1) and (2) on sheet 7721:\n\n(1) Schedule 1, item 2, page 3 (lines 7 to 9), to be opposed.\n\n(2) Schedule 1, page 3 (after line 9), after item 2, insert:\n\n2A After subsection 40(1)\n\n\u00a0\u00a0Insert:\n\n\u00a0\u00a0(1AA) For the purposes of subsection (1), the required GWh specified in the table for the year 2020 and each later year must include at least 8000 GWh of renewable source electricity generated using a solar energy source by an accredited power station.\n\nI stand today to oppose item 2 of schedule 1. I am putting forward a few amendments today. I make no apologies for being one of the few senators in this place to stand up for the future of this country. The rest of the world is moving towards renewable energy and so should we. You are quite welcome to leave, Senator Macdonald. I have, on number of occasions, stood up in this chamber and talked about the types of renewable energy targets which have been put in place by countries across the world. In fact, only last week I also spoke about the G7's recent commitment to eliminate the use of fossil fuel by the year 2100. Australia currently has a renewable energy target of 41,000 kilowatts by 2020. This target is in sync with the types of targets which are in place across the world.\n\nOur target of 41,000 gigawatts is not a stretched target. It is actually a very feasible target which our country could have easily reached had our government rolled up its sleeves and put in place support and the necessary mechanisms to reach it. Anything is possible in this world if you put your mind to it. But, as we all know, the Abbott government decided to ignore the realities of climate change and instead opted to demonise the renewable energy sector. This, combined with the Abbott government's decision not to publicly support the RET, resulted in a sharp decline in investment in the renewable energy sector. So here we are today facing the likelihood of our country becoming the first country in the world to reduce a renewable energy target. The United States of America put the first man on the moon. Soon Wikipedia will show Australia as the first nation to reduce a RET. A great leap forward for mankind compliments of the US; a great leap backwards for mankind compliments of Australia.\n\nI am annoyed that Labor and the coalition have done a dirty deal to reduce the RET from 41,000 to 33,000. I believe the people of Australia will never forgive the coalition and Labor for allowing Australia to become the first country in the world to cut a renewable energy target. I certainly will not. My amendments today do several things. Firstly, they retain the 41,000 gigawatts, committing our country to the critical job of growing the renewable energy sector. There should be no excuses. We should just get on with the job of delivering forward-thinking, positive and responsible government. Retaining the RET at 41,000 will do this. I do acknowledge that there is much work to do in light of the damage caused by the Abbott government, but I do believe we can do it. We must do it.\n\nI should also add that the majority of Australians support me in this. The people of Australia want our country to move towards cleaner, greener energy. Everyone knows that dirty coal is bad. Everyone knows renewable energy is not only good for the planet but also good business sense\u2014full stop. Secondly, my amendments carve out a commitment of 8,000 gigawatts to large-scale solar to support the development and the growth of this form of renewable energy. We have an unlimited supply of sunlight. Why wouldn't we support the growth of this sector and put in place measures to enable its advancement and expansion? Thirdly, my amendments also put in place protection measures to save Australia's native forests from abusive and rogue destruction. I am seeking to ensure minimum protections are put in place by requiring all eligible forests carry a FSC certification\u2014the international benchmark for forest management worldwide, which takes into account the social impact of forest management. Importantly, the FSC is also one of the schemes currently recognised by the Australian Department of Agriculture as an eligible form of third-party certification.\n\nI would also like to put on record that I am not party to the other dirty deal done between the Abbott government and the crossbench which reduces support for the wind industry, puts in place additional layers of compliance and installs a national wind farm commissioner. Why, when wind is considered the most efficient source of renewable energy, would the Abbott government want to stall this important source of renewable energy? It is simple: because wind is cutting into the energy sector, currently dominated by coal. I think we all understand this. In short, political donations are impacting on decision making and policy development in this country. I urge all Australians not to tolerate it. Why would the Abbott government want to put in place a wind commissioner when Australia desperately needs a commissioner for CSG mining and a resources ombudsman to provide people currently affected by the resources sector with an advocate and source of independent government support, guidance and advice?\n\nCSG mining is known to cause harmful impacts on the earth and on the health of people, and to cause irreversibly damage on our most valuable resource\u2014water. The Abbott government wants to get rid of the wind because there is an issue with audible noise. And yet no scientific evidence exists anywhere across the world regarding this concern. I will take the chamber back to a movie released many years ago\u2014_Jerry Maguire_. In that movie, Cuba Gooding Junior plays an up-and-coming NFL star who has a player agent. That player agent is played by Tom Cruise. One of the lines in that movie is, 'Show we the money!' Well, I am saying to the crossbench, 'Show me the evidence!' Show me the evidence where this so-called noise is supposed to be harming humans.\n\nIf we turn to Europe, much of Europe is powered by the wind. If Europe were to take the same approach as Australia, Europe would just close down. In Europe, the hills are alive with the sound of music, but not turbine noise because there is none. Our Prime Minister is prepared to kill off the wind industry in Australia because of apparent audible noise and set up a national wind farm commissioner. Yet, across Australia, people living in rural and regional areas are screaming out for help because their lives are being destroyed by CSG mining, and the government is doing nothing. CSG mining depletes the earth of underground water. Farmers and land holders across Australia are losing their water. What water is left is being contaminated. Their land is being poisoned by the highly toxic chemicals being used in the intrusive coal seam gas extraction process. Their animals are dying. Their land is being devalued by the hour. Their farming businesses are being annihilated.\n\nExtremely poisonous process water used in CSG extraction is being disposed of across the countryside in a non-safe manner. And yet, in light of all of this, the Prime Minister wants to put in place a wind farm commissioner. What do the people of rural and regional Australia whose lives are being destroyed by CSG mining have to do to get some type of action or response from the government?\n\nI also should point out that CSG mining also creates noise\u2014clear, loud, constant audible noise\u2014in in addition to all the other well-documented and scientifically proven serious life-threatening health impacts and issues. I do not think any of us need to be Einstein to work out the absolute stupidity in all of this. I am an old forward from way back, and even I get it. So I do hope that the Senate, representing the people of Australia, will support my amendments. The RET needs to be retained at 41,000. It must be retained to enable appropriate support for wind, solar and other emerging renewable energy sectors, including geothermal, tidal and improved hydro. I note that while the government has in response to community outcry today made some fluffy motherhood statements around support for solar, R&D and other take-up incentives. This does little to fix the real damage being caused to the RET, the renewable energy sector and our country's reputation internationally.\n\nI would also like to add that there are sceptics who feel that renewable energy is too costly. Well, I disagree. Many studies conclude that renewable energy is cost neutral. The benefits to our future and sustainability as a race of people are immeasurable. Investment and support in industry creates efficiencies, refinements, cost savings and technological advancements. The first computer ever launched was the size of a house and cost a lot of money. Investment in ICT has delivered us hand-held devices which have changed our way of life. No doubt continuing investment and innovation will continue to change our lives.\n\nThere will be casualties along the way. There always are. Typewriters became redundant and, as a result, typewriter manufacturers went out of business. But other businesses emerged that were smart enough to invest in new technology. The renewable energy sector is no different. Putting in place the framework and the necessary support measures for the sector will help it to succeed. Success will harvest clean green energy solutions which are both sustainable and continue to decline in cost. This is the future for energy, and this is where the government needs to be going.\n\nWe also need to start taking advantage of the gains being made overseas in the renewable sector and applying these innovative approaches right here in Australia. We need to increase our investment in the sector as well as power storage. I should also note that not only is renewable energy common sense; it is also good public health policy. We know that fossil fuel is bad for human health. Coal mines and CSG mining harm the environment and harm human health. People living near coalmines and coal-fired power stations register higher rates of mortality from lung cancer, chronic heart, respiratory and kidney diseases. They also suffer from increased rates of lung disease, heart attack and stroke.\n\nTransitioning from dirty energy to clean energy reduces the harmful impact on human life and reduces the cost and burden of health related issues on the public health system and the economy in general.\n\nAustralia needs to embrace renewable energy for the sake of our planet, our future and the long-term sustainability of our people. I implore you to support my amendments, not only because I would like you to but because the people of Australia want you to\u2014and the planet needs you to as well.\n\nSimon Birmingham\n\nTempting though it might be to respond to the very wide-ranging contribution Senator Lazarus made just then, much of which was addressed in various forms during the second reading debate, I will stick to the question before the chair. The government does not accept or support the proposition of Senator Lazarus in relation to removing item 2 of schedule 1. That of course would basically negate the primary purpose of the bill before the Senate, which is to ensure that the renewable energy target is successful, that it meets the intention\u2014and indeed exceeds the intention\u2014of having 20 per cent of energy generation from renewable sources by 2020. In fact, we will have around 23 per cent as a result of that with the revised 33,000-gigawatt-hour target, without having the risks of the RET failing or the additional cost implications being passed through to Australian consumers or businesses.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 35,
+    "date": "2015-06-23",
+    "possible_turnout": 76,
+    "clock_time": "9:06 PM",
+    "id": 3833,
+    "no_votes": 11
+}

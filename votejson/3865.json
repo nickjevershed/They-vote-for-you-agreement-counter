@@ -1,0 +1,636 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "George",
+                "last_name": "Brandis",
+                "person": {
+                    "id": 10067
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100025
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Migration Amendment (Regional Processing Arrangements) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 11,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5491",
+            "id": 772,
+            "official_id": "r5491",
+            "title": "Migration Amendment (Regional Processing Arrangements) Bill 2015"
+        }
+    ],
+    "summary": "Sarah Hanson-Young\n\nby leave\u2014I move Greens amendments (8) and (2) on sheet 7738 together:\n\n(8) Page 4 (after line 5), at the end of the Bill (after proposed Schedule 2), add:\n\nSchedule 3\u2014Mandatory reporting of abuse\n\n_Migration Act 1958_\n\n1 After section 197BA\n\n\u00a0\u00a0Insert:\n\n197BAA Mandatory reporting of reportable assaults\n\n(1) If a designated person believes on reasonable grounds that a person has experienced, or is experiencing, a reportable assault, the designated person must, as soon as practicable, notify the relevant authorities of:\n\n\u00a0\u00a0(a) the alleged assault; and\n\n\u00a0\u00a0(b) the grounds on which the person has formed the belief that the alleged assault occurred.\n\n_Offence_\n\n(2) A person commits an offence if:\n\n\u00a0\u00a0(a) the person is required to make a notification under subsection (1); and\n\n\u00a0\u00a0(b) the person fails to comply with the requirement.\n\nPenalty:\u00a0\u00a0\u00a060 penalty units.\n\n_Geographical jurisdiction_\n\n(3) Section 15.3 of the _Criminal Code _(extended geographical jurisdiction\u2014category C) applies to an offence against subsection (2).\n\n_Interpretation_\n\n(4) In this section:\n\n_\u00a0\u00a0designated person_ means:\n\n\u00a0\u00a0(a) an authorised officer; and\n\n\u00a0\u00a0(b) a person appointed or employed by, or for the performance of services for:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) the Commonwealth, a State or a Territory; or\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) an authority of the Commonwealth, a State or a Territory; and\n\n(c) a person employed by another person or body that is contracted by the Commonwealth, or an authority of the Commonwealth, to perform services in relation to an immigration detention facility.\n\n_\u00a0\u00a0relevant authority_ means:\n\n\u00a0\u00a0(a) in any case\u2014the Department and the Australian Federal Police; and\n\n\u00a0\u00a0(b) if:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) the victim of an alleged reportable assault is a child; and\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) the alleged assault occurs in a State or Territory;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0a relevant authority of the State or Territory that has functions relating to child safety; and\n\n(c) if:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) the victim of an alleged reportable assault is a child; and\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) the alleged assault occurs in a foreign country;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0a police force of the foreign country.\n\n_\u00a0\u00a0reportable assault_ means any of the following, to the extent that they occur, or allegedly occur, in an immigration detention facility:\n\n\u00a0\u00a0(a) unlawful sexual contact;\n\n\u00a0\u00a0(b) sexual harassment;\n\n(c) unreasonable use of force;\n\n\u00a0\u00a0(d) any other assault.\n\n(2) Clause 2, page 2, at the end of the table, after proposed table item 3, add:\n\n4. Schedule 3 Immediately after the commencement of Schedule 1 to the _Migration Amendment (Maintaining the Good Order of Immigration Detention Facilities) Act 2015_.\n\nThese amendments provide that child abuse and assault inside detention facilities, when it occurs, would have to be reported to the police\u2014both the Federal Police and the local police at the location of the facility\u2014and, of course, to the department. They are basic mandatory reporting requirements. They mean that, for any staff member engaged in these facilities or any person who is contracted by the Commonwealth or subcontracted by another contractor, if you work inside the facility and you see child abuse, you must report it.\n\nYou would think that this type of mandatory reporting would go without saying, but it does not. We know it does not because months and months of evidence has come forward to show that the exact opposite is occurring inside Nauru. Children are suffering at the hands of child abusers; women are being raped and sexually assaulted and harassed; yet there is both underreporting of these incidents internally and no independent reporting as a matter of course.\n\nThe culture of secrecy inside these detention camps provides for a lack of reporting to an independent authority. That is wrong. It should not be the case that staff and asylum seekers are intimidated into staying quiet. They are not prepared to put their hand up and say what is going on. It must be a requirement of people engaged by the Commonwealth to report when they see things happening that are wrong. There is nothing worse than seeing a child sexually abused and saying nothing about it. It is wrong.\n\nThis amendment puts the onus on the staff member, on those engaged at the centre, to report these incidents. If they do not, it is a fine of $10,000 and a criminal offence. Basic mandatory reporting requirements are expected and widely accepted across other institutions and agencies. It should not be a hard thing to introduce here. It should make sense. I would argue that everybody across all sides, regardless of your political stripes, would understand that mandatory reporting should happen. It does not now. This amendment will make sure it must occur and it will give staff, in particular, not just the signal that they must report it, but the encouragement that it is the right thing to do. They will be abiding by the law and ensuring that they report these awful and insidious incidents of abuse and sexual assault. They are the amendments, and they are pretty basic.\n\nGeorge Brandis\n\nSenator Hanson-Young, once again may I remind you that you do not have a monopoly on virtue. Every member of this Senate, every member of this chamber, is as horrified\u2014\n\nSenator Hanson-Young interjecting\u2014\n\nThe TEMPORARY CHAIRMAN: Order, colleagues, the minister is on his feet.\n\nSenator Hanson-Young, would you mind not screaming. You have raised a very important issue, and I am explaining why the government will not be supporting your amendment. I would appreciate the courtesy of being listened to in silence. Senator Hanson-Young, every senator feels as strongly about the issue of child abuse as you do\u2014every single senator. The reason the government is not supporting this amendment is that it has nothing to do with the bill. This bill is a functional bill that is merely declaratory of existing arrangements. The amendment that you have moved bears no relationship to the topic of the bill.\n\nKim Carr\n\nThe Labor Party have asked a series of detailed questions about the purposes of this bill and the government's intentions in regard to the bill, and we have indicated to the chamber that we thank the government for their responses. As a consequence of the statements made in the second reading speech, and the answers to the questions that have been asked today, we are satisfied with the government's assurances in regard to the operations and purpose of this particular piece of legislation.\n\nIt is well known, though, that we do not condone the way in which Manus Island and Nauru detention facilities have operated during the time of this government. As we have indicated, we do not in any way endorse abuses of people detained by the Commonwealth of Australia, either in this country or offshore. This bill, however. is not about the government's management of the offshore processing facilities. While we acknowledge the importance of what Senator Sarah Hanson-Young has said in terms of the issues themselves, this is not the time to prosecute those particular arguments.\n\nI want to make this point clear to Senator Hanson-Young. We are prepared to consider carefully and with some sympathy the issues that you raised in regard to the maintaining good order bill. We appreciate the spirit in which you have raised these matters, but we will not be supporting these measures in the consideration of this bill. We have made undertakings that we will support this bill unamended. I am satisfied that the assurance the government have given us meet our concerns, and that goes for other amendments that are being proposed today. I will not feel the need to repeat this proposition on every occasion. I indicate to the chamber that it is the opposition's position that we will not be voting for any amendments.\n\nGavin Marshall\n\nMinister, does the government support the mandatory reporting of child abuse?\n\nGeorge Brandis\n\nSenator Marshall, I made clear the government's abhorrence which is shared, as I said, by all members of this chamber. In relation to the mandatory reporting issue, that is something I would have to consult my colleague the Minister for Immigration and Border Protection about.\n\nGavin Marshall\n\nMinister, do you accept that children in detention centres overseas are under Australia's care?\n\nGeorge Brandis\n\nSenator Marshall, I am not going to be offering observations about legal propositions, and what you have asked me, which strictly speaking is against standing orders, is to offer an opinion about the law. I have been asked to manage this particular bill, which, as I explained to Senator Hanson-Young, has no bearing on the issue of mandatory reporting of child abuse.\n\nGavin Marshall\n\nI understand what the minister says in that respect, but, given the historical nature of child abuse that we have seen throughout our own history in Australia in many areas, there is the fact that, if mandatory reporting had been available to us during those times, I do not think we would be confronting some of the enormous upheavals that we are seeing in our institutions at the moment. Given that this is an area where there have been many, many allegations made and given some of the difficulties and some of the secrecy that surrounds some of the activities in detention centres, why is the government reluctant to include mandatory detention in this bill and, if not in this bill, some other bill?\n\nGeorge Brandis\n\nSenator Marshall, as I explained to Senator Hanson-Young, this bill has nothing to do with the issue of whether there should be an arrangement for mandatory reporting of child abuse. It has absolutely no bearing on the bill. The bill is a declaratory bill in relation to existing functional arrangements.\n\nGavin Marshall\n\nDoes the government have any plans to include mandatory reporting of child abuse in any other bill?\n\nGeorge Brandis\n\nThat is a matter for the relevant minister to announce, if he were so minded.\n\nGavin Marshall\n\nThe difficulty I see with this is that you are asking the Senate to vote against a proposition that there should be mandatory reporting of child abuse. I see it that these children are in our care. In fact, I think everybody in a detention centre is vulnerable, but children are even more vulnerable. Again, given some of the historic problems that we have raised\u2014covering things up and making it difficult for people to feel that they can report some of these things\u2014and given the nature of the secrecy that surrounds these detention centres\u2014why doesn't the government think that it is appropriate that, at the first opportunity, regardless of what you say about whether this is the appropriate bill or not, this bill could include those provisions. Why isn't the government moving to ensure that there should be mandatory reporting of child abuse?\n\nGeorge Brandis\n\nSenator, as you rightly say and as, in fact, your relevant shadow minister, Senator Carr, who has the opposition management of the bill, has indicated, we are of the view\u2014which we understand we share with the Australian Labor Party\u2014that this bill is not the appropriate vehicle to deal with that matter. In relation to the government's policy intention, that is a matter for the minister to say.\n\nGavin Marshall\n\nMinister, you are here representing the government. Why can't you give an undertaking on behalf of the government that you will move to legislate, in whatever is the appropriate bill, the mandatory reporting of child abuse in detention centres?\n\nGeorge Brandis\n\nSenator Marshall, you have me at a disadvantage because I am here not representing the minister; I am here only to manage this bill, which bears no relationship with the issue that you have raised. However, out of courtesy to you, Senator Marshall, I will raise the question with the minister.\n\nMinister, is it possible to get someone who could actually speak on behalf of the government in relation to this matter?\n\nSenator Marshall, we are very close to being not relevant to the question before the chair. This bill has no relationship to the issue of the arrangements for mandatory reporting of child abuse. Senator Marshall, you may ask me about that policy matter, but all I would be able to do is convey to you my assurance, which I have already given, that I will raise the matter with the minister, whom I do not represent in this chamber.\n\nGavin Marshall\n\nPart of the question before the chair is that amendment (2) be agreed to. Amendment (2) clearly goes to mandatory reporting of child abuse. In some of your remarks you rightly said that every senator in this place would abhor the abuse of children. You said that on your own behalf too. If that is the case and if these are not just mere words, why cannot the government do something about it to ensure that there is mandatory reporting, so that we say more than words and actually do things, and do things by legislation, to ensure that there is mandatory reporting of these atrocities?\n\nGeorge Brandis\n\nSenator Marshall, you have asked me that question several times now and I have indicated that I am not in a position, for reasons you will well understand, to announce policy decisions on behalf of a minister whom I do not represent.\n\nZed Seselja\n\nThe question is that Greens amendments (2) and (8), moved by Senator Hanson-Young, be agreed to.\n\n",
+    "aye_votes": 16,
+    "date": "2015-06-25",
+    "possible_turnout": 76,
+    "clock_time": "5:24 PM",
+    "id": 3865,
+    "no_votes": 31
+}

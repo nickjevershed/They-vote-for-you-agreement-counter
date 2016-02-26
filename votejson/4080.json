@@ -1,0 +1,584 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Robert",
+                "last_name": "Simms",
+                "person": {
+                    "id": 10842
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100848
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Competition and Consumer Amendment (Payment Surcharges) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 2,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5579",
+            "id": 809,
+            "official_id": "r5579",
+            "title": "Competition and Consumer Amendment (Payment Surcharges) Bill 2015"
+        }
+    ],
+    "summary": "Peter Whish-Wilson\n\nI wish to move amendments, but I actually seek clarification from the Clerk as to exactly how I move these, because I still do not have a schedule in front of me.\n\nThe Acting Deputy President\n\nI advise that there is not a running sheet. You can by leave move all your amendments together.\n\nPeter Whish-Wilson\n\nby leave\u2014I move all Greens amendments on sheet 7841 together:\n\n(1) Schedule 1, item 2, page 3 (after line 27), after subsection (2F), insert:\n\n\u00a0\u00a0(2G) In addition to the effect that this Act (other than Parts IIIA, VIIA and X) has as provided by another subsection of this section, this Act (other than Parts IIIA, VIIA and X) has, by force of this subsection, the effect it would have if:\n\n(a) each reference in Part IVD to an ATM transaction were a reference to an ATM transaction that occurs:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) by means of a postal, telegraphic, telephonic, or other like service (including electronic communication); or\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) by means of an automatic teller machine provided by a bank (other than a State bank), or any other institution engaged in banking, in the course of banking (within the meaning of section 51(xiii) of the Constitution); and\n\n(b) each reference to a corporation included a reference to a person not being a corporation.\n\n(2) Schedule 1, item 3, page 10 (after line 32), after Part IVC, insert:\n\nPart IVD\u2014ATM transactions\n\nDivision 1\u2014Preliminary\n\n55P Object of this Part\n\n\u00a0\u00a0\u00a0\u00a0\u00a0The object of this Part is to ensure that:\n\n\u00a0\u00a0(a) account holders are not charged for ATM transactions made using automatic teller machines owned or leased by the persons with whom their accounts are held; and\n\n\u00a0\u00a0(b) amounts charged for other ATM transactions:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) are not excessive; and\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) reflect the reasonable costs of allowing a person to make an ATM transaction.\n\n55Q Definitions\n\n\u00a0\u00a0\u00a0\u00a0\u00a0In this Part:\n\n_\u00a0\u00a0ATM transaction_ means a cash deposit to, a cash withdrawal from, or an enquiry about the balance of, an account that is made by means of an automatic teller machine.\n\n55R Part not to apply to State banking\n\n\u00a0\u00a0\u00a0\u00a0\u00a0This Part does not apply with respect to State banking that does not extend beyond the limits of the State concerned.\n\nDivision 2\u2014Limit on charges for ATM transactions\n\n55S Limit on charges for ATM transactions\n\n_No charges for ATM transactions made using own_ _-branded ATMs_\n\n(1) A corporation must not, in trade or commerce, charge a person an amount (however described) for making an ATM transaction if:\n\n\u00a0\u00a0(a) the corporation is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_; and\n\n\u00a0\u00a0(b) the transaction relates to an account held by the person with the corporation; and\n\n(c) the automatic teller machine used to make the transaction is owned or leased by the corporation.\n\n_ATM transactions made using foreign ATMs must not be excessive_\n\n(2) A corporation must not, in trade or commerce, charge a person an amount (however described) for making an ATM transaction that is excessive (see subsection (3)) if:\n\n\u00a0\u00a0(a) the corporation is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_; and\n\n\u00a0\u00a0(b) the transaction relates to an account held by the person with the corporation; and\n\n(c) the automatic teller machine used to make the transaction is not owned or leased by the corporation.\n\n(3) For the purposes of subsection (2), an amount charged for making an ATM transaction is _excessive_ if the amount exceeds the amount permitted by a standard determined under section 18 of the _Payment Systems (Regulation) Act 1998_.\n\n(4) For the purposes of subsection (3):\n\n\u00a0\u00a0(a) the Reserve Bank of Australia must ensure that there are at all times in force standards under section 18 of the _Payment Systems (Regulation) Act 1998_ permitting amounts for the purposes of subsection (3); and\n\n\u00a0\u00a0(b) the making of such standards is taken to be in the public interest; and\n\n(c) an amount permitted for an ATM transaction must reflect the reasonable costs of allowing the person to make the transaction.\n\n55T Acquisition of property\n\n_Scope_\n\n(1) This section applies to the following provisions of this Act:\n\n\u00a0\u00a0(a) section 55S;\n\n\u00a0\u00a0(b) any other provision to the extent to which it relates to section 55S.\n\n_Effect of provision_\n\n(2) The provision has no effect to the extent (if any) to which its operation would result in the acquisition of property (within the meaning of paragraph 51(xxxi) of the Constitution) otherwise than on just terms (within the meaning of that paragraph).\n\n(3) Schedule 1, item 4, page 11 (line 2), after \"55B,\", insert \"55S,\".\n\n(4) Schedule 1, item 5, page 11 (after line 5), after subparagraph (ia), insert:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ib) section 55S;\n\n(5) Schedule 1, item 6, page 11 (line 7), after \"55B,\", insert \"55S,\".\n\n(6) Schedule 1, item 7, page 11 (line 9), after \"55B,\", insert \"55S,\".\n\n(7) Schedule 1, item 8, page 11 (after line 12), after subparagraph (iia), insert:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(iib) section 55S;\n\n(8) Schedule 1, item 9, page 11 (line 14), after \"55B,\", insert \"55S,\".\n\n(9) Schedule 1, item 10, page 11 (line 16), after \"55B,\", insert \"55S,\".\n\n(10) Schedule 1, item 11, page 11 (line 18), after \"55B\", insert \"or 55S\".\n\n(11) Schedule 1, item 12, page 11 (line 20), after \"55B\", insert \"or 55S\".\n\n(12) Schedule 1, item 13, page 11 (line 22), after \"55B\", insert \"or 55S\".\n\n(13) Schedule 1, item 14, page 11 (line 24), after \"55B\", insert \"or 55S\".\n\n(14) Schedule 1, item 15, page 12 (line 3), after \"55B,\", insert \"55S,\".\n\n(15) Schedule 1, item 16, page 12 (line 5), after \"55B,\", insert \"55S,\".\n\n(16) Schedule 1, item 17, page 12 (line 12), after \"55B\", insert \"or 55S\".\n\n(17) Schedule 1, item 18, page 12 (line 19), after \"55B\", insert \"or 55S\".\n\nAs I made clear during our speech on the second reading, we support in every sense of the word the motivation behind this bill\u2014the response to the public outcry over excessive fees being charged when using credit cards for a range of different services. I raised with the minister the issue that banks are making around $600 million a year in profits from ATM fees. If credit card operators are not allowed to make a profit from the use of the card, neither should banks. Does the minister agree with that in terms of ATMs? We use credit cards for ATMS.\n\nSimon Birmingham\n\nI will attempt to deal with the overall issues that are raised in relation to the amendments that Senator Whish-Wilson is proposing, to put the remarks on the record and in context. Then we can deal with any other specific issues if need be.\n\nIt is important to note a little bit of background. In 2009 the Reserve Bank of Australia led reforms to ensure there was transparency in ATM fees. Prior to those reforms there was no transparency around ATM fees. It is important to distinguish what ATM fees are as distinct from the practice we have seen in relation to merchant fees that have been passed on. The fee for ATM use is a fee for service. Before someone withdraws money from an ATM they have the choice to pay the fee for that service or find an alternative ATM that does not charge a fee. There are a range of different services at different fee levels, including free services, depending on your financial institution, that are available to customers in the ATM market. Genuine competition exists there. Estimates are that the RBA reforms have led to savings of around $270 million from ATM fees between 2009 and 2011. It is notable that the use of ATMs is gradually declining with the greater take-up of electronic payments and the cash-out facilities in stores.\n\nThe credit card surcharge legislation that is before us today is implementing the important work undertaken by David Murray as part of the Financial System Inquiry. The FSI did not make any recommendations in respect of ATM fees. The government's surcharging ban targets misleading conduct by merchants who charge a fee under the guise of passing on a credit card payment they incur to accept a card. That is an important point to emphasise. We are targeting misleading payments where consumers face a fee, allegedly associated with conducting a purchase by credit card, that is not a genuine, real or accurate reflection of the cost of that fee.\n\nConversely, ATM fees are disclosed in advance and are fees charged for a specific service, namely, the use of that ATM. They are not presented as the cost of somebody else in that regard, unlike misleading conduct in relation to merchant fees. They are different issues. The measures contained in this bill are the result of extensive work and broad consultation, and they really tie back to the Financial System Inquiry, which did not, as I indicated, touch on the relationship with ATM fees.\n\nPeter Whish-Wilson\n\nI think that at the heart of this bill, and it goes hand in hand with what you just outlined about misleading or deceptive conduct, is the concept of what is an excessive surcharge or an excessive fee. When I use my credit card at a shop pay a fee I am paying a fee for service as well. There is no difference whether I go to an ATM and look at my bank account details or I use my credit card to facilitate a transaction in a shop. Either way, you are getting a fee for service. The question I would like you to answer, minister, is: if we know from the Reserve Bank that the cost to a bank of providing an ATM service is on average around 77c, do you think that fees of $2 or $3, for example, that allow the banks to make $600 million profit a year from the Australian people are excessive? If you do, there is no reason you would not extend this bill to include the provision of services from ATMs. Could you please tell me whether you think banks have excessive fees on ATM services?\n\nSimon Birmingham\n\nSenator Whish-Wilson, I think you either misunderstand or seek to misconstrue the core nature of this bill. You said it is dealing with excessive fees. What I would draw your attention to is that it deals with misleading fees, and there is a clear distinction between the two. In relation to the merchant surcharge, what the legislation we are dealing with here seeks to address is where merchants present a fee that is related to the use of a credit card in the purchase of a good or service and the merchant presents that fee as a pass-through of costs incurred from the financial institution that provides the facility for them to take the credit card payment. Here we are seeking to deal with instances where that pass-through is grossly inflated and the consumer is being misled into thinking that it is a pass-through of that cost, whereas in fact the merchant is trying to make an additional profit on the manner in which the individual pays for the good or service.\n\nThat is quite different from the ATM context where, of course, the ATM is usually owned by the institution that puts the ATM in place and the fee charged to the consumer for accessing funds from that ATM is directly applied for the service of using the ATM. It is a different matter in that regard. We could come into this chamber every day and you could seek to ask me hypothetical questions about what an appropriate profit margin is for a different private business selling a different good. I do not think it is the role of government to be defining what appropriate profit margins are and what is excessive or otherwise. We have consumer law that seeks to account for misleading practices, abuse of market power and a range of other things, and to protect consumers in that regard, but in this case we should not think it is a straightforward and analogous comparison to look at merchant fees and ATM fees and say they are one and the same problem. They are quite different matters, and it would be wrong of the Senate today, without having undertaken consultation or the proper processes that led to this legislation, to get ahead of the game and do something else in relation to ATM fees.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 12,
+    "date": "2016-02-22",
+    "possible_turnout": 77,
+    "clock_time": "11:23 AM",
+    "id": 4080,
+    "no_votes": 31
+}

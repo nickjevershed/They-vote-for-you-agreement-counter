@@ -1,0 +1,532 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Robert",
+                "last_name": "Simms",
+                "person": {
+                    "id": 10842
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100848
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 2,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5572",
+            "id": 812,
+            "official_id": "r5572",
+            "title": "Crimes Legislation Amendment (Proceeds of Crime and Other Measures) Bill 2015"
+        }
+    ],
+    "summary": "Sean Edwards\n\nSenator McKim, do you intend to proceed with amendment (2)?\n\nNick McKim\n\nThat amendment would be consequential to the first amendment succeeding, which, obviously, did not happen. On that basis, it will not be proceeded with.\n\nPeter Whish-Wilson\n\n) ( ): by leave\u2014I move Greens amendments (1) and (2) on sheet 7845 together:\n\n(1) Page 2, clause 2 (table item 2), omit the table item, substitute:\n\n(2) Page 12 (after line 22), after Schedule 2, insert:\n\nSchedule 2A\u2014Amendments relating to the Corporations Act 2001\n\n_Corporations Act 2001_\n\n1 Section 9 (after paragraph (a) of the definition of _financial records_ )\n\n\u00a0\u00a0Insert:\n\n\u00a0\u00a0(ab) books, records or accounts needed to explain details of transactions that deal with assets; and\n\n2 After section 190B\n\n\u00a0\u00a0Insert:\n\n190C Internal accounting controls\n\n(1) A director of a corporation must ensure that the corporation has a system of internal accounting controls.\n\n(2) To comply with subsection (1), the system must ensure that:\n\n\u00a0\u00a0(a) transactions are executed in accordance with appropriate authorisation; and\n\n\u00a0\u00a0(b) transactions are recorded; and\n\n(c) assets of the corporation are regularly accounted for and reconciled; and\n\n\u00a0\u00a0(d) appropriate authorisations are in place in relation to dealing with assets of the corporation.\n\n3 Paragraph 286(1)(a)\n\n\u00a0\u00a0Repeal the paragraph, substitute:\n\n\u00a0\u00a0(a) correctly record and explain its financial position and performance; and\n\n\u00a0\u00a0(ab) correctly record and explain its transactions in sufficient detail so that the record accurately reflects the transactions; and\n\n4 Application provisions\n\n\u00a0\u00a0The amendments made by items 1 and 3 of this Schedule apply to transactions that occur on or after the commencement of this Schedule.\n\nI will not take very long, but I want to spend a few minutes going through why we have put up some amendments to schedule 2, which deals with false-accounting offences. The Greens are supportive of the intention of schedule 2 as it exists. Schedule 2 purports to strengthen the law in relation to the falsification of accounts so as to better enable regulators to prosecute those involved in bribery and corruption. It responds to the evaluation of Australia's compliance with the OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, which recommended that sanctions for false accounting be strengthened.\n\nBribery and corruption are obviously threats to the foundation of our society wherever they occur. They erode confidence in the operation of our economy, they undermine trust in the institutions that support our economy and they pick away at the foundations of society. Corporations involved in bribery and corruption are a threat to the rule of law, pure and simple. I do not think anybody in here would disagree with that. Governments have an obligation to stamp out bribery and corruption wherever they take place. Failing to do so sends the wrong message about what is acceptable conduct. With supply chains being increasingly globalised, it is important that Australia do all that it can to encourage higher standards of conduct.\n\nUnfortunately, as it stands, the Greens do not believe that schedule 2 spells out clearly enough the duties of a corporation that would enable this law to be effective. The concern that arose during the inquiry of the Legal and Constitutional Affairs Legislation Committee is that the Corporations Act does not actually require enough detail to be recorded that would enable regulators to detect and prosecute fraudulent accounts. The Greens amendments would simply require a corporation to record the buying and selling of assets. This is a statement of the obvious. Any legitimate business will already have such a system in place; otherwise, how else would it stay afloat? It is essential to the profitability of an enterprise to know what you are buying and what you are selling and that you have a system for employers to do this on behalf of the enterprise. The only businesses that do not keep a record of these transactions\u2014at least not an official record\u2014are those engaged in corrupt activities. But, for regulators to be able to detect bribery and to detect corruption, they need to be able to look at these records to see if the books add up.\n\nThe shortcoming of the bill as it stands, in our opinion, is that it assumes that the existing provisions of the Corporations Act require these records to be kept. Section 286 requires a corporation to keep financial records. However, the definition of financial records does not expressly state that the transaction of assets should be recorded. The Greens amendments would clear this up by prescribing that the transaction of assets be recorded. The Greens amendments would also make it explicit that directors of a corporation must institute and maintain a system to record these transactions. The Greens amendments sit entirely within the existing framework of the Corporations Act. They do not seek to extend the coverage of the act or the time period for the keeping of records, and we have received legal advice that this is the case.\n\nThe Greens amendments actually seek to mimic the approach taken in the United States, which, on this occasion, is leading Australia in taking steps to stamp out bribery and corruption. No law-abiding business has anything to fear from these amendments. As I mentioned earlier, most businesses do record these transactions, but you would have to ask yourself, if a business is not recording these simple transactions, what actual business is it conducting?\n\nI urge senators to support these amendments so that we can be sure that the intention of schedule 2 of the bill can be fulfilled. I commend these amendments to the chamber.\n\nMatthew Canavan\n\nI note the Australian Greens have proposed a number of amendments to the Corporations Act 2001 relating to the proposed offences for false dealing with accounting documents. The government does not support Senator Whish-Wilson's amendments. The government considers its offences are broad enough to cover false accounting in a range of different contexts. The bill proposes an appropriately broad definition of accounting documents, namely: any account, any record or document made or required for any accounting purpose, or any register under the Corporations Act, or any financial report or financial records within the meaning of the act.\n\nThe suggested amendments from Senator Whish-Wilson would seek to amend an existing comprehensive piece of legislation\u2014the Corporations Act\u2014and that act relies on a referral of powers from the states and territories. To adopt amendments to this legislation in haste and without due consideration and consultation with the states and territories, relevant entities and the financial reporting profession could have far-reaching and unintended effects. The suggested Greens amendments also have the potential to add a significant compliance burden on large numbers of small companies without corresponding benefits to their shareholders or other stakeholders.\n\nThe government's new offences have been developed following a lengthy period of consultation with Commonwealth agencies as well as certain non-government stakeholders. If Senator Whish-Wilson's amendments were pursued, we would need to consider a similar process for them. We note the proposal to have the Greens amendments commence five months after royal assent of the bill. The government nonetheless believes it is necessary to give more consideration to any such amendments before they are made to ensure they are appropriate, they fit within the current framework of corporate regulation and they do not have costly, unintended consequences.\n\nJacinta Collins\n\nLabor will not be supporting the amendments moved by Senator Whish-Wilson\u2014I will address all the amendments at this point\u2014as we too believe the bill as drafted is fit for purpose and satisfies the intent to create two new offences of false dealing with accounting documents to implement Australia's obligation as part of the OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions. Article 8 of the convention requires parties to create offences of false accounting for the purposes of concealing or enabling bribes to a foreign public official.\n\nWe believe the amendments from Senator Whish-Wilson are not necessary to achieve the aim of schedule 2 and, while the concerns he raises are laudable, I take on board the comments of Senator Canavan for the government in terms of the referrals involved and the need to deal with appropriate processes to further these issues. Senator Whish-Wilson, we do not put aside the concerns you raise here, but unfortunately them being raised at this stage, and here and now being the first opportunity that we have had any detailed canvassing of the nature of these amendments, leaves us in the position where we think it is appropriate that more time be taken to look at those issues. As has been pointed out, any changes to the Corporations Act would require consultation.\n\nWe note that the Senate inquiry into the bill found that the provisions would not only support Australia's compliance with its international obligations but actually go further in helping to combat a range of financial crimes. Labor agrees that the breadth of the proposed offences and the potentially serious penalties for those who commit them are appropriate in the current circumstances. That said, in the longer term and after due consultation, the issues that you raise may merit further consideration.\n\nPeter Whish-Wilson\n\nI will just add that there have been numerous occasions when I have been in the Senate and heard the excuse that we need to go away to consult with the states and go through this process of hand-passing the football somewhere else. The role of the Senate as a house of review is to suggest amendments\u2014amendments that are sensible and that improve the legislation. What we are asking for here is eminently sensible, and I cannot see any unintended consequences of asking corporations to keep a record of their transactions. Most companies do so; if they do not, then you would have to wonder what their transactions are. Senator Collins, further down today's Senate schedule we will be looking at the Tax Laws Amendment (Implementation of the Common Reporting Standard) Bill 2015, and I hope that you will not be moving any amendments this afternoon to that bill on the same grounds that you have just given\u2014that it is late in the process and this kind of thing should not be done as a matter of process. I will be very surprised if you do that, following what you have just told us.\n\nSean Edwards\n\nThe question is that amendments (1) and (2) moved by Senator Whish-Wilson on sheet 7845 be agreed to.\n\nBill agreed to.\n\nBill reported without amendments; report adopted.\n\n",
+    "aye_votes": 12,
+    "date": "2016-02-23",
+    "possible_turnout": 77,
+    "clock_time": "1:43 PM",
+    "id": 4090,
+    "no_votes": 27
+}

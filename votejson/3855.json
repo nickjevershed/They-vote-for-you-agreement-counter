@@ -1,0 +1,863 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "George",
+                "last_name": "Brandis",
+                "person": {
+                    "id": 10067
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100025
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Committees \u2014 Legal and Constitutional Affairs References Committee; Meeting",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 1,
+    "bills": [],
+    "summary": "Jacinta Collins\n\nby leave\u2014I move revised motion No. 776, standing in my name:\n\nThat\u2014\n\n(1) T he Legal and Constitutional Affairs References Committee be required to hold a private meeting today, 25 June 2015, otherwise than in accordance with standing order 33(1), immediately following the adjournment of the scheduled Legislation Committee meeting or at 11 am, whichever is earliest and that the agenda for the Reference Committee meeting include:\n\n(a) The election of a new chair of the committee; and\n\n(b) Deliberation on the committee's progress on its inquiry into the handling of a letter sent by Mr Mon Haron Monis to the Attorney-General, including the letter, dated 24 June 2015 from Mr Thawley, Secretary of the Department of Prime Minister and Cabinet, and received by committee on 24 June 2015.\n\n(2) The time for the presentation of the report on the handling of a letter sent by Mr Mon Haron Monis to the Attorney-General be extended to 12 August 2015.\n\nIan Macdonald\n\nI would like to speak to the motion. This is another outrageous abuse by the Labor Party of the whole Senate practice. In case people do not know: I am the chair of the Legal and Constitutional Affairs Legislation Committee. I am told by Senator Collins\u2014nobody has bothered to tell me, as chair of this committee or as deputy chair of the references committee\u2014that apparently the chair of the references committee, Senator Wright, has resigned. No-one has had the courtesy to tell me as deputy chair, and now I am apparently the acting chairman of the references committee and chairman of the legislation committee.\n\nThis motion just announced by Senator Collins sets up a meeting with me\u2014as the acting chair, apparently\u2014and with other colleagues, without any consultation about their diaries, their timetables or their requirements for today. This is just outrageous, and it brings the Senate committee system into abject disrepute.\n\nYou might recall, Mr President, that this Monis letter, the subject of the references committee, was a matter that the legislation committee was dealing with as a result of evidence that came up in the estimates committee at the last estimates hearings. There was a request from two Labor senators and one Greens senator to have a spillover specifically on the matter of the Monis letters. The legislation committee has dealt with that and has set down or is about to set down hearings for that particular matter. The Greens support Labor on everything\u2014all of their dodgy deals\u2014and I do not think the crossbenchers care about these things, because they are just committee matters, so, unfortunately, with crossbench and Greens support, the references committee was then given the same reference, given the whole inquiry that the legislation committee had properly already before it.\n\nI say to the crossbenchers: I know these are not matters of great consequence to you and they are just more political games by the ALP, but we have to draw the line somewhere. We have to say, ' Enough is enough.' If the Senate committee system is going to mean anything at all, then we have to do this regularly. I had not even seen the motion that Senator Collins just moved. She just showed it to me when I went to tell her, a minute ago, that, because I thought there were going to be a lot of divisions early, I have changed the scheduled meeting of the legislation committee, which was set down for 9.30. I just went to tell Senator Collins that, instead of having it in 1S6, we are going to have it outside here so we are available to come in if there are divisions. It was then that Senator Collins, for the first time, showed me this amended motion before the chair.\n\nI am not sure, but I think I saw that Senator Lazarus was about to be appointed the Chair of the Legal and Constitutional Affairs References Committee. Those positions usually go to the Labor Party. Occasionally the Labor Party allows them to go to the Greens, as happened in this case. Now we are going to apparently\u2014according to a motion by the Labor Party\u2014have as chair an Independent senator, who is a nice guy but who has taken absolutely no interest in the legal and constitutional affairs committees of this parliament and who has taken no apparent interest in the Monis letters. And suddenly this person, so I am told, is about to be appointed by a majority as chair. I will have to have a look at where the numbers lie on that committee now, because, with Senator Wright having resigned, it may be that the voting\u2014\n\nJacinta Collins\n\nNo; it is a standing order, Ian.\n\nIan Macdonald\n\nWhat is the standing order?\n\nJacinta Collins\n\nIt is a crossbench position.\n\nStephen Parry\n\nOrder! Senator Macdonald, you have the call.\n\nIan Macdonald\n\nThis sort of activity brings not only the Senate committee system but the Senate generally into disrepute. The motion says that:\n\n\u2026 the Legal and Constitutional Affairs References Committee be required to hold a private meeting today, 25 June 2015, otherwise than in accordance with standing order 33(1), immediately following the adjournment of the scheduled Legislation Committee meeting or at 11 am, whichever is earliest \u2026\n\nThe agenda for the references committees shall be:\n\n(a) The election of a new chair of the committee\u2014\n\nPeter Whish-Wilson\n\nBoring!\n\nIan Macdonald\n\nDo you know why I am reading this out? Because it is the first time that I, as the deputy chairman of the committee, have had the opportunity of seeing it. It goes on to say:\n\n(b) Deliberation on the committee's progress on its inquiry into the handling of a letter by Mr Mon Haron Monis to the Attorney-General, including the letter, dated 24 June 2015 from Mr Thawley, Secretary of the Department of Prime Minister and Cabinet, and received by committee on 24 June 2015.\n\nApparently we are going to elect a new chair and we are going to deliberate on the committee's progress on its inquiry into the Man Haron Monis letter. That should not take very long because there has been absolutely no progress. What we have had is two committee hearings so far where officers of the department are being required to advise to the exact minute when they made a phone call three months ago. I have been critical of them because they have been able to give the minute when they got the thing but they have not been able to give a second. This committee is so outraged that these public officials are being asked three or four months later to say exactly what minute of the day they actually went to the toilet, when they blew their noses and when they happened to make a phone call to someone else. It is outrageous. There is a standing convention, of course, that secretaries of the Department of Prime and Cabinet do not appear before committees. In this instance, that does not really matter because the deputy secretary, who was principally involved in this inquiry, the 2IC\u2014certainly, Mr Thawley is the nominated person who had oversight and who released the report\u2014and who knows everything, I would say, has not been 'grilled'\u2014the questioning was a bit like a lettuce leaf, except when I demanded that he give the second rather than just the minute.\n\nJacinta Collins\n\nOh, it was you!\n\nIan Macdonald\n\nYes, but it shows how stupid the whole thing was: was the phone call at 8.55, 8.56 or 8.57? Because the officials could not quite remember, they were berated by members of the Labor Party. Deliberation on the progress of this committee's inquiry will not take long because there has been no progress. What Senator Brandis said in the estimates committee hearing, and he then corrected in one small area immediately he was able, has all been there on the public record for weeks and for months; yet, this references committee has sat for two days already going over and over and over and over the same things. This abuse of the process, again, continues today.\n\nSomewhere along the line this Senate has to get the Senate committee system back to the times when it was respected and when it operated properly, when it operated with cooperation between all senators because we were doing good things. I am sorry that Senator Lazarus seems to be tied up in this because you will recall that that Queensland committee\u2014the reference about the Newman government to be investigated by a select committee which Senator Lazarus chaired\u2014was a committee set up notwithstanding that the government had by far the biggest number of senators in this chamber. The government had one senator on that committee, the Labor Party had two, the Greens had one and Senator Lazarus was the other one. So of a five-member committee, the government had one member. That brought the Senate into disrepute. It was an absolute farce, that committee; nothing came out of it and nothing was achieved. No new information came out and it was just a waste of the senators' time and the taxpayers' money.\n\nThere have been a couple of other instances and this is just another one\u2014purely political. Once the Senate adopts what seems to be an increasing situation by the Labor Party that we will run these committees purely for partisan political purposes or to give one of their allies the additional resources that comes with the chairmanship of a committee\u2014\n\nAs I say, the chair is a person who, to my knowledge, has taken absolutely no interest in this matter at all\u2014has not attended an estimates committee and has not, as a participating member, attended any of the other committees. As I understand it\u2014someone has mentioned this to me\u2014I am assuming the suggestion is that this crossbench senator will become the new chair.\n\nThe motion we are dealing with states:\n\nThe time for the presentation of the report on the handling of a letter sent by Mr Mon Haron Monis to the Attorney-General be extended to 12 August 2015.\n\nThis committee should have been able to report five minutes after it started, but the reporting date is now being extended to 12 August. I have no indication of what that is about. There has been no argument by the mover of the motion as to the reason for this. The committee was supposed to report today. I would have hoped that the committee would have had its report circulated to committee members, as is usual. Certainly, those of us who suspect what the chair's report might be have taken the precaution of getting a dissenting report ready for tabling today, in accordance with the procedures of the Senate.\n\nAgain, changing these things without notice to other members of the committee\u2014with 10 seconds notice\u2014is not the way that this chamber should operate. It is not the way the Senate committee system has operated in years gone by. It distresses me, as someone who has been in this place a long time, who has seen the good work that Senate committees have done, very often in a bipartisan way, very often correcting legislation and actions of governments, be they Liberal governments or Labor governments. Committees have investigated various areas and looked into them, as they should, and have made recommendations which both Liberal and Labor governments have accepted as being a sensible addition to the debate on these issues. Yet, in recent times, we have had the sort of dodgy dealing that is evidenced by this motion today.\n\nDoes it matter that I and other members of the committee have other things planned for 11 o'clock today? Did it matter that, when this committee first sat, the majority of the committee members picked a day that they knew I would be in Cairns for the launch of the northern Australia policy and that Senator Reynolds, the other regular member of this committee, would be in Amberley with a defence committee, that being a longstanding commitment? They knew that, so they set down the meeting for that day, when government senators would not be available. Fortunately, we were able, at short notice, to get another senator\u2014one senator only\u2014to fill in. But that sort of activity just brings the whole system into disrepute and means that the cooperation needed to run the Senate is rapidly dissipating.\n\nI suspect that one of the decisions of this committee\u2014I have no notice of this\u2014is that they will probably want to have a hearing tomorrow. That is because they know that tomorrow is the meeting of the Federal Council of the Liberal Party and they know that all Liberal senators will be in Melbourne for the Federal Council.\n\nCatryna Bilyk\n\nI didn't, but I do now!\n\nIan Macdonald\n\nWell, if you did not know that, you should ask Senator Dastyari\u2014he is the one with all the intelligence, although that is mainly within the Labor Party, not outside.\n\nThis procedure is a sad indictment of where the Senate has gone. I am sad that the Senate has come to this. The Greens political party are no Democrats, I have to say\u2014at least the Democrats used to follow some of the norms of this chamber and some of the procedures that made the place work. This is an outrageous abuse of the proceedings of the Senate.\n\nStephen Parry\n\nThe question is that the motion moved by Senator Collins be agreed to.\n\n",
+    "aye_votes": 34,
+    "date": "2015-06-25",
+    "possible_turnout": 76,
+    "clock_time": "9:55 AM",
+    "id": 3855,
+    "no_votes": 31
+}

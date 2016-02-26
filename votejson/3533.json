@@ -1,0 +1,844 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kate",
+                "last_name": "Lundy",
+                "person": {
+                    "id": 10398
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100129
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Eric",
+                "last_name": "Abetz",
+                "person": {
+                    "id": 10003
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100001
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Faulkner",
+                "person": {
+                    "id": 10214
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100077
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Palmer United Party",
+                "id": 100830
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Democratic Labor Party",
+                "id": 100292
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Palmer United Party",
+                "id": 100831
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Qantas Sale Amendment Bill 2014; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 26,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5187",
+            "id": 641,
+            "official_id": "r5187",
+            "title": "Qantas Sale Amendment Bill 2014"
+        }
+    ],
+    "summary": "Doug Cameron\n\nThe opposition has three amendments in relation to this bill. I understand that we will be dealing with sheet 7476 initially. I move:\n\n(2) Schedule 1, page 3 (lines 1 to 5), omit the Schedule, substitute:\n\nSchedule 1\u2014Amendments\n\n_Qantas Sale Act 1992_\n\n1 Paragraphs 7(1)(aa) and (b)\n\n\u00a0\u00a0Repeal the paragraphs.\n\n2 Paragraph 7(1)(d)\n\n\u00a0\u00a0Omit \", (b)\".\n\nThis amendment is basically the 25 per cent, 35 per cent proposition. This amendment will remove the 35 per cent and 25 per cent sublimits on foreign ownership but will retain the requirements for at least 51 per cent ownership of Qantas by Australians and all other elements of part III that give Qantas its Australian character. This includes keeping provisions that give legislative effect to those requirements. These are: the majority of Qantas international operations, including maintenance, housing of aircraft, catering, flight operations, training and administration, be based in Australia\u2014that is, Qantas jobs should predominantly be Australian jobs; the Qantas board to remain composed of at least two-thirds Australians, including the chair; the Qantas name must be used for international services; Qantas's head office to remain in Australia; and Qantas to remain incorporated in Australia. Labor will not allow these provisions to be taken out of the legislation, as the government had proposed. The position is consistent with the recommendation of Labor senators on the Senate Economics Legislation Committee when the bill was considered.\n\nDavid Johnston\n\nThe government will support the Australian Labor Party's amendment to this bill. The proposed amendment means that the bill removes the 25 and 35 per cent intermediate restrictions on foreign ownership of Qantas but leaves the other restrictions contained in part III unchanged. By removing those foreign investment restrictions, the bill allows foreign investors to acquire the same level of ownership in Qantas as they can in other Australian international airlines regulated by the Air Navigation Act 1920.\n\nThe government opposes the other amendments. I do not propose to say much more about those other amendments. I think the reasons that we are opposing the amendments as proposed by the Greens and the crossbenchers are obvious and contained in both the second reading speech and the summing up that I have delivered.\n\nThe government maintains that the best way to assist Qantas is to level the playing field. While the revised bill goes some way in evening the playing field, it still will not be level. Qantas will still operate under a unique statutory regulatory framework that does not apply to any other Australian airline. Having said that, I think the government's disposition with respect to these amendments is clear, and we will not be opposing Labor's amendments.\n\nLee Rhiannon\n\nThe Greens do not support Labor's amendments that, if passed, would clearly increase the level of foreign ownership. We support the retention of the limits, which limit the individual investor to 25 per cent ownership and foreign-owned airlines to 35 per cent. The Labor-coalition deal would allow the foreign level of ownership to rise to 49 per cent. We need to look at what Labor is saying. I acknowledge what the opposition spokesperson, Mr Albanese, said:\n\nThis reform will ensure that Qantas will remain majority Australian owned\n\nMany Labor senators have reiterated that message today along with their defence of jobs. We need to look at what 'to remain a majority Australian owned' means and if that is possible. When my colleague Senator Peter Whish-Wilson spoke, he provided some very useful information about how this will play out, and I look forward to his contribution on how we can be confident that majority ownership would stay with Australia.\n\nIn this part of the committee, we need to unpack what Labor is saying, because there is a concern with how this amendment will play out. We heard from Mr Albanese and Labor senators about what they want, but Mr Albanese is delivering and Labor is about to vote for is what Qantas management have said they are pleased with. In _The__Sydney Morning Herald_on 15 July, an unnamed Qantas spokesperson said:\n\nWhile removing all restrictions that apply only to Qantas remains our preference for levelling the playing field, changing the 25 and 35 per cent limits would represent an improvement on the status quo.\n\nIt is very important for Labor senators to recognise that it is not an improvement on the status quo. The status quo has higher levels of protection against foreign ownership, and if you vote with the coalition, this deal will weaken the protection that is currently in part III. I would argue that that is a real concern and that we need stronger limits on foreign ownership, not this watering down.\n\nI am not questioning the sincerity of Labor senators who have spoken in this debate. They have clearly set out their position. My guess is that some would not completely understand that weakening the limits on foreign ownership is about to occur. If Labor and the coalition vote together, they are voting for what Qantas management wants. They are opening the door to increased foreign ownership and strengthening the hand of the very Qantas management that we have heard a number of Labor senators be so critical of. This is the very management who drive down working conditions and wages and who are working to casualise the workforce. That is what will happen if Labor vote with the coalition and this deal goes through.\n\nIt looks like Labor have chosen to work with the coalition and it is very unfortunate that they did not choose to work with the Greens, Senator Nick Xenophon and Senator John Madigan, who have set out their concerns about issues to do with foreign ownership, and the Palmer United Party. We could have improved the current situation under which Qantas operates rather than weakening it, which could occur if this amendment goes through.\n\nPeter Whish-Wilson\n\nI just want to ask the minister a question. The government has obviously reviewed these amendments by Labor. Could the minister explain how the potential increase of a single investor will get to 49 per cent? Given the overall aggregate level is going to be 49 per cent and total foreign ownership is going to be 49 per cent, could he explain where total foreign ownership of Qantas is right now, where it has been historically and how exactly this will work on the share market?\n\nDavid Johnston\n\nI do not have that information. It is not material to the legislation before the chamber. The ordinary course of events of the functioning of the company's equity ownership will be in the marketplace. As you know, Qantas is a listed entity. As to the issuing of further shares or the provision of further equity or the making of contractual arrangements with investors, that is a matter for Qantas, as it would be for any other business that is a listed entity in the marketplace pursuant to the Corporations Law. Those matters do not bear upon the fact that there is a constraint that we are seeking to remove such that, in the ordinary course of business, Qantas can provide increased foreign equity to 49 per cent as set out in this legislation.\n\nPeter Whish-Wilson\n\nWe are passing a law here that is changing the ownership level of Qantas and allowing a single foreign investor\u2014potentially and presumably, but not always, another airline\u2014and I do not understand how it is going to work and whether you have met with Qantas and talked to them about exactly how it is going to work. If you already have an ownership level over 40 per cent or around 40 per cent like it is now\u2014and sometimes it gets to the limit of 49 per cent\u2014and an airline wants to buy a 49 per cent stake in Qantas, how does that work? How can they make an on-market or an off-market offer without pushing the total ownership over 49 per cent? You should be able to explain this, because it is obviously fundamental to the legislation that you have thought through how this would work.\n\nDavid Johnston\n\nIt works very simply, Senator. Qantas and any equity purchaser must comply with the law.\n\nPeter Whish-Wilson\n\nI have been asked not to take up too much time. But the Corporations Law has nothing to do with this. This is a separate issue for Qantas. The shareholder cap has been in place for a long time. I am thinking about the process that would occur. Presumably you have done this for the benefit of Qantas. We are supporting these amendments to allow a larger single shareholding\u2014presumably another airline\u2014but I do not know how it is going to work. I know there are hundreds and thousands of other foreign investors\u2014pension funds, mutual funds\u2014all holding shareholdings in Qantas. They classify as foreign shareholders. How does a new shareholder come into the market and take a stake without pushing the total cap over 49 per cent? It is a bit counterintuitive.\n\nDavid Johnston\n\nWe do not think it is.\n\nThe CHAIRMAN: The question is that opposition amendment (2) on sheet 7476 be agreed to.\n\n",
+    "aye_votes": 48,
+    "date": "2014-07-17",
+    "possible_turnout": 76,
+    "clock_time": "11:58 AM",
+    "id": 3533,
+    "no_votes": 15
+}

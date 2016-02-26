@@ -1,0 +1,590 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Palmer United Party",
+                "id": 100831
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Regulations and Determinations \u2014 Competition and Consumer (Industry Code \u2014 Port Terminal Access (Bulk Wheat)) Regulation 2014; Disallowance",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 2,
+    "bills": [],
+    "summary": "David Leyonhjelm\n\nI, and also on behalf of Senator Day, move business of the Senate notice of motion No. 1:\n\nThat the provisions of subclauses 5(1), 5(4) and 5(5) of the Competition and Consumer (Industry Code\u2014Port Terminal Access (Bulk Wheat)) Regulation 2014, as contained in Select Legislative Instrument 2014 No. 136 and made under the Competition and Consumer Act 2010, be disallowed.\n\nActing Deputy President, could I have some guidance as to whether there will be other speakers. Senator Day and I are both ready to speak. I understand there is a right of reply at the end.\n\nJohn Williams\n\nSenators Cash, Cameron and Siewert have indicated that they will be speaking to the motion.\n\nDavid Leyonhjelm\n\nThank you. The disallowance motion moved by Senator Day and me will prevent the Minister for Agriculture, Barnaby Joyce, from exempting monopoly grain marketer, CBH, from port access conditions that will apply to other port operators. Passage of this disallowance motion would remove the minister's power to exempt cooperatives from the code. I would make CBH subject to the same conditions as GrainCorp\u2014no more, no less. This would ensure fairness in that the same rules would apply to all who seek access to ports for the export of their grain.\n\nThe government might mouth words about free markets and capitalism, but in agriculture the lure of agrarian socialism is never far from the surface. Since the end of the single desk, in 2007, various changes to legislation were made that took the wheat export market towards deregulation. We have moved far beyond the old days of the single desk. I support this progress.\n\nOne of the interim measures in the transition was the adoption of mandatory port access codes for the export of grain. Following the expiry of undertakings to the ACCC last October, access to port services is now governed by the code and general competition law. Adoption of the code last year was seen by the government as:\n\n\u2026 a significant step towards free and open competition in the wheat export industry, which is a longer-term goal to which we have committed.\n\nHowever, CBH was exempted from the code.\n\nMy disallowance motion does not relate to the entire regulation. I have no concerns about that. It seeks to remove the part that implies CBH, as a grower and cooperative, is somehow more virtuous in its dealings with grain growers than, say, a company limited by shares, and should therefore be given special consideration. Those who claim to welcome competition, when the exporter is a profit-oriented business, especially if it is a foreign multinational, recoil in horror when it is suggested the same competition rules should apply to a farmer-owned cooperative. This is despite the fact that the grower-owned cooperative is just as committed to making money.\n\nThe Minister for Agriculture is an agrarian socialist, ready to use rules, regulations and special exemptions to protect his constituency. In Mr Joyce's eyes, all grain exporters are equal, but some are more equal than others. Government authority is being invoked to prevent grain growers from having the freedom to deal with CBH's evil corporate competitors.\n\nLet us take a moment to look at the central player and sole beneficiary of the minister's exemption from regulation. CBH handles 90 to 95 per cent of the grain produced in Western Australia. It is a cooperative, owned by around 4,500 wheat growers. CBH owns and operates the only wheat export facilities in WA, apart from the recently opened Bunge facility. It has 197 receival points and four bulk export terminals. It employs 1,000 permanent staff and has a turnover of close to $2 billion. It is no minnow.\n\nOn the east coast, GrainCorp handles about 70 per cent of the grain produced. That proportion is declining. At least GrainCorp operates in a competitive environment. A new terminal at Newcastle has been established, owned by the same CBH, plus Olam and Glencore. All these bodies compete with each other. Another privately owned storage facility also operates at Newcastle.\n\nAll of these players operate without special exemptions, in a free and competitive market. This means that the port operator with the greatest market power in Western Australia, CBH, is exempted from the port access code, even though it has the most scope to squeeze out competitors. Notwithstanding the perception that a growers' cooperative would act in a virtuous manner, CBH has form as a corporate bully. In 2013, the Australian Competition Tribunal removed the company's ability to tell those WA growers and marketers who use CBH's up-country storage facilities that they must use CBH transport services to deliver grain to port.\n\nIf any of the wheat export markets requires protection from monopoly practices, it is Western Australia, and yet that is exactly where the Minister for Agriculture is proposing a special exemption applies. It is ridiculous. Shadow minister Joel Fitzgibbon wrote recently:\n\nThe government wants to leave it to Barnaby Joyce to decide who will be covered by the code and who will to be. Indeed, Barnaby thinks the largest vertically integrated player in the market, and the market where there are the least players should be exempt from the code because it is a cooperative. This is an extraordinary proposition. It raises the spectre of a code covering all the players on the east coast, where there are more players and more competition, but potentially covering no players on the west coast, where there are less players and less competition.\n\nThis demonstrates that he gets it. Mr Fitzgibbon called the exemption 'a new market distorting regime' and that 'exempting cooperatives generally, or CBH specifically, was hard to comprehend.' I agree. The proposed exemption is an extraordinary proposition and I encourage his Senate colleagues to support the disallowance.\n\nDoug Cameron\n\nThe reform process that this disallowance seeks to amend is one which has been corrupted by the Abbott government. The former Labor government had a plan for the ports used to export the nation's wheat post the wheat-for-weapons scandal and the dismantling of the single desk. Our 2008 legislation recognised the monopoly power of companies which market wheat and own the ports, and the risk that they would use their ownership of the ports to deny the entry of competitors in grains marketing. That would be a bad thing for the sector, for growers and for our economy.\n\nThe legislation also recognised that over time new port facilities would emerge, reducing the monopoly power of the older players, so it gave birth to a three-stage approach to promoting competition. The first stage\u2014that is, 2008 to 2014\u2014involved curtailing the power of the monopolists by forcing them to provide legally enforceable undertakings on port access and other matters to the ACCC. The second stage\u20142014 to 2019\u2014was to be a period in which the market was subject to a prescribed code of conduct established under the Competition and Consumer Act. The code was to set rules for behaviour, disclosure, mediation and dispute resolution. The third stage was to be the dawn of a totally deregulated environment, one in which many more players, in a much more mature and competitive market, would be subject only to the general pro-competition provisions of the Competition and Consumer Act, as is the case in most markets. A decade seemed to be more than enough time to allow the market to grow and mature.\n\nUnder these arrangements, port operators would have had a capacity to apply to the ACCC for an exemption from the code on the basis that a port zone already had sufficient competition to guarantee fair dealings absent of a code. This makes sense. Why burden the market and its players with regulation when the market works fine without it? We have faith in the ACCC's ability to make such decisions, in the same way that we trust it to accept undertakings under the current regime.\n\nNow the Abbott government wants to change our legislated plans. Firstly, the government wants to remove the certainty we provided on deregulation by removing the five-year sunset clause on the code. It seems the sector will remain subject to the whims of the minister of the day. Secondly, the government wants to leave it to Minister Joyce to decide who will be covered by the code and who will not. Indeed, Minister Joyce thinks that the largest vertically integrated player in the market and the market where there are least players should be exempt from the code because it is a cooperative. This is an extraordinary proposition. It raises the spectre of a code covering all the players on the east coast, where there are more players and more competition, but potentially covering no players on the west coast, where there are less players and less competition.\n\nThe wheat industry is critical to the Australian economy, annually earning around $6 billion in foreign exchange and meeting our own domestic consumption needs. Developing the most efficient market and supply chain is critical for our international competitiveness and grower returns. Senator Leyonhjelm's disallowance seeks to knock out Minister Joyce's power to exempt co-ops.\n\nOn balance, Labor will not support the disallowance; rather, it will give the government's proposal an opportunity to work\u2014but we do issue an appeal. The government has removed the five-year sunset clause for the code. It has been replaced by a review in three years time. We urge the minister to provide certainty by reinstating the sunset clause. Labor believes that within five years sufficient competition will exist in all port zones to allow the removal of all regulation beyond the general provisions of the Competition and Consumer Act.\n\nIn summary, Labor believes the government has erred in providing the minister with the power to exempt certain market participants, but will not stand in the way of its right to be proven wrong to have done so.\n\nMichaelia Cash\n\nThe government opposes the disallowance motion. Australia's $6.8 billion wheat export industry is a reliable supplier of high-quality products. The coalition government released a mandatory port access code of conduct for bulk wheat exports on 19 September 2014. The code is made under the Competition and Consumer Act 2010, and penalties from that act apply to breaches of the code. The code applies to all port terminal service providers.\n\nThe code limits red tape by exempting port terminal operators that meet certain conditions from having to comply with certain code requirements at particular ports. Exemption significantly reduces the regulatory burden. However, exempt port terminals still have to comply with parts 1 and 2 of the code, including transparency and fair-dealing obligations, as well as our requirement to have standard terms and prices. There are two pathways to exemption: a competitive analysis by the Australian Competition and Consumer Commission, the ACCC, or by satisfying criteria relevant to cooperatives, as decided by the Minister for Agriculture. Exemptions are made on a port-by-port basis.\n\nCooperatives follow significantly different business models, which work to benefit members who are growers rather than shareholders. In recognition of this, subclause 5(1) provides for grower owned cooperatives to have their regulatory burden and associated costs reduced and, therefore, maximise returns to growers. The exemption only applies to cooperatives with sound governance arrangements and whose members account for more than two-thirds of all growers in the relevant grain catchment area. This power rests with the Minister for Agriculture, as it is not appropriate for the ACCC, which has specialised skills in undertaking competition assessments, to fulfil this role. The Minister for Agriculture needs to be satisfied that these conditions are met before approving the exemption. The Minister for Agriculture made a determination on 17 November 2014 to exempt all four of CBH Limited's ports in Western Australia. The code includes safeguards that enable the minister to revoke a determination made under subclause 5(1).\n\nUnder subclause 5(5), exemptions can be revoked by the Minister for Agriculture if the circumstances for granting the exemption no longer apply, or if the minister is satisfied that the continuation of the exemption is not in the interests of relevant grain producers. Subclause 5(4) provides for grain producers, or groups of grain producers, to write to the minister if they are concerned about the impact of an exemption. I advise the Senate that, since the minister's determination on 17 November 2014 to exempt CBH Limited, no grain producers have raised concerns with the minister.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 2,
+    "date": "2015-03-04",
+    "possible_turnout": 75,
+    "clock_time": "5:57 PM",
+    "id": 3708,
+    "no_votes": 42
+}

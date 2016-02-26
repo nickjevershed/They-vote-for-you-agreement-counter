@@ -1,0 +1,714 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Eric",
+                "last_name": "Abetz",
+                "person": {
+                    "id": 10003
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100001
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Robert",
+                "last_name": "Simms",
+                "person": {
+                    "id": 10842
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100848
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Social Services Legislation Amendment (Low Income Supplement) Bill 2015; Second Reading",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 5,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5538",
+            "id": 787,
+            "official_id": "r5538",
+            "title": "Social Services Legislation Amendment (Low Income Supplement) Bill 2015"
+        }
+    ],
+    "summary": "Rachel Siewert\n\nThis is national Anti-Poverty Week, and I am sure people are aware that it is in fact also National Carers Week. This is a week where we strengthen our understanding of the causes and consequences of poverty and hardship and, hopefully, take action to address it. We encourage research, discussion and action to combat poverty. Unfortunately, what we see here in Anti-Poverty Week is the government attempting to cut a measure that is in fact designed to help the very people that we want to help during national Anti-Poverty Week.\n\nA 2014 report by the Australian Council of Social Services shows that poverty is still a real and very significant challenge in Australia. In fact, there has been another report that they have just put out on poverty in Australia. The CEO, Dr Cassandra Goldie, says that it is unacceptable that after 20 years of economic growth our wealthy nation is going backwards in the numbers of people falling into poverty. There are 2.5 million people living below the poverty line of 50 per cent of median income. Single parents are at a very high risk of poverty, more so because they have been dumped onto Newstart and are struggling to survive. In the latest figures a third of single parents are trying to survive in poverty. People with a disability face a significantly higher risk of poverty than other people. Forty-four per cent of people with a disability live below the 60 per cent poverty line.\n\nJust yesterday St Vincent de Paul released the report _\u201cSick with worry\u2026\u201d: stories from the front-line of inequality, 2015_. They summarise the challenges of people living in poverty: a shortage of stable, affordable housing; low incomes that are not sufficient for a decent standard of living; that it is very difficult to find stable work, particularly for people struggling with poverty; and that those struggling with poverty who have a disability are even further behind the eight ball.\n\nThere are fundamental challenges for people living with a disability. I just mentioned the shortage of affordable housing. If you are a person living with a disability, it is even harder to find stable, affordable housing. In fact, that was highlighted in the recent community affairs report about young people with disability living in residential institutions and the fact that one of the barriers of them being able to move out was finding affordable housing. One of the barriers to the rollout of the NDIS is affordable housing for people with disability. People may get a package and not be able to find housing. These are real and significant challenges, and St Vincent de Paul have made some clear, simple recommendations: a national jobs plan; proper funding for government services, rather than cutting social services; and adequate income support. These are all issues that the government needs to take action on.\n\nThe low-income supplement is a $300 annual payment originally introduced to offset the impacts of the carbon price package. This is a small amount of money, but for people who are struggling below the poverty line, and struggling on income support, it is very important. Before the election, the former Prime Minister said that the government would keep the compensation package associated with the carbon price. This is another broken promise. It is, unfortunately, typical of a government that seems to be permanently on the hunt for savings from the most vulnerable in this country. Analysis of the 2014-15 and the 2015-16 budgets show that they hit hardest those on low incomes and those on income support. The measures the government still has on the books somewhere\u2014raising the retirement age, having job seekers wait five weeks for payment, cutting funding to Aboriginal and Torres Strait Islander peoples and cutting $270 million from social services\u2014all have an impact on the most vulnerable in our community. And that is not to mention the planned cuts to family benefits.\n\nThe Turnbull government, just like the Abbott government, is looking at and making cuts that impact on the most vulnerable. We have a minister who, hand on heart, said that he thought the five-week waiting period was a fair measure. I can tell him that most Australians, most of the people I talk to and most of the people the majority of senators talk to\u2014because the Senate has rejected this measure\u2014do not think it is a fair measure. It is a fundamentally unfair measure. This Senate rejected this measure, and within days the Turnbull government had brought it back; it is bringing back the old policies of the Abbott government.\n\nThese cuts to the most vulnerable in our community are unfair. We do not think that the most vulnerable members of our community\u2014those on the lowest incomes\u2014can afford to lose any money. We do not support the cutting of the low-income supplement, because we know from repeated recommendations that Newstart, youth allowance and payments to single parents who are struggling on Newstart need to be increased by at least $50 a week. The recommendations that have come out in the reports this week, in Anti-Poverty Week, highlight that. We need an increase in these working-age payments so that people are not living below the poverty line, because if you live below the poverty line you face yet another barrier to work. It is really clear. It is pointed out in these reports as well. The Greens will be opposing this measure because we will not support cuts to the most vulnerable members of our community.\n\nClaire Moore\n\nLabor is supporting the abolition of the low-income supplement today. The supplement was a payment introduced at the time of the former Labor government's clean energy future package, designed at that time to move Australia to a low-carbon future. The Abbott-Turnbull government promised before the election to keep these payments associated with the clean energy future package, and that was the expectation of the community. Therefore, this is a broken promise from the Abbott-Turnbull government, and it is just one on a list on which I am sure people are keeping a tally. The low-income supplement was paid to around 7,000 low-income households that did not receive the same level of assistance as other families through tax cuts or social security payments introduced to offset the average cost of carbon pricing. You will remember the debates that went on in this place about the range of measures that were going to be offsetting that process. This was one of them, and it was part of the entire package.\n\nSome welfare organisations have also formed the view that this supplement should be ended, and there has been community debate. ACOSS, the Australian Council of Social Service, has stated that it is appropriate that this supplement be abolished. That is within the overall debate. We all know that, over the past year and a half, there have been various debates about where we can find savings within the budget that are appropriate to ensure strong policy is maintained. From the start, the low-income supplement was identified as a saving, as originally it was part of a bigger package. Amidst a range of propositions, some were ones that we could not support, and we made that argument in this place and we made that argument in the community. Whilst we always worry about the impact of cuts, from the start, amidst all the other arguments, we considered that the low-income supplement had served its purpose. As the clean energy process was no longer in place, this seemed to be obsolete, and we looked at how it should operate. ACOSS has argued that the supplement has not been widely taken up since its introduction. Again, we looked at the wider picture of how we could balance things and ensure that we clearly identified the needs of people in the community and provided support.\n\nLabor will not oppose the bill in the Senate. We understand the importance of fiscal repair, and we welcome this as a reasonable savings measure. We will only ever support savings in this area when they are fair and reasonable and when the community are engaged in discussion around the process. Again, it is very important, as always when we are talking about the social welfare system, to remember what the intent of the system was, how we identify need and how we ensure that the people who would be in receipt of payment understand exactly their position and the impact on them. That is the background to our support for the low-income supplement process today.\n\nMitch Fifield\n\nI thank colleagues for their contributions. The 2015 budget measure previously introduced in the Social Services Legislation Amendment (Youth Employment and Other Measures) Bill 2015 is reintroduced in this bill. The Social Services Legislation Amendment (Youth Employment and Other Measures) Bill 2015 was negatived in the Senate on 9 September 2015. The low-income supplement will cease from 1 July 2017. Very few claims for low-income supplement have been received and it is administratively highly complex. Service delivery costs based on estimated take-up for administering this payment far exceed the financial benefit gained by eligible individuals. With the abolition of the carbon tax, this assistance is no longer required. Ceasing the low-income supplement is part of an important range of measures to support the sustainability of the social security system and the nation's budget. I commend the bill to the Senate.\n\nPeter Whish-Wilson\n\nThe question is that the bill be now read a second time.\n\n",
+    "aye_votes": 41,
+    "date": "2015-10-15",
+    "possible_turnout": 77,
+    "clock_time": "1:57 PM",
+    "id": 3963,
+    "no_votes": 12
+}

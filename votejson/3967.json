@@ -1,0 +1,642 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Robert",
+                "last_name": "Simms",
+                "person": {
+                    "id": 10842
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100848
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wong",
+                "person": {
+                    "id": 10678
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100241
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Eric",
+                "last_name": "Abetz",
+                "person": {
+                    "id": 10003
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100001
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Customs Amendment (China-Australia Free Trade Agreement Implementation) Bill 2015, Customs Tariff Amendment (China-Australia Free Trade Agreement Implementation) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 4,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5550",
+            "id": 788,
+            "official_id": "r5550",
+            "title": "Customs Amendment (China-Australia Free Trade Agreement Implementation) Bill 2015"
+        },
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5551",
+            "id": 789,
+            "official_id": "r5551",
+            "title": "Customs Tariff Amendment (China-Australia Free Trade Agreement Implementation) Bill 2015"
+        }
+    ],
+    "summary": "Sean Edwards\n\nThe committee is considering the Customs Amendment (China-Australia Free Trade Agreement Implementation) Bill 2015 and a related bill. The question is that the bills stand as printed.\n\nPeter Whish-Wilson\n\nChair, I cannot remember exactly, but I thought I was in continuation.\n\nThe TEMPORARY CHAIRMAN: You are.\n\nThank you. I outlined in my earlier statement a little detail around why the Greens are bringing these amendments.\n\nI would like to now ask some questions about the amendments themselves. To quickly rehash, there are six amendments. Amendments (1) to (4) are fairly straightforward. They relate both to labour market testing and licensing requirements. Amendment (5) relates to labour market testing, and amendment (6) relates specifically to licensing requirements.\n\nMinister, in relation directly to subclass 400 visa holders, which includes installers and services, I mentioned some of the stakeholders who had concerns that the current deal between Labor and the Liberals relating to IFAs does not cover the employment of Chinese workers who are employed by standard 457 visa sponsors, or direct employers, who are not part of an IFA, and that under the terms of CHAFTA these workers would not be subject to labour market testing. Can the minister confirm if labour market testing is required for this subclass and class of visas?\n\nAnne Ruston\n\nCan I just seek clarification. Are you referring to subclass 400 visas?\n\nPeter Whish-Wilson\n\nYes, particularly subclass 400 visa holders, but if you could also make comments around contractual service providers entering into the subclass 457 visa holders, as well. The question is basically this: can you confirm that no labour market testing is required for those two categories?\n\nAnne Ruston\n\nI am advised that it is not required if it is in contravention of our international obligations in relation to subclass 400 temporary-work, short-stay activity visas. A clarification: in relation to the 400 visa, no labour market testing is required. The very nature of a 400 visa is that it is a very short term visa for a very specific purpose. The government does not believe that there is any necessity for labour market testing in this particular space. In relation to 457 visas, my previous answer stands\u2014that is, not if it is in contravention of our international obligations.\n\nPeter Whish-Wilson\n\nIn relation to the 400 visa holders, could the minister confirm, specifically in relation to the short-stay visas, whether there is a cap or a limit on the number of visas that can be issued?\n\nAnne Ruston\n\nI am advised that there is not any cap. However, there is no evidence to suggest that there is any reason for an acceleration in this particular visa. My understanding is that the medium-stay period for a 400 visa is just 20 days.\n\nPeter Whish-Wilson\n\nCould you confirm, or perhaps explain, whether these types of visas can be renewed continually, and what is the process after the 20-day period?\n\nAnne Ruston\n\nMy understanding is that the applicant must go offshore if they wish to re-apply for a 400 visa.\n\nPeter Whish-Wilson\n\nDo they need to go through any new process once they are offshore?\n\nAnne Ruston\n\nA whole new process is required for a reapplication for a 400 visa.\n\nPeter Whish-Wilson\n\nI have a few questions relating to licensing requirements. I will get to those in a second. In relation to labour market testing, does the minister accept some of the criticisms that the committees\u2014both JSCOT and the Foreign Affairs, Defence and Trade Committee\u2014received around the concerns that the removal of the requirement for labour market testing in these categories means that Australian workers could lose employment opportunities to temporary migrants?\n\nAnne Ruston\n\nNo, I do not support that contention. There is no reason for us to believe that.\n\nPeter Whish-Wilson\n\nFor example, in their submission to the Foreign Affairs, Defence And Trade Committee, the Electrical Trade Union said that the removal of the labour market testing provisions for issuing 457 visas to Chinese workers sets the stage for Australian workers to be robbed of opportunities and undercut by a new class of immigrant working poor.\n\nWe also had several submitters arguing that there are existing problems with a lack of enforcement of standards for 457 visa workers, and we heard examples of temporary migrant workers being employed in unfair and unsafe conditions. Could the minister address the enforcement provisions currently in place to prevent this from happening?\n\nIan Macdonald\n\nOn the same subject, I wondered if the minister could also indicate to me if these rules, particularly for 457 visas, have been consistent for a number of years. I am not sure if the minister will be able to answer this, but was there labour market testing for the celebrated case of a 457 visa applicant who ended up working in the office of a Prime Minister a few years ago. I am wondering what the market testing arrangements were back then and whether they are the same now under the China-Australia Free Trade Agreement? I am curious to understand the correlation between the testing that was required some years ago, which I am sure the Greens political party would have, as well, raised as issues at the time. I am curious\u2014but I am not sure if the minister will be able to give me information from back in the time of another government\u2014as to what labour market testing there was. Are we led to believe that there was not another single person in the whole of Australia who could run the Prime Minister's office at the time? That is one part of my question to the minister.\n\nPeter Whish-Wilson\n\nI raise a point of order, Mr Temporary Chairman. It is just a process issue. I asked a question of the minister, and I am wondering how you put precedence on questions, because I think that Senator Macdonald is asking several here. I want to highlight that I had asked a question.\n\nChristopher Back\n\nThere is no point of order, Senator Whish-Wilson. The question is relevant to what you were asking, and when Senator Macdonald finishes his contribution we will call on the minister.\n\nIan Macdonald\n\nI apologise to Senator Whish-Wilson. It was germane to his question, and I thought that, when the minister was answering Senator Whish-Wilson's question, she might be able, as part of that, to answer my questions as well. The other thing that the minister may or may not be able to assist with is whether the visa arrangements under the China free trade agreement are similar to those in the free trade agreements that were entered into during the period from 2007 to 2013\u2014that is, the time of the Rudd-Gillard-Rudd governments. I do not think that there were many free trade agreements, but I have a suspicion that one of the South American countries entered into one at that time\u2014perhaps it was the Mexican free trade agreement. I am wondering, for the sake of comparison, whether the arrangements under the China free trade agreement are similar to those that applied in other cases or whether there has been a change.\n\nAnne Ruston\n\nIn the first instance, as was rightly pointed out by Senator Macdonald, anybody who employs somebody on one of these visas is required to demonstrate that there is no Australian capable of undertaking that job. In relation to comments about the previous Prime Minister's office and how they dealt with the issue of the 457 visa, I have absolutely no idea. It is something that you may need to find out elsewhere. I am not privy to the information in relation to the employment of the person who was in the previous Prime Minister's office on a 457 visa. In relation to anybody who is in breach of their obligations in the employment of somebody on one of these visas, there are very clear sanctions. They will be issued against any business that breaches their obligations in relation to the employment of people on these types of visas.\n\nIn answer to your question, Senator Macdonald, about any free trade arrangements that were signed between 2007 and 2013, my understanding is that the only agreement that was signed during that time was with Chile and that the conditions that related to labour market testing were largely the same as the conditions that have been contained in the recent free trade agreements that have been signed with a number of our close Asian partners and neighbours.\n\nPeter Whish-Wilson\n\nCould I get the minister to clarify again in relation to that question? She said that there were clear penalties for breaches. We heard evidence that there have been continual breaches. I asked specifically about a lack of enforcement of standards. Could the minister give us an indication of how you audit these things and some metrics around how many audits you have done and what you have found?\n\nAnne Ruston\n\nFirstly, for any breaches that are identified I would suggest very strongly that they should be reported. The process through which one reports any breaches in this particular space is through the Fair Work Ombudsman, and the Fair Work Ombudsman does regular and frequent audits and checks to ensure that any conditions of visas are being complied with.\n\nPeter Whish-Wilson\n\nA word that rhymes with 'reported' is 'rorted'. I wanted to know if you have any data or whether you could answer the criticisms that we received during the Senate inquiry. Do you know how often these things are audited in the first place, and what results have you from the presumably limited audits?\n\nAnne Ruston\n\nI can advise that there have been an increased number of resources made available to the Fair Work Commission to operate in this space. My understanding is that somewhere between three and five per cent of businesses in this area are audited at some stage by Fair Work Australia and that there is a very, very low incidence of inappropriate or illegal activity occurring in this space.\n\nPeter Whish-Wilson\n\nI would have thought that three per cent of a growing pool of these visas is a very low number. We heard, for example, from the Australian Nursing & Midwifery Federation. Their comment was:\n\nWe note that temporary visa holders working in health and aged care under the visa class 457, 442 and 485 along with international students and working holiday makers now constitute a significant and growing temporary migrant workforce at a time when local nurses and midwives are struggling to gain employment.\n\nI wanted to note that for the record because Senator Macdonald was trying to say that these things have always been in place under previous governments. The point I am making is that the evidence the committee heard and that I have heard is that these kinds of visas are growing in number. Of course, we expect that under the 'fiesta' of free trade deals that are being signed at the moment they are likely to significantly increase, so the allocation of resources to audit these things I would have thought was absolutely necessary given the evidence that the Senate has heard.\n\nI would like you to clarify whether under both visa subclasses 400 and 457 there are any circumstances where labour market testing is not required before granting foreign installers and service subclass 457 visas.\n\nAnne Ruston\n\nIn relation to subclass 400 visas, as I have said before, we do not require market testing. In relation to the 457 visas, as I have said before, the market testing is only not required if it is in contravention of our international obligations.\n\nPeter Whish-Wilson\n\nI now have some questions to ask around amendment (6), which relates to licensing requirements. Previous to question time, I mentioned, in my summary of why we brought these amendments, that the Greens would like to see dual responsibility on both the visa holder and the sponsoring employer to provide evidence of obtaining a licence within 60 days. Essentially, we would like to put a reverse onus of proof onto the employer or sponsor. Can the minister perhaps explain why that is not a good idea and why that would not be a simple way of making sure that everybody had a valid licence and was therefore certified in their skills level to an acceptable standard under Australian law?\n\nAnne Ruston\n\nI am advised that the government has already agreed to introduce regulations to ensure that state and territory jurisdictional obligations and licensing requirements are being met.\n\nPeter Whish-Wilson\n\nCould you explain how the new regulations that you will introduce will interact with the trade deal and the substantive content that is in the trade deal at the moment\u2014not the enabling legislation but what is actually in the trade deal?\n\nAnne Ruston\n\nThe regulations that we are referring to are not exclusively enacted for the trade deal. However, a number of the workers who may come in as part of the trade deal will be on 457 visas and the regulations would apply to them, but it is not exclusively restricted to this particular deal.\n\nPeter Whish-Wilson\n\nI was just interested. Maybe I am being a bit simplistic, but, if you are bringing in new sets of regulations\u2014and you are presumably drafting those at the moment\u2014how will they interact with the agreement that we have with the Chinese government around things such as the licensing requirements that we have now? Given that they are signing a deal with us on the basis of what is in the substantive trade text, how will new laws impact on that trade deal?\n\nAnne Ruston\n\nThis is actually state and territory law. We are required by state and territory law to undertake these mandatory actions. The licences and the registrations and the memberships are required under separate state and territory law.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 11,
+    "date": "2015-11-09",
+    "possible_turnout": 77,
+    "clock_time": "6:10 PM",
+    "id": 3967,
+    "no_votes": 36
+}

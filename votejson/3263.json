@@ -1,0 +1,883 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ursula",
+                "last_name": "Stephens",
+                "person": {
+                    "id": 10609
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100212
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Hogg",
+                "person": {
+                    "id": 10309
+                },
+                "electorate": "Queensland",
+                "party": "PRES",
+                "id": 100277
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Louise",
+                "last_name": "Pratt",
+                "person": {
+                    "id": 10714
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100259
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mark",
+                "last_name": "Furner",
+                "person": {
+                    "id": 10710
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100255
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mehmet",
+                "last_name": "Tillem",
+                "person": {
+                    "id": 10821
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100310
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Don",
+                "last_name": "Farrell",
+                "person": {
+                    "id": 10708
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100253
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Faulkner",
+                "person": {
+                    "id": 10214
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100077
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100138
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lin",
+                "last_name": "Thorp",
+                "person": {
+                    "id": 10769
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100304
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "DPRES",
+                "id": 100840
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alan",
+                "last_name": "Eggleston",
+                "person": {
+                    "id": 10193
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100071
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "George",
+                "last_name": "Brandis",
+                "person": {
+                    "id": 10067
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100025
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Boyce",
+                "person": {
+                    "id": 10062
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100024
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ron",
+                "last_name": "Boswell",
+                "person": {
+                    "id": 10057
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100022
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Eric",
+                "last_name": "Abetz",
+                "person": {
+                    "id": 10003
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100001
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Kroger",
+                "person": {
+                    "id": 10712
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100257
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Australian Workforce and Productivity Agency Repeal Bill 2014; Second Reading",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 2,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5253",
+            "id": 673,
+            "official_id": "r5253",
+            "title": "Australian Workforce and Productivity Agency Repeal Bill 2014"
+        }
+    ],
+    "summary": "Sue Lines\n\nI move the second reading amendment standing in the name of Senator Carr:\n\nAt the end of the motion, add \"but the Senate notes that the Government has failed to guarantee that the critical independent research to Government and industry in relation to Australia's current, emerging and future skills and workforce development needs will continue to be carried out and made public\".\n\nThe Australian Workforce and Productivity Agency is one of those interesting agencies for which there does not seem to be solid reason to abolish it. We are somewhat perplexed as to why the government would abolish an agency which, for all intents and purposes, is doing a really good job. Amazingly, on 9 June\u2014and perhaps all the arms of government were not speaking to one another\u2014the Hon. Andrew Robb and Senator the Hon. Michaelia Cash put out a media release in which they talked about the Skilled Occupations List and referred to the great work that the Australian Workforce and Productivity Agency does in providing annual recommendations on the Skilled Occupations List. Minister Robb went on to say:\n\nThe AWPA analyses evidence such as the labour market, education and training, migration and general economic and demographic data to make sure we get the balance right.\n\nSo perhaps whoever made the wise decision to abolish this agency had not told either Minister Robb or Senator Cash because as late as 9 June they were certainly extolling the virtues and the values of the Australian Workforce and Productivity Agency.\n\nIndeed, earlier this year, during the TAFE Senate inquiry, we heard surprise at this decision from Senator O'Sullivan. At the conclusion of the evidence given by the Australian Workforce and Productivity Agency, Mr Robin Shreeve, the CEO, told us that it was to be abolished. I asked Mr Shreeve:\n\nFinally, can you tell us what is happening to your board?\n\nMr Shreeve said:\n\nWe anticipate that from 1 July the functions of AWPA will be folded into the Department of Industry.\n\nI asked:\n\nSo you will not exist?\n\nMr Shreeve said:\n\nAs a board, no.\n\nSenator O'Sullivan then asked the question:\n\nWhat is the thinking there? Has the board model proved not to be successful enough?\n\nSo here we again had a government senator expressing surprise that a board which had done the amazing work that AWPA has done was for the chopping block.\n\nThe abolition of this board does not even go to the issue of red tape. I do not think there is any green tape, but it certainly does not go to red tape. And it certainly does not contribute as a savings measure to the government. Indeed, the folding of the board was announced long before the budget. There is a very low degree of financial saving to be achieved from this measure. That measure is really primarily abolishing the AWPA board, so it is not a budget savings measure. The announcement was made around 3 April. If we have a look at the AWPA's annual report, the agency's budget allocation for 2012-13 was $8.77 million but, as many of the functions of the AWPA will be undertaken by the Department of Industry, including the retention of between 30 and 35 staff, the savings presumably would be somewhat less than that. So it does not appear there is red tape and there is certainly not a huge saving to be found by abolishing the board other than from board fees and some travel costs. So it continues to be quite perplexing as to why the government would repeal the Australian Workforce and Productivity Agency. More perplexing is that on 9 June two ministers of the government seemed to be extolling the virtues of AWPA.\n\nWhere did this measure come from and what does it do? The agency was established by Labor, and that may be one of the reasons it is being repealed. That seems to be the unwritten reason as to why lots of things are being repealed in this place. Certainly it was part of the Building Australia's Future Workforce package. The Abbott government has been talking about the million jobs, I think it is, that it wants to create\u2014although at the moment it just seems to be abolishing jobs rather than creating them. It would need to create a lot more than a million jobs to catch up with the jobs it has lost to date. Nevertheless, if the Abbott government's stated intention is to be a government that creates jobs, why would it abolish an agency that really does focus on the sorts of skills needed and the future Australian workforce?\n\nThe AWPA was to provide the Australian government with ways of improving the productivity of the Australian workforce; the allocation of Commonwealth funding to address Australia's workforce skills and workforce development; the assessment of research relating to improving the productivity of the Australian workforce; and the analysis of funding available to address Australia's workforce skills, productivity needs and development. This was looking at research and how we develop into the future the sorts of skills that Australia needs to be a country where we can have full employment and decent jobs for all those Australians who work. Again, it is questionable that we would get the same benefit by folding the work of the AWPA into the Department of Industry.\n\nMr Robin Shreeve, the Chief Executive Officer of the AWPA, at the Senate inquiry into the TAFE matter presented insightful, independent evidence that helped those senators\u2014and particularly the Labor senators\u2014shape their report. I believe it was essential information, but unfortunately, with the abolition of the AWPA, that information will no longer be available. As I understand it, the minister did not even bother to announce that he was abolishing the AWPA. The announcement is yet to appear on their website, and indeed Mr Shreeve was the first to break the news to the committee that morning.\n\nIn introducing the repeal bill, the minister took just two minutes\u2014two minutes!\u2014to introduce a bill to abolish the AWPA. It is obvious\u2014and we know from a host of other examples in this place, whether it is the environment or the Clean Energy Finance Corporation or whatever it is\u2014that the Abbott government clearly is quite averse to independent advice. It likes to run on myths and made-up kinds of advice. It does not particularly like independent advice, and it does not seem to care for a body that properly shapes this advice and brings together all sides of Australian industry. This is something that I think the Department of Industry will probably struggle to do, even though its endeavours will be first class. It is not an independent agency with a specific focus; it is a department with a whole range of pressing issues. We will lose that independence and that ability of a small board to pull together all of Australian industry. Even in its short history, the AWPA has provided essential information in shaping policy, as we heard from Minister Cash and Minister Robb, who utilised its information just a few weeks ago.\n\nAs I said earlier, Labor established the AWPA to directly and constructively engage with industry on current and future skill demands. I believe that a small agency is well placed to do that. It can absolutely focus down on its key issues and can draw in those industry partners. The AWPA's task was to look at the future skill needs across a number of key sectors in the Australian economy\u2014for example, manufacturing, where we have seen the closure of our car-manufacturing plants. There is certainly a very big question mark over shipbuilding. We need to focus on manufacturing, because one of the things that we heard time and time again at the TAFE inquiry was that we do not want to see a dumbing down of Australian jobs. Traditionally, the role that manufacturing has played is to really increase our skill levels, to really push our skill and IT development forward in a way that other industries cannot do. The sorts of skill development and innovative technologies that we see in manufacturing are readily transferable to other parts of our economy.\n\nDemand in manufacturing is a critical area to be looking at, as is our trades. We know that we have a skill deficit in future trades. The numbers in our apprenticeships are getting fewer and fewer each year, so we do need a specific focus on apprenticeships that will lead to the sorts of trades that we need in our skilled workforce into the future.\n\nThe AWPA also looked at white-collar industries such as accounting and IT. They\u2014particularly accounting\u2014are areas where we really do not see a focus on skill development, so for the AWPA to have an interest and focus in that area is really important. That area, along with IT, is part of the growing areas of our economy. They deserve to be treated with respect and to have the greatest skill innovation that we can possibly bring to bear across those areas.\n\nA unique task for the AWPA was to provide quality research and strategic advice to government on how best to meet the challenges of the future. We know that coalition ministers agree that this was\u2014and is, for as long as it continues\u2014useful, independent advice. Yet they believe in scrapping that body and rolling it into a large, unwieldy government department that, despite its best endeavours, will not be able to provide that really pointy-end strategic advice that we need in developing jobs of the future.\n\nThe AWPA are the body which briefs ministers on how to shape policies. They may not always give universally popular decisions but the decisions and the advice are widely researched; they are not at the whim of a particular point of view. They are independent. A key feature of this agency is independent advice to government and they are invaluable, I believe, as an agency. All governments need this sort of advice.\n\nThe Abbott government has made a lot of claims that it wants input from industry, yet it seeks to disband the key national policy and research body on skills which brings those very stakeholders together. AWPA brings together peak national bodies such as ACCI, Ai Group and the ACTU to achieve industry leadership. It takes an independent body to do this, to get industry leaders in the room all at one time, to put their often quite different points of view.\n\nWe have example after example and here is another one: the Abbott government is again showing how out of touch it is with other countries. Even in the UK, AWPA-equivalent bodies have escaped the Conservative Cameron government's attack on the so-called red tape. Disbanding the key national policy and research body on skills while we have jobs being lost across the country just does not make sense. When we brought in the AWPA, the coalition supported us. Sussan Ley, an opposition spokesperson at the time, said on 22 May 2012 the AWPA's predecessor, Skills Australia:\n\n\u2026 had done a very good job and provided comprehensive advice to government.\n\nShe said it was a Labor government which did not want to 'heed the advice' of the agency. Now, her government is looking to cull it for the sake of a comparatively low degree of financial savings\u2014in the name of red tape! In government, Labor made a record $19 billion investment in skills and training for smarter jobs\u2014not dumbed down jobs\u2014because smarter jobs will lead our economy. If we have those smarter jobs we will build a stronger nation. It is somewhat sad to note that the new jobs in the Australian economy, while critically important, are in low-paid areas\u2014aged care, disability services and so on. These are important jobs and people should be paid a lot more for the sort of work they do. That is the job development going on in our country\u2014important, should be better paid. We also need jobs that really push us in IT development, really push us in manufacturing. Those are the jobs which are being lost.\n\nLabor recognises that skills are the bedrock of innovative workplaces. Surely no-one would disagree with that. Proper investment in skills is how we stay ahead and position ourselves in a globalised world. When Labor was in government, we put skills and innovation among the five key policy pillars underpinning our agenda. We entrusted the AWPA to provide us with honest information about our plans. Perhaps we did not always agree with that honest information but it was honest and it was independent; it did not come from a department or from any other government agency. It came from the sector, it came from the industries, it came from business and it came from trade unions, underpinned by solid research. Ultimately, that advice came from an independent board. Unfortunately, that advice will be no longer.\n\nWe need a guarantee from the government that this independent advice on workforce and productivity issues will continue to be provided. We need a clear statement from government about just how the Department of Industry is going to give that independent advice. What underpinning research can we rely on and how will it undertake that industry stakeholder engagement, which has been so much a success of the AWPA's board? If we want a visionary approach to the Australian workforce development strategies, we need a critical, independent agency to assist us. Perhaps it is not too late for the government to rethink this one. The dollars are not there. There are not massive savings to be had by abolishing the AWPA. There will be a little bit of money saved by not paying board fees and travel, but the independence that the board has been so good at providing government with\u2014that stakeholder engagement, that research\u2014is what Labor believes will be lost if the board is simply folded into the Department of Industry. That is to take nothing away from the public servants, but it is a very big department with a very big focus. We do not want to lose the unique advice we got from AWPA.\n\nFinally, as a Labor senator, I want to thank the AWPA board and its staff\u2014in particular, Mr Robin Shreeve\u2014for the hard work and for their commitment to providing quality research and strategic policy advice to government.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 36,
+    "date": "2014-06-24",
+    "possible_turnout": 76,
+    "clock_time": "2:01 PM",
+    "id": 3263,
+    "no_votes": 30
+}

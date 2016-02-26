@@ -1,0 +1,649 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Copyright Amendment (Online Infringement) Bill 2015; Second Reading",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 1,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5446",
+            "id": 768,
+            "official_id": "r5446",
+            "title": "Copyright Amendment (Online Infringement) Bill 2015"
+        }
+    ],
+    "summary": "Jacinta Collins\n\nLabor will support the Copyright Amendment (Online Infringement) Bill 2015 after closely considering it in the Senate Legal and Constitutional Affairs Committee. The bill makes a modest contribution to the suite of measures required to deal with Australia's online copyright piracy problem.\n\nThe bill implements a site-blocking process under which rights holders can seek a Federal Court injunction requiring ISPs to block overseas websites that have the primary purpose of infringing copyright or facilitating the infringement of copyright. As this test indicates, the bill is directed\u2014as my colleague the shadow Attorney-General said in the other place\u2014at the worst of the worst. It is intended to give rights holders a remedy against a category of websites which deliberately and flagrantly flout copyright laws and operate as havens for pirate activity. A blocking mechanism is necessary because these websites are hosted overseas; were they hosted within Australia, they would be able to be dealt with by the ordinary remedies of the copyright law.\n\nIn deciding whether to make an order under this bill, the court will take account of a range of factors including: the flagrancy of the infringement, or the facilitation of infringement, by a site; whether the site shows a disregard for copyright generally; and whether the website contains a directory or index of ways to infringe copyright. On the other hand, the court will consider whether other remedies under the copyright law are available. Importantly, the court will consider the impact of a site-blocking order on any other persons or class of persons and whether making such an order would be a proportionate response in the circumstances. As I said, Labor considered this bill closely in the Legal and Constitutional Affairs Committee. While Labor supports measures which will discourage or disrupt piracy, the power to block websites is clearly to be exercised with great caution, and we wanted to ensure that the power this bill creates is appropriately confined.\n\nThe committee endorsed the bill in its report tabled 11 June, but\u2014and I stress 'but'\u2014it did make several recommendations which the government has accepted. The committee noted the strong concern from some rights holders that the primary purpose test was too narrow but recommended that it be retained. The committee did recommend, however, that the government clarify that the test was not to be construed in a perversely narrow way, which the government has done in the explanatory memorandum to the bill. It is obviously not parliament's intention that a piracy website be able to argue, for example, that their primary purpose is to make money and, therefore, they are not caught by this bill; that, indeed, would be perverse.\n\nThe committee also recommended the retention of the current provision on legal costs, which exempts ISPs from costs orders if they do not enter an appearance. Again, there had been considerable argument that this provision should be removed. However, Labor and government senators took the view that ISPs should have this protection. The burden of site-blocking necessarily falls on ISPs, even though they cannot reasonably be held responsible for the pirate activity of foreign websites accessed through their services.\n\nThe committee also asked the government to clarify its intention as to how the broader question of compliance costs would be settled between rights holders and ISPs. When the government proposed this legislation in its discussion paper on online piracy released in July last year, it indicated that:\n\nRights holders would be required to meet any reasonable costs associated with an ISP giving effect to an order and to indemnify the ISP against any damages claimed by a third party.\n\nThe bill before the parliament, however, is silent on this point, and I look forward to the government's explanation on this issue.\n\nFinally, the committee considered the application of the bill to virtual private networks or VPNs. The prospect that VPNs\u2014which have a range of legitimate applications, not least in personal privacy and security\u2014could be blocked under this bill has caused some concern in the community. The committee wanted to ensure that this prospect was clearly ruled out, and the government has agreed to do so, in the explanatory memorandum to the bill.\n\nAs I have said, this bill will make a contribution to the work of reducing copyright piracy in Australia, but it is not a panacea. It is a fairly modest addition to the suite of remedies available under the copyright law. However, the Greens party has sought, for political purposes, to whip up great fear and anxiety about the bill. The bill creates a judicial remedy to deal with conduct which flouts Australian law, but the Greens party calls it an internet filter. The bill is, by virtue of the strict primary purpose test, closely confined. But the Greens party claims that this bill, which is of course a matter only of civil law, will criminalise all manner of websites and platforms.\n\nLabor is satisfied that this bill is not over broad. We do not expect its operation to be controversial. But, as I said, it is not a panacea, and it is clear that this bill, and other measures which seek to deter copyright infringement, can only ever be part of the answer. We must encourage the adoption of legitimate online services and the consumption of legitimate content. No legislative measure will deal with piracy more effectively than the provision to the Australian market of a broad range of content in a timely and affordable manner. This is, at the end of the day, a matter for business and not for government to address. Business practices must work with, not against, modern technology. There has been significant progress in this direction in recent years, and I hope there is more to come.\n\nWhat government can do, though, is to make sure that our copyright laws are updated for the digital era. Though it is fair to legislate to deal with piracy, we should also look after the interests of consumers, schools, libraries, and digital business. While the government has now pursued several antipiracy measures, they have made no progress on broader copyright reform, even though the Attorney-General promised nothing less than a complete rewrite of the act, shortly after he took office.\n\nThe Attorney-General received the Australian Law Reform Commission's report on copyright in the digital economy in November 2013, and yet, incredibly, the government is yet to respond to its recommendations, let alone act on any of them. This is not good enough. Copyright law is too important for us to let it fall into obsolescence. For this reason, I, like my colleague in the House of Representatives, will be moving a second reading amendment calling on the government to respond to the commission's report. This second reading amendment has recently been circulated in its revised form. I move:\n\nAt the end of the motion, add:\n\nbut the Senate:\n\n(a) notes that the Government has not responded to the House of Representatives Standing Committee on Infrastructure and Communications report on its inquiry into IT Pricing; and\n\n(b) calls on the Government to respond to all of the recommendations made by the Australian Law Reform Commission in its report 122 on copyright in the digital economy by 17 September 2015.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 12,
+    "date": "2015-06-22",
+    "possible_turnout": 76,
+    "clock_time": "1:30 PM",
+    "id": 3823,
+    "no_votes": 36
+}

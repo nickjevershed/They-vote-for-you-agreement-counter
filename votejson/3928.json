@@ -1,0 +1,662 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Asian Infrastructure Investment Bank Bill 2015; Second Reading",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 2,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5509",
+            "id": 781,
+            "official_id": "r5509",
+            "title": "Asian Infrastructure Investment Bank Bill 2015"
+        }
+    ],
+    "summary": "Ian Macdonald\n\nI relish joining this debate on the Asian Infrastructure Investment Bank Bill. Senator Lambie was the last speaker on this just before question time. I am not quite sure who writes Senator Lambie's speeches, but I cannot believe that she believes the words she said in her speech\u2014that this bank is like the Chinese military taking over the world or an attempt by the Chinese government to expand communism. I think those were the words she used.\n\nSarah Hanson-Young\n\nI raise a point of order, Acting Deputy President. I would like clarification as to who Senator 'lammie' is\u2014perhaps you meant Senator Lambie, Senator Macdonald. I am not sure. But referring to people by their correct name would probably be helpful.\n\nDeborah O'Neill\n\nThere is no point of order.\n\nIan Macdonald\n\nSenator Lambie was, in her speech, likening the Asian Infrastructure Investment Bank Bill to the communist Chinese government expanding communism. I cannot believe that even Senator Lambie would believe that.\n\nThis bill will help Australia be part of the Asian Infrastructure Investment Bank. It provides the parliament's authority for Australia's involvement and also an appropriation for the payment of Australia's capital contribution to the Asian Infrastructure Investment Bank. Why do we want to become part of this bank? Why does Australia think that this is a good idea and wants to be part of it? It is because the establishment of this bank, and Australia's part in it, will be good for Australia and for Australian jobs. Following completion of all the necessary ratification processes, Australia will lodge its instrument of ratification with the bank's depository, which is in China, and Australia's membership of the bank will become effective on the latter of the date of lodgement or on the day on which the bank is established. The commencement set out in the bill addresses the situation of the bill having received royal assent and the bank not yet having been established. That is provided for in the bill itself.\n\nOnce the bill does become law, Australia will be obligated to pay for the cost of our shareholding, of making our contribution to the ownership of the bank. Payments that Australia must make for subscription of shares of the capital stock of the bank are authorised by section 5. Section 7 authorises the consolidated revenue fund to be appropriated for the purposes of purchasing Australia's share subscription. That sets out the method by which Australia will become part of this bank process. Australia's total shareholding will be US$3.7 billion. That is about A$4\u00bd billion, or a little bit more. It is part of the total of the approximately A$932 million paid up capital of the bank. The remaining US$2.9 billion will be callable capital, which is a contingent liability against the authority. The Treasurer, who is the responsible minister, may issue promissory notes and will have certain technical ways of providing the money for our investment in this bank.\n\nIt is important to understand how Australia benefits from becoming a member of this bank. The key benefit to our country is that the bank will improve infrastructure throughout the Asian region. That, of course, provides great opportunities for Australian trade and business. Our prosperity and our economic growth are very closely tied to the Asian region. That is of course why the coalition government has fought very hard to achieve remarkable success, I might say, in sealing and completing free trade agreements with Japan and Korea. And all credit to Mr Andrew Robb for the work he has done. I know that the previous Labor minister said that he was trying for six years to achieve those two free trade agreements. They never seemed to happen, so I am just a little surprised that effectively within 12 months of becoming the minster Mr Robb had been able to do the work and complete the agreement. We are very much part of Asia. We are very much part of this part of the world, and our free trade agreements conclusively prove and assist our involvement with all the countries of East Asia.\n\nRegretfully, I have had to say in other debates today that I simply cannot understand the Labor Party's approach to the third of these very important free trade agreements, the free trade agreement that has been negotiated with one of the biggest economies in the world, China. Here we have a wonderful opportunity to increase trade, not just in goods but also in services, to a country that is already our biggest trading partner. The removal of tariffs both ways will increase that trade. Everybody knows what a huge economy it is, how many hundreds of millions of people there are in China, many of them moving into what is loosely described as the middle classes and wanting a better standard of accommodation, transport, clothing and, importantly for Australia, food. Here we have this great opportunity to increase this trade. I understand that very soon a bill will come before this parliament that will provide the mechanics of reducing tariffs and effectively ensuring the reduction of tariffs two ways in Australia's trade with China. That can only be good for Australia.\n\nYou have heard time and time again examples of how Australians have already made a mark in the Chinese markets, but those first steps, as we could call them, are certain to multiply with the endorsement of this free trade agreement. If, by chance, the Labor Party is able to convince the Greens political party and enough of the crossbenchers that this is not a good deal, then not only will that prevent Australia from having the wonderful opportunities that the free trade agreement would provide but also it will be, quite frankly\u2014and I do not like saying this\u2014an insult to the Chinese negotiators who have made concessions to Australia to get us to where we are at. I note that Mr Robb said some other time that if the deal does not go ahead this time then there may not be another time.\n\nAgain, the Senate has heard any number of times just how important it is that this free trade arrangement is completed through the parliamentary process prior to the end of this year. If it is not, the concessions that we get on tariffs will be put back another year. That will make us that much less competitive with our competitors in the goods and services we export than we are this year. So, it is absolutely essential that we do that. And if you ask any farmer, anyone in the service industries, they will tell you the absolutely essential nature of immediate action on this free trade bill.\n\nIt has been inquired to death. It has been looked at by everybody, and everybody in this chamber, with the exception of the Labor Party, seems to think it is a good idea. It is not a political issue because like the coalition, most of the luminaries in the Labor Party\u2014such as Hawke, Keating, Bob Carr and the premiers of the various Labor states\u2014support the free trade agreements. It is completely ridiculous and it is difficult to understand why the Labor Party in this chamber are opposing the free trade agreement.\n\nThe Labor Party talk about certain provisions for allowing workers in that will not have Australian standards, and this has been said time and time again on the public record\u2014here in this chamber and in question time\u2014but it has been proven to be a lie, a furphy and a complete misinterpretation of the facts. Do not take the words of Senator Abetz or of Senator Payne about this; take the words of Bob Hawke, of Bob Carr, of Premier Weatherill and of the Premier of Victoria\u2014they are the ones that are saying it. Why are they saying that? Because they know that the provisions relating to employment are the same in these agreements as they were in one of the agreements that the Australian Labor Party managed to sign up with one of the South American countries during their term of office. They are exactly the same as the Labor Party has used, so why are they opposed to it? I hate to think it and I certainly do not believe it myself, but tell me another reason apart from being the old White Australia policy coming back into the Labor Party. I am sure that is not the way, but I cannot see any other reason why the Labor Party, in this chamber in particular, oppose it.\n\nThis Asian Infrastructure Investment Bank bill brings us closer to Asia and provides those opportunities for Australian trade and business, just like the free trade agreements. Not only does greater infrastructure and investment mean greater demand for Australian commodities, such as metals, and not only does it mean greater investment in ports and rail in emerging markets, but it will also create new opportunities for Australian companies. The bill also provides an opportunity to deepen our relationship with our largest trading partner and the region's largest economy, along with up to 55 other member countries in the Asia-Pacific region, which include India, Korea, France and other major economies.\n\nThe question has been raised: will Australian companies be able to be bid for projects? Of course, the answer is yes. The bank will have an open procurement model, meaning that companies from any country\u2014not just the member countries\u2014can bid for contracts. Australia, as a member of the bank, will be able to benefit from up-to-date knowledge of the opportunities available to Australian companies. If Australian companies can take advantage of those opportunities, then that means jobs for Australians and wealth for Australia. And who could be opposed to that? Australian companies have won contracts from other multilateral banks, such as the Asian Development Bank, so we are pretty well positioned. We have a track record to be able to make strong bids for contracts from the Asian Infrastructure Investment Bank.\n\nSome people have asked me whether the bank would be able to invest in Australia. According to the articles agreement, that is not precluded. However, I would expect that the bank will initially focus on infrastructure in developing countries in the Asian region, where it will be able to play a more important role in encouraging private-sector funding, financing and infrastructure.\n\nI have previously mentioned what Australia's investment and contribution will be. I understand from the bill that the authorised capital is some US$100 billion and about US$20 billion is being paid in. Clearly, it is a move that will be very much in Australia's interest because we are an important player in this East-Asia region. Any development of infrastructure in any of the countries in this region can only be good for the region and consequently good for Australia.\n\nThose of us who have had the privilege of travelling in the Asia-Pacific region understand that, whilst some Asian countries have some of the very best infrastructure going\u2014have a look at some of the trains in Japan for example, and while I have never been to China I believe some of their trains are very good too\u2014other Asian countries are not quite so fortunate at the present time. There is clearly a lot that can be done in the way of infrastructure. We all know that infrastructure builds the economy. That is why, I might say as an aside, the coalition government has placed such significant importance on infrastructure in northern Australia. Although I would not classify northern Australia in the same category as some of the developing countries in Asia, clearly northern Australia is a part of our country that could well do with significant infrastructure investment. The northern Australian White Paper launched by the coalition government in June makes that commitment. In fact, it not only makes that commitment but also it provided the money for it in this year's budget.\n\nAs a nation we understand that infrastructure is important to grow the country, to grow the economy, to create jobs, to create wealth and to make Australia a better place and the living standards of all Australians even better. The same applies to infrastructure investment in Asia, not only because it is good economic sense but because as a global citizen in this part of the world Australia wants to do the right thing by providing funding for infrastructure in the Asian region.\n\nI do not think time is going to allow me to tell the Senate of some of the third-party endorsements\u2014from people like the Chair of Industry Super Australia, Mr Peter Collins; the executive director of the Business Council of Australia; or the group chief executive of the Australian Industry Group\u2014but all of them are on record as strongly supporting Australia's investment in the Asian Infrastructure Investment Bank.\n\nIt is said that the investment will be a huge fillip for Australian expertise in funds management, engineering, construction, architecture and legal services which could be applied to projects financed by the bank. It provides new opportunities to deploy capital as well as to export the funds know-how in connecting pension savings to bankable projects, and that is very, very important for Australia. The resources of the Asian Infrastructure Investment Bank will increase the scope for pension and sovereign wealth funds to invest in long-term productive assets in this region.\n\nAustralia, like Asia, is dealing with challenges in the area of infrastructure and others. This bank will help meet them, and I am delighted that Australia will be part of that. I commend this bill to the Senate.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 10,
+    "date": "2015-09-15",
+    "possible_turnout": 76,
+    "clock_time": "5:56 PM",
+    "id": 3928,
+    "no_votes": 39
+}

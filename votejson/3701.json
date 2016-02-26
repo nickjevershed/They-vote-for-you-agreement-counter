@@ -1,0 +1,727 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Palmer United Party",
+                "id": 100831
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wong",
+                "person": {
+                    "id": 10678
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100241
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Brett",
+                "last_name": "Mason",
+                "person": {
+                    "id": 10423
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100140
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015; Second Reading",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 5,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5368",
+            "id": 746,
+            "official_id": "r5368",
+            "title": "Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015"
+        }
+    ],
+    "summary": "Stephen Conroy\n\nI rise to speak on the Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015. Labor supports this bill. This bill is part of the government's so-called regulation repeal day. This is another government stunt designed to do little more than simply generate a news headline. The former Labor government repealed 16,974 acts and regulations during its time in office. Let me repeat that: the former Labor government repealed 16,974 acts and regulations during its time in office. We called this 'governing'.\n\nThis bill saves industry about $350,000 according to estimates from the Department of Communications. Important\u2014yes. But hardly worth a special day. The last time I spoke in this place on red tape repeal it was to amend the Omnibus Repeal Day (Spring 2014) Bill 2014. The Senate agreed to this amendment which would ensure a proper process for Australia's Future Submarine project. Given what has happened in the recent past on this issue, since this amendment was passed, it shows how vital this amendment was; it languishes in the other place, sitting at the bottom of the _Notice Paper_.\n\nIt is another indication that the Prime Minister is still committed to his captain's pick on Japanese submarines.\n\nOn the bill before the Senate now, Labor does not propose any amendments. But I do have to note, particularly as there are some South Australians in the chamber today, that this morning in _The Australian_ the government finally admitted that, yes, they did draw up press releases to announce the Japanese had won the submarine contract and they were going to announce it at G20. So despite all of the fabrications that have taken place over the last six months, there is a little paragraph at the end that said: look we might have done a deal with the Japanese before but trust us we have got a proper process in place now. We have misled the entire population of South Australia about our promise to build 12 submarines in Adelaide but trust us, now we have got a proper process. That was part of the last debate on a regulation repeal day bill.\n\nThis bill is straightforward and we agree with it. The purpose of the bill is to amend the Broadcasting Services Act 1992, the Radio Communications Act 1992 and the Australian Communications and Media Authority Act 2005. Firstly, it removes a number of provisions in the Broadcasting Services Act which were associated with the simulcast of analogue and digital TV signals in the transition to digital television. Given the switchover to digital TV roll out is now complete, these changes should be supported. This bill also amends the framework used by the Australian Communications and Media Authority to plan the broadcasting services band spectrum by removing requirements in the Broadcasting Services Act and the Radio Communications Act, which are no longer necessary.\n\nThe original bill also made an array of changes to captioning. Here again, Senator Ludlam, is yet another example of the Minister for Communications thinking that he knew best and of him ignoring the concerns of the deaf community. It is a clear sign yet again of this minister's arrogance and his disregard for the views of others. The original bill sought to remove the requirement of the free-to-air broadcasters to report annually on compliance with their obligations to provide captioning of programs to assist vision and hearing impaired consumers with access to electronic media and to replace this obligations with a complaints based assessment process. It changed aspects of captioning targets obligations for subscription television and the assessment of the quality of captioning of live and pre-recorded broadcast for free-to-air and subscription broadcasters and remove the requirement for a statutory review of captioning obligations.\n\nThese provisions were put in without any serious consultation with the affected communities. They did not bother to talk to the blind community. When the minister introduced the bill, he claimed that proper consultation had taken place\u2014perhaps he had a chat to himself in the mirror while shaving, who knows? But what we all know is he was wrong. You always have to be careful when the Minister for Communications talks. He says one thing but he often means the opposite\u2014I am sure his colleagues know exactly what I mean at the moment. It reflects poorly on the management and consultation skills of the Minister for Communications.\n\nOn an issue as important as proper process and proper access to television for the hearing impaired, I would have expected better from the person who wants to be Prime Minister. Although the minister failed to properly consult, the opposition did do this work. The deaf community in particular raised concerns with the government's original bill. The deaf community actually said: just a minute, we are a bit worried about this, Minister. The shadow minister for communications has done what the minister should have done. He has been the one who was taken the time to sit down with the affected communities and advocacy groups as well with the broadcasting industry to work through their concerns.\n\nThese consultations have resulted in a reasonable compromise, which is why Labor will be supporting this bill. It adopts those compromises that have been worked through with the deaf community and they are now comfortable. Through the work of the shadow minister, this bill will now restore the requirement for free-to-air broadcasters to report annually on their compliance to captioning obligations and restore the statutory review of captioning to occur in 2016. This will allow a comprehensive review of all the issues that concern the deaf community and broadcasters. This is the hard work that the minister for Communications should have done himself. Maybe he is too busy focusing on other matters instead of his own portfolio responsibilities. Who knows? It certainly gave us an insight yet again into the arrogance of the Minister for Communications, who knows better than all of the experts on every issue. It certainly gives us an insight in how the minister operates\u2014something that everyone on the other side of this place should contemplate in the days and months ahead. The bill we are now debating, which Labor supports, gets the minister out of the mess all of his own making.\n\nBefore I finish, I also want to say that Labor will not be supporting the amendment raised by Senator Xenophon. It is not a reflection on him. I know how passionately Senator Xenophon takes the issue of ensuring maximum levels of local content in regional areas, particularly in South Australia. This is a passion that Labor senators share. However, there has been no consultation or engagement on this amendment and no time for the opposition to consider its implications. While we appreciate Senator Xenophon's intentions, we are not in a position to support his amendment without being given enough time to consider its broader applications.\n\nFor that reason, Labor do not support Senator Xenophon's amendment, but we do support this now heavily amended bill as put by the government. Once again, we just note that, if the arrogant minister had just been prepared to sit down with the deaf community, there would have been no need for some of the angst that the shadow minister has now had to fix.\n\nScott Ludlam\n\nI rise tonight to speak on the Broadcasting and Other Legislation Amendment (Deregulation) Bill 2015. I will leave comments on the issue of captioning, which was addressed briefly by Senator Conroy, to my colleague Senator Rachel Siewert. I am going to confine my remarks to another issue that has been canvassed in this legislation tonight, principally around local content on free-to-air television.\n\nI note on behalf of the Australian Greens the degree of compliance by the television industry with the new eligible drama expenditure scheme, which requires a number of subscription TV licensees, channel providers and part channel providers to spend at least 10 per cent of their total programming expenditure on new Australian or New Zealand drama productions or co-productions. I understand that this system is not without its loopholes and its flaws, and it is occasionally given a degree of critique by the industry. Nonetheless, it is a system that works, and it is one of the underpinnings of a vibrant and lively local screen culture here in Australia. It is our view that insufficient evidence has been presented that would indicate that the removal of auditing requirements for this scheme would not result in a lower level of compliance with the scheme.\n\nThe Greens believe that the government and the TV sector must continue to strongly support the development of original Australian content. The industry has long enjoyed a fairly favourable and permissive regulatory environment which has driven strong profitability by a number of companies. In this context, we believe it is entirely fit that, in turn, it supports the broader Australian community by generating content that will highlight Australian culture. We know that the commercial TV sector is under a degree of competitive pressure at the moment and that arguments are being raised to either (a) cut licensing fees or (b) water down local content obligations. We think that these obligations are too important to sacrifice.\n\nI draw the chamber's attention to comments by the Communications Law Centre, at UTS, in Sydney, who argue that, if auditing requirements around the new eligible drama expenditure scheme were removed, 'the ACMA should undertake regular compliance monitoring' and that 'the provision of Australian content on a range of platforms' is strongly in the public interest. We concur with these comments. The CLC states:\n\nAlthough there has been a high level of compliance with these regulatory requirements to date, this does not necessarily mean that these levels of compliance will be attained in the future in the absence of robust regulation.\n\nThis is one example, I guess, where the Australian government have seen a regulation and they have decided, as part of this grand theatre of red-tape removal and deregulation, to knock something over that was actually there for a reason. It was there in the public interest, and it was performing a purpose.\n\nThe Greens further note comments from Screen Producers Australia which state that 'further analysis' is needed to ascertain the impact of the removal of these auditing requirements. It might seem simple enough to the government to just start wiping these regulations out with the stroke of a pen. We have to be very careful with the unintended consequences\u2014presumedly not the intended consequences\u2014of degrading the ability of local Australian writers, producers, actors and everybody in the screen industry to get their work broadcast. SPA state in their submission:\n\nThe relative costs and benefits have not been clearly communicated and importantly, the degree to which the high-level of compliance has been achieved as a result of the auditing requirement remains unclear.\n\nPeople are congratulating the government\u2014this one and the former government\u2014for seeing the industry maintain this degree of compliance, but it may well be that the auditing requirements in the act are precisely what has kept it there. So we recommend that the auditing requirements for the new eligible drama expenditure scheme remain firmly in place.\n\nI want to add some comments as well while we are on the subject of vibrant local screen culture and Australian content. Through you, Madam Acting Deputy President, I respectfully ask the present\u2014at least for the time being\u2014Minister for Communications, Mr Turnbull, to rethink his objection to allowing community broadcasting stations around Australian metropolitan areas spectrum continuity. The idea of knocking these stations over, freeing up the spectrum for purposes that have never actually been made clear to anybody and just having them go and make their way on YouTube and hope that audiences will follow them online I think is incredibly retrograde and quite destructive.\n\nThe Australian Greens believe that community TV stations are a really powerful and important part of our cultural mix, particularly in the broadcast space, and that allowing them to just take their chances online is completely unacceptable. If the National Broadband Network had not just had a huge kick in the guts and a massive setback, you might be able to say in four, five or six years that, yes, broadcast is quite clearly moving online and community broadcasters should not only maintain their incumbency but get out there in front of the pack. But the fact is that, if you went in to Channel 7 or any of the big commercial broadcasters tomorrow and said, 'We're pulling your spectrum at the end of 2015; good luck on YouTube,' there would be a riot. I do not understand why this minister thinks it is appropriate to treat community broadcasters that way.\n\nTo that end, I would like to now move a second reading amendment. It has only recently been circulated. It is very brief. I move:\n\nAt the end of the motion, add:\n\nbut the Senate calls on the Australian Government to guarantee continuity of broadcast spectrum to the community television sector; so that community TV stations can continue in their role of training Australian talent and providing much-needed diversity to the Australian media market.\n\nIt is not enough to say that, because these broadcasters have small audiences, they should go to the wall. If they have audiences that the communications minister thinks could do with a measure of improvement, let us support the stations. Let us do what we can. Let us find out what they need to increase their reach, because, in an age of incredible concentration of power in the hands of a very small number of corporations and media oligarchs, why on earth would we be taking our precious community TV broadcasters off the air?\n\nI look forward to committing that second reading amendment to a vote. As I indicated at the outset, I will leave the remainder of the comments on behalf of the Australian Greens to my colleague Senator Siewert.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 15,
+    "date": "2015-03-02",
+    "possible_turnout": 75,
+    "clock_time": "9:49 PM",
+    "id": 3701,
+    "no_votes": 39
+}

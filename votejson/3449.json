@@ -1,0 +1,655 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wong",
+                "person": {
+                    "id": 10678
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100241
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Palmer United Party",
+                "id": 100830
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Democratic Labor Party",
+                "id": 100292
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Motions \u2014 Iraq and Syria",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 1,
+    "bills": [],
+    "summary": "Christine Milne\n\nI seek leave to move a motion relating to the deployment of Australian troops to Iraq.\n\nLeave not granted.\n\nPursuant to contingent notice, I move:\n\nThat so much of the standing orders be suspended as would prevent me from moving a motion to provide for the consideration of a matter, namely a motion relating to the Abbott government's proposed deployment of Australian personnel to military action in Iraq.\n\nIt is a critical matter that, at this very moment we are standing here, the RAAF has informed the Australian community it is ready for combat in Iraq. The Prime Minister has told the Australian community that he will be taking the matter to cabinet any minute\u2014whenever he chooses to do so. Yet the Australian parliament has not debated this deployment of Australian troops to a multiyear war in the Middle East. This is the most shocking thing a government can do, to just go ahead and commit young men and women to war in the Middle East without a plan, without a strategy and without any notion of where this might end up.\n\nThere are families across Australia with sons, daughters, husbands, brothers and sisters in the armed forces. They remember Afghanistan and they remember young people dying in that conflict\u2014and they will be asking themselves, as we stand here today, 'Why are we going to another war in the Middle East?' We have to actually think about that: why are we sending them to another war in the Middle East and is it in the Australian national interest to do so? In the United Kingdom, Prime Minister Cameron recalled the House of Commons to debate this matter. In the United States, President Obama recalled congress to talk about bombing in Syria. But nothing like that has occurred in Australia. The Australian parliament, and therefore the Australian people, have not been given an opportunity to hear from the government the rationale for committing people to war\u2014nor to have it debated.\n\nBefore the Iraqi government had asked anything of Australia, we had already stood up and said we would join the United States, blindly going into another war in Iraq. It was announced before the al-Abadi government had asked us anything. Only after we already had our planes in the Middle East and only after we already had our boots on the ground in the United Arab Emirates did we go to Iraq to try to retrospectively sort out the legalities of what we might be doing. We are only now retrospectively determining what we are embarking upon and why. What do we know? In the last few days President Obama has said that he had underestimated the power of ISIL, that they are continuing to advance in spite of the air raids. US Senator McCain has said that he wished the President would stop saying that there would be no boots on the ground.\n\nIn Syria, there is already huge suspicion about the US involvement in Syria, whether the US is supporting President Assad. There is a suspicion that Washington is coordinating with Damascus and that the main beneficiary of the bombing in Syria is President Assad. Already we are arming the Free Syrian Army\u2014but there is huge suspicion\u2014and the al-Qaeda forces are now joining with the ISIL forces. All of the extremist forces are coming together because they are suspicious of what the Americans are doing, and of what we will be doing, because we have not actually outlined it.\n\nWill the consequences be contained within Iraq and Syria? No, they will not. We have already seen the fabric of our own society being torn apart. There is fear in the Australian community that is being driven by the increase in the likelihood of terrorist attack and the increase in the likelihood of recruitment\u2014because Australia is going into another war in the Middle East. We have to know what is happening with President Assad. Will the mission target Assad's forces? If it does, will that bring in the Russians? What is the intent? The Americans want to replace President Assad, they want to defeat ISIL and they want a new government in Iraq. The questions are: how will that be achieved, how will it be contained and why is it in our national interest?\n\nThe government must tell the parliament. We must be able to debate these matters. We need accountability from the executive\u2014and that is the role of parliament. We are the body that is supposed to hold them to account. That is why we should be having the debate. _(Time expired)_\n\nMitch Fifield\n\nI am sure all colleagues would agree that there are few decisions that weigh more heavily on a prime minister than a decision to place Australian Defence Force personnel potentially in harm's way, whether it be the Abbott government, the Howard government or the Hawke government before it. This is an area of decision making that governments take very seriously and weigh up very carefully. The Australian government has deployed ADF personnel to the Middle East in order to be in a position where, should the government take a decision to commit personnel and assets to combat, that they are there, that they are prepared, that they are acclimatised and that they are in the best position to give effect to a decision of the government. That decision has not yet been made.\n\nI think that Prime Minister Abbott has really been a model in terms of the way that he has kept the Australian public and the Australian parliament informed of events that potentially will see Australian forces engaged. The Prime Minister has taken this responsibility very seriously. He has made sure that he has been a participant in forums including the United Nations General Assembly and the United Nations Security Council, and he has spoken to the Australian people through various means to make sure that they are aware of the context in which decisions may potentially be made. In Australia we do not have requirements akin to those of the United States, where the congress does have a formal role in relation to certain military activities. It is the convention and the custom and the practice in Australia that the government of the day\u2014the executive\u2014ultimately takes the decision and bears the responsibility for the commitment of ADF personnel and assets. I know that that is an approach which is agreed between the government and the opposition\u2014that the National Security Committee of Cabinet deliberates, that the cabinet deliberates, and decisions are then made. In the course of that, the opposition is consulted and kept apprised of events. That is the process that we follow in Australia. I think that is the appropriate process and one that the Australian people are comfortable with.\n\nThe Australian parliament is clearly an appropriate place for these matters to be discussed and debated. Indeed, only a couple of weeks ago the Prime Minister made a statement to the House of Representatives and there was the opportunity for debate on that statement in that place and in the Senate. I have no doubt that there will be further updates to the parliament by the Prime Minister and by the defence minister and that there will be further opportunity for colleagues in this place, quite rightly, to discuss what are very significant matters. But that should be done in an orderly way, and I am sure that there will be further opportunity for that to occur, as is quite right. What the Australian Greens are seeking to do here today is a stunt. No notice of this proposed motion, to my knowledge, was provided to the government. We do have business before this place, and there will be time\u2014an appropriate time\u2014to discuss matters in relation to potential deployment of Australian Defence Force personnel.\n\nPenny Wong\n\nI indicate on behalf of the Labor opposition that we do not support the suspension of standing orders at this time, and our position is driven by two principles. The first is our position on decisions in relation to the deployment of Australian military personnel, and I will return to that. The second is the imperative for having debates of such serious nature conducted with appropriate notice to senators in the chamber and structured in the appropriate way, rather than simply being brought on through a suspension of standing orders at the commencement of the Senate.\n\nFirst, our position as a party on decisions to deploy Australian military personnel is clear and has been articulated by both me and Senator Conroy previously and by successive leaders of the Labor Party. These are decisions of the executive government of the day. They are, of course, amongst the most important and difficult decisions which any government can make, but they are decisions of the executive government, not of the parliament. We do, however, believe that once a government makes such a decision it should be announced and explained properly to the public and to the parliament. The government does have a responsibility in the national interest to be transparent\u2014consistent with the safety and security of ADF personnel\u2014about the decisions it makes. That is the point at which there is an important role, and an entirely legitimate role, for the parliament to consider and debate such decisions.\n\nSenators may recall that on a previous occasion, when a similar call was made by the Greens, Labor made it very clear we were willing to have an appropriate and structured debate\u2014and, in fact, the parliament did have an appropriate debate, with notice given to senators. Where we obviously part company with the Greens is on their position that any such deployment should be the subject of parliamentary approval. That is the basis of Senator Milne's position. That is the basis on which the gallery was notified of her intention to move the suspension of standing orders. I respect that that is her position, but it is not the position of the Labor Party and our system of government, the executive. These are decisions of the executive.\n\nAs I said, we indicate to the government that, when the government does make further significant decisions about military operations or, indeed, humanitarian operations, we do think it is appropriate for there to be appropriate parliamentary debate and discussion and we would support that.\n\nWhile I am on my feet and given the comments that were made by Senator Milne and Senator Fifield, I again place on record our thanks to the ADF personnel who are currently pre-deployed to the United Arab Emirates. These personnel enjoy the full support of the Australian Labor Party and the Australian people as they prepare to assist the Iraqi army and the Kurdish Peshmerga in their fight against IS. I again extend my thanks to their families, who remain at home\u2014the partners, parents, children and friends who will ensure nervous weeks and months ahead as their loved ones participate in this mission. We know that the women and men of our ADF will undertake their mission with their usual professionalism, determination and dedication. They will all be in our thoughts\u2014all of us\u2014until they are returned home safely.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 10,
+    "date": "2014-09-30",
+    "possible_turnout": 76,
+    "clock_time": "1:03 PM",
+    "id": 3449,
+    "no_votes": 39
+}

@@ -1,0 +1,785 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Hogg",
+                "person": {
+                    "id": 10309
+                },
+                "electorate": "Queensland",
+                "party": "PRES",
+                "id": 100277
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Don",
+                "last_name": "Farrell",
+                "person": {
+                    "id": 10708
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100253
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mehmet",
+                "last_name": "Tillem",
+                "person": {
+                    "id": 10821
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100310
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lin",
+                "last_name": "Thorp",
+                "person": {
+                    "id": 10769
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100304
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wong",
+                "person": {
+                    "id": 10678
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100241
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mark",
+                "last_name": "Bishop",
+                "person": {
+                    "id": 10048
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100016
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100138
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ursula",
+                "last_name": "Stephens",
+                "person": {
+                    "id": 10609
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100212
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Boyce",
+                "person": {
+                    "id": 10062
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100024
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ron",
+                "last_name": "Boswell",
+                "person": {
+                    "id": 10057
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100022
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alan",
+                "last_name": "Eggleston",
+                "person": {
+                    "id": 10193
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100071
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Kroger",
+                "person": {
+                    "id": 10712
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100257
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "DPRES",
+                "id": 100840
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Motions \u2014 Estimates Committees",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 8,
+    "bills": [],
+    "summary": "Claire Moore\n\nI move general business notices of motion Nos 298 to 305, standing in the name of Senator Wong, relating to estimates hearings and accountability matters:\n\n(298) That the Senate\u2014\n\n(a) notes the frequency with which freedom of information legislation is invoked to withhold information from senators and the Senate, not only by reference to grounds of exemption in the legislation but also apparently on the basis that an answer will not be provided if a Freedom of Information (FOI) request has been lodged for the same information;\n\n(b) recalls the observations of the Procedure Committee in its Third Report of 1992 that:\n\n(i) there is no basis in law for the application of the FOI Act to the production of documents to a House;\n\n(ii) if a minister were to regard all of the exemption provisions in the FOI Act as grounds on which to claim a privilege against disclosure of information to a House, this would considerably expand the grounds of executive privilege hitherto claimed;\n\n(iii) the use of the provisions of the FOI Act as a checklist of grounds for non-disclosure does not relieve a minister of the responsibility of carefully considering whether the minister should seek to withhold documents from a House, or from considering the question in the context of the importance of the matters under examination by the House;\n\n(c) resolves that the same principles apply to the provision of information to committees in response to questions asked by senators, which require the same careful consideration by ministers;\n\n(d) declares that declining to provide documents or answer questions on the basis that an FOI request has been made for the same information is an unacceptable response, is not supported by the FOI Act and shows a profound lack of respect for the Senate and its committees.\n\n(299) That\u2014\n\n(1) There be laid on the table, by each minister in the Senate, in respect of each department or agency administered by that minister, or by a minister in the House of Representatives represented by that minister, by not later than 10 days before the commencement of the budget estimates, supplementary budget estimates and additional estimates hearings, a statement showing:\n\n(a) the number of questions taken on notice at the previous round of estimates hearings;\n\n(b) the number of answers provided to the committee by the date set by the committee for answers; and\n\n(c) of those answers not provided to the committee by the due date, the dates on which answers were provided to the approving minister's office.\n\n(2) If the Senate is not sitting when a statement is ready for presentation, the statement is to be presented to the President under standing order 166.\n\n(3) This order is of continuing effect.\n\n(300) That standing order 74(5) be amended as follows, with effect from the first sitting day in July 2014:\n\nOmit paragraph 74(5), substitute:\n\n(5) If a minister does not answer a question on notice asked by a senator within 30 days of the asking of that question, or if a question taken on notice during a hearing of a legislative and general purpose standing committee considering estimates remains unanswered after the day set for answering the question, and a minister does not, within that period, provide to the senator who asked the question an explanation satisfactory to that senator of why an answer has not yet been provided:\n\n\u00a0\u00a0(a) at the conclusion of question time on any day after that period, the senator may ask the relevant minister for such an explanation; and\n\n\u00a0\u00a0(b) the senator may, at the conclusion of the explanation, move without notice\u2014That the Senate take note of the explanation; or\n\n\u00a0\u00a0(c) in the event that the minister does not provide an explanation, the senator may, without notice, move a motion with regard to the minister's failure to provide either an answer or an explanation.\n\n(301) (1) That, for the purposes of any order setting out a schedule of estimates hearings by legislation committees:\n\n(a) if the order provides for hearings, if required, on a designated Friday, an additional hearing of a committee is taken to be required on that Friday if any 3 members of the committee notify the chair in writing of a requirement for the committee to meet, including for a specified period of time;\n\n(b) if the order does not provide for hearings, if required, on a designated Friday, an additional hearing of a committee is taken to be required on a relevant Friday if any 3 members of the committee notify the chair in writing of a requirement for the committee to meet, including for a specified period of time.\n\n(2) For the purposes of paragraph (1), a relevant Friday means any of the following, as the case requires:\n\n(a) for additional estimates hearings, the Friday of a week in which committees in Groups A and B are scheduled to meet;\n\n(b) for Budget estimates hearings, the Friday of a week in which committees in Group A are scheduled to meet;\n\n(c) for Budget estimates hearings, the Friday of a week in which committees in Group B are scheduled to meet;\n\n(d) for supplementary Budget estimates hearings, the Friday of a week in which committees in Groups A and B are scheduled to meet.\n\n(3) The operation of this order is subject to the restriction in standing order 26(3) that not more than 4 committees shall hear evidence on the estimates simultaneously.\n\n(4) This order is of continuing effect.\n\n(302) (1) That an additional hearing of a legislation committee considering estimates is taken to be required if any 3 members of the committee notify the chair in writing of a requirement for the committee to meet for that purpose, including for a specified period of time.\n\n(2) For the purposes of paragraph (1), an additional hearing means a hearing in addition to any hearing required by, or pursuant to, an order of the Senate setting out days for legislation committees to meet to consider estimates or providing for such meetings to be held on spill-over days.\n\n(3) The operation of this order is subject to the restriction in standing order 26(3) that not more than 4 committees shall hear evidence on the estimates simultaneously.\n\n(4) This order is of continuing effect.\n\n(303) That the order of the Senate of 4 December 2013, as amended on 13 February 2014, providing for estimates hearings for 2014, be further amended as follows:\n\nAfter paragraph (2), insert:\n\n\u00a0\u00a0(2A) On the specified Mondays to Thursdays, committees shall meet from 9 am till 11 pm unless a committee completes its examination of items of proposed expenditure earlier and no senator has further explanations to seek.\n\n(304) That the Senate\u2014\n\n(a) reaffirms:\n\n(i) the principle, stated previously in resolutions of 9 December 1971, 23 October 1974, 18 September 1980, 4 June 1984, 29 May 1997 and 25 June 1998, that there are no areas in connection with the expenditure of public funds where any person has a discretion to withhold details or explanations from the Parliament or its committees unless the Parliament has expressly provided otherwise;\n\n(ii) its expectation that officers, including agency heads, will appear before committees in fulfilment of their accountability obligations, whenever their presence is requested by committees;\n\n(b) in relation to the provision of exceptions to the general principle reaffirmed in paragraph (a), notes and reaffirms:\n\n(i) Privilege Resolution 1(16) which provides that an officer of a department of the Commonwealth or of a state shall not be asked to give opinions on matters of policy, and shall be given reasonable opportunity to refer questions asked of the officer to superior officers or to a minister;\n\n(ii) the resolution of 16 July 1975, relating to the powers of the Senate and the accountability of witnesses, and requiring any claim to withhold information from the Senate to be based on an established ground; and\n\n(iii) the order of 13 May 2009 setting out the proper process for raising public interest immunity claims;\n\n(c) notes that:\n\n(i) the statutory values which Australian Public Service agency heads and employees are required to uphold include a requirement to be open and accountable to the Australian community under the law and within the framework of ministerial responsibility; and\n\n(ii) the Constitutional framework of checks and balances under a separation of powers places the Parliament in prime position as the agent of accountability, representing the Australian people;\n\n(d) calls on the Government to issue a general instruction to all public service agency heads and employees about their duty to cooperate with parliamentary committee inquiries, including by formalising the revised guidelines for official witnesses appearing before parliamentary committees (last issued in 1989), a revised draft of which was provided to the Committee of Privileges in 2012 and considered in its 153rd Report; and\n\n(e) requires:\n\n(i) the chairs of legislation committees considering estimates to draw the provisions of paragraphs (a) and (b) of this resolution to the attention of any witness who declines to provide information to a committee on any basis other than those specified; and\n\n(ii) the Clerk to draw this resolution, and the resolutions referred to in paragraph (b), to the attention of the heads of all agencies appearing before legislation committees, prior to each round of estimates.\n\n(305) That standing order 26 be amended as follows:\n\nAt the end of paragraph (4), add:\n\nIf a senator has further explanations to seek, items of expenditure shall not be closed for examination unless the senator has agreed to submit written questions or the committee has agreed to schedule additional hearings for that purpose.\n\nPenny Wong\n\nI move:\n\nThat the question be now put.\n\nJohn Hogg\n\nThe question is that the question be now put.\n\n",
+    "aye_votes": 33,
+    "date": "2014-06-25",
+    "possible_turnout": 76,
+    "clock_time": "4:33 PM",
+    "id": 3283,
+    "no_votes": 26
+}

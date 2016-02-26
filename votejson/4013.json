@@ -1,0 +1,642 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Robert",
+                "last_name": "Simms",
+                "person": {
+                    "id": 10842
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100848
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Motions \u2014 Suspension of Standing Orders",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 2,
+    "bills": [],
+    "summary": "Scott Ludlam\n\nPursuant to contingent notice and at the request of the Leader of the Australian Greens, I move:\n\nThat so much of the standing orders be suspended as would prevent Senator Ludlam moving a motion relating to the conduct of the business of this Senate, namely a motion to give precedence to general business notice of motion No. 976 relating to the alleged bugging of the Timor-Leste cabinet rooms.\n\nThere is no reason why the government should have denied formality on this important motion. But if it is a debate that the government seeks to avoid we are going to bring the debate to this parliament nonetheless.\n\nLast week, on 25 November, on the _Lateline_ program, very important pieces of the puzzle around very serious allegations were put into the public domain, and that is what this motion concerns. The senior leadership of Timor-Leste are alleging that Australian ASIS agents planted listening devices inside the cabinet rooms in Dili in the middle of negotiations over the Timor gas fields. They allege that under the guise of an Australian foreign aid project, if we can believe that, helping to renovate the Palace of Government in Dili\u2014\n\nHonourable Senators\n\nHonourable senators interjecting\u2014\n\nStephen Parry\n\nExcuse me, Senator Ludlam\u2014can I ask you to pause there for a moment? If senators do not wish to participate and listen to the debate then they may leave.\n\nScott Ludlam\n\nThanks, President. I thank you for your assistance. The allegations are very serious: that ASIS agents installed bugging equipment inside the Timorese cabinet rooms. Former Prime Minister Xanana Gusmao said on _Lateline_: 'They knew our weakness. They knew\u2014they already knew us. We were not able to look very deeply in these very complex issues of agreements, oil and treaties. But they wanted to know our weakness, and they took advantage of our weakness.' These are among the most serious allegations that one state can bring against another: under cover of a foreign aid donation, industrial espionage carried out by the richest country in the region targeting the poorest country in the region in order to prejudice natural gas negotiations. What an extraordinary misuse of Australian intelligence capabilities.\n\nIn 2008, a senior intelligence veteran approached lawyer Bernard Collaery over a workplace grievance. Mr Collaery, who was acting as a legal adviser for the Timorese government at the time, realised that he was talking to the person who it was alleged had conducted the bugging operation. On _Lateline_, Mr Collaery said:\n\nWhen you have such dedicated veterans involved\u2014\n\nand he is referring to the intelligence agencies in this case\u2014\n\nwho might see the relative priorities of following up on the Bali bombing, the Marriott Hotel issues and find themselves taken off duties and organising to bug this poverty-stricken state's cabinet room so a trade deal can get over the line, one, if you were part of that staff, might wonder about priorities.\n\nAnd I must say on behalf of the Australian Greens that I could not have put it better than Mr Collaery.\n\nWhat were the priorities of former ASIO director-general David Irvine when he authorised the seizure of the passport of the same individual, known as Witness K, and raided Mr Collaery's offices? Mr Irvine, by pure coincidence, was the head of ASIS in 2004, when these activities alleged to have targeted the Timorese were taking place. Senator Brandis told this chamber, not that long ago:\n\nThe search warrants were issued, on the advice and at the request of ASIO, to protect Australia's national security.\n\nThe Timorese authorities have recommenced legal action against Australia in the Permanent Court of Arbitration in The Hague, and they will argue that the maritime treaty should be terminated. This motion seeks to have the passport returned to Witness K so that he can give evidence in the permanent court.\n\nMaybe Senator Brandis is right, and this is really all about national security\u2014there is some arcane backstory here that we are not aware of. Let us have that view tested in the permanent court. Let us have those arguments out, because to many of us it seems as though this stinks, and the truth will not be hidden for very much longer\u2014spying carried out under cover of a foreign aid project, justifying it and then covering it up and attempting to hide it behind a veil of national security. Maybe we are wrong, but let us test these arguments.\n\nI would have thought it was incumbent on the government\u2014I do not know where the opposition falls on this\u2014to let this debate be had in this parliament. Release that individual's passport so that these arguments can be tested in an open court. Until the truth is put into the public domain, it will seem to many of us following these issues, from the former senior leadership of the Timorese to those in Australia who support them, that this simply stinks.\n\nScott Ryan\n\nIt has been a longstanding position of the government, both in government and in opposition\u2014and, I might say the opposition\u2014that complex matters of Australia's international relations should not be dealt with by a formal motion in the Senate, which does not allow debate. Timor-Leste has not recommenced the arbitration challenging the validity of the treaty on certain maritime arrangements in the Timor Sea, though it has signalled its intention to do so.\n\nThe Australian government's position remains that CMATS is valid and enforced. Australia has always conducted itself in a professional manner in diplomatic negotiations, undertook the CMATS treaty negotiations in good faith and will defend the arbitration if it is resumed. During the course of the last 14 months, the government has tried to resolve differences between our two countries through consultations rather than litigation.\n\nThe government does not comment on individual passport matters. Neither will the government comment on intelligence matters. Witness K has not been prevented from giving evidence in the arbitration, and that evidence may be furnished without a person being physically present before the tribunal.\n\nI might add, as I said at the outset of this, that these matters are not appropriately dealt with through a formal motion in the Senate, which does not allow debate. I note that Senator Ludlam, in his contribution seeking to suspend Senate standing orders to consider this, talked about the need for these issues to be debated. The format in which he presented this to the Senate did not allow debate. For reasons that go back many years, the government does not concede that this should be dealt with by a formal motion.\n\nThese matters relate to Australia's relations with the region. The Greens' need for a bumper sticker campaign in the last sitting week, where they seek attention, is not appropriately dealt with and does not reflect Australia's national interest in this manner. Senator Ludlam did not seek for this motion to be debated. Senator Ludlam sought to have this motion put to the Senate and to have a vote without debate.\n\nMr President, the government opposes the attempt to suspend standing orders. The government has a significant legislative program over the remainder of this week, the last sitting week of this year. We have significant legislation to be dealt with, particularly the Australian citizenship bill, and I would urge the Greens to allow the Senate to get on with its business rather than seek stunts just because it is the last week before Christmas.\n\nClaire Moore\n\nAs the Greens well know and people in this chamber know, Labor has the same longstanding position that important, complex and contested issues of foreign policy should not be taken up as the matter of a formal motion. Senator Ludlam has actually attempted to turn the notice-of-motion process into a debate. That is not a full debate, and we should not use this mechanism to have such an important issue discussed and debated in this place. In view of our longstanding position, Mr President, we support the government's position on this. This is not the way to treat such an issue.\n\nNick Xenophon\n\nI will very briefly say this. I co-sponsored the motion with Senator Ludlam. I support his move to suspend standing orders. I understand the practice of the major parties in respect of this, but may I suggest that we are meant to vote on issues. We are meant to consider issues, and an issue involving one of our closest neighbours and the biggest intelligence scandal that has faced Australia in the last generation ought to be dealt with. I suggest that we need to look at this longstanding practice.\n\nI also say in relation to the issue of East Timor that this issue will not go away. I believe it will end up in the international court of arbitration, and there may be\u2014there will be; there ought to be\u2014other opportunities next year to debate this issue. But I support the suspension of standing orders because I think this longstanding convention between the major parties on issues of international significance ought to be subject to a vote. If members were able to give a one-minute statement to set out their position, I thought that would deal with it adequately. But what has occurred in East Timor, the allegations involving Witness K, is nothing short of scandalous.\n\nStephen Parry\n\nThe question is that the motion to suspend standing orders moved by Senator Ludlam be agreed to.\n\n",
+    "aye_votes": 12,
+    "date": "2015-12-01",
+    "possible_turnout": 77,
+    "clock_time": "4:03 PM",
+    "id": 4013,
+    "no_votes": 36
+}

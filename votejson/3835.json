@@ -1,0 +1,857 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Renewable Energy (Electricity) Amendment Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 6,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5463",
+            "id": 761,
+            "official_id": "r5463",
+            "title": "Renewable Energy (Electricity) Amendment Bill 2015"
+        }
+    ],
+    "summary": "Glenn Lazarus\n\nI move amendment (1) on sheet 7726:\n\n(1) Schedule 1, Division 1, page 13 (line 2) to page 14 (line 29), omit the Division, substitute:\n\nDivision 1\u2014Amendments\n\n_Renewable Energy (Electricity) Act 2000_\n\n47 Subsection 5(1)\n\n\u00a0\u00a0Insert:\n\n_\u00a0\u00a0biomass_ means organic matter other than fossilised biomass.\n\nNote: Examples of fossilised biomass include coal and lignite.\n\n_\u00a0\u00a0wood waste_ has the meaning given by section 5A.\n\n48 After section 5\n\n\u00a0\u00a0Insert:\n\n5A Wood waste\n\n(1) For the purposes of this Act, _wood waste_ means:\n\n\u00a0\u00a0(a) biomass:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) produced from non-native environmental weed species; and\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) harvested for the control or eradication of the species, from a harvesting operation that is approved under relevant Commonwealth, State or Territory planning and approval processes; and\n\n(b) a manufactured wood by-product from a manufacturing process; and\n\n\u00a0\u00a0(c) waste products from the construction of buildings or furniture, including timber off-cuts and timber from demolished buildings; and\n\n(d) sawmill residue; and\n\n\u00a0\u00a0(e) biomass from a native forest that meets all the requirements in subsection (2).\n\n(2) Biomass from a native forest must be:\n\n\u00a0\u00a0(a) harvested primarily for a purpose other than biomass for energy production; and\n\n\u00a0\u00a0(b) harvested from a forest that has been certified, or becomes certified before 30 June 2016, by the Forest Stewardship Council to a forest management standard; and\n\n(c) either:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) a by-product or waste product of a harvesting operation, approved under relevant Commonwealth, State or Territory planning and approval processes, for which a high-value process is the primary purpose of the harvesting; or\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) a by-product (including thinnings and coppicing) of a harvesting operation that is carried out in accordance with ecologically sustainable forest management principles; and\n\n(d) either:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) if it is from an area where a regional forest agreement is in force\u2014produced in accordance with any ecologically sustainable forest management principles required by the agreement; or\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) if it is from an area where no regional forest agreement is in force\u2014produced from harvesting that is carried out in accordance with ecologically sustainable forest management principles that the Minister is satisfied are consistent with those required by a regional forest agreement.\n\n(3) For subparagraph (2)(c)(i), the primary purpose of a harvesting operation is taken to be a high-value process only if the total financial value of the products of the high-value process is higher than the financial value of other products of the harvesting operation.\n\n(4) In this section:\n\n_\u00a0\u00a0ecologically sustainable forest management principles_ means the following principles that meet the requirements of ecologically sustainable development for forests:\n\n\u00a0\u00a0(a) maintenance of the ecological processes within forests, including the formation of soil, energy flows, and the carbon, nutrient and water cycles;\n\n\u00a0\u00a0(b) maintenance of the biological diversity of forests;\n\n(c) optimisation of the benefits to the community from all uses of forests within ecological constraints.\n\n_\u00a0\u00a0high_ _-value process _means the production of sawlogs, veneer, poles, piles, girders, wood for carpentry or craft uses, or oil products.\n\n_\u00a0\u00a0native forest_ means a local indigenous plant community:\n\n\u00a0\u00a0(a) the dominant species of which are trees; and\n\n\u00a0\u00a0(b) containing throughout its growth the complement of native species and habitats normally associated with that forest type or having the potential to develop those characteristics; and\n\n(c) including a forest with those characteristics that has been regenerated with human assistance following disturbance; and\n\n\u00a0\u00a0(d) excluding a plantation of native species or previously logged native forest that has been regenerated with non-endemic native species.\n\n_Renewable Energy (Electricity) Regulations__2001_\n\n49 Subregulation 3(1) (definition of _native forest_ )\n\n\u00a0\u00a0Repeal the definition.\n\n50 Regulation 8\n\n\u00a0\u00a0Repeal the regulation.\n\nI touched on this amendment earlier, but I will go over what it involves. The amendment incorporates the requirements that any biomass from a native forest must come from a forest that has been certified by the Forest Stewardship Council. This amendment states that a forest must have FSC accreditation or become certified by 30 June 2016.\n\nI am taking the stance that we do not want to see trees cut for energy production; however, if there is leftover wood which has come from wood which was used for other primary purposes\u2014namely, manufacturing furniture\u2014then this leftover wood should be eligible. The FSC is recognised by the Australian government as an international standard for the sustainable and responsible management of forests. This is a compromise position to take into account the needs of the industry. We are not preventing the sawmill industry from using the offcuts for energy production. It also puts in place protection mechanisms to ensure we take care of our precious forests and do not encourage the cutting down of trees for the primary purpose of burning them for credits.\n\nVery briefly, the government does not support this amendment. Legislating the need for certification specifically by the Forest Stewardship Council would require those forests currently accredited to other schemes to be additionally accredited to the Forest Stewardship Council at significant cost to forest owners. The Australian government supports all internationally creditable timber-certification schemes. There are two international creditable certifications currently operating in Australia: the Australian Forest Certification Scheme and the Forest Stewardship Council scheme.\n\nLisa Singh\n\nThe opposition will not be supporting this amendment. Labor is committed to a strong and robust forestry industry. In that sense, ideas about the industry need to be debated and decided with the industry. Therefore, what we are legislating now is to implement a bipartisan agreement, which is specific in its nature and it would be wrong to change that negotiated outcome and conclusion at this time. In that context, Labor will not be supporting this redefinition inclusion of this amendment into the bill.\n\nJanet Rice\n\nThe Greens will not be supporting this amendment, because there is no current FSC set standard in Australia, as the FSC is only an interim phase here. For example, in Tasmania all the time lines for final certification have passed without any action. Therefore, agreeing to any amendments that include FSC is signing up to something that is not finalised. It just adds to the uncertainty, because the FSC is very much a shifting concern.\n\nPeter Whish-Wilson\n\nThe question is that amendment (1) by Senator Lazarus on sheet 7726 be agreed to.\n\nQuestion negatived.\n\nLarissa Waters\n\nI move amendment (2) on sheet 7705:\n\n(1) Schedule 1, Part 1, page 3 (line 2) to page 4 (line 3), to be opposed.\n\n(2) Schedule 1, Part 4, page 13 (line 1), to page 15 (line 2), omit the Part, substitute:\n\nPart 4\u2014Wood waste\n\n_Renewable Energy (Electricity) Act 2000_\n\n47 Subsection 5(1)\n\n\u00a0\u00a0Insert:\n\n_\u00a0\u00a0biomass_ means organic matter other than fossilised biomass.\n\nNote: Examples of fossilised biomass include coal and lignite.\n\n_\u00a0\u00a0native forest_ means an indigenous plant community that:\n\n\u00a0\u00a0(a) is dominated by trees that are located within their natural range; and\n\n\u00a0\u00a0(b) contains throughout its growth a complement of native species and habitats normally associated with those trees, or has the potential to develop those characteristics; and\n\n\u00a0\u00a0(c) is not:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) a plantation of native species; or\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) a previously logged native forest that has been regenerated with non-endemic native species.\n\nIt is immaterial whether any of the trees or native species have been re-established or regenerated with human assistance following:\n\n\u00a0\u00a0(d) flood;\n\n\u00a0\u00a0(e) bushfire;\n\n\u00a0\u00a0(f) drought;\n\n\u00a0\u00a0(g) pest attack;\n\n\u00a0\u00a0(h) disease.\n\n_\u00a0\u00a0wood waste_ means:\n\n\u00a0\u00a0(a) biomass:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) produced from non-native environmental weed species; and\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) harvested for the control or eradication of the species, from a harvesting operation that is approved under relevant Commonwealth, State or Territory planning and approval processes; and\n\n\u00a0\u00a0(b) a manufactured wood product or a by-product from a manufacturing process, other than a product or a by-product that is derived from biomass from a native forest; and\n\n\u00a0\u00a0(c) waste products from the construction of buildings or furniture, including timber off-cuts and timber from demolished buildings; and\n\n\u00a0\u00a0(d) sawmill residue, other than sawmill residue derived from biomass from a native forest.\n\n_Renewable Energy (Electricity) Regulations__2001_\n\n48 Subregulation 3(1) (definition of _native forest_ )\n\n\u00a0\u00a0Repeal the definition.\n\n49 Regulation 8\n\n\u00a0\u00a0Repeal the regulation.\n\n(3) Schedule 1, page 15 (after line 2), at the end of the Schedule, add:\n\nPart 5\u2014Concurrent operation of State or Territory laws\n\n_Renewable Energy (Electricity) Act 2000_\n\n53 Section 7C\n\n\u00a0\u00a0Repeal the section, substitute:\n\n7C Concurrent operation intended\n\n(1) This Act is not intended to exclude or limit the concurrent operation of any law of a State or Territory.\n\n(2) This section does not apply to a law of a State or Territory if there is direct inconsistency between that law and this Act.\n\nThis similarly relates to the burning of native-forest logging and would move the prohibition on native-forest logging and burning for RET out of the regulations and into the act. The minister has infinitely more power to wantonly change these sorts of rules. What we would have liked to have been a prohibition\u2014but we lost that fight\u2014belongs in the act rather than the regulations. I do not need to speak at length on this. It is a procedural amendment but an important one and it goes to the importance and significance of the fact that we should not be burning native forests and throwing a lifeline to the native-forest logging industry.\n\nSimon Birmingham\n\nThe government does not support this amendment. We regard the amendment as unnecessary. There is no need to change any of the provisions and arrangements at that were previously in place, for a decade, in relation to biomass from native forests wood waste, which worked quite effectively and clearly, previously.\n\nI would add information in relation to a previous question regarding entities. In accordance with section 38C of the act, the following information must be published on the Clean Energy Regulator website before 1 October each year: the name of each liable entity; the value in dollars estimated by the regulator of the entity's partial exemption for that year. This provision will continue to be in operation.\n\nLisa Singh\n\nThe opposition will be supporting this amendment. This amendment is effectively the same as the amendment moved by the opposition. Labor has been opposed to the burning of native forests for energy, because we see it as neither clean nor renewable. We opposed this in government and we oppose it in opposition. The definition of waste is not what those opposite would have you believe, and that needs to be made very clear. We are not just talking about the bits that are left on the ground after logging. Waste can be large parts of trees and, in some cases, entire trees that are not up to scratch for other uses. We simply do not see a case for its inclusion in the renewable energy target and we will oppose it. We have highlighted that this was never part of the negotiated outcome with the opposition and the government. This is a red herring that has been raised at the eleventh hour by the government, and Labor will not support its inclusion. Therefore, we will support the current amendment being moved.\n\nJanet Rice\n\nAs part of this regulation is the higher-values test, which I want to return to for a bit more clarification. In particular, the higher-value's test would apply to a clear-felled forest where, as we have already been discussing, you have perhaps 20 to 30 per cent of the logs being used for sawn timber. Up until now, the other 70 or so per cent\u2014being so-called residual logs\u2014have been sold as pulp logs. Minister, do you have any estimate of the price you would expect the wood, currently being sold as a pulp log, would yield being sold for biomass? How would that compare with the price of selling that log as a pulp log?\n\nLong debate text truncated.\n\n",
+    "aye_votes": 30,
+    "date": "2015-06-23",
+    "possible_turnout": 76,
+    "clock_time": "10:13 AM",
+    "id": 3835,
+    "no_votes": 34
+}

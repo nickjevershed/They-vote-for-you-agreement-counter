@@ -1,0 +1,863 @@
+{
+    "edited": true,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Democratic Labor Party",
+                "id": 100292
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kate",
+                "last_name": "Lundy",
+                "person": {
+                    "id": 10398
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100129
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Brett",
+                "last_name": "Mason",
+                "person": {
+                    "id": 10423
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100140
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Questions without Notice: Take Note of Answers \u2014 Answers to Questions",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 11,
+    "bills": [],
+    "summary": "Anne Urquhart\n\nI move:\n\n_That the Senate take note of the answers given by the Minister for Veterans' Affairs (Senator Ronaldson), the Minister for Finance (Senator Cormann) and the Assistant Minister for Social Services (Senator Fifield) to questions without notice asked by Opposition senators today relating to the Enterprise Connect program, to Future of Financial Advice regulations and to the Dementia and Severe Behaviours Supplement._\n\nI will focus on the answers from Senator Ronaldson about the government's farcical Entrepreneurs Infrastructure Program and its impact on Tasmanian businesses and Tasmanian jobs. Critically, Senator Ronaldson was not across his brief at all on the program. Senator Ronaldson would not answer any of the questions about the cuts to business advisory services in Tasmania. Senator Ronaldson could only take on notice to find out if the innovation centre in Burnie will remain open. The people of north-west Tasmania expect a guarantee from the minister and the local member in coming days, not in months, through the questions-on-notice process.\n\nI have seen the value of the Enterprise Connect service firsthand across north-western Tasmania. Under the previous Labor government, Enterprise Connect provided small to medium enterprises and companies with access to infrastructure and services to help them navigate business challenges and grow jobs. Almost $1.4 million was provided by the previous Labor government to 104 small- to medium-income firms across Tasmania. Recipients from north-western Tasmania included Anvers confectionery, Forth Farm Produce, Joinery Products, Penguin Composites and SERS engineering. Critically, a number of these firms have accessed grants from Enterprise Connect on two, three and sometimes more occasions. This is logical. A small to medium firm faces new challenges. They of course may want to utilise Enterprise Connect's valued advisory services or infrastructure grants on a second or third occasion.\n\nThis week it was announced that 350 jobs would go at the Henty gold mine and the Mount Lyell copper mine on Tasmania's west coast. The west coast is an important part of the Mersey-Lyell region, which has already been identified as one of the most economically vulnerable in Australia. The Mount Lyell mine has been the lifeblood of Queenstown, on Tasmania's isolated west coast, since the 19th century. The Henty gold mine, some 20 kilometres north of Queenstown, will have been operational for roughly 20 years when it closes next year. I commend the leadership demonstrated by the Australian Workers Union officials Robert Flanagan and Ian Wakefield and the Tasmanian Labor leader, Bryan Green, in calling for a community-led federal-state west coast Tasmanian employment task force, to provide leadership, work with business and community and create jobs on the west coast of Tasmania. I welcome the news that the Tasmanian government has moved to establish a west coast economic working group involving the state government, West Coast Council, Copper Mines of Tasmania, the AWU and the community members.\n\nI was in Queenstown last week and attended the Rotary Club's weekly meeting. Those present were aware of the need to diversify the local economy and were reaching out for assistance to make things happen rather than just talk about change. They were talking about expanding the aquaculture, fishing and tourism industries in particular, as well as support for new mines in the region. To make things happen requires finance, and the federal government is the only tier of government capable of providing the required assistance, whether in business advisory services like Enterprise Connect or co-investment grants like the previous Labor government's investment with the aquaculture industry in Macquarie Harbour.\n\nI am deeply concerned by comments from the federal member for Braddon, Mr Brett Whiteley, on the mine closures. It would be natural for Mr Whiteley, as the local federal government representative, to also be on the state government's working group, but Mr Whiteley's response was simply that the challenges facing the region would be discussed at the meeting of the Prime Minister's Tasmanian Economic Council. However, this council is not due to meet until later in July, and reports are that it has a lengthy agenda, so how much time will actually be spent on specific west coast employment issues is anyone's guess. Mr Whiteley, your constituents on the west coast need your help now, not in a few weeks time.\n\nMr Whiteley, the federal government needs to play an active role in any working groups for employment on the west coast. Both sides of this place agree that government does have a role to play in creating jobs, and, despite Prime Minister Abbott's so-called budget emergency, the federal Liberals are providing $16 million for a tourism expansion at Cadburys chocolate factory, located next door to the world-famous MONA museum, a long, long way from the west coast of Tasmania. Mr Whiteley's stated priority upon election was 'jobs, jobs and jobs', but the people of the west coast want action, not words. _(Time expired)_\n\nChristopher Back\n\nI am absolutely delighted to respond to the motion that Senator Urquhart has moved to take note of answers by Senators Ronaldson, Cormann and Fifield. Let me dispense very quickly, if I may, with the questions by Senator Faulkner to Senator Cormann. Senator Faulkner quite correctly said that there is a statutory period of time-six sitting days, which expire next Tuesday-and I think it was a very good dialogue between the two senators, with one saying that, yes, he understood it and he would be responding, and Senator Faulkner, with his seniority, reminding Senator Cormann of his responsibilities.\n\nWhat I want to focus on with some more detail is the questions put by Senator Urquhart to Senator Ronaldson with regard to the situation in Tasmania. As you know, Deputy President, I had a very keen interest in activities in Tasmania. I had a business in that place. I employed over 260 staff. I have to say to you that, during my entire tenure in Tasmania, in a very multifaceted business, never once did I have the state Labor government or any of their representatives come to me to see if they could assist in any way to encourage further employment. One business alone-the Burger King business-which I had as part of my Shell business in Hobart employed some 60 young people, and in all instances it was their first job.\n\nI will tell you who my biggest clients were, Deputy President, because it is a sad litany when we see where those industries now are in Tasmania. The first was the forestry industry, a renewable industry, a phenomenal industry, north and south. Triabunna is a place that our leader in the Senate, Senator Abetz, is well aware of. The Triabunna mill, on the south-east coast of Tasmania, was critical, pivotal, to the forestry industry but, as a result of a deal done between the Greens and Mr Graeme Wood-no doubt following in some way a connection with a $1.6 million donation-the Triabunna mill was cut off at the knees, ceased to be a mill and became some sort of tourist venture, and there went one of the biggest employment groups and one of the biggest sustainable industries in Tasmania at the same time. It had employed people up and down the length and breadth of Tasmania.\n\nThe second industry-one that I know was sustainable, because I watched their activities and I provided a service to them 24 hours a day, seven days a week-was the fishing industry, both in southern Tasmania up to the Derwent, over at Bicheno, right up the east coast and across the north. I probably had about two-thirds of the Tasmanian fishing clients whose fuels and lubricants I supplied. What has happened to them? Again, they are dying on the vine.\n\nAs Senator Abetz would be aware, one of my best clients was Hydro Tasmania. I sold them very high-value, high-margin lubricants. I will tell you why I did that: because the then Labor government in Tasmania were ripping money out of hydro and failing to put the funds back into much-needed maintenance. In every cloud there is a silver lining and the silver lining for me was a very, very good trade in lubricants-which should never, ever have had to be used had that not been the case.\n\nNow I turn to another industry-the aquaculture industry. Tasmania is leading the world in the aquaculture industry, but what do we now fear? As a result of perverse environmental pressures being put on that industry, we see the lack of expansion and I fear, Senator Polley, a reduction of an industry that is capable of creating more employment in the state of Tasmania-the very points that Senator Urquhart was making in her question to Senator Ronaldson. If nothing else, Senator Urquhart could have assisted this very day in reducing the burden on households and businesses-small and large-in the state of Tasmania by getting rid of the carbon tax, which must be hurting the businesses and the households in Tasmania.\n\nAs we know, the cost of heating in Tasmania is higher because of the cold climate. Unemployment is high in Tasmania. I know the cost of electricity in Tasmania, Senator Polley: it was higher than it was in my home state of Western Australia. So when I hear Senator Urquhart talking to my side of government about creating employment opportunities, I say, thank God for the Will Hodgman-led coalition government, because it got rid of 16 years of failed Labor governments in the state of Tasmania.\n\nHelen Polley\n\nAgain, Mr Deputy President, I congratulate you on your elevation to this high office. I take exception to the comments from my learned colleague across the chamber: it is not cold in Tasmania; we have a perfect climate down there. Secondly, we were in government for 16 years in Tasmania, and Tasmania is better off for it. I can guarantee you one thing: Will Hodgman will not be Premier for 16 years.\n\nI would like to revisit the question I put to the minister in relation to aged care and the dementia and behaviour supplement. I want to talk about how the representatives from the aged-care providers reacted to the decision that was taken unceremoniously, I might add, and without any warning, to axe the dementia and severe behaviours supplement, a supplement to assist those who are at the most vulnerable point in their lives. Dr John Kelly, head of Aged & Community Services Australia, said:\n\n_It enables my members across 1,800 facilities around Australia to provide extra support._\n\n_They may be able to put on a specialist, they may be able to put on a person with dementia training \u2026 We're going to miss out on that._\n\nHe went on to say:\n\n_Dementia is a chronic condition._\n\n_To think that you're going to pull money out of something that's been identified as a priority heath need and something that's intrinsic in the care of those older Australians, it's more than tragic. I think it's a travesty._\n\nBut what about the for-profit sector? Were they impressed? No, they were just livid and absolutely scathing of this government. Patrick Reid, as I mentioned in my question, the head of Leading Aged Services Australia, said:\n\n_The Minister cites the reason for ceasing the supplement as a budget blow-out that has been known since August 2013; this action represents the Government turning its back on Australia's most vulnerable people, their families and the industry that provides specialist quality care 24 hours a day._\n\nIn fact, the for-profit providers were so incensed by this decision that they met in Melbourne last Thursday to vent their disgust. They face an uncertain future. They are wondering every day just how they are going to provide care and support for those people at the most vulnerable point in their lives. They obviously cannot abandon those with dementia. It is not an option, so this decision by the government constitutes another hit to the pocket of providers, many of whom survive on a very slim profit margin.\n\nThere is the question about consultation: was there any consultation with the sector? Senator Fifield reckons there was and he said that he consulted the aged-care sector committee, a committee set up to consult on issues like this, as well as unspecified experts. But did this actually happen? I can inform you, no, because Patrick Reid said:\n\nAt no stage was the committee consulted on the cessation of the funding.\n\nThere was no consultation, no warning, and those who were in the chamber last Thursday remember that the minister just snuck in here for the last question time of the previous Senate and made this announcement: no warning to the sector; no consultation with the sector, leaving the most vulnerable people and those who provide this valuable service out in the cold.\n\nThis is just further evidence that this government does not have a plan for dementia just like they have no plan for aged care generally, and there is no minister for aged care or for ageing. By all accounts, Mr Fifield has decisions thrust upon him from high. It is not just me saying that we do not have an aged-care minister or a minister for ageing; quite frankly, that is what the sector is saying.\n\nThe sector and the Australian community also remember that, during the Howard government, there were five different ministers for ageing, and none of them seemed to have any particular interest in the issues that involved older Australians. _(Time expired)_\n\nSean Edwards\n\nI rise to take note of answers from Ministers Fifield, Cormann and Ronaldson. I listened to Senator Urquhart's contribution here and her confected outrage. It is admirable that she talked about 'her' Tasmania, but I did not hear any mention at all about the fact that, when she was in government, there was no further funding beyond 30 June 2014 for trade training programs-the 200-odd trade training programs around this country-and she did not actually tell all those people that there was no budget provision for it beyond 30 June 2014.\n\nI did hear Minister Ronaldson talk of the $500 million industry skills fund, which, as part of the initiative, is to provide $20,000 loans to apprentices to ensure that they are able to finish their apprenticeships. This is a good thing for rural Tasmania, rural South Australia and rural Western Australia. In all of those places this is an incentive. I have an apprentice in my family and I know how important and how good this would have been for him three years ago when he started his carpentry apprenticeship.\n\nI also take note of the fact that, since this government has come to power, we have a wage subsidy for people caught up in workforce exclusion. There are now trade support loans for apprentices-support for apprentices in places like Whyalla, which we hear about so often in this chamber in relation to the carbon tax debate. There are reallocation allowances of $6,000, allowing people in the northern suburbs to relocate to places where there is plenty of work, where the jobs are-like Port Lincoln. This is trying to match employment with market forces with the assistance of the government-a friendly government looking to facilitate those people who want to work, who want to get to the places where the work is being offered. For the long-term unemployed, $2\u00bd thousand will be paid to them if they stay in work for more than 12 months.\n\nAlso, a program has started in the northern suburbs of Adelaide, out of Gawler. Work for the Dole actively tries to re-engage the now 45 per cent of unemployed youth in the northern suburbs of Adelaide. We are trying to provide a culture where they can learn to work, learn to come to work to be around people who understand work programs. This program is trying to create a culture of worth and stability in their lives, where their work is valued and they gain the skills with which they can make a valuable contribution not only to their families but also to the community in which they serve.\n\nAlex Gallacher\n\nTell Eric that north Adelaide does not have high unemployment.\n\nSean Edwards\n\nI will take that interjection from you, Senator Gallacher, because one of your colleagues in the other House, the member for Wakefield, notoriously wrote to the electorate prior to the 7 September election last year and promised that he had saved the workforce of General Motors Holden. He promised, 'I have saved the workforce of General Motors Holden until 2022.' That is what he cruelly promised the workers of General Motors Holden. History will judge him for that statement. When you put something like that in writing-\n\nKim Carr\n\nYou hounded them out of the country.\n\nGavin Marshall\n\nSenator Edwards, resume your seat for a moment. The Senate needs to come to order. Senator Edwards, you have the call.\n\nSean Edwards\n\nThank you, Mr Deputy President. I thank you for that protection. You cannot change the subject: you have either saved Holden or you have not. That is what he promised the electors of South Australia.\n\nKim Carr\n\nYou hounded them out of the country.\n\nSean Edwards\n\nIt was on your watch, Senator Carr.\n\nKim Carr\n\nNo, it was on your watch.\n\nSean Edwards\n\nIt was on your watch that you watched them slide into what is now known- _(Time expired)_\n\nSam Dastyari\n\nI rise to speak on the motion before us. What we saw today was just extraordinary-once again, another day, another opportunity to table the FoFA obligations, and the minister once again refused to do so. I want to bring the Senate's attention to what actually had been agreed on by this Senate only hours earlier today, and that was 'That there be laid on the table by the Minister for Finance, no later than 1.50 pm on Thursday, 10 July 2014, the Corporations Amendment (Streamlining Future of Financial Advice ) Regulation 2014.' The Senate itself called on the minister to table these documents and he refused to do so.\n\nThe minister, in answer to a question to him today, showed a lack of understanding or appreciation of what processes had actually been undertaken. The simple fact is that these documents have been prepared for tabling, and it was the intrusion of Treasury officials to the Office of the Parliamentary Counsel that stopped them being tabled. The minister or somebody within the government has instructed that these documents not to be prepared for tabling. It is an incredible breach. Let us be clear: this is not about giving people an opportunity to understand them. The minister knows the will of the Senate on this issue. This is about delay, delay, delay. It is not as though the regulations he will not table are not significant. For example, part 7.7A2, 'Best interests duty-identifying objectives et cetera disclosed' says:\n\n_(1) This regulation:_\n\n_(a) is made for paragraph 961B(5)(a) of the Act; and_\n\n_(b) prescribes a step (the prescribed step) in substitution for the step mentioned in paragraph 961B(2)(a) of the Act;_\n\nWhat does that mean? That means that this is nothing other than a watering down of the best interests duty-a watering down of the protections that have been provided.\n\nThe minister repeatedly has said at different points in time that by watering down these reforms, by adopting his regulation, it will not return to commissions or sales incentives or conflicted remunerations. He said that those matters are not going to come back. Frankly, that is not the case at all.\n\nThere are nine separate ways that kickbacks have been reintroduced by this government: the general advice exemption, which allows people to be able to narrow the scope of advice to get around the bans on conflicted remuneration by allowing commissions on execution services, a loophole to keep commissions by having a different adviser execute or implement the advice that other advisers initially provided; by allowing banks to pay commissions on all basic banking products extending the already broad exemption for basic banking products so that it applies to all staff, including financial planning staff; and by permitting ongoing asset fees, indefinitely allowing them to continue. The list goes on and on.\n\nWhat does this mean? It means the basic protections, the fundamental protections, that people had been provided through the initial Future of Financial Advice reforms are being stripped by these regulations. In light of recent discoveries, in light of a Senate committee report that outlines the sheer horror of what has gone on in some of these sectors, it is unconscionable that this government make the decision that now is the appropriate time to water down these reforms. It is not. There are too many stories of people being ripped off and it is wrong for the government to want to side with a handful of crooks, shonks and conmen, who have given the financial services industry a bad name and are salivating at the opportunity to go to bad old days of financial advice when the regulation was at a minimum and they were able to keep clipping the ticket and keep making a buck at the expense of the people they were there to serve.\n\nAnne McEwen\n\nPursuant to standing order 168(3), I move:\n\n_That Senator Dastyari be required to table the document from which he has quoted, that being the Corporations Amendment (Streamlining Future of Financial Advice) Regulation 2014 Select Legislative Instrument No. 102, 2014._\n\nGavin Marshall\n\nThe question is that that motion be agreed to. Those of that opinion say aye and those against say no-\n\nDavid Bushby\n\nI draw your attention to the state of the chamber.\n\n_ _(Quorum formed)__\n\nStephen Parry\n\nThe question is that under standing order 168, the document being quoted by Senator Dastyari be tabled and the motion moved by Senator McEwen be agreed to.",
+    "aye_votes": 34,
+    "date": "2014-07-10",
+    "possible_turnout": 76,
+    "clock_time": "3:39 PM",
+    "id": 3318,
+    "no_votes": 31
+}

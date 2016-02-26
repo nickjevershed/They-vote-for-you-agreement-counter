@@ -1,0 +1,785 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Louise",
+                "last_name": "Pratt",
+                "person": {
+                    "id": 10714
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100259
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mark",
+                "last_name": "Furner",
+                "person": {
+                    "id": 10710
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100255
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Kroger",
+                "person": {
+                    "id": 10712
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100257
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "DPRES",
+                "id": 100840
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mehmet",
+                "last_name": "Tillem",
+                "person": {
+                    "id": 10821
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100310
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Don",
+                "last_name": "Farrell",
+                "person": {
+                    "id": 10708
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100253
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alan",
+                "last_name": "Eggleston",
+                "person": {
+                    "id": 10193
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100071
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "George",
+                "last_name": "Brandis",
+                "person": {
+                    "id": 10067
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100025
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Boyce",
+                "person": {
+                    "id": 10062
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100024
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100138
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Brett",
+                "last_name": "Mason",
+                "person": {
+                    "id": 10423
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100140
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wong",
+                "person": {
+                    "id": 10678
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100241
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ursula",
+                "last_name": "Stephens",
+                "person": {
+                    "id": 10609
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100212
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Committees \u2014 Environment and Communications References Committee; Reference",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 4,
+    "bills": [],
+    "summary": "Christine Milne\n\nby leave\u2014I move:\n\nThat\u2014\n\n(a) the following matter be referred to the Environment and Communications References Committee for inquiry and report by the first sitting day in March 2014:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0An inquiry into the Abbott Government's 'Direct Action Plan', including:\n\n(i) its capacity to deliver greenhouse gas emissions reductions consistent with Australia's fair share of the estimated global emissions budget that would constrain global warming to Australia's agreed goal of less than 2 degrees,\n\n(ii) its capacity to reduce greenhouse gas emissions adequately and cost effectively,\n\n(iii) the technical issues that arise for measuring abatement under 'Direct Action', including additionality and establishing emissions baselines for emitting entities,\n\n(iv) the absence of policy certainty in 'Direct Action' to encourage long term business investment in the clean, low carbon economy,\n\n(v) its impact on, and interaction with, the Carbon Farming Initiative, and\n\n(vi) any other related matters; and\n\n(b) in undertaking this inquiry the committee must have regard to the Climate Change Authority's Reducing Australia's Greenhouse Gas Emissions\u2014Targets and Progress Review: Draft Report, dated October 2013.\n\nThis is a critical inquiry for the Australian parliament, and it is critical that it is agreed to right now because the whole world is meeting in Poland and talking about the challenge that faces the world in trying to constrain global warming to less than two degrees.\n\nBy any way that you look at it, what is happening is that emissions are such that we are actually way off track to achieving that. We are actually on track for more than four degrees. The executive officer of the United Nations Framework Convention on Climate Change, Christiana Figueres, who our Prime Minister has referred to as 'speaking through her hat', made it quite clear at the opening plenary that the world is seriously challenged by this. We are on track to reach that two degrees and send ourselves into unknown territory in terms of the climate. That is effectively a climate emergency.\n\nYou do not have to look very far to see what is already happening with less than one degree of warming. Less than one degree of warming and we are having extreme weather events here and around the world. We have just been through horrendous bushfires in New South Wales. Those, of course, are beyond the floods that we have had in Queensland. We had Cyclone Yasi as well, we had the Black Saturday fires in Victoria, we had the heatwave that cost lives in South Australia and we had the fires in Tasmania. Australia is one of the continents most vulnerable to climate change and extreme weather events, and that means loss of life and loss of infrastructure.\n\nThat is why, when we hear talk of cost of living it is actually the cost of staying alive that we are talking about when you talk about climate change. It is a huge cost to the planet and it is a huge cost to countries\u2014developing countries\u2014that for the most part have had very little to do with the level of greenhouse gases in the atmosphere to date. So it becomes a global social justice issue.\n\nThat is why we have to talk about Direct Action, because the overwhelming failure of Direct Action\u2014before you even get to the technicalities\u2014is that it cannot be geared up beyond five per cent. I do not think that it can even achieve five per cent. The Prime Minister himself acknowledged that by saying during the election campaign that if they spend the money they have allocated, well, too bad\u2014they have spent the money and they are not going to do any more. That indicates that even they know that they have not set aside enough money to actually achieve five per cent.\n\nThe Climate Change Authority brought out its report recently and said quite clearly that the minimum unconditional 2020 target of five per cent reduction from 2000 levels is inadequate on a number of grounds. They have recommended two scenarios: a 15 or a 25 per cent reduction as being the sort of thing that Australia should consider if we are to recognise that we play a fair share in the global emissions task. There is a limited global emissions carbon budget and we have already used up a fair percentage of that budget already. That is all we have out to 2050, and that is the fundamental problem with Direct Action. It is a competitive grants scheme that cannot achieve emissions reduction to the level that is required.\n\nIf you want to talk about climate change you have to accept the science. Secondly, you have to accept it is a global problem and Australia has responsibilities in that context. Thirdly, you have to have a scheme that is capable\u2014a legislative framework that is capable\u2014of being scaled up to a level that will achieve the ambition you want to achieve. Direct Action cannot do that and will not do that.\n\nIts capacity to do it cost effectively is the next thing. Of course, we have had all kinds of claims from the coalition government as to what Direct Action can do at what price. But we have also had Treasury look at that, and everybody is in agreement that you are likely to have beyond $50 a tonne as being what it will actually cost to reduce emissions. What is more, with the way the legislation is structured currently, the polluters pay for their pollution. Interestingly, today you heard from the coalition: they say that they support the market mechanisms and they say they support the free market, but when it comes to this they do not. They want to take the money out of the taxpayer's pocket and pay the big polluters. What sort of sense does that make? That is why we need an inquiry to expose the incredible hypocrisy of institutions like the Business Council of Australia or the Chamber of Commerce and Industry, who come out and say that they want effective policy, efficient policy, and then turn around and say they will back direct action, which they know is inefficient, is not a market based mechanism and is going to cost a fortune. I suspect the only reason that they support it is they think that the taxpayer will pay for it and that their constituency, big business in Australia, will get off scot-free and it will proceed with its competitive grants scheme.\n\nOn the technical issues of additionality and establishing emissions baselines, let's go to additionality first. You get to the point of an industry saying, 'I'm putting up my hand, I want to grant.' Okay, you want to grant, but how do we know that you wouldn't have taken that action anyway? How do you prove that it is additional to what would have occurred previously? The Grattan Institute looked at the coalition's plan in a study that it has done and said that grant tendering programs show that they cannot reduce emissions at the necessary scale or speed and that, based on experience, government would need to announce an abatement purchasing fund of $100 billion to meet the 2020 emissions reduction target. Treasury, as I indicated, looked at the costs previously and pointed out that it was huge expense to the taxpayer. But, of course, those people who want to support big business in its capacity to pollute for free do not see that as a problem.\n\nIn terms of establishing emissions baselines, how do you establish the baseline and will there be penalties above the baseline? Or are we going to go for offset mechanisms? For example, if you establish an emissions baseline and people exceed the baseline, are they going to be charged a penalty? You could argue that a penalty is therefore a carbon tax, a carbon price. Is a penalty above the baseline a carbon tax or price, or are we establishing a baseline and saying, 'Actually, there will be no penalty for exceeding the baseline'? No, in fact, we are going to say, 'Providing you go off and buy a certain amount of renewable energy, or whatever else, that will be achieved.'\n\nWhat we have here is a situation where the coalition has failed to make the case for direct action. Let's face it, direct action was always a slogan to take into the 2010 election. It has no modelling behind it. It has no detail. It is only a green paper, white paper process. It is a bandaid that the coalition has put up in order to persuade some people that it has a policy on global warming, which it does not. It is the climate deniers policy of choice. That is the fact of the matter.\n\nWhy we need an inquiry into it, and need that inquiry right now, is because the community needs to see that when under pressure, when asked to explain themselves, the coalition will not be able to do it. They will not be able to put any detail behind this policy position. People will see that it is incapable of achieving even five per cent, let alone, in my view, the more than 25 per cent emissions reduction that is necessary by 2020 and then to go beyond 2020, when you get even steeper requirements in terms of emissions reductions in meeting that global budget. Direct action will not cut it, and that is why you need an inquiry into direct action.\n\nIn this context, I want to say that the reason the Greens want this inquiry is because we want the focus to be on why the coalition's policy is a failure. We know that the existing framework that was worked on and developed by Labor and the Greens under former Prime Minister Gillard is working. Emissions are coming down, particularly in the energy sector, in the electricity sector, as was designed. In the covered sectors, emissions are coming down. Where you have the emissions now scaling up is in areas that are not covered\u2014deforestation, for example. Land clearing is a major emitting industry and it is not covered currently under the scheme. There are sectors like that. How is direct action going to deal with this and how is it going to link with the carbon farming initiative? Nobody actually knows that.\n\nThat is why we need to expose just how hollow any kinds of claims that the coalition make about direct action actually are. Nobody who is serious about global warming, not an economist anywhere, not a scientist, nobody who has any credibility is saying anything other than that the only way you are going to get the kind of emission reductions we need at the cheapest price is a market based mechanism. That is what is required.\n\nThere are to be two debates here. One is about why you would want this inquiry into direct action, and it is pretty clear why you would want to do that. The other question is: why would you not?\n\nHonourable Senators\n\nHonourable senators interjecting\u2014\n\nDavid Fawcett\n\nOrder! Senator Milne, could you resume your seat. I remind senators on my right and across the chamber that senators have the right to be heard in silence. Senator Milne.\n\nChristine Milne\n\nThank you, Mr Acting Deputy President. We passed the legislation for carbon pricing for making the polluters pay. There was a compensation program worked out and delivered. This is a working strategy, it is a working framework of legislation, and it gives certainty. I want to say to the Chamber of Commerce and Industry, the Business Council of Australia and the like: you are not going to get certainty with direct action because how can you have certainty with a policy that supposedly only goes to 2020\u2014a grants scheme to 2020? Let me tell you: if you succeed in repealing this package it will be back again\u2014only next time that the market mechanism will be back again the cap will have to be so much more severe. The dislocation in the economy will be huge because you failed to act early and appropriately, and the longer you leave it the more expensive and the more dislocating it is going to be. To the likes of Peter Anderson and others, and BHP who are now trying to weasel out of actually paying a price on pollution, let me tell you: when the market mechanisms return, in the event this was ever repealed, it will be a more severe regime. You have got certainty right now. You have certainty with this legislation, you have a price curb, and that is what you need to be considering.\n\nThe reason the Greens will not be supporting an inquiry into the current legislation is that we do not want to avoid a vote on this. It is time to take it straight up to the coalition government. It is time to say: this legislation is working. We are not going to cast doubt; there is going to be no equivocation on this. If the coalition says they want to tear down the only thing that is working to bring down greenhouse gas emissions, we are going to say: no, on the contrary, you are not. We are going to protect the Climate Change Authority. We are going to protect the legislation we have and we are not going to stand by and let you vandalise action on climate change at a time when the globe is considering how to actually respond to this global challenge. That is why we want the action on Direct Action now. We will focus on that over the summer with no equivocation and take it straight up to the Abbott government, saying, 'No, you bring it on. We will not stand by and have it repealed. We are going to stand by the thing that is working and we are going to send that message to Warsaw, to every government there, that the Australian Senate will not stand by and watch you tear down an effective market mechanism which the world recognises is working.'\n\nLong debate text truncated.\n\n",
+    "aye_votes": 10,
+    "date": "2013-11-13",
+    "possible_turnout": 75,
+    "clock_time": "6:33 PM",
+    "id": 3005,
+    "no_votes": 49
+}

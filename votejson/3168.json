@@ -1,0 +1,902 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Don",
+                "last_name": "Farrell",
+                "person": {
+                    "id": 10708
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100253
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mark",
+                "last_name": "Furner",
+                "person": {
+                    "id": 10710
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100255
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Kroger",
+                "person": {
+                    "id": 10712
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100257
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Hogg",
+                "person": {
+                    "id": 10309
+                },
+                "electorate": "Queensland",
+                "party": "PRES",
+                "id": 100277
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Democratic Labor Party",
+                "id": 100292
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mehmet",
+                "last_name": "Tillem",
+                "person": {
+                    "id": 10821
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100310
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lin",
+                "last_name": "Thorp",
+                "person": {
+                    "id": 10769
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100304
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "DPRES",
+                "id": 100840
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Faulkner",
+                "person": {
+                    "id": 10214
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100077
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Boyce",
+                "person": {
+                    "id": 10062
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100024
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ron",
+                "last_name": "Boswell",
+                "person": {
+                    "id": 10057
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100022
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mark",
+                "last_name": "Bishop",
+                "person": {
+                    "id": 10048
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100016
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kate",
+                "last_name": "Lundy",
+                "person": {
+                    "id": 10398
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100129
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ursula",
+                "last_name": "Stephens",
+                "person": {
+                    "id": 10609
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100212
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nigel",
+                "last_name": "Scullion",
+                "person": {
+                    "id": 10569
+                },
+                "electorate": "NT",
+                "party": "Country Liberal Party",
+                "id": 100199
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Brett",
+                "last_name": "Mason",
+                "person": {
+                    "id": 10423
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100140
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100138
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Eric",
+                "last_name": "Abetz",
+                "person": {
+                    "id": 10003
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100001
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Regulations and Determinations \u2014 Clean Energy Auction Revocation Determination 2014; Disallowance",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 5,
+    "bills": [],
+    "summary": "Christine Milne\n\nI began last night by pointing out that the auctions that this regulation will disallow are a critical part of the implementation of the clean energy package as is legislated and is the law in Australia. It is the law right now. The reason that you would allow the auctions is to allow companies to buy permits ahead of the move to flexible pricing on 1 July 2015. The only reason that you would seek to overturn this regulation is if you were second-guessing the Senate after July this year and assuming that, in the future, the Senate would repeal the clean energy package. That is why I am so disappointed that the Labor Party has fallen in line with this stunt from the government. It is incredibly arrogant of the government to be removing the regulations which underpin the law because they are anticipating that they will be able to repeal the law at some point in the future. That is where I think there is a serious degree of difference, because I have no intention of allowing this legislation to be repealed. I want the underpinning regulations to stand, and I think that that is the appropriate way to go.\n\nAs I said last night, it makes absolutely no sense for the Labor Party to agree to finishing and undermining the auctions on the basis that they want to have an emissions trading scheme brought forward to 1 July 2014, because in that case they would need to be having auctions right now. This really makes the lie of the argument they mount that they are getting rid of this regulation because, if they got their scheme to start on 1 July 2014, they would bring in a regulation that supported an auction that could precede that. Well, we are in March now. If it started on 1 July 2014, the auctions should be underway right now, and you would not be removing the regulation; you would simply be seeking to amend the date of it, if you thought you had the power. That proves my point that the Labor Party knows full well it does not have the numbers. Even if it got the numbers in the Senate, it absolutely does not have the numbers in the House of Representatives, so it is a complete nonsense argument. If you were serious about carbon pricing, you would maintain the existing law and the existing regulations that underpin the law as it currently stands.\n\nThat is exactly what the Australian Greens are doing, because right around the world this legislation\u2014this clean energy package, this emissions trading scheme which is now the law\u2014is widely regarded as being template legislation for other developed countries. It is working in terms of reducing emissions from the sectors that are covered, in particular the electricity sector. Given that 50 per cent of Australia's emissions come from 12 businesses, 12 sites\u2014and they are overwhelmingly coal fired generators\u2014you need an emissions trading scheme that puts a price on those emissions, a price on pollution, so that you drag those emissions down, which is happening. Not only that; the flow-on effect of the pricing means there has been a collapse in demand for electricity as well, and that has to be a good thing. Energy efficiency is a good thing. This is working effectively to do exactly as we wanted it to do.\n\nTogether with this clean energy legislation, there is the Clean Energy Finance Corporation; ARENA, the Renewable Energy Agency; and the Renewable Energy Target. All these things are working together to start and build to where we need to go. We are actually at the absolute beginning, because we need to ratchet this up. We have to get 40 to 60 per cent emissions reduction by 2030. That is a mega shift from where we are now, and you have to have a scheme which is able to be scaled up. What the government is proposing has no hope of meeting five per cent emissions reduction, let alone scaling up to 40 to 60 per cent emissions reduction by 2030.\n\nSo I call on the Labor Party to reconsider their position here. They should be standing here supporting the Greens in disallowing Tony Abbott's attempt to tear down the regulations underpinning our only legislation that is addressing global warming. They should be standing here, if they are serious about this, and supporting the Greens in saying we need a higher price, not a lower price, on carbon in order to drive the transformation to the low-carbon economy. The only reason you would be considering bringing emissions trading forward at the moment is if you wanted a lower price, if you wanted to say, 'We want to link to the European Union right now because the European Union price is low and that would set the price for the scheme.'\n\nIf the European price was $60 a tonne, would we see the Labor Party moving to bring it forward? I do not think so. That is the reality: they want to make it cheaper. If you are serious about global warming, you need to get the transformation happening fast, it needs to be scalable and efficient, and businesses need to be able to decide how they will achieve it. That is exactly what we do not have from the current government; we do not have any kind of plan that will achieve that. That is why it is essential that we maintain the emissions trading scheme and the auction system as they were designed to play into that scheme.\n\nWhy have I got the confidence that it will remain in place after July? I just want to talk about the Western Australian election. The coalition in Western Australia have three seats out of six as it stands. There is one conservative Independent, one Labor and one Green. If Scott Ludlam holds his seat and if the side of politics that supports emissions trading wins one more Senate seat, we will keep the Clean Energy Finance Corporation, we will keep the Climate Change Authority and we will have a very good chance of keeping the emissions trading scheme. The International Energy Agency have a major report out this week saying that we have to drive renewable energy as hard as we possibly can. CSIRO are saying that global warming has impacted Australia by 0.9 of a degree in the last century and that is likely to rise an additional 0.6 to 1.5 degrees by 2030. That is a lot of heat coming our way. Australia is one of the most vulnerable countries, as most people here recognise or at least the people who are scientifically literate or open to science recognise. This would mean more bushfires, more heatwaves and more people dead from those extreme conditions, not to mention extreme flooding and the impact this would have on the human population and our natural environment\u2014on everything from coral reefs through to all our ecosystems. This is why we need to be building resilience by protecting our ecosystems, not opening up national parks to logging and mining, opening up farmlands to coal seam gas and more fossil fuel mining, opening up coalmines and exporting more coal and their emissions overseas.\n\nIt is essential that we stand here today and draw a line in the sand under the clean energy package and the regulations that underpin it. I will never support any of the regulations underpinning the clean energy package being repealed, nor will I ever support the package being repealed. As we have stood here and saved the Clean Energy Finance Corporation and the Climate Change Authority, I will stand here and defend our emissions trading scheme. I will also stand here time after time to say we should end this faux, fake, absolutely phony debate about a carbon tax. What is legislated in Australia is an emissions trading scheme, pure and simple. That is the legislation. It is an emissions trading scheme with a fixed price period going to flexible pricing on 1 July 2015. Labor are saying that they are going to remove the carbon tax and bring in an emissions trading scheme, but what is the extent of the amendment? It is simply bringing forward the date by one year.\n\nIf you had a carbon tax and you needed to bring in an emissions trading scheme, you would have to bring in a huge bulk of legislation, as we did back in 2011 when we legislated this whole package. Let us get rid of that completely phony debate. The environment movement in Australia know it, people in the renewable energy industry know it and people in business know it\u2014they want and understand we have an emissions trading scheme. That is why I was disgusted by the dishonesty of the Australian Industry Group, who put their name to the release by the Business Council of Australia, the Minerals Council and ACCI\u2014all of them were into it yesterday. They were totally wrong because they know as well as I do that there is no carbon tax in Australia; there is an emissions trading scheme. I say it is dishonest because the Australian Industry Group says it supports an emissions trading scheme. It was dishonest of them to put their name to that release yesterday. It is a complete nonsense for them to have done that.\n\nIt is inconceivable to me that anyone who regards themselves as a representative of the people of Australia could stand here and undermine action on global warming. It is absolutely inconceivable to me that people could do that, because our job as legislators is to look after our communities and our environment and look out for the best interests of future generations and the whole environment that sustains us. If you vote down a clean energy package then future generations will judge you very poorly. They will look back and ask: 'What on earth happened to people back then? How can they possibly have justified it?' I want to put on the record now that I am speaking for those future generations and I am speaking to them when I say: do not believe them when they say in the future, 'We didn't know. If only we had known.' We do know. The science is there. There is a deliberate decision to ignore the science in order to maximise the fossil fuel interests in Australia and the profitability of those in the longer term against the best interests of future generations and the community.\n\nI commend this disallowance motion to the house. We should not be getting rid of a regulation that supports our clean energy package. _(Time expired)_\n\nKim Carr\n\nI indicate that the opposition will not be supporting this disallowance motion. The revocation of the voluntary auction for carbon units is, in our judgement, nothing more than a political stunt by the government. Labor's position is clear. We are committed to ending the carbon tax as long as it is replaced with an emissions-trading scheme. Labor's clean energy bill amendments will propose a shift to an emissions-trading scheme by 1 July 2014. The voluntary auction would have no impact on the introduction of Labor's ETS. If the government would support our position, the auctions could be brought on again. It is clear that business would not have participated in this auction, given the level of uncertainty in the market that has been created by the government's attempt to dismantle Labor's clean energy policy.\n\nIn fact, the Clean Energy Regulator told an estimates hearing of the Senate Environment and Communications Legislation Committee that there was no evidence of any market interest for the carbon units, given the uncertainty of the current government's legislation. The CER would be going through the motions to create an auction at some considerable expense and with no meaningful outcome. The government is clearly trying to get some political mileage from this issue; yet, there is none. It is clearly a ploy by the government to paint Labor as backing down on climate policy. That is simply not the case.\n\nWe will allow the auctions to be stopped and we maintain our position that Australia needs an effective policy to tackle climate change. It is equally clear that this government has no credible policy to achieve that outcome.\n\nSimon Birmingham\n\nI rise to speak on this motion of the Greens to disallow the Clean Energy Auction Revocation Determination 2014. This was a determination issued by the Minister for the Environment, Minister Hunt, on 24 February this year. In doing so, the minister gave business certainty that they no longer need to take part in carbon unit auctions. In doing so, the minister removed the requirement for the Clean Energy Regulator to hold periodic auctions of carbon units, in particular the three auctions that were scheduled to take place prior to 30 June 2014. The determination is important because it gives the business community certainty that those auctions will not take place. It gives them clarity that they need not make a judgement call on what this parliament may or may not do with the carbon tax and that they can continue about their business operations with confidence in the hope that the carbon tax will be eliminated.\n\nI welcome Labor's support of the government in the cancellation of these auctions. It is pleasing to see that. But I am slightly astounded by the confusion that that support brings to Labor's position in relation to the carbon tax. I may not agree with much of what Senator Milne has said over the course of yesterday and today, but I do think that Senator Milne was on to something when yesterday she said:\n\nYou would agree to this regulation being overturned and disappearing only if you did not think the emissions trading scheme would stay in place after 1 July this year.\n\nThat is right. Senator Milne made clear that you would only agree to this regulation being overturned if you thought the carbon tax would no longer be in place after 1 July. Senator Milne is in many ways correct with that statement, which poses the question: what do the Labor party think will happen to the carbon tax? Is Labor's support for the government on this motion a case of their half-heartedly waving a white flag in relation to their carbon tax position? Is their support yet again an example of the fact that when it comes to the carbon tax Labor do not really know whether they are Arthur or Martha, whether they are Kevin or Julia, whether they are for it or against it, whether they are going to continue to oppose or whether they will ultimately buckle? Mr Butler, the shadow environment minister, in stating that Labor would support the government in cancelling these auctions, did so under a press release headed: 'Labor reaffirms commitment to ETS.' We heard similar words from Senator Carr earlier.\n\nOpposition Senators\n\nOpposition senators interjecting\u2014\n\nLong debate text truncated.\n\n",
+    "aye_votes": 8,
+    "date": "2014-03-06",
+    "possible_turnout": 76,
+    "clock_time": "2:00 PM",
+    "id": 3168,
+    "no_votes": 60
+}

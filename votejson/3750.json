@@ -1,0 +1,636 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "George",
+                "last_name": "Brandis",
+                "person": {
+                    "id": 10067
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100025
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Brett",
+                "last_name": "Mason",
+                "person": {
+                    "id": 10423
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100140
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 13,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5375",
+            "id": 750,
+            "official_id": "r5375",
+            "title": "Telecommunications (Interception and Access) Amendment (Data Retention) Bill 2015"
+        }
+    ],
+    "summary": "David Leyonhjelm\n\nI move Liberal Democratic Party amendment (8) on sheet 7661:\n\n(8) Schedule 1, item 1, page 21 (after line 31), after section 187N, insert:\n\n187NA Sunset provision\n\n\u00a0\u00a0\u00a0\u00a0\u00a0This Part (other than section 187N) ceases to be in force at the end of the third anniversary of the implementation phase for this Part.\n\nThe rationale for this amendment is to provide the opportunity for more widespread and more public debate and review, particularly in light of the fact that the PJCIS includes no members of the crossbench or Greens. To that end, this amendment carves out from the sunset the bill's review of operation provision section 187(9) by the PJCIS but ensures that if the bill sunsets and comes to be re-enacted, it will be debated by all of us in this place. It is also Liberal Democratic Party policy that, if draconian laws are to be enacted, they be sunsetted. It is part of the liberal tradition that fewer, better-drafted laws be enacted. Forcing parliaments to revisit earlier bad law goes some way towards achieving this, if only by reminding parliament not to produce rubbish laws in the first place.\n\nGeorge Brandis\n\nThe government opposes this amendment. Proposed section 187N provides for quite a detailed scheme for the review of the operation of the relevant part of the act. The review was to be conducted by the Parliamentary Joint Committee on Intelligence and Security. The period by which the review must commence and by which it must be concluded, which are both in the near future, are specified. It is routinely the role of the PJCIS to review the operation of legislation of a national security character, which is what this legislation is. It would be unusual\u2014I am not sure if it would be unprecedented, but it would certainly be unusual\u2014for the review of legislation of this kind to be conducted by any other organ of the parliament other than the PJCIS. Its reports, of course, are public and will be able to be debated in this chamber at the appropriate time. The government sees no persuasive reason for departing from the orthodox position that when one is dealing with the review of operation of new elements of national security legislation, the PJCIS is the appropriate organ to conduct that review.\n\nJacinta Collins\n\nFor the same reasons, we will be opposing this amendment.\n\nNick Xenophon\n\nI indicate that I will be supporting this amendment. I think it is fair to say that the PJCIS does not have the same sorts of powers as the United States committees on intelligence have in the House of Representatives or the Senate. I think that this is a warranted safeguard in the circumstances, so I will be supporting this amendment.\n\nScott Ludlam\n\nOn behalf of the Australian Greens, I indicate that we support Senator Leyonhjelm's amendment for the reasons that he has expressed quite eloquently for a while. The PJCIS was quite literally a boys' club when Mr Clare and Mr Dreyfus substituted on it to more closely observe the bill that they had carriage of on behalf of the opposition. It was a committee comprised entirely of middle-aged white men.\n\nThe government, having eliminated the crossbench spot, I would at least pay tribute\u2014and I think Senator Brandis was part of this committee when he was there\u2014to the role that Mr Andrew Wilkie played as somebody who had spent some considerable years as a member of the intelligence community as the crossbench member of the PJCIS. That crossbench spot, which has never been held by the Greens, was eliminated by this government when they came to power. Since then it has operated as something of a closed shop.\n\nI think this parliament, as Senator Leyonhjelm has identified in this amendment, is by far a more appropriate place to hold the debate on the sunsetting of a bill with the gravity of this. Unwinding data retention provisions of a future parliament if one moved to do so, I think, this is a serious conversation that should be held in this parliament. It is certainly going to be, technically and procedurally, potentially quite difficult to do. The PJCIS is not at all the appropriate place to do so. Too frequently it has acted as a captive. I have seen any number of interviews that the present chair of the committee has conducted where he is asked for a rationale of why he has come to one view or another, and he just says, 'Because ASIO said so,' or 'Because the Federal Police want it.'\n\nIt is not the role of an oversight committee to simply act as some kind of relay service for demands of the intelligence community or the police. No matter how hard they work or how diligently they carry out their duties, it is the role of that committee principally and of this parliament in general to balance the demands of agencies seeking more powers to conduct their responsibilities and the expectations of the citizenry as a whole, so we do not end up living in a police state. Quite frankly, the PJCIS, in my view, has not always upheld that extraordinarily important responsibility, and I would argue that the shape this bill has arrived in tonight is precisely an example of how that committee has let us down.\n\nObviously it is a matter of record, but I do not believe this bill should pass into law at all. If we are going to be debating sunset provisions and the fact that at some stage we might expect that this thing is withdrawn from the statute books, the place for that debate to happen is this parliament. We will be supporting the amendment. _(Time expired)_\n\nJacinta Collins\n\nI could not let Senator Ludlam's reference to the gender issue go by without some comment. We do have one other female senator participating to some extent in this debate. It would be remiss of me not to highlight that the two Labor participants on the joint committee vacated their positions so that the relevant frontbenchers could ensure that Labor applied diligent consideration to this bill. Those committee members were Senator Wong and Ms Plibersek.\n\nFrom my observations of the debate today I am really quite confused about what Senator Ludlam thinks might be the gender issues that are relevant. I would also have to disagree significantly with his characterisation of the committee's considerations. The recommendations, and the 74 consequent amendments that the government has accepted, highlight the detailed consideration and the good work done by this committee.\n\nGeorge Brandis\n\nI join with Senator Collins's observations on this rare occasion. Senator Ludlam, speaking as a middle-aged white man to you, another middle-aged white man, I do not think the gender or the age demographic or the ethnicity of the members of the Parliamentary Joint Committee on Intelligence and Security has any bearing at all on their capacity to deliberate wisely in the interests of the Australian people. The remark was quite a silly one, I am bound to say.\n\nThe Parliamentary Joint Committee on Intelligence and Security is arguably the most respected committee of the parliament, and always has been. It is usually, or in general, comprises the most senior members drawn from both sides of politics. And at the time this proposal was developed, Senator Ludlam, it also contained an Independent, Mr Andrew Wilkie\u2014by the way, another middle-aged white man\u2014whose views you seem not to find as offensive, notwithstanding his exotic gender, age demographic and ethnicity.\n\nPeople like Senator John Faulkner from the Labor Party and Mr Phillip Ruddock from the Liberal Party\u2014people who had seen long experience in portfolios related to matters of national security and intelligence\u2014have always been the gravamen or weight of this committee. And it is very poor form of you, Senator, to reflect upon the committee.\n\nSenator Xenophon, I know you are enamoured of American models. The PJCIS does not have the same powers as the American senate intelligence committee\u2014that is true\u2014but this Senate does not have the same powers as the US senate, for that matter. We have different systems, and I would encourage you not to be so enamoured of the American system merely because it is the American system. Not that I equate you with the subject of this song, but I remind you of the quatrain of the Lord High Executioner in _The M__ikado_, who speaks of 'the idiot who praises, with enthusiastic tone, all centuries but this, and every country but his own'. You should not assume that just because it is American it is better than what we have in Australia.\n\nNick Xenophon\n\nI am not sure whether I should be offended or complimented! At least when the Attorney-General calls me an idiot he does so quoting _The M__ikado_. I think I might need to quote something from the Sex Pistols\u2014or the Dead Kennedys, perhaps; another punk band\u2014but I think I would get in trouble with Hansard. I am more punk than opera when it comes to dealing with these matters.\n\nI do not want my position in respect of the American system to be misrepresented. There are many things about the American system that I have real concerns about, but I do give credit to the Americans that in so far as there appears to be a greater level of scrutiny\u2014including a court, albeit sitting in secret\u2014in terms of intelligence matters. I do not think I am verballing the Attorney-General by saying that he is nodding. It is a different system but the principles are the same: our intelligence services ought to be subject to a decent level of scrutiny. And I do not think that is idiotic, whether you are quoting _The Mikado_ or not.\n\nIn relation to the issue of the membership of the PJCIS, I am also a middle-aged\u2014maybe late middle-aged, at 56\u2014white man. I am of Southern European descent, so I may have olive-tinged skin. But I want to make this point: the PJCIS does not include any representation from any of the 18 crossbenchers in this place. There are nine separate groupings\u201410 Greens and eight separate members representing different groups or different independent perspectives. And it worries me that they are not represented.\n\nI would ask the Attorney-General, having graced us with a quote from _The Mikado_, whether he concedes that there is a restrictiveness in the membership of the PJCIS. Would he consider, from the government's point of view, giving an opportunity for crossbenchers to be participating members on certain inquiries from time to time if there is a resolution of this place in order to allow that participation.\n\nGeorge Brandis\n\nIt is not really my place to reflect upon the composition of the PJCIS other than to make the point that it comprises, generally, senior and respected members from both sides of politics. When Mr Wilkie was a member of the PJCIS in the last parliament I thought he made a useful and well-informed contribution to its deliberations, for which I thank him. As I said, the genesis of the bill we are debating tonight was the inquiry in which Mr Wilkie was a participant. The report which was the genesis of this bill was a unanimous report. I would be the last person, Senator, to depreciate the value of Independent crossbench members of parliament.\n\nScott Ludlam\n\nIs that why you knocked him off the committee? I am perplexed as to the point you are trying to make. I would agree that he did make a valuable contribution to the committee. I therefore wonder\u2014maybe this is seen as a bit of a digression\u2014why you knocked him off the committee.\n\nGeorge Brandis\n\nI did not knock anyone off any committees. The committee was reconstituted. I left the committee at the same time as Mr Wilkie, Senator Ludlam. Committees can be constituted in different ways.\n\nThe committee at the moment comprises\u2014so far as I can see\u2014very respected members from both of the major parties. Whether an independent or a crossbench member or a minor-party member should have a permanent spot is a debate that one could have, as one often debates the composition of committees. The composition of the committee, at the moment, is as it is and I think it has done a very good job.\n\nIf I may say so, notwithstanding your rather slighting and ungenerous remarks about him, I think the member for Wannon, Mr Tehan, is an exemplary chairman with whom I have worked very closely. Mr Tehan is a former foreign-service official and a former trade representative of this country and he knows a great deal more about these matters than some other people I can readily think of, Senator Ludlam.\n\nNick Xenophon\n\nI cannot let go of _The Mikado_! I am very grateful to my senior adviser who, fortunately, happens to be a relatively young female\u2014she happens to be white though\u2014and my retort on _The Mikado_ is Britney Spears: 'Hit me, baby, one more time!'\n\nI do want to ask the Attorney if he will rule out, as a matter of principle, the 18 members of the crossbench of this place having, from time to time, representation on the PJCIS as a participating member.\n\nGeorge Brandis\n\nSenator Xenophon, your cultural references are opaque to me. It is not for me to rule in or rule out what ought to be the appropriate composition of a joint committee of both houses of this parliament.\n\nCory Bernardi\n\nThe question is that the amendment standing in the name of Senator Leyonhjelm be agreed to.\n\nThe committee divided.\n\n(Temporary Chairman\u2014Senator Bernardi)\n\nQuestion negatived\n\n",
+    "aye_votes": 15,
+    "date": "2015-03-25",
+    "possible_turnout": 74,
+    "clock_time": null,
+    "id": 3750,
+    "no_votes": 32
+}

@@ -1,0 +1,571 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "George",
+                "last_name": "Brandis",
+                "person": {
+                    "id": 10067
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100025
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Tax and Superannuation Laws Amendment (2015 Measures No. 4) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 1,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5517",
+            "id": 782,
+            "official_id": "r5517",
+            "title": "Tax and Superannuation Laws Amendment (2015 Measures No. 4) Bill 2015"
+        }
+    ],
+    "summary": "Lee Rhiannon\n\nMr Chair, I draw your attention to the Greens' second amendment on sheet 7763, on schedule 2. It is the significant amendment here, and so I suggest that it be dealt with first. I move:\n\n(2) Schedule 2, page 8 (lines 1 to 11), to be opposed.\n\nThis is an issue that I did cover in the second reading debate. It addresses the issue of overseas employment. Effectively, it would remove the exemption for some, but not all, overseas employees. This is where I do request clarification from the minister, because from my reading of the bill the tax exemptions would be retained for workers in private NGOs, the Australian Federal Police and the military. While the Greens can see merit in having consistency in our tax laws, why is there this inconsistency in this piece of legislation?\n\nWhen you look at it it looks as though this is just one small aspect, but it appears that it could be quite significant. It certainly looks as though it is buried in there, that we have this measure that really does create a two-tier system. It penalises workers who choose to work for the government in delivering overseas development assistance. And this is my direct question that I put to the minister: is it the case that workers in private NGOs, the Australian Federal Police and the military will retain their tax exemption status? And why should not all government employees, or all employees who are working under overseas development systems, be treated in the same way?\n\nMichaelia Cash\n\nThank you Senator Rhiannon for the question. I am instructed that in relation to your question, Australian Defence Force and Australian Federal Police personnel access an income tax exemption under a different provision in the income tax law, and that provision will not be affected by this amendment. I am also advised that DFAT has recently made administrative amendments to exclude their employees from accessing an income tax exemption on income earned in delivering ODA overseas. DFAT has clarified this position via an ATO private ruling.\n\nAs a result, this amendment is not expected to affect DFAT staff as they are already ineligible for the exemption. This change puts public service staff who deliver overseas development assistance on the same footing. I will just see if there are any further instructions or advice that I can get from the Treasury officials. No\u2014thank you, Senator Rhiannon.\n\nLee Rhiannon\n\nThank you, Minister. I would still seek further clarification, because from my reading and interpretation of the bill there is a different provision, as you have explained, for certain people in DFAT, the Australian Federal Police and the military. I understand that the Australian Federal Police and the military are separate, but I do just want that clarification about DFAT.\n\nFrom my reading of the legislation there seems to be a two-tier system here. There is one for the private NGOs, for whom the tax exemption is being retained. I assume that is what you just explained when you talked about DFAT having a private ruling from the ATO\u2014that DFAT workers, who are not private NGOs but who are already workers who come under overseas development assistance, do not come under this tax exemption and they lose out. So, I still understand that it is a two-tier system for DFAT people with regard to ODA, depending on whether they are employed by the government or not. That is what I am trying to get clarified.\n\nMichaelia Cash\n\nSenator Rhiannon, my instructions are that, in relation to the private NGOs, as you have outlined, the tax exemption is being retained. In relation to staff who are currently employed by DFAT, they are already ineligible for the exemption. So, again, what this change is doing is putting the Public Service staff who deliver overseas development assistance on the same footing.\n\nLee Rhiannon\n\nYou have confirmed that the private NGOs retain the exemption. I understood you to say that the others who come under ODA are ineligible for the exemption, but did they previously receive the exemption?\n\nMichaelia Cash\n\nI am instructed that if there was a Treasury person previously delivering ODA they will not be eligible after this bill goes through.\n\nLee Rhiannon\n\nI was talking about before the bill goes through; that is what I am trying to clarify. I understand from reading the legislation that the situation has changed for a certain group of workers, irrespective of whether they are from Treasury, who come under ODA when they are working overseas. That is what I am trying to clarify.\n\nMichaelia Cash\n\nI am instructed that the answer is yes. I can provide you with some additional information about who accesses the income tax exemption for ODA work overseas. In 2011-12, there were around 600 employees claiming the income tax exemption for delivering ODA overseas. Of these, about 25 per cent were Australian Public Service employees, with the remainder being employed by the private sector, mainly employees of private contracting firms that deliver ODA through government contracts. Around 55 per cent of the Australian Public Service employees who accessed the ODA provision in 2011-12 were employed by AusAID, which is now, of course, part of DFAT.\n\nLee Rhiannon\n\nMinister, you said yes there. I understand that we have this two-tier system. Can you explain why everybody\u2014I am leaving out the AFP and the military; you have explained about that\u2014under ODA has not been treated in the same way?\n\nMichaelia Cash\n\nSenator Rhiannon, I can only advise that the effect of the bill\u2014the change\u2014is to put Public Service staff who deliver overseas development assistance on the same footing. I am very pleased, though, that we have the support of the opposition in relation to this bill.\n\nKim Carr\n\nI will just indicate that Labor will be opposing the Greens amendment on sheet 7763. As Senator Cameron stated in his second reading debate speech on behalf of the Labor Party, schedule 2 is the exemption of income earned in overseas employment\n\nThe opposition supports this bill's efforts to boost the integrity of our personal tax system by standardising the tax treatment for workers delivering overseas development assistance. This integrity measure improves the consistency of our personal income tax system by upholding the principle that Australians should pay tax on their earnings somewhere.\n\nAs a general rule, Australian resident individuals are taxed on their worldwide income through the Australian personal income tax system; however, under the current law all employees of an Australian government agency who work overseas for not less than 91 continuous days delivering official development assistance are exempt from the payment of income tax on the income they have earned while overseas. This provision was originally introduced to provide relief from double taxation\u2014that is, in terms of liabilities in both Australia and the source country\u2014however, the provision no longer serves this purpose, with Australians working overseas often able to avoid income tax in both jurisdictions. As such this measure unifies the tax treatment of all Australian government agency employees by subjecting their income derived in the delivery of ODA overseas to Australian income tax. Notably, Australian Defence Force personnel, Australian Federal Police personnel and individuals delivering official development assistance for a charity or a private sector contracting firm will still maintain eligibility for the exemption, despite these changes.\n\nLee Rhiannon\n\nIn response to Senator Carr's remarks I want to put on the record, as I did yesterday in my speech during the second reading debate, that the Greens also support a standardised consistent tax system and obviously people and corporations paying their fair share of tax. This is precisely why we have raised our objection to schedule 2\u2014because we do not have that here. I will not repeat the arguments in detail, but when it comes to ODA there is a two-tier system. It needs to be put on the record again that the AFP, military and some private NGOs who receive ODA are exempt so we do not have a standardised system. There is an inconsistency within one category that has been brought to our attention.\n\nDean Smith\n\nThe question is that schedule 2 stand as printed.\n\nThe TEMPORARY CHAIRMAN (10:19): The result of that vote means that Senator Rhiannon is no longer required to move her first amendment. Is that correct, Senator Rhiannon?\n\nLee Rhiannon\n\nYes.\n\nThe TEMPORARY CHAIRMAN: The question is that the bill stand as printed.\n\nQuestion agreed to.\n\nThe TEMPORARY CHAIRMAN: The question is that the bill be printed.\n\nQuestion agreed to.\n\nBill agreed to.\n\nBill reported without amendment; report adopted.\n\n",
+    "aye_votes": 33,
+    "date": "2015-09-16",
+    "possible_turnout": 76,
+    "clock_time": "10:17 AM",
+    "id": 3929,
+    "no_votes": 9
+}

@@ -1,0 +1,610 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Water Amendment Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 1,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5468",
+            "id": 779,
+            "official_id": "r5468",
+            "title": "Water Amendment Bill 2015"
+        }
+    ],
+    "summary": "David Leyonhjelm\n\nThis bill is proposing some sensible amendments to the Water Act to cut buybacks from farmers to 1500 gigalitres, and I support that. However, I have moved two amendments which I think I should explain once again for the benefit of the chamber.\n\nThe first amendment will counter water hoarding by the Commonwealth Environmental Water Holder. As the law currently stands, the Commonwealth Environmental Water Holder is required to hold and store water even when environmental watering plans have been fully utilised. My amendment removes the ban on selling water that is excess to environmental needs by removing a requirement to retain water if it can be stored for a future accounting period.\n\nThis idea, I believe, is supported by the National Party\u2014certainly by the Victorian National's leader, Mr Peter Walsh, former water minister in Victoria. I do not see why it should not be supported at least by the Nationals in this place.\n\nThe second amendment that I am proposing increases the total water that can be used by farmers in the basin by around one per cent. This is a modest change that will benefit farmers and not threaten the environment. The increased water for farmers is achieved by reducing water use reduction targets listed in the Basin Plan.\n\nThe government argues these sorts of amendments will fall out of their current review process, and we should not proceed with them now. Quite frankly, I think that amounts to the government saying, 'We want our name on these measures, not your name, Senator Leyonhjelm.' I do not accept that. We have a responsibility in this parliament to promptly amend Commonwealth law when a clearly beneficial change is before us. We should not delay in the hope that bureaucratic committee processes will come up with something sensible in a timely way.\n\nThese amendments do not threaten environmental outcomes, and additional water will also be available to farmers who wish to purchase it at a reasonable price. They will improve the Basin Plan and deliver practical benefits to basin communities and the environment. It will also send a signal to the basin communities that we, in this place, feel their pain and are not indifferent to their trials.\n\nThe inquiry I am chairing will recommend more substantial reform but, in the interim, these measured and modest amendments signal a resolve to improve outcomes and reduce the uncertainty of necessary water reforms. I do intend to call a division on these amendments.\n\nSimon Birmingham\n\nI have already spoken briefly to Senator Leyonhjelm's amendments but, given it is a new day of the Senate, I will touch on them again. At the broad level, the point that I would make in terms of the government's opposition to these amendments\u2014and it is one that I reflect upon, having been for most of the time of this government the responsible minister for water and the Murray-Darling Basin and for a good period of time in opposition previously the responsible shadow minister\u2014is that a careful management approach is required across the basin. It is not just careful management in balancing water use between economic needs and environmental needs but also in balancing the expectations between those whose communities depend upon the river system for their sustainability and those of course who live alongside the river system and, in a different way, whose communities depend upon the health of the river system\u2014that balance between water users' need for water, and tourism and activities and others' need for a healthy river.\n\nSo there is a need to balance the environmental and economic outcomes. There is a need to balance those community expectations and then there is a need to make sure that, in doing it, you actually are achieving support and agreement amongst the five different jurisdictions that have a role in relation to the operation of the Murray-Darling Basin system and, in particular, the Basin Plan.\n\nThat is not to say, Senator Leyonhjelm, that your issues are not worthy of merit. But it is to say that, in this instance, process\u2014much as process frustrates you at times and, to be honest, it frustrates me at times\u2014is important if we are to hold what is a delicate arrangement together for the health of the river and the communities who rely upon it. And it is important that we do work through with the states and territories any changes to the Water Act, rather than simply bring them in and risk the support of the states and territories for the overall operation of that act.\n\nI have given the commitment that the government will, of course, be responding to the Water Act review, which was commissioned last year and finalised last year. It provides some important recommendations in relation to how trading by the Commonwealth Environmental Water Holder could be amended, and it presents those recommendations in a careful and nuanced way with a number of conditions about how such trading amendments could be enacted. I do to note in relation to your amendments as they relate to the carryover of water that carryover is an important function for any environmental water holder, just as carryover rights are important for irrigators. In terms of establishing an environmental water holder what we have is a human intervention, a governmental intervention, in trying to best replicate and best optimise environmental outcomes in what is now a highly regulated river system.\n\nThe Murray-Darling, particularly the southern connected system, never outside of major, major flood events, flows freely. It is a highly regulated system in which there are active interventions made to determine what an appropriate level of flow is in terms of managing the risk to property, managing access to water for irrigators and managing water quality, particularly in the southern parts of the system. With such a regulated system, to try to best replicate environmental actions, the Environmental Water Holder was established to hold irrigation licences, like any irrigator, and to be able to then use those licences in a way that can optimise environmental outcomes. To be able to do that, the Environmental Water Holder needs to be able to make decisions in some years to not use those allocations and to load them up for use in another year in order to best replicate some of those environmental flows and to get an optimal environmental outcome.\n\nSo, in terms of your overall package of amendments, there are areas where the government has concerns about the nature of the amendment and there are other areas where we are sympathetic but do need to go through the proper processes. I appreciate your passionate interest and your representation for some of the communities of the basin, the communities whose passions and views I am very familiar with. I am eager to continue to work, as the government is, with you, with the crossbenchers, with the committee and with the opposition, who have continued a history of bipartisanship in this policy area, to ensure that future changes to the act, just as those that the Senate, I trust, will agree upon today, are delivered in a way that continues support for the Basin Plan and water reform in Australia, rather than risks jeopardising support for it by any of the different stakeholder groups.\n\nThe CHAIRMAN: The question is that amendments (1) and (2) on sheet 7752, moved by Senator Leyonhjelm, be agreed to.\n\nBill agreed to.\n\nBill reported without amendments; report adopted.\n\n",
+    "aye_votes": 6,
+    "date": "2015-09-14",
+    "possible_turnout": 76,
+    "clock_time": "10:18 AM",
+    "id": 3919,
+    "no_votes": 39
+}

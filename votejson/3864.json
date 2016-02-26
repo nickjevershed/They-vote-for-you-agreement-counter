@@ -1,0 +1,636 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "George",
+                "last_name": "Brandis",
+                "person": {
+                    "id": 10067
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100025
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Migration Amendment (Regional Processing Arrangements) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 10,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5491",
+            "id": 772,
+            "official_id": "r5491",
+            "title": "Migration Amendment (Regional Processing Arrangements) Bill 2015"
+        }
+    ],
+    "summary": "Gavin Marshall\n\nThe question is that Australian Greens amendments (1) and (7) on sheet 7738 be agreed to.\n\nKim Carr\n\nBefore question time I raised some issues with Senator Brandis and during question time I gave Senator Brandis a list of questions. I understand that the government has had an opportunity to consider those matters. If that is correct and the minister does have answers, would it be possible to have those questions dealt with at this time?\n\nGeorge Brandis\n\nI am happy to do that. I thank Senator Carr for his cooperation. Indeed, I thank the opposition for their cooperation in expediting the passage of this important bill. The way in which Senator Carr and I thought we might do this, if I can get through it in 15 minutes, is that I will read onto the record both the questions and the answers. So the questions come from Senator Carr and the answers come from the government.\n\nQuestion 1: Can the minister confirm for the benefit of the Senate that this bill does not change or in any way expand the current situation in regional offshore processing?\n\nAnswer: Yes.\n\nQuestion 2: In relation to proposed new sections 198AHA(2)(a) and 198AHA(2)(c) can the minister clarify exactly what is meant by the phrases 'any action' and 'do anything else'?\n\nAnswer: The provision is intended to ensure that all aspects of the Commonwealth's actions in relation to regional processing arrangements are captured. In terms of arrangements with regional processing countries, the government has entered into MOUs with the governments of Nauru and PNG relating to the transfer to and assessment and settlement in these countries. The Commonwealth has also entered into administrative arrangements with Nauru and PNG. The administrative arrangements underpin the MOUs. The administrative arrangements set out, with some degree of particularity, the various arrangements in respect of expenditure and costs for the transfer process from Australia to regional processing centres, arrival in regional processing centres, arrangements at the regional processing centres themselves and refugee assessment processes et cetera. The intention of section 198AHA(2)(a) and 198AHA(2)(c), therefore, is to ensure that clear statutory authority is provided to cover the full gamut of the Commonwealth's conduct in connection with regional processing arrangements, and the actions which the regional processing centre countries themselves take in connection with their regional processing functions.\n\nQuestion 3: In relation to proposed section 198AHA(5)(b), an action will include an 'action in a regional processing country or another country'. If the minister's previous answer is correct, and this bill makes no changes or expansions to offshore processing, why is the phrase 'or another country' in this clause?\n\nAnswer: The purpose of the provision is to ensure that clear statutory authority is provided in relation to all actions the Commonwealth takes in relation to regional processing arrangements in a regional processing country. The phrase contemplates that statutory authority is provided for any actions taken by the Commonwealth and its officers that happens not to take place in a regional processing country itself. For example, the Commonwealth entering into an arrangement with Transfield to provide services at the regional processing centres was conduct that occurred in Australia. The phrase is not intended to cover a situation where the Commonwealth enters into an arrangement with a country not designated as a regional processing country.\n\nQuestion 4: Can I\u2014that is me, Senator Brandis\u2014as the minister, confirm the status of this bill with respect to the Cambodian arrangement?\n\nAnswer: The provision is not intended to provide any authority in respect of arrangements with third countries not designated as a regional processing country. It has no application to any arrangement with Cambodia.\n\nThen there are a series of questions in relation to amendments circulated by Senator Leyonhjelm.\n\nQuestion 5: Does this bill provide any legal immunity for any person acting on behalf of the Commonwealth for any breach of Australian or state or territory law?\n\nAnswer: The intention of the bill is to provide clear statutory authority for the Commonwealth and its officers acting within the ambit of their powers or duties to take certain action in relation to an arrangement with a regional processing country, or the regional processing functions of a country.\n\nQuestion 6: Is the definition provided in section 198AHA(5) for regional processing functions a new definition, or does it replicate a definition used elsewhere in the legislation?\n\nAnswer: 'Regional processing functions' is a new definition.\n\nQuestion 7: If new, how does the introduction of this definition interact with other provisions of the legislation?\n\nAnswer: This definition does not limit the initial process of designation provided for in the Migration Act\u2014see section 198AC, or section 198AD\u2014but the ongoing performance of the country's role as a regional processing country. The only condition for designating that country as a regional processing country is that the minister must think that it is in the national interest to do so. Therefore, once the minister has designated the country as a regional processing country, the definition will work to give effect to the ongoing performance of the country as a regional processing country.\n\nQuestion 8: Assuming the definition is a new definition\u2014and I have said in answer to question 6 that it is\u2014given the definition provided in the amending legislation for regional processing function seems to hinge on the role of the country in the regional processing country, is the role defined elsewhere in the legislation? If not, how would this definition work practically in defining the scope of action contemplated in subsection 198AHA(1).\n\nAnswer: The role of the regional processing country is not defined elsewhere in the legislation. The definition will work practically, as it gives effect to the ongoing performance of the regional processing country. Any action undertaken by the Commonwealth can only occur when the minister has designated a country as a regional processing country, and the Commonwealth has entered into an arrangement regarding the functions of the regional processing country.\n\nThose answers were provided, I should say, by the Minister for Immigration and Border Protection, Mr Dutton, and I seek leave to have them incorporated into _Hansard_.\n\nThe CHAIRMAN: You have just read them into _Hansard_. Maybe it would be better to table them.\n\nI will be guided by you, Mr Chairman.\n\nThe CHAIRMAN: Thank you. They are tabled.\n\nKim Carr\n\nI wish to thank the minister for that response and the government for providing that information.\n\nSarah Hanson-Young\n\nBefore we broke before question time, I had spoken to amendments (1) and (7) on sheet 7738 in relation to stopping the detention of children in the Nauru detention centre, and children who were born here in Australian being transferred from Australia to Nauru. I seek leave to have those two amendments moved together.\n\nThe CHAIRMAN: The question is that Greens amendments (1) and (7) on sheet 7738 be agreed to.\n\nChristopher Back\n\nWould those senators not participating in the debate please leave the chamber.\n\n",
+    "aye_votes": 13,
+    "date": "2015-06-25",
+    "possible_turnout": 76,
+    "clock_time": "5:02 PM",
+    "id": 3864,
+    "no_votes": 34
+}

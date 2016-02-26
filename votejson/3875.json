@@ -1,0 +1,844 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Carol",
+                "last_name": "Brown",
+                "person": {
+                    "id": 10071
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100026
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jenny",
+                "last_name": "McAllister",
+                "person": {
+                    "id": 10839
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100845
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Katy",
+                "last_name": "Gallagher",
+                "person": {
+                    "id": 10838
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100844
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Migration Amendment (Strengthening Biometrics Integrity) Bill 2015; in Committee",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 4,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5421",
+            "id": 775,
+            "official_id": "r5421",
+            "title": "Migration Amendment (Strengthening Biometrics Integrity) Bill 2015"
+        }
+    ],
+    "summary": "Kim Carr\n\nby leave\u2014I move opposition amendments (1), (2), (3) and (4):\n\n(1) Schedule 1, item 34, page 7 (after line 27), after subsection 257A(7), insert:\n\n_Personal identifiers for minors or incapable persons_\n\n\u00a0\u00a0(7A) If a minor or an incapable person (the _person_) is required to provide one or more personal identifiers under subsection (1), the personal identifiers must be provided:\n\n\u00a0\u00a0(a) in circumstances affording reasonable privacy to the person; and\n\n\u00a0\u00a0(b) in such a manner that ensures particular care is taken to treat the person with humanity and respect for human dignity.\n\n(2) Schedule 1, item 50, page 9 (lines 24 and 25), omit the item, substitute:\n\n50 Subsections 261AL(5) and (6)\n\n\u00a0\u00a0Repeal the subsections, substitute:\n\n_Persons present while identification test is carried out_\n\n(5) If a person who is a minor provides a personal identifier, in accordance with a requirement under Division 13AA of this Part, by way of an identification test carried out by an authorised officer, the test must be carried out in the presence of:\n\n\u00a0\u00a0(a) a parent or guardian of the minor; or\n\n\u00a0\u00a0(b) either:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) if the minor is female\u20142 female independent persons; or\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) if the minor is male\u20142 male independent persons.\n\n(6) However, if the Minister is the minor's guardian, the test must be carried out in the presence of:\n\n\u00a0\u00a0(a) if the minor is female\u20142 female independent persons (other than the Minister); or\n\n\u00a0\u00a0(b) if the minor is male\u20142 male independent persons (other than the Minister).\n\n(3) Schedule 1, item 53, page 10 (lines 3 and 4), omit the item, substitute:\n\n53 Subsection 261AM(4)\n\n\u00a0\u00a0Repeal the subsection, substitute:\n\n_Persons present while identification test is carried out_\n\n(4) If a person who is an incapable person provides a personal identifier, in accordance with a requirement under Division 13AA of this Part, by way of an identification test carried out by an authorised officer, the test must be carried out in the presence of:\n\n\u00a0\u00a0(a) a parent or guardian of the incapable person; or\n\n\u00a0\u00a0(b) either:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) if the incapable person is female\u20142 female independent persons; or\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) if the incapable person is male\u20142 male independent persons.\n\n(4) Schedule 1, page 10 (after line 4), after item 53, insert:\n\n53A After section 336L\n\n\u00a0\u00a0Insert:\n\n336M Identifying information\u2014serious data breach\n\n_Serious data breach_\n\n(1) If:\n\n\u00a0\u00a0(a) a person is the responsible person for identifying information; and\n\n\u00a0\u00a0(b) the person holds identifying information; and\n\n(c) there is unauthorised access to, or unauthorised disclosure of, the identifying information; and\n\n\u00a0\u00a0(d) the access or disclosure is in circumstances which may result in a real risk of:\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(i) the unauthorised use of the identifying information; or\n\n\u00a0\u00a0\u00a0\u00a0\u00a0(ii) a serious interference with the privacy of an individual;\n\nthen:\n\n\u00a0\u00a0(e) the loss is a _serious data breach_ in relation to the identifying information; and\n\n\u00a0\u00a0(f) an individual is _significantly affected_ by the serious data breach, if, and only if, the individual is the person to whom the identifying information relates.\n\n_Notification_\n\n(2) If a responsible person believes on reasonable grounds that there has been a serious data breach in relation to identifying information, the responsible person must, as soon as practicable after forming that belief, notify, in writing:\n\n\u00a0\u00a0(a) the individual who is significantly affected by the serious data breach; and\n\n\u00a0\u00a0(b) the Information Commissioner;\n\nof the following:\n\n\u00a0\u00a0(c) a description of the serious data breach that the responsible person believes has occurred;\n\n\u00a0\u00a0(d) the kinds of information concerned;\n\n(e) recommendations about the steps that the individuals should take in response to the serious data breach that the responsible person believes has occurred;\n\n\u00a0\u00a0(f) such other information (if any) specified in the regulations.\n\n_Responsible person_\n\n(3) For the purposes of this section, _responsible person_ has the same meaning as in section 336K.\n\nSenator Brown, on behalf of the Labor Party, made a speech on the second reading pointing out Labor's position on this legislation\u2014namely, that the collection of personal identifiers at the border is an important part of Australia's national security procedures; it is important that we know precisely who is entering and leaving Australia at any given time; and it is important too that we confirm the identities of those who apply for and those who are given visas to live and work in Australia. Preventing identity fraud is essential. Collecting biometric data allows us to do all of these things. However, we must do so in a way that respects human dignity and the privacy of those who provide biometric identifiers.\n\nAs has been previously indicated, Labor also believes that some measures in this bill need to be amended. Our amendments which I have moved today\u2014and I am more than happy to have them voted on as a block, because they do complement one other\u2014are amendments responding to the concerns raised by the Parliamentary Joint Committee on Human Rights and the submissions to the Senate inquiry into the bill by the Law Council and other groups. I know the government has acknowledged the essential truth of those submissions and has moved an amendment of its own, which Labor will be supporting. However, our amendments go further.\n\nThe amendments are intended to protect the privacy and the human dignity of minors and incapable persons. They are designed to provide a clear and appropriate response to a serious breach of security in the storage of biometric data. The Migration Act does contain protections for minors and incapable persons, but the human rights committee noted that there are no specific protections in this bill. The act requires biometric data to be collected in circumstances providing reasonable privacy, excludes the presence of unnecessary persons and states that the collection must not involve more visual inspection, or the removal of more clothing, than is necessary. You would have thought they were quite reasonable propositions to put to this chamber. This bill, however, allows the minister and authorised officers to require that data be collected in a way different to that that is set out in the act. The avowed intent is to allow quick finger scans, but nonetheless the lack of specific privacy protection remains a problem, and therefore we will be seeking the support of the chamber for the amendments that we have moved.\n\nThe amendments insert specific references to 'circumstances affording reasonable privacy' and taking care 'to treat the person with humanity and respect for human dignity'. The same requirement is also extended to the collection of data from noncitizens. The amendments also specify that the collection of data from minors and incapable persons should be carried out in the presence of a parent or guardian\u2014again, not an unreasonable request\u2014or two independent persons of the same gender as the person providing the data. If the minister remains the minor's guardian, the requirement is for the presence of two independent persons.\n\nAmendment (4) defines what a serious data breach is, who a person considered to be 'significantly affected' by such a breach is and what action might be taken by a responsible person in the event of such a serious breach. A serious data breach occurs when there has been unauthorised access to, or disclosure of, identifying information that may result in serious interference with the privacy of an individual. A significantly affected person is an individual to whom the identifying information relates\u2014again, a very straightforward proposition which I believe can be reasonably expected to enjoy the support of the chamber. If a responsible person has reasonable grounds for believing that a serious breach has occurred, that person must notify in writing the affected person and the Information Commissioner as soon as is practicable. The notification must include a full description of the breach and recommendations about the steps that an individual should take in response.\n\nLabor is confident that amending the bill as we propose would allow it to operate more effectively, with more potential to protect the rights of individuals. I commend these amendments to the chamber.\n\nMichaelia Cash\n\nI commence by tabling a supplementary explanatory memorandum relating to the government amendment to be moved to this bill. I will now just briefly address the amendments that have been moved by Senator Carr on behalf of the opposition. Amendment (1) on sheet 7725 will amend the new broad power to introduce a requirement that, when a minor or an incapable person is required to provide a personal identifier, it be done in circumstances affording reasonable privacy and taking particular care to treat the person with humanity and respect for human dignity. The government will not be supporting this amendment, and I will just outline to the chamber why. One of the primary aims of this bill is to facilitate the use of new and emerging biometric technologies to conduct quick and non-intrusive checks of identity in public\u2014for example, using a hand-held device to conduct a verification check of a person at Australia's border. The requirement outlined in this particular amendment to afford reasonable privacy will actually have the effect of undermining the ability to efficiently conduct these checks at Australia's border and in other circumstances. The whole purpose of what we are doing with this bill is to ensure we conduct a very quick and a non-intrusive check of identities, most importantly, in public.\n\nThe other reason as to why the government will not be supporting this amendment is, as I have already stated in my summing-up speech, that the government itself is going to be moving an amendment in relation to this bill. The proposed government amendment will ensure that the face of the legislation makes it clear that all persons who are required to provide personal identifiers under the broad power are treated with humanity and respect for human dignity, whilst the amendment moved by Senator Carr on behalf of the opposition is limited to just minors and incapable persons. So our amendment is far broader than that put forward by the opposition.\n\nThe government will not be supporting amendment (2) on revised sheet 7725. The amendment amends the safeguards in relation to the collection of personal identifiers from minors or incapable persons under the separate power to require personal identifiers from immigration detainees. These safeguards, for those in immigration detention, are not proposed to be amended by this bill. The Migration Act will continue to provide that when collecting personal identifiers from immigration detainees who are minors or incapable persons under division 13AA a parent, guardian or independent person is required to be present. Division 13AA of the Migration Act will continue to provide that an immigration detainee can request an independent person to be present during an identification test and that the test be carried out by an authorised officer of the same sex. The government considers that these safeguards are adequate and that it is not necessary to provide for the presence of two independent persons of the same gender as the minor or incapable person.\n\nFinally, the government will not be supporting amendment (4) on revised sheet 7725. The bill does not amend the existing legislative framework and processes regarding the use and disclosure of identifying information under the Migration Act. The government's view is that the framework is appropriate and robust, and the amendment is unnecessary. The department is committed to openness and transparency in regard to data breaches. In the event of the authorised disclosure of personal information, including personal identifiers, the department's usual practice is to consult with the Australian Privacy Commissioner in relation to the breach and comply with the recommendations of the Australian Privacy Commissioner about notifying affected individuals of the breach.\n\nWhere a breach of privacy that meets the threshold for harm has occurred, as per the Australian Privacy Commissioner's guidelines, the department reports all such breaches to the Australian Privacy Commissioner for advice and feedback and guidance where required. The threshold for harm is where that breach would pose risk of harm, personal, financial or emotional to the individual; or is of a significant nature given the volume of the data disclosed. Those are the reasons the government will not be supporting these amendments.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 31,
+    "date": "2015-08-12",
+    "possible_turnout": 75,
+    "clock_time": "6:30 PM",
+    "id": 3875,
+    "no_votes": 32
+}

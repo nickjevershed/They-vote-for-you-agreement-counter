@@ -1,0 +1,785 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christine",
+                "last_name": "Milne",
+                "person": {
+                    "id": 10458
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100156
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wright",
+                "person": {
+                    "id": 10765
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100300
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lisa",
+                "last_name": "Singh",
+                "person": {
+                    "id": 10761
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100295
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Palmer United Party",
+                "id": 100831
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Palmer United Party",
+                "id": 100830
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Barry",
+                "last_name": "O'Sullivan",
+                "person": {
+                    "id": 10824
+                },
+                "electorate": "Queensland",
+                "party": "National Party",
+                "id": 100313
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Fawcett",
+                "person": {
+                    "id": 10215
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100287
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kate",
+                "last_name": "Lundy",
+                "person": {
+                    "id": 10398
+                },
+                "electorate": "ACT",
+                "party": "Australian Labor Party",
+                "id": 100129
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Brett",
+                "last_name": "Mason",
+                "person": {
+                    "id": 10423
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100140
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Sterle",
+                "person": {
+                    "id": 10610
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100213
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Michaelia",
+                "last_name": "Cash",
+                "person": {
+                    "id": 10707
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100252
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Helen",
+                "last_name": "Polley",
+                "person": {
+                    "id": 10515
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100178
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Fiona",
+                "last_name": "Nash",
+                "person": {
+                    "id": 10478
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100164
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Regulations and Determinations \u2014 Migration Amendment (Bridging Visas\u2013Code of Behaviour) Regulation 2013; Disallowance",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 8,
+    "bills": [],
+    "summary": "Sarah Hanson-Young\n\nI move:\n\nThat the Migration Amendment (Bridging Visas\u2014Code of Behaviour) Regulation 2013, as contained in Select Legislative Instrument 2013 No. 269 and made under the Migration Act 1958, be disallowed [F2013L02102].\n\nLast day to resolve the motion or the instrument will be deemed to have been disallowed.\n\nThis list of behaviour protocols is a regulation that was flagged by Tony Abbott's coalition prior to the last election. That we have known about it for quite some time does not make it right. It does not make it okay to start segregating different groups of people by saying that some people have to abide by different laws to others. The ridiculous thing about this protocol is that it is simply listing what law-abiding citizens in this country should be doing anyway. Of course this is not about practicality; this is not about adding anything to the needs of asylum seekers or indeed about the safety of the community; this is all about vilification of asylum seekers and refugees.\n\nThis code of behaviour states that individuals must not: disobey road rules, commit sexual offences, commit any criminal activity, harass, intimidate, bully or engage in any other antisocial or disruptive behaviour. I would hope that no-one out there in the community would be participating in these types of activities. But the whole idea of needing a code of behaviour just for someone who is on a bridging visa because they arrived by boat is absolutely ludicrous. When this policy was announced by Mr Morrison, the coalition spokesperson on this issue and now the Minister for Immigration and Border Protection, it was laughed at. It was not just laughed at but held up as a pathetic attempt to try and divide and to drive a divisive wedge into the Australian community.\n\nIt was no none other than Dennis Shanahan, who, as we all know, is one of Australia's most conservative commentators, said that these protocols were a load of 'nonsense'. I must say, if Mr Shanahan has a problem with this you must think it has probably gone way too far. Mr Shanahan said 'I think this is a bridge too far for the coalition. I do not think you can suggest that everybody should have a warning attached to them. What are they supposed to wear? A scarlet letter 'A' for asylum seeker?'\n\nThe precise point here is the coalition is so obsessed with hating asylum seekers and refugees, so obsessed with whipping up fear about these vulnerable people just because of the mode in which they reach Australia that they come up with a list of protocols to say to the rest of the Australian people that asylum seekers are all so bad we have to whole new set of laws just to manage their behaviour. What an outrageous slur on the thousands and thousands of people who have come to this country over generations as asylum seekers and refugees and settled in this country peacefully, cooperatively and have done so with the very real commitment of contributing to our great nation. The idea that we have to\u2014in order to satisfy Mr Abbott's and Mr Morrison's fearmongering on asylum seekers and refugees\u2014have a special protocol to tell people to abide by the law is beyond me. This is about vilifying a group of people because of who they are, where they have come from and how they arrived. I do not step back from saying that at all. That is all this is. It is about fearmongering by the minister of Tony Abbott's government.\n\nThe code of behaviour is one page long. You have to sign your name and agree that you will not do any of these 'antisocial activities' and that you will abide by Australian law. The ridiculous thing about this is that, if somebody breaks the law, we have an Australian criminal justice system that deals with it. It deals with most law-breakers pretty well, whether you were born here or not. The whole idea of a special set of laws is to send a message to those out in the electorate that the coalition like pushing their buttons. They are saying: 'Asylum seekers and refugees should be feared. They are bad people. They are so bad we had to come up with a whole new set of laws to manage their behaviour.' What a load of nonsense, as Dennis Shanahan so rightly put it.\n\nThere are members within the coalition's own ranks that can already see that this is an appalling abuse not just of government authority in the form of being able to put forward legislation that controls people's lives and send very dangerous messages out to people in the electorate. There are many in the coalition who are sickened by how low this government has been prepared to go when it comes to asylum seekers and refugee policy. Russell Broadbent said there should 'never be special categories of laws for different categories of people'. He said: 'The rule of law should apply to all and we should not set some people apart. This kind of vilification of asylum seekers is unacceptable in this nation.' I could not agree more with Mr Broadbent on that matter.\n\nIt is outrageous to see how low, how far down the bottom of the barrel, this government is prepared to go to peddle their fearmongering and their dog-whistling. Some people would even say this is not a dog whistle; this is a pretty loud and clear trumpeting of fearmongering by this government. It is deliberately inciting fear about asylum seekers who live in the Australian community.\n\nThe saddest thing about all of this is that those who continue to live on bridging visas in the Australian community are terrified of what will happen next. Why? Because this government continues to hold over their head the constant threat of sending them back to countries where they will face the types of inhumane brutality and torture that they have fled.\n\nWe know that a number of these individuals have been so distressed by this circumstance that they have taken their own lives. That is not something that should be taken lightly. It is something this government should be reflecting on; that their policies are pushing vulnerable individuals, who have fled some of the worst atrocities and regimes in the world to come to Australia and ask for help. And we have government policy that is pushing them to the point of self-destruction and even, sadly, suicide. We know that one man in recent weeks set himself on fire and died as a result of the horrific burns to his body. That young man was so desperate not to be returned home to Sri Lanka to what he believed were his torturers that he set himself on fire in order to not have to go home.\n\nRather than putting forward these ridiculous, fearmongering, insulting vilification-driven code of behaviour protocols, this government should be focussing on what is wrong with a policy that pushes an individual to the point of setting themselves on fire to take their own life so they do not have to be subjected to the awful tortures and persecution that they believe waits for them at home. It is beyond me why this government thinks it is important to continue to peddle the myths and fears around asylum seekers and refugees.\n\nWe have one of the world's best and most thorough assessment processes, if we do it properly. We determine whether someone is a refugee. We should have a review process. If they are rejected, there needs to be an appeals process. And, in all of that, you can be treating people humanely you do not have to treat them like they are animals or as if they are criminals.\n\nThere is nothing illegal in seeking asylum. I know Mr Morrison has directed all of his Public Servants to use the word 'illegal'. But that does not make it so. In fact, there is not one thing in the Migration Act, which this minister is responsible for, that says that just because you are an asylum seeker or a refugee you are somehow illegal. The word 'illegal' does not appear in the Migration Act in relation to asylum seekers and refugees. Yet this minister and the Prime Minister, Mr Abbott, are determined to continue a fearmongering campaign against some of the world's most vulnerable people. Why is that? I will tell you why. It is because they are obsessed with the idea that this issue will win them cheap dirty votes. That is what this is all about.\n\nThis is the vilification of one group of people to satisfy the coalition's electoral achievements. We have seen it happen before. It is as though the coalition cannot help themselves when it comes to being given the power to manage Australia's immigration policies. We have a government who detain children on a remote island in a tented prison in the middle of a phosphate mine and they think that is acceptable. We have a government who are now detaining children on a prison ship out on the high seas and they will not even speak about it\u2014not in this place and not outside to the Australian people. When there are cries of help and desperation from mothers detained in the Christmas Island detention centre, we have a Prime Minister who accuses them of moral blackmail. This is how low the government are prepared to go when it comes to dismissing the very genuine needs and concerns of refugees who come to this country and how low they are prepared to go to vilify that group of people.\n\nLast week when the Prime Minister accused refugee mothers\u2014who are struggling with the pressures of being a parent for their children, particularly young children and newborn babies, and are incarcerated in the Christmas Island detention camp\u2014of moral blackmail. It was pretty much the lowest thing I have seen from this Prime Minister yet. I am not holding my breath. I assume that, once he is on a roll, this is where it is going to go. Of course, only a few weeks ago we had Mr Morrison, the immigration minister from the other place, stand up in question time and say the coalition had not even warmed up yet when it came to their policy on refugees and asylum seekers. God help us if this is not 'warmed up'.\n\nWhat is next? We have vilification in relation to the code of behaviour rules, we have hundreds of children incarcerated indefinitely and we have a Prime Minister who accuses desperate, mentally scarred mothers of moral blackmail. It is hard to be morally blackmailed if you are morally bankrupt, and that is what is wrong with this government. They have no concept of how to run an immigration policy that looks after people and has the care, dedication and compassion that is needed. They do not care about compassion. They do not even care about proper process or the rule of law. All they care about is being able to set their agenda of fear and hate. That is what this government continue to do over and over again.\n\nDespite all the concern in relation to this issue last year when this code of behaviour was first mooted by Mr Morrison and Mr Abbott, I am extremely disappointed that the Australian Labor Party will be voting against this disallowance motion\u2014simply giving the tick and flick to this type of vilification. I hope I am wrong on that and I hope I have been misinformed and perhaps the Labor Party will indeed vote to rid this scourge from our statute books, but I do not hold my breath. I would be interested to see from members of the Labor Party exactly why they believe that this code of behaviour should continue. If we are going to have a code of behaviour in addition to and separate to the basic rule of law for one group of people, where to next? Who is the next group of vulnerable people that the government of the day want to start picking on? Will it be members of the Indigenous community? Maybe just Indigenous kids or single mothers or those who access the disability pension? At what point do we say, 'We're just going to have separate behaviour protocols for every group of people,' because that is the way the government want to control the law-making in this country, or do we stand up and say, 'There is the rule of law, which all of us, equally, are expected to abide by, and, if you do not abide by it, then there is a criminal justice system to deal with you'?\n\nIn the last minutes of my contribution tonight, I want to reflect on the comments made by Dennis Shanahan. They ring a very eerie truth. I would like to read them out again so that we can be clear. He said: 'I don't think you can suggest that everybody should have some warning attached to them. What are they supposed to wear? A scarlet letter A for asylum seeker?' Those comments were not made lightly; they were made in direct relation to where this type of attitude goes. It is a slippery slope to allow vilification to be rubberstamped by a chamber of parliament just because the government of the day want to continue to whip up fear and blow their dog whistle. We know that the issue of immigration is consistently used by governments of the day and, indeed, oppositions to garner electoral support. It is about kicking the people who have no opportunity to speak for themselves. This is about pushing issues and blame to a small group of people who have not done anything wrong but have no voice in order to speak up, say no and stand up for themselves.\n\nIn this place, our job as elected members of parliament is to debate issues and take on board what the government of the day would like to do, but also to stand up for the rights of people in our country to be treated fairly and equally. I do not think for one moment that it is this chamber's job to rubberstamp and tick and flick the fearmongering agenda of the government of the day or a list of behaviour protocols that do nothing more than vilify a group of people because of who they are, where they come from or how they arrived. This is playing the race card. It is appalling and this chamber should kick it out. We should kick it out tonight and not stand for this type of behaviour or this attitude from the government. This is Scott Morrison and Tony Abbott's fearmongering agenda. The Labor Party and the crossbenchers should reject it.\n\nProceedings suspended from 18:30 to 19:30\n\nLong debate text truncated.\n\n",
+    "aye_votes": 10,
+    "date": "2014-07-14",
+    "possible_turnout": 76,
+    "clock_time": "8:03 PM",
+    "id": 3334,
+    "no_votes": 49
+}

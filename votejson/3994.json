@@ -1,0 +1,857 @@
+{
+    "edited": false,
+    "votes": [
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Jo",
+                "last_name": "Lindgren",
+                "person": {
+                    "id": 10840
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100846
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Arthur",
+                "last_name": "Sinodinos",
+                "person": {
+                    "id": 10766
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100301
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bridget",
+                "last_name": "McKenzie",
+                "person": {
+                    "id": 10758
+                },
+                "electorate": "Victoria",
+                "party": "National Party",
+                "id": 100291
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dio",
+                "last_name": "Wang",
+                "person": {
+                    "id": 10837
+                },
+                "electorate": "WA",
+                "party": "Palmer United Party",
+                "id": 100837
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Sean",
+                "last_name": "Edwards",
+                "person": {
+                    "id": 10756
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100286
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Christopher",
+                "last_name": "Back",
+                "person": {
+                    "id": 10722
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100279
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "Xenophon",
+                "person": {
+                    "id": 10717
+                },
+                "electorate": "SA",
+                "party": "Independent",
+                "id": 100262
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Williams",
+                "person": {
+                    "id": 10716
+                },
+                "electorate": "NSW",
+                "party": "National Party",
+                "id": 100261
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ryan",
+                "person": {
+                    "id": 10715
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100260
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Dean",
+                "last_name": "Smith",
+                "person": {
+                    "id": 10768
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100303
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Zed",
+                "last_name": "Seselja",
+                "person": {
+                    "id": 10822
+                },
+                "electorate": "ACT",
+                "party": "Liberal Party",
+                "id": 100311
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Matthew",
+                "last_name": "Canavan",
+                "person": {
+                    "id": 10827
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100827
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Glenn",
+                "last_name": "Lazarus",
+                "person": {
+                    "id": 10831
+                },
+                "electorate": "Queensland",
+                "party": "Independent",
+                "id": 100843
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "John",
+                "last_name": "Madigan",
+                "person": {
+                    "id": 10759
+                },
+                "electorate": "Victoria",
+                "party": "Independent",
+                "id": 100841
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Parry",
+                "person": {
+                    "id": 10507
+                },
+                "electorate": "Tasmania",
+                "party": "PRES",
+                "id": 100838
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Linda",
+                "last_name": "Reynolds",
+                "person": {
+                    "id": 10835
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100835
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ricky",
+                "last_name": "Muir",
+                "person": {
+                    "id": 10834
+                },
+                "electorate": "Victoria",
+                "party": "Australian Motoring Enthusiast Party",
+                "id": 100834
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "James",
+                "last_name": "McGrath",
+                "person": {
+                    "id": 10833
+                },
+                "electorate": "Queensland",
+                "party": "Liberal National Party",
+                "id": 100833
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Leyonhjelm",
+                "person": {
+                    "id": 10832
+                },
+                "electorate": "NSW",
+                "party": "Liberal Democratic Party",
+                "id": 100832
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bob",
+                "last_name": "Day",
+                "person": {
+                    "id": 10828
+                },
+                "electorate": "SA",
+                "party": "Family First Party",
+                "id": 100828
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Ruston",
+                "person": {
+                    "id": 10781
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100306
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Michael",
+                "last_name": "Ronaldson",
+                "person": {
+                    "id": 10550
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100192
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Concetta",
+                "last_name": "Fierravanti-Wells",
+                "person": {
+                    "id": 10222
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100082
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mathias",
+                "last_name": "Cormann",
+                "person": {
+                    "id": 10148
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100057
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Johnston",
+                "person": {
+                    "id": 10344
+                },
+                "electorate": "WA",
+                "party": "Liberal Party",
+                "id": 100112
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Mitch",
+                "last_name": "Fifield",
+                "person": {
+                    "id": 10224
+                },
+                "electorate": "Victoria",
+                "party": "Liberal Party",
+                "id": 100083
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Colbeck",
+                "person": {
+                    "id": 10131
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100047
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Simon",
+                "last_name": "Birmingham",
+                "person": {
+                    "id": 10044
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100014
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Ian",
+                "last_name": "Macdonald",
+                "person": {
+                    "id": 10401
+                },
+                "electorate": "Queensland",
+                "party": "Liberal Party",
+                "id": 100130
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "David",
+                "last_name": "Bushby",
+                "person": {
+                    "id": 10085
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100031
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Bill",
+                "last_name": "Heffernan",
+                "person": {
+                    "id": 10296
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100101
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Eric",
+                "last_name": "Abetz",
+                "person": {
+                    "id": 10003
+                },
+                "electorate": "Tasmania",
+                "party": "Liberal Party",
+                "id": 100001
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Cory",
+                "last_name": "Bernardi",
+                "person": {
+                    "id": 10038
+                },
+                "electorate": "SA",
+                "party": "Liberal Party",
+                "id": 100013
+            }
+        },
+        {
+            "vote": "aye",
+            "member": {
+                "first_name": "Marise",
+                "last_name": "Payne",
+                "person": {
+                    "id": 10509
+                },
+                "electorate": "NSW",
+                "party": "Liberal Party",
+                "id": 100177
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Kim",
+                "last_name": "Carr",
+                "person": {
+                    "id": 10103
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100036
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Bullock",
+                "person": {
+                    "id": 10826
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100826
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Joe",
+                "last_name": "Ludwig",
+                "person": {
+                    "id": 10397
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100128
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Robert",
+                "last_name": "Simms",
+                "person": {
+                    "id": 10842
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100848
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Chris",
+                "last_name": "Ketter",
+                "person": {
+                    "id": 10829
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100829
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nick",
+                "last_name": "McKim",
+                "person": {
+                    "id": 10841
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100847
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Alex",
+                "last_name": "Gallacher",
+                "person": {
+                    "id": 10757
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100288
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Janet",
+                "last_name": "Rice",
+                "person": {
+                    "id": 10836
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100836
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Stephen",
+                "last_name": "Conroy",
+                "person": {
+                    "id": 10142
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100053
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacqui",
+                "last_name": "Lambie",
+                "person": {
+                    "id": 10830
+                },
+                "electorate": "Tasmania",
+                "party": "Independent",
+                "id": 100842
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Gavin",
+                "last_name": "Marshall",
+                "person": {
+                    "id": 10419
+                },
+                "electorate": "Victoria",
+                "party": "DPRES",
+                "id": 100839
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Deborah",
+                "last_name": "O'Neill",
+                "person": {
+                    "id": 10747
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100312
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Nova",
+                "last_name": "Peris",
+                "person": {
+                    "id": 10820
+                },
+                "electorate": "NT",
+                "party": "Australian Labor Party",
+                "id": 100309
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sarah",
+                "last_name": "Hanson-Young",
+                "person": {
+                    "id": 10711
+                },
+                "electorate": "SA",
+                "party": "Australian Greens",
+                "id": 100256
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Penny",
+                "last_name": "Wong",
+                "person": {
+                    "id": 10678
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100241
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Rachel",
+                "last_name": "Siewert",
+                "person": {
+                    "id": 10584
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100208
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Catryna",
+                "last_name": "Bilyk",
+                "person": {
+                    "id": 10705
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100250
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jacinta",
+                "last_name": "Collins",
+                "person": {
+                    "id": 10135
+                },
+                "electorate": "Victoria",
+                "party": "Australian Labor Party",
+                "id": 100265
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Claire",
+                "last_name": "Moore",
+                "person": {
+                    "id": 10463
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100159
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Richard",
+                "last_name": "Di Natale",
+                "person": {
+                    "id": 10755
+                },
+                "electorate": "Victoria",
+                "party": "Australian Greens",
+                "id": 100285
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Jan",
+                "last_name": "McLucas",
+                "person": {
+                    "id": 10447
+                },
+                "electorate": "Queensland",
+                "party": "Australian Labor Party",
+                "id": 100152
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "McEwen",
+                "person": {
+                    "id": 10433
+                },
+                "electorate": "SA",
+                "party": "Australian Labor Party",
+                "id": 100145
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Lee",
+                "last_name": "Rhiannon",
+                "person": {
+                    "id": 10760
+                },
+                "electorate": "NSW",
+                "party": "Australian Greens",
+                "id": 100293
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Anne",
+                "last_name": "Urquhart",
+                "person": {
+                    "id": 10763
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Labor Party",
+                "id": 100297
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Larissa",
+                "last_name": "Waters",
+                "person": {
+                    "id": 10764
+                },
+                "electorate": "Queensland",
+                "party": "Australian Greens",
+                "id": 100298
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Peter",
+                "last_name": "Whish-Wilson",
+                "person": {
+                    "id": 10780
+                },
+                "electorate": "Tasmania",
+                "party": "Australian Greens",
+                "id": 100305
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Scott",
+                "last_name": "Ludlam",
+                "person": {
+                    "id": 10713
+                },
+                "electorate": "WA",
+                "party": "Australian Greens",
+                "id": 100258
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sue",
+                "last_name": "Lines",
+                "person": {
+                    "id": 10782
+                },
+                "electorate": "WA",
+                "party": "Australian Labor Party",
+                "id": 100307
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Sam",
+                "last_name": "Dastyari",
+                "person": {
+                    "id": 10819
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100308
+            }
+        },
+        {
+            "vote": "no",
+            "member": {
+                "first_name": "Doug",
+                "last_name": "Cameron",
+                "person": {
+                    "id": 10706
+                },
+                "electorate": "NSW",
+                "party": "Australian Labor Party",
+                "id": 100251
+            }
+        }
+    ],
+    "policy_divisions": [],
+    "name": "Bills \u2014 Superannuation Legislation Amendment (Trustee Governance) Bill 2015; Second Reading",
+    "house": "senate",
+    "rebellions": 0,
+    "number": 1,
+    "bills": [
+        {
+            "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/r5548",
+            "id": 794,
+            "official_id": "r5548",
+            "title": "Superannuation Legislation Amendment (Trustee Governance) Bill 2015"
+        }
+    ],
+    "summary": "Sam Dastyari\n\nFinally it is here. There has been a lot of talk, a lot of waiting and a lot of anticipation about when we were finally going to see the Superannuation Legislation Amendment (Trustee Governance) Bill 2015 and have the opportunity to debate it. I thank the government for bringing this forward on the agenda today so that we will have the opportunity to put forward our views on it.\n\nLet me say from the outset that this is a bad bill that is attempting to fix a problem that does not exist. This is a bad bill that does not warrant the support of this chamber, that does not achieve what it purports to achieve, and it fundamentally risks damaging one of the most successful types of governance models. Let us be clear what this is about. This is an ideological agenda against industry super, an agenda this government has always had. This is laying the groundwork for what the government has always wanted to do\u2014that is, take away default super. This is about damaging and destroying one of the most successful models we have. Also, at the end of the day, when it comes down to it the trustee model of governance works. It works because the proof is in the pudding. The proof is in the actual returns that are given to consumers. It is a model that works and it does not need to be tampered with. This legislation does not do the right thing.\n\nI am concerned that this bill will impose a significant ideological shift from a model of trustee governance to a model of shareholder governance, and there is no clear or compelling evidence that the changes are warranted. There is widespread concern that the definition of independence contained within this bill is ambiguous. The most concerning aspect of this bill is that it blindly conflates and confuses trustee governance with shareholder governance, rather than contrasting the two. Under the trustee government model the board of directors have a fiduciary duty to their trustee members, the customers who are buying into the fund. Under a shareholder governance model, the board of directors have a fiduciary duty to their shareholder owners only. This bill will impose a model of shareholder governance on boards currently operating under a trustee governance model.\n\nHearings have revealed supporters of this bill demonstrating a troubling pattern of cherry-picking favourable data, attempting to present unrelated data, and failing to present quantitative evidence to support many of their assertions. An alarming majority of submissions expressed concerns at the ambiguous and prescriptive definition of independence contained in the bill, including some submissions expressing in-principle support.\n\nThis bill fundamentally attacks at the heart of what is the trustee model of governance, a model of governance that is based around and built around putting the interests of the fund members first. It does so without any compelling case or any compelling need. That is why this is a bill that should not be supported. I note that this bill was dumped into the House of Representatives by outgoing Assistant Treasurer Josh Frydenberg two days after the leadership spill that ended Tony Abbott's prime ministership. The bill demonstrates an ideological commitment to replace a model of trustee governance with one of shareholder governance. In Minister Frydenberg's second reading speech to the House he makes several factual errors, including some that are contradicted in the explanatory memorandum. The most egregious claim is his assertion that the bill will bring Australian superannuation funds in line with international best practice. He said:\n\nThis bill amends the Superannuation Industry (Supervision) Act 1993 to introduce a higher standard of governance for superannuation funds, in line with domestic and international best practice.\n\nBut he is contradicted by his own explanatory memorandum. Paragraphs 2.48 to 2.50 of the explanatory memorandum clarify that pension funds in New Zealand, Canada, the US and the UK operate quite differently, usually under an equal representation model. In his speech, Minister Frydenberg explicitly restates his commitment to a model of shareholder governance:\n\nThe changes fulfil the government's election commitment to align governance in superannuation more closely with the corporate governance principles applicable to ASX listed companies.\n\nBut the changes proposed in the bill go far beyond a simple alignment with the ASX principles, which offer a voluntary framework for boards to consider. This bill will impose highly prescriptive changes, coupled only with an ambiguous definition of 'independence'. This was confirmed during the hearings of the Senate Economics Legislation committee in testimony provided by Vicki Wilkinson of Treasury, who clarified that 'it is broader than the ASX definition'.\n\nMr Frydenberg goes on to wrongly claim that the bill is consistent with the Cooper review recommendations, stating:\n\nThe changes this bill makes are consistent with the Cooper review recommendations and observations.\n\nBut the changes proposed in this bill are not consistent with the Cooper review recommendations, which propose, in dense detail, that non-equal representative trusts\u2014that is, retail and bank-owned funds\u2014should have a majority of non-associated trustee directors and that, for funds with an equal representative trustee structure:\n\n\u2026 no less than one-third of the total number of member representative trustee-directors must be non-associated and no less than one-third of employer representative trustee-directors must be non-associated.\n\nDespite the unfortunate circumstances surrounding the introduction of this bill and the wrong claims by the then minister, Mr Frydenberg\u2014and I want to acknowledge some of the work done through the committee process in this space\u2014the Senate Economics Legislation Committee held a series of hearings, with fairly short notice. Noting the strict time period that was given, I want to note the government senators who provided us with the opportunity to have two full days of hearings to allow us to explore a lot of the concerns that we had. I think it is fair to say that the processes that were undertaken and the debate we were able to have via the committee allowed us to better inform our positions on this matter. I think realistically that perhaps all of us went to this debate with some fairly strong views already, and I note that, while those views themselves have perhaps not changed, the process that was used to allow a further debate and a further discussion was constructive.\n\nI also want to note and acknowledge that the government had flagged that this legislation was coming for a while. There has been a public debate out there. There has been an opportunity for different views and different discussions to take place. That is a demonstration of this chamber working well. That is a demonstration of this Senate at its best. That being said, I do no believe that this is a good bill. I do not believe that this is a bill that should be supported. And fundamentally I believe that this is a bill that really conflates two different models of government.\n\nAs I have noted, both Minister Frydenberg's second reading speech and the Treasury's explanatory memorandum conflate and confuse shareholder governance with trustee governance rather than contrasting the two. But there has to be a recognition that a one-size-fits-all model, the model that is used by the larger banking organisations, is not necessarily the right model for everybody. And the success of industry super funds that have consistently performed well has been built in part\u2014not entirely; there are other factors at play\u2014by a successful governance model. This bill goes to the heart of destroying that governance model. And, again, what amazes me is that this is a solution in search of a problem. If there was a problem, if the boards that had a trustee governance model were performing badly, if the boards on the super funds that had these models were giving lower returns, then there could be an argument for reform. We are reforming the one part of the super industry that is performing the best, and I think the danger here is that by tempering with a successful model\u2014for what I believe are solely ideological purposes\u2014we actually risk destroying it.\n\nI also want to note this whole issue of what the word 'independent' means, and the definition of independence, because there has been a major concern about what the definition of the word 'independence' is going to be as part of this. Again, 'independence' is one of these motherhood words; it sounds fantastic. We talk about how there should be more independence, and at a principle level it is a truism in many cases: the idea of independence is something that most people are favourably predisposed towards. But we also have to ask, 'What do you mean when you say independent or independence?' A majority of submissions expressed concern at the ambiguous and prescriptive definition of 'independence' contained in the bill, including many submissions from people who may not share my concerns about the conflating of the two different models, even those who support the government's reforms\u2014again, not reforms that I support. But even those who did support them highlighted their concerns regarding independence.\n\nSo, the definition of independence has been raised, and I just want to give you a couple of examples of different groups and different organisations that raised their concerns in their submissions to the inquiry. The Governance Institute of Australia says that you can set out the principle of independence but not prescribe a definition. Mercer consulting said that it would prefer a principles based definition. The Australian Institute of Company Directors said that the definition 'could be broader'. The Australian Industry Group has said that the definition is overly restrictive. And, in its submission to the inquiry, the Association of Superannuation Funds of Australia, ASFA, offered a considered critique of the definition of independence, which for them is a critical component of the bill, saying:\n\nASFA recommends that the definition of \u2018independent\u2019 in the legislation be amended to enable organisations to retain the ability to have common independent directors on the boards of RSEs under the same financial conglomerate group, rather than having to rely on APRA to make a determination on a case-by-case basis.\n\nWe believe that, on balance, this is an appropriate exclusion given that there are no limitations proposed in the revised draft legislation on an individual holding office as director on multiple unrelated RSE licensees.\n\nIn our view, allowing directors to sit on multiple unrelated RSE licensees where the RSEs are in competition with each other but not sit on multiple related RSE licensees within the same financial conglomerate group as an independent director would be a poor policy outcome.\n\nASFA continues to critique the government's definition of independence, noting that it should exclude otherwise entirely well-qualified directors from consideration:\n\nASFA recommends that the definition of 'independent' in the legislation be amended so that recent executive officers and directors of firms that are suppliers to the RSE licensee, but who themselves have had no previous dealings with the RSE licensee, should be allowed to be appointed as an independent director.\n\nAgain, what we have here is an overly prescriptive, unclear definition of what the word 'independent' is going to mean.\n\nThis is a bad bill. This is a bill that goes to the heart of one of the most successful governance models that we have for Australians. This is a bill that is driven more by ideology than by policy. It is a bill that is searching for a problem that does not exist. It is a bill that fundamentally will attack the model we have successfully used for the savings of many, many Australians. And it demonstrates that this is a government that will always place its ideology and its agenda ahead of what is in the interests of Australian consumers and in this case in the interests of the members of superannuation funds.\n\nLong debate text truncated.\n\n",
+    "aye_votes": 34,
+    "date": "2015-11-25",
+    "possible_turnout": 77,
+    "clock_time": "11:43 AM",
+    "id": 3994,
+    "no_votes": 30
+}
