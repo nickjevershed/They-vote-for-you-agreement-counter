@@ -1,0 +1,988 @@
+{
+    "glenn_lazarus_-_palmer_united_party": {
+        "keyName": "Glenn Lazarus - Palmer United Party",
+        "voteData": [
+            {
+                "cleanName": "bob_day_-_family_first_party",
+                "agreement": 58.64,
+                "name": "Bob Day - Family First Party"
+            },
+            {
+                "cleanName": "david_leyonhjelm_-_liberal_democratic_party",
+                "agreement": 51.42,
+                "name": "David Leyonhjelm - Liberal Democratic Party"
+            },
+            {
+                "cleanName": "dio_wang_-_palmer_united_party",
+                "agreement": 100.0,
+                "name": "Dio Wang - Palmer United Party"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_independent",
+                "agreement": 48.15,
+                "name": "Jacqui Lambie - Independent"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_palmer_united_party",
+                "agreement": 92.9,
+                "name": "Jacqui Lambie - Palmer United Party"
+            },
+            {
+                "cleanName": "john_madigan_-_democratic_labor_party",
+                "agreement": 63.56,
+                "name": "John Madigan - Democratic Labor Party"
+            },
+            {
+                "cleanName": "john_madigan_-_independent",
+                "agreement": 64.44,
+                "name": "John Madigan - Independent"
+            },
+            {
+                "cleanName": "nick_xenophon_-_independent",
+                "agreement": 61.69,
+                "name": "Nick Xenophon - Independent"
+            },
+            {
+                "cleanName": "ricky_muir_-_australian_motoring_enthusiast_party",
+                "agreement": 90.74,
+                "name": "Ricky Muir - Australian Motoring Enthusiast Party"
+            },
+            {
+                "name": "Australian Greens",
+                "agreement": 42.54,
+                "cleanName": "australian_greens",
+                "state": "",
+                "party": "Australian Greens",
+                "shortName": "Greens"
+            },
+            {
+                "name": "Australian Labor Party",
+                "agreement": 48.04,
+                "cleanName": "australian_labor_party",
+                "state": "",
+                "party": "Australian Labor Party",
+                "shortName": "ALP"
+            },
+            {
+                "name": "Country Liberal Party",
+                "agreement": 61.36,
+                "cleanName": "country_liberal_party",
+                "state": "",
+                "party": "Country Liberal Party",
+                "shortName": "CLP"
+            },
+            {
+                "name": "Liberal Party",
+                "agreement": 58.85,
+                "cleanName": "liberal_party",
+                "state": "",
+                "party": "Liberal Party",
+                "shortName": "LIB"
+            },
+            {
+                "name": "National Party",
+                "agreement": 59.37,
+                "cleanName": "national_party",
+                "state": "",
+                "party": "National Party",
+                "shortName": "NAT"
+            }
+        ],
+        "cleanKeyName": "glenn_lazarus_-_palmer_united_party"
+    },
+    "nick_xenophon_-_independent": {
+        "keyName": "Nick Xenophon - Independent",
+        "voteData": [
+            {
+                "cleanName": "bob_day_-_family_first_party",
+                "agreement": 46.8,
+                "name": "Bob Day - Family First Party"
+            },
+            {
+                "cleanName": "david_leyonhjelm_-_liberal_democratic_party",
+                "agreement": 54.88,
+                "name": "David Leyonhjelm - Liberal Democratic Party"
+            },
+            {
+                "cleanName": "dio_wang_-_palmer_united_party",
+                "agreement": 62.04,
+                "name": "Dio Wang - Palmer United Party"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_independent",
+                "agreement": 74.16,
+                "name": "Glenn Lazarus - Independent"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_palmer_united_party",
+                "agreement": 61.69,
+                "name": "Glenn Lazarus - Palmer United Party"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_independent",
+                "agreement": 65.52,
+                "name": "Jacqui Lambie - Independent"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_palmer_united_party",
+                "agreement": 65.05,
+                "name": "Jacqui Lambie - Palmer United Party"
+            },
+            {
+                "cleanName": "john_madigan_-_democratic_labor_party",
+                "agreement": 85.94,
+                "name": "John Madigan - Democratic Labor Party"
+            },
+            {
+                "cleanName": "john_madigan_-_independent",
+                "agreement": 70.26,
+                "name": "John Madigan - Independent"
+            },
+            {
+                "cleanName": "ricky_muir_-_australian_motoring_enthusiast_party",
+                "agreement": 71.21,
+                "name": "Ricky Muir - Australian Motoring Enthusiast Party"
+            },
+            {
+                "name": "Australian Greens",
+                "agreement": 66.42,
+                "cleanName": "australian_greens",
+                "state": "",
+                "party": "Australian Greens",
+                "shortName": "Greens"
+            },
+            {
+                "name": "Australian Labor Party",
+                "agreement": 53.11,
+                "cleanName": "australian_labor_party",
+                "state": "",
+                "party": "Australian Labor Party",
+                "shortName": "ALP"
+            },
+            {
+                "name": "Country Liberal Party",
+                "agreement": 40.0,
+                "cleanName": "country_liberal_party",
+                "state": "",
+                "party": "Country Liberal Party",
+                "shortName": "CLP"
+            },
+            {
+                "name": "Liberal Party",
+                "agreement": 37.04,
+                "cleanName": "liberal_party",
+                "state": "",
+                "party": "Liberal Party",
+                "shortName": "LIB"
+            },
+            {
+                "name": "National Party",
+                "agreement": 34.68,
+                "cleanName": "national_party",
+                "state": "",
+                "party": "National Party",
+                "shortName": "NAT"
+            }
+        ],
+        "cleanKeyName": "nick_xenophon_-_independent"
+    },
+    "john_madigan_-_democratic_labor_party": {
+        "keyName": "John Madigan - Democratic Labor Party",
+        "voteData": [
+            {
+                "cleanName": "bob_day_-_family_first_party",
+                "agreement": 56.25,
+                "name": "Bob Day - Family First Party"
+            },
+            {
+                "cleanName": "david_leyonhjelm_-_liberal_democratic_party",
+                "agreement": 47.97,
+                "name": "David Leyonhjelm - Liberal Democratic Party"
+            },
+            {
+                "cleanName": "dio_wang_-_palmer_united_party",
+                "agreement": 63.25,
+                "name": "Dio Wang - Palmer United Party"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_palmer_united_party",
+                "agreement": 63.56,
+                "name": "Glenn Lazarus - Palmer United Party"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_palmer_united_party",
+                "agreement": 73.33,
+                "name": "Jacqui Lambie - Palmer United Party"
+            },
+            {
+                "cleanName": "nick_xenophon_-_independent",
+                "agreement": 85.94,
+                "name": "Nick Xenophon - Independent"
+            },
+            {
+                "cleanName": "ricky_muir_-_australian_motoring_enthusiast_party",
+                "agreement": 75.61,
+                "name": "Ricky Muir - Australian Motoring Enthusiast Party"
+            },
+            {
+                "name": "Australian Greens",
+                "agreement": 51.77,
+                "cleanName": "australian_greens",
+                "state": "",
+                "party": "Australian Greens",
+                "shortName": "Greens"
+            },
+            {
+                "name": "Australian Labor Party",
+                "agreement": 46.94,
+                "cleanName": "australian_labor_party",
+                "state": "",
+                "party": "Australian Labor Party",
+                "shortName": "ALP"
+            },
+            {
+                "name": "Country Liberal Party",
+                "agreement": 55.26,
+                "cleanName": "country_liberal_party",
+                "state": "",
+                "party": "Country Liberal Party",
+                "shortName": "CLP"
+            },
+            {
+                "name": "Liberal Party",
+                "agreement": 53.33,
+                "cleanName": "liberal_party",
+                "state": "",
+                "party": "Liberal Party",
+                "shortName": "LIB"
+            },
+            {
+                "name": "National Party",
+                "agreement": 52.25,
+                "cleanName": "national_party",
+                "state": "",
+                "party": "National Party",
+                "shortName": "NAT"
+            }
+        ],
+        "cleanKeyName": "john_madigan_-_democratic_labor_party"
+    },
+    "jacqui_lambie_-_palmer_united_party": {
+        "keyName": "Jacqui Lambie - Palmer United Party",
+        "voteData": [
+            {
+                "cleanName": "bob_day_-_family_first_party",
+                "agreement": 51.88,
+                "name": "Bob Day - Family First Party"
+            },
+            {
+                "cleanName": "david_leyonhjelm_-_liberal_democratic_party",
+                "agreement": 47.06,
+                "name": "David Leyonhjelm - Liberal Democratic Party"
+            },
+            {
+                "cleanName": "dio_wang_-_palmer_united_party",
+                "agreement": 92.81,
+                "name": "Dio Wang - Palmer United Party"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_palmer_united_party",
+                "agreement": 92.9,
+                "name": "Glenn Lazarus - Palmer United Party"
+            },
+            {
+                "cleanName": "john_madigan_-_democratic_labor_party",
+                "agreement": 73.33,
+                "name": "John Madigan - Democratic Labor Party"
+            },
+            {
+                "cleanName": "nick_xenophon_-_independent",
+                "agreement": 65.05,
+                "name": "Nick Xenophon - Independent"
+            },
+            {
+                "cleanName": "ricky_muir_-_australian_motoring_enthusiast_party",
+                "agreement": 98.1,
+                "name": "Ricky Muir - Australian Motoring Enthusiast Party"
+            },
+            {
+                "name": "Australian Greens",
+                "agreement": 44.64,
+                "cleanName": "australian_greens",
+                "state": "",
+                "party": "Australian Greens",
+                "shortName": "Greens"
+            },
+            {
+                "name": "Australian Labor Party",
+                "agreement": 56.51,
+                "cleanName": "australian_labor_party",
+                "state": "",
+                "party": "Australian Labor Party",
+                "shortName": "ALP"
+            },
+            {
+                "name": "Country Liberal Party",
+                "agreement": 51.0,
+                "cleanName": "country_liberal_party",
+                "state": "",
+                "party": "Country Liberal Party",
+                "shortName": "CLP"
+            },
+            {
+                "name": "Liberal Party",
+                "agreement": 54.23,
+                "cleanName": "liberal_party",
+                "state": "",
+                "party": "Liberal Party",
+                "shortName": "LIB"
+            },
+            {
+                "name": "National Party",
+                "agreement": 54.59,
+                "cleanName": "national_party",
+                "state": "",
+                "party": "National Party",
+                "shortName": "NAT"
+            }
+        ],
+        "cleanKeyName": "jacqui_lambie_-_palmer_united_party"
+    },
+    "bob_day_-_family_first_party": {
+        "keyName": "Bob Day - Family First Party",
+        "voteData": [
+            {
+                "cleanName": "david_leyonhjelm_-_liberal_democratic_party",
+                "agreement": 85.44,
+                "name": "David Leyonhjelm - Liberal Democratic Party"
+            },
+            {
+                "cleanName": "dio_wang_-_palmer_united_party",
+                "agreement": 69.58,
+                "name": "Dio Wang - Palmer United Party"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_independent",
+                "agreement": 47.18,
+                "name": "Glenn Lazarus - Independent"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_palmer_united_party",
+                "agreement": 58.64,
+                "name": "Glenn Lazarus - Palmer United Party"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_independent",
+                "agreement": 34.56,
+                "name": "Jacqui Lambie - Independent"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_palmer_united_party",
+                "agreement": 51.88,
+                "name": "Jacqui Lambie - Palmer United Party"
+            },
+            {
+                "cleanName": "john_madigan_-_democratic_labor_party",
+                "agreement": 56.25,
+                "name": "John Madigan - Democratic Labor Party"
+            },
+            {
+                "cleanName": "john_madigan_-_independent",
+                "agreement": 71.16,
+                "name": "John Madigan - Independent"
+            },
+            {
+                "cleanName": "nick_xenophon_-_independent",
+                "agreement": 46.8,
+                "name": "Nick Xenophon - Independent"
+            },
+            {
+                "cleanName": "ricky_muir_-_australian_motoring_enthusiast_party",
+                "agreement": 66.01,
+                "name": "Ricky Muir - Australian Motoring Enthusiast Party"
+            },
+            {
+                "name": "Australian Greens",
+                "agreement": 10.8,
+                "cleanName": "australian_greens",
+                "state": "",
+                "party": "Australian Greens",
+                "shortName": "Greens"
+            },
+            {
+                "name": "Australian Labor Party",
+                "agreement": 34.71,
+                "cleanName": "australian_labor_party",
+                "state": "",
+                "party": "Australian Labor Party",
+                "shortName": "ALP"
+            },
+            {
+                "name": "Country Liberal Party",
+                "agreement": 87.24,
+                "cleanName": "country_liberal_party",
+                "state": "",
+                "party": "Country Liberal Party",
+                "shortName": "CLP"
+            },
+            {
+                "name": "Liberal Party",
+                "agreement": 86.25,
+                "cleanName": "liberal_party",
+                "state": "",
+                "party": "Liberal Party",
+                "shortName": "LIB"
+            },
+            {
+                "name": "National Party",
+                "agreement": 85.78,
+                "cleanName": "national_party",
+                "state": "",
+                "party": "National Party",
+                "shortName": "NAT"
+            }
+        ],
+        "cleanKeyName": "bob_day_-_family_first_party"
+    },
+    "ricky_muir_-_australian_motoring_enthusiast_party": {
+        "keyName": "Ricky Muir - Australian Motoring Enthusiast Party",
+        "voteData": [
+            {
+                "cleanName": "bob_day_-_family_first_party",
+                "agreement": 66.01,
+                "name": "Bob Day - Family First Party"
+            },
+            {
+                "cleanName": "david_leyonhjelm_-_liberal_democratic_party",
+                "agreement": 64.29,
+                "name": "David Leyonhjelm - Liberal Democratic Party"
+            },
+            {
+                "cleanName": "dio_wang_-_palmer_united_party",
+                "agreement": 83.64,
+                "name": "Dio Wang - Palmer United Party"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_independent",
+                "agreement": 70.74,
+                "name": "Glenn Lazarus - Independent"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_palmer_united_party",
+                "agreement": 90.74,
+                "name": "Glenn Lazarus - Palmer United Party"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_independent",
+                "agreement": 63.52,
+                "name": "Jacqui Lambie - Independent"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_palmer_united_party",
+                "agreement": 98.1,
+                "name": "Jacqui Lambie - Palmer United Party"
+            },
+            {
+                "cleanName": "john_madigan_-_democratic_labor_party",
+                "agreement": 75.61,
+                "name": "John Madigan - Democratic Labor Party"
+            },
+            {
+                "cleanName": "john_madigan_-_independent",
+                "agreement": 80.4,
+                "name": "John Madigan - Independent"
+            },
+            {
+                "cleanName": "nick_xenophon_-_independent",
+                "agreement": 71.21,
+                "name": "Nick Xenophon - Independent"
+            },
+            {
+                "name": "Australian Greens",
+                "agreement": 40.93,
+                "cleanName": "australian_greens",
+                "state": "",
+                "party": "Australian Greens",
+                "shortName": "Greens"
+            },
+            {
+                "name": "Australian Labor Party",
+                "agreement": 54.43,
+                "cleanName": "australian_labor_party",
+                "state": "",
+                "party": "Australian Labor Party",
+                "shortName": "ALP"
+            },
+            {
+                "name": "Country Liberal Party",
+                "agreement": 53.88,
+                "cleanName": "country_liberal_party",
+                "state": "",
+                "party": "Country Liberal Party",
+                "shortName": "CLP"
+            },
+            {
+                "name": "Liberal Party",
+                "agreement": 54.01,
+                "cleanName": "liberal_party",
+                "state": "",
+                "party": "Liberal Party",
+                "shortName": "LIB"
+            },
+            {
+                "name": "National Party",
+                "agreement": 54.8,
+                "cleanName": "national_party",
+                "state": "",
+                "party": "National Party",
+                "shortName": "NAT"
+            }
+        ],
+        "cleanKeyName": "ricky_muir_-_australian_motoring_enthusiast_party"
+    },
+    "dio_wang_-_palmer_united_party": {
+        "keyName": "Dio Wang - Palmer United Party",
+        "voteData": [
+            {
+                "cleanName": "bob_day_-_family_first_party",
+                "agreement": 69.58,
+                "name": "Bob Day - Family First Party"
+            },
+            {
+                "cleanName": "david_leyonhjelm_-_liberal_democratic_party",
+                "agreement": 65.98,
+                "name": "David Leyonhjelm - Liberal Democratic Party"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_independent",
+                "agreement": 64.35,
+                "name": "Glenn Lazarus - Independent"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_palmer_united_party",
+                "agreement": 100.0,
+                "name": "Glenn Lazarus - Palmer United Party"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_independent",
+                "agreement": 56.28,
+                "name": "Jacqui Lambie - Independent"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_palmer_united_party",
+                "agreement": 92.81,
+                "name": "Jacqui Lambie - Palmer United Party"
+            },
+            {
+                "cleanName": "john_madigan_-_democratic_labor_party",
+                "agreement": 63.25,
+                "name": "John Madigan - Democratic Labor Party"
+            },
+            {
+                "cleanName": "john_madigan_-_independent",
+                "agreement": 72.87,
+                "name": "John Madigan - Independent"
+            },
+            {
+                "cleanName": "nick_xenophon_-_independent",
+                "agreement": 62.04,
+                "name": "Nick Xenophon - Independent"
+            },
+            {
+                "cleanName": "ricky_muir_-_australian_motoring_enthusiast_party",
+                "agreement": 83.64,
+                "name": "Ricky Muir - Australian Motoring Enthusiast Party"
+            },
+            {
+                "name": "Australian Greens",
+                "agreement": 32.8,
+                "cleanName": "australian_greens",
+                "state": "",
+                "party": "Australian Greens",
+                "shortName": "Greens"
+            },
+            {
+                "name": "Australian Labor Party",
+                "agreement": 53.63,
+                "cleanName": "australian_labor_party",
+                "state": "",
+                "party": "Australian Labor Party",
+                "shortName": "ALP"
+            },
+            {
+                "name": "Country Liberal Party",
+                "agreement": 57.14,
+                "cleanName": "country_liberal_party",
+                "state": "",
+                "party": "Country Liberal Party",
+                "shortName": "CLP"
+            },
+            {
+                "name": "Liberal Party",
+                "agreement": 58.9,
+                "cleanName": "liberal_party",
+                "state": "",
+                "party": "Liberal Party",
+                "shortName": "LIB"
+            },
+            {
+                "name": "National Party",
+                "agreement": 58.75,
+                "cleanName": "national_party",
+                "state": "",
+                "party": "National Party",
+                "shortName": "NAT"
+            }
+        ],
+        "cleanKeyName": "dio_wang_-_palmer_united_party"
+    },
+    "david_leyonhjelm_-_liberal_democratic_party": {
+        "keyName": "David Leyonhjelm - Liberal Democratic Party",
+        "voteData": [
+            {
+                "cleanName": "bob_day_-_family_first_party",
+                "agreement": 85.44,
+                "name": "Bob Day - Family First Party"
+            },
+            {
+                "cleanName": "dio_wang_-_palmer_united_party",
+                "agreement": 65.98,
+                "name": "Dio Wang - Palmer United Party"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_independent",
+                "agreement": 53.65,
+                "name": "Glenn Lazarus - Independent"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_palmer_united_party",
+                "agreement": 51.42,
+                "name": "Glenn Lazarus - Palmer United Party"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_independent",
+                "agreement": 48.18,
+                "name": "Jacqui Lambie - Independent"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_palmer_united_party",
+                "agreement": 47.06,
+                "name": "Jacqui Lambie - Palmer United Party"
+            },
+            {
+                "cleanName": "john_madigan_-_democratic_labor_party",
+                "agreement": 47.97,
+                "name": "John Madigan - Democratic Labor Party"
+            },
+            {
+                "cleanName": "john_madigan_-_independent",
+                "agreement": 70.76,
+                "name": "John Madigan - Independent"
+            },
+            {
+                "cleanName": "nick_xenophon_-_independent",
+                "agreement": 54.88,
+                "name": "Nick Xenophon - Independent"
+            },
+            {
+                "cleanName": "ricky_muir_-_australian_motoring_enthusiast_party",
+                "agreement": 64.29,
+                "name": "Ricky Muir - Australian Motoring Enthusiast Party"
+            },
+            {
+                "name": "Australian Greens",
+                "agreement": 24.22,
+                "cleanName": "australian_greens",
+                "state": "",
+                "party": "Australian Greens",
+                "shortName": "Greens"
+            },
+            {
+                "name": "Australian Labor Party",
+                "agreement": 36.77,
+                "cleanName": "australian_labor_party",
+                "state": "",
+                "party": "Australian Labor Party",
+                "shortName": "ALP"
+            },
+            {
+                "name": "Country Liberal Party",
+                "agreement": 73.93,
+                "cleanName": "country_liberal_party",
+                "state": "",
+                "party": "Country Liberal Party",
+                "shortName": "CLP"
+            },
+            {
+                "name": "Liberal Party",
+                "agreement": 70.9,
+                "cleanName": "liberal_party",
+                "state": "",
+                "party": "Liberal Party",
+                "shortName": "LIB"
+            },
+            {
+                "name": "National Party",
+                "agreement": 69.53,
+                "cleanName": "national_party",
+                "state": "",
+                "party": "National Party",
+                "shortName": "NAT"
+            }
+        ],
+        "cleanKeyName": "david_leyonhjelm_-_liberal_democratic_party"
+    },
+    "john_madigan_-_independent": {
+        "keyName": "John Madigan - Independent",
+        "voteData": [
+            {
+                "cleanName": "bob_day_-_family_first_party",
+                "agreement": 71.16,
+                "name": "Bob Day - Family First Party"
+            },
+            {
+                "cleanName": "david_leyonhjelm_-_liberal_democratic_party",
+                "agreement": 70.76,
+                "name": "David Leyonhjelm - Liberal Democratic Party"
+            },
+            {
+                "cleanName": "dio_wang_-_palmer_united_party",
+                "agreement": 72.87,
+                "name": "Dio Wang - Palmer United Party"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_independent",
+                "agreement": 62.14,
+                "name": "Glenn Lazarus - Independent"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_palmer_united_party",
+                "agreement": 64.44,
+                "name": "Glenn Lazarus - Palmer United Party"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_independent",
+                "agreement": 63.68,
+                "name": "Jacqui Lambie - Independent"
+            },
+            {
+                "cleanName": "nick_xenophon_-_independent",
+                "agreement": 70.26,
+                "name": "Nick Xenophon - Independent"
+            },
+            {
+                "cleanName": "ricky_muir_-_australian_motoring_enthusiast_party",
+                "agreement": 80.4,
+                "name": "Ricky Muir - Australian Motoring Enthusiast Party"
+            },
+            {
+                "name": "Australian Greens",
+                "agreement": 41.82,
+                "cleanName": "australian_greens",
+                "state": "",
+                "party": "Australian Greens",
+                "shortName": "Greens"
+            },
+            {
+                "name": "Australian Labor Party",
+                "agreement": 51.05,
+                "cleanName": "australian_labor_party",
+                "state": "",
+                "party": "Australian Labor Party",
+                "shortName": "ALP"
+            },
+            {
+                "name": "Country Liberal Party",
+                "agreement": 52.21,
+                "cleanName": "country_liberal_party",
+                "state": "",
+                "party": "Country Liberal Party",
+                "shortName": "CLP"
+            },
+            {
+                "name": "Liberal Party",
+                "agreement": 51.65,
+                "cleanName": "liberal_party",
+                "state": "",
+                "party": "Liberal Party",
+                "shortName": "LIB"
+            },
+            {
+                "name": "National Party",
+                "agreement": 52.23,
+                "cleanName": "national_party",
+                "state": "",
+                "party": "National Party",
+                "shortName": "NAT"
+            }
+        ],
+        "cleanKeyName": "john_madigan_-_independent"
+    },
+    "glenn_lazarus_-_independent": {
+        "keyName": "Glenn Lazarus - Independent",
+        "voteData": [
+            {
+                "cleanName": "bob_day_-_family_first_party",
+                "agreement": 47.18,
+                "name": "Bob Day - Family First Party"
+            },
+            {
+                "cleanName": "david_leyonhjelm_-_liberal_democratic_party",
+                "agreement": 53.65,
+                "name": "David Leyonhjelm - Liberal Democratic Party"
+            },
+            {
+                "cleanName": "dio_wang_-_palmer_united_party",
+                "agreement": 64.35,
+                "name": "Dio Wang - Palmer United Party"
+            },
+            {
+                "cleanName": "jacqui_lambie_-_independent",
+                "agreement": 78.0,
+                "name": "Jacqui Lambie - Independent"
+            },
+            {
+                "cleanName": "john_madigan_-_independent",
+                "agreement": 62.14,
+                "name": "John Madigan - Independent"
+            },
+            {
+                "cleanName": "nick_xenophon_-_independent",
+                "agreement": 74.16,
+                "name": "Nick Xenophon - Independent"
+            },
+            {
+                "cleanName": "ricky_muir_-_australian_motoring_enthusiast_party",
+                "agreement": 70.74,
+                "name": "Ricky Muir - Australian Motoring Enthusiast Party"
+            },
+            {
+                "name": "Australian Greens",
+                "agreement": 61.26,
+                "cleanName": "australian_greens",
+                "state": "",
+                "party": "Australian Greens",
+                "shortName": "Greens"
+            },
+            {
+                "name": "Australian Labor Party",
+                "agreement": 68.13,
+                "cleanName": "australian_labor_party",
+                "state": "",
+                "party": "Australian Labor Party",
+                "shortName": "ALP"
+            },
+            {
+                "name": "Country Liberal Party",
+                "agreement": 23.39,
+                "cleanName": "country_liberal_party",
+                "state": "",
+                "party": "Country Liberal Party",
+                "shortName": "CLP"
+            },
+            {
+                "name": "Liberal Party",
+                "agreement": 25.35,
+                "cleanName": "liberal_party",
+                "state": "",
+                "party": "Liberal Party",
+                "shortName": "LIB"
+            },
+            {
+                "name": "National Party",
+                "agreement": 24.45,
+                "cleanName": "national_party",
+                "state": "",
+                "party": "National Party",
+                "shortName": "NAT"
+            }
+        ],
+        "cleanKeyName": "glenn_lazarus_-_independent"
+    },
+    "jacqui_lambie_-_independent": {
+        "keyName": "Jacqui Lambie - Independent",
+        "voteData": [
+            {
+                "cleanName": "bob_day_-_family_first_party",
+                "agreement": 34.56,
+                "name": "Bob Day - Family First Party"
+            },
+            {
+                "cleanName": "david_leyonhjelm_-_liberal_democratic_party",
+                "agreement": 48.18,
+                "name": "David Leyonhjelm - Liberal Democratic Party"
+            },
+            {
+                "cleanName": "dio_wang_-_palmer_united_party",
+                "agreement": 56.28,
+                "name": "Dio Wang - Palmer United Party"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_independent",
+                "agreement": 78.0,
+                "name": "Glenn Lazarus - Independent"
+            },
+            {
+                "cleanName": "glenn_lazarus_-_palmer_united_party",
+                "agreement": 48.15,
+                "name": "Glenn Lazarus - Palmer United Party"
+            },
+            {
+                "cleanName": "john_madigan_-_independent",
+                "agreement": 63.68,
+                "name": "John Madigan - Independent"
+            },
+            {
+                "cleanName": "nick_xenophon_-_independent",
+                "agreement": 65.52,
+                "name": "Nick Xenophon - Independent"
+            },
+            {
+                "cleanName": "ricky_muir_-_australian_motoring_enthusiast_party",
+                "agreement": 63.52,
+                "name": "Ricky Muir - Australian Motoring Enthusiast Party"
+            },
+            {
+                "name": "Australian Greens",
+                "agreement": 69.32,
+                "cleanName": "australian_greens",
+                "state": "",
+                "party": "Australian Greens",
+                "shortName": "Greens"
+            },
+            {
+                "name": "Australian Labor Party",
+                "agreement": 73.46,
+                "cleanName": "australian_labor_party",
+                "state": "",
+                "party": "Australian Labor Party",
+                "shortName": "ALP"
+            },
+            {
+                "name": "Country Liberal Party",
+                "agreement": 16.67,
+                "cleanName": "country_liberal_party",
+                "state": "",
+                "party": "Country Liberal Party",
+                "shortName": "CLP"
+            },
+            {
+                "name": "Liberal Party",
+                "agreement": 16.93,
+                "cleanName": "liberal_party",
+                "state": "",
+                "party": "Liberal Party",
+                "shortName": "LIB"
+            },
+            {
+                "name": "National Party",
+                "agreement": 19.9,
+                "cleanName": "national_party",
+                "state": "",
+                "party": "National Party",
+                "shortName": "NAT"
+            }
+        ],
+        "cleanKeyName": "jacqui_lambie_-_independent"
+    }
+}

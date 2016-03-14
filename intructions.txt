@@ -1,0 +1,8 @@
+Agreement regardless of party
+
+-run divisions.py to get check for new divisions, the IDs are stored in divisiondata.json
+-then run getdivisions.py to get the json file for each division and save it
+-run divisioncounter.py to calculate agreement for all divisions among current politicians
+-run jsonparse.py to merge the parties into mean agreement per crossbencher
+
+
